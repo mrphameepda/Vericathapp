@@ -1,0 +1,73 @@
+{
+    "headings":  [
+
+                 ],
+    "verses":  [
+                   {
+                       "label":  "1",
+                       "number":  1,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Psalm 120 Prayer of a Returned Exile - A song of ascents. The LORD answered me when I called in my distress:",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "2",
+                       "number":  2,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "LORD, deliver my soul from lying lips, from a treacherous tongue.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "3",
+                       "number":  3,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "What will he inflict on you, O treacherous tongue, and what more besides?",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "4",
+                       "number":  4,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "A warrior’s arrows sharpened with coals of brush wood!",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "5",
+                       "number":  5,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Alas, I am a foreigner in Meshech, I live among the tents of Kedar!",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "6",
+                       "number":  6,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Too long do I live among those who hate peace.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "7",
+                       "number":  7,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "When I speak of peace, they are for war.",
+                       "isPoetry":  false
+                   }
+               ],
+    "marks":  [
+
+              ]
+}

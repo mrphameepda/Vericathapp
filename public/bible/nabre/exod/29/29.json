@@ -1,0 +1,424 @@
+{
+    "headings":  [
+
+                 ],
+    "verses":  [
+                   {
+                       "label":  "1",
+                       "number":  1,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Chapter 29 - Consecration of the Priests. This is the rite you shall perform in consecrating them as my priests. Procure a young bull and two unblemished rams.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "2",
+                       "number":  2,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "With bran flour make unleavened cakes mixed with oil, and unleavened wafers spread with oil,",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "3",
+                       "number":  3,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "and put them in a basket. Take the basket of them along with the bull and the two rams.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "4",
+                       "number":  4,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Aaron and his sons you shall also bring to the entrance of the tent of meeting, and there wash them with water.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "5",
+                       "number":  5,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Take the vestments and clothe Aaron with the tunic, the robe of the ephod, the ephod itself, and the breastpiece, fastening the embroidered belt of the ephod around him.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "6",
+                       "number":  6,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Put the turban on his head, the sacred diadem on the turban.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "7",
+                       "number":  7,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Then take the anointing oil and pour it on his head, and anoint him.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "8",
+                       "number":  8,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Bring forward his sons also and clothe them with the tunics,",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "9",
+                       "number":  9,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "gird them with the sashes, and tie the skullcaps on them. Thus shall the priesthood be theirs by a perpetual statute, and thus shall you install Aaron and his sons.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "10",
+                       "number":  10,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Installation Sacrifices. Now bring forward the bull in front of the tent of meeting. There Aaron and his sons shall lay their hands on its head.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "11",
+                       "number":  11,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Then slaughter the bull before the LORD, at the entrance of the tent of meeting.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "12",
+                       "number":  12,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Take some of its blood and with your finger put it on the horns of the altar. All the rest of the blood you shall pour out at the base of the altar.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "13",
+                       "number":  13,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "All the fat that covers its inner organs, as well as the lobe of its liver and its two kidneys, together with the fat that is on them, you shall take and burn on the altar.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "14",
+                       "number":  14,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "But the meat and hide and dung of the bull you must burn up outside the camp, since this is a purification offering.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "15",
+                       "number":  15,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Then take one of the rams, and after Aaron and his sons have laid their hands on its head,",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "16",
+                       "number":  16,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "slaughter it. The blood you shall take and splash on all the sides of the altar.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "17",
+                       "number":  17,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Cut the ram into pieces; you shall wash its inner organs and shanks and put them with the pieces and with the head.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "18",
+                       "number":  18,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Then you shall burn the entire ram on the altar, since it is a burnt offering, a sweet-smelling oblation to the LORD.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "19",
+                       "number":  19,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "After this take the other ram, and when Aaron and his sons have laid their hands on its head,",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "20",
+                       "number":  20,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "slaughter it. Some of its blood you shall take and put on the tip of Aaron’s right ear and on the tips of his sons’ right ears and on the thumbs of their right hands and the great toes of their right feet. Splash the rest of the blood on all the sides of the altar.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "21",
+                       "number":  21,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Then take some of the blood that is on the altar, together with some of the anointing oil, and sprinkle this on Aaron and his vestments, as well as on his sons and their vestments, that he and his sons and their vestments may be sacred.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "22",
+                       "number":  22,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Now, from this ram you shall take its fat: its fatty tail, the fat that covers its inner organs, the lobe of its liver, its two kidneys with the fat that is on them, and its right thigh, since this is the ram for installation;",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "23",
+                       "number":  23,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "then, out of the basket of unleavened food that you have set before the LORD, you shall take one of the loaves of bread, one of the cakes made with oil, and one of the wafers.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "24",
+                       "number":  24,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "All these things you shall put into the hands of Aaron and his sons, so that they may raise them as an elevated offering before the LORD.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "25",
+                       "number":  25,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "After you receive them back from their hands, you shall burn them on top of the burnt offering on the altar as a sweet-smelling oblation to the LORD.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "26",
+                       "number":  26,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Finally, take the brisket of Aaron’s installation ram and raise it as an elevated offering before the LORD; this is to be your own portion.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "27",
+                       "number":  27,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Thus shall you set aside the brisket of whatever elevated offering is raised, as well as the thigh of whatever contribution is raised up, whether this be the installation ram or anything else belonging to Aaron or to his sons.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "28",
+                       "number":  28,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Such things are due to Aaron and his sons from the Israelites by a perpetual statute as a contribution. From their communion offerings, too, the Israelites shall make a contribution, their contribution to the LORD.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "29",
+                       "number":  29,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "The sacred vestments of Aaron shall be passed down to his sons after him, that in them they may be anointed and installed.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "30",
+                       "number":  30,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "The son who succeeds him as priest and who is to enter the tent of meeting to minister in the sanctuary shall be clothed with them for seven days.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "31",
+                       "number":  31,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "You shall take the installation ram and boil its meat in a holy place.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "32",
+                       "number":  32,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "At the entrance of the tent of meeting Aaron and his sons shall eat the meat of the ram and the bread that is in the basket.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "33",
+                       "number":  33,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "They themselves are to eat of these things by which atonement was made at their installation and consecration; but no unauthorized person may eat of them, since they are sacred.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "34",
+                       "number":  34,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "If some of the meat of the installation sacrifice or some of the bread remains over on the next day, this remnant you must burn up; it is not to be eaten, since it is sacred.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "35",
+                       "number":  35,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Carry out all these commands in regard to Aaron and his sons just as I have given them to you. Seven days you shall spend installing them,",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "36",
+                       "number":  36,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "sacrificing a bull each day as a purification offering, to make atonement. Thus you shall purify the altar by purging it, and you shall anoint it in order to consecrate it.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "37",
+                       "number":  37,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Seven days you shall spend in purging the altar and in consecrating it. Then the altar will be most sacred, and whatever touches it will become sacred.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "38",
+                       "number":  38,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Now, this is what you shall regularly offer on the altar: two yearling lambs as the sacrifice established for each day;",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "39",
+                       "number":  39,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "one lamb in the morning and the other lamb at the evening twilight.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "40",
+                       "number":  40,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "With the first lamb there shall be a tenth of an ephah of bran flour mixed with a fourth of a hin of oil of crushed olives and, as its libation, a fourth of a hin of wine.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "41",
+                       "number":  41,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "The other lamb you shall offer at the evening twilight, with the same grain offering and libation as in the morning. You shall offer this as a sweet-smelling oblation to the LORD.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "42",
+                       "number":  42,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Throughout your generations this regular burnt offering shall be made before the LORD at the entrance of the tent of meeting, where I will meet you and speak to you.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "43",
+                       "number":  43,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "There, at the altar, I will meet the Israelites; hence, it will be made sacred by my glory.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "44",
+                       "number":  44,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Thus I will consecrate the tent of meeting and the altar, just as I also consecrate Aaron and his sons to be my priests.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "45",
+                       "number":  45,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "I will dwell in the midst of the Israelites and will be their God.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "46",
+                       "number":  46,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "They shall know that I, the LORD, am their God who brought them out of the land of Egypt, so that I, the LORD, their God, might dwell among them.",
+                       "isPoetry":  false
+                   }
+               ],
+    "marks":  [
+
+              ]
+}

@@ -1,0 +1,235 @@
+{
+    "headings":  [
+
+                 ],
+    "verses":  [
+                   {
+                       "label":  "1",
+                       "number":  1,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Chapter 2 - The Wedding at Cana. On the third day there was a wedding in Cana in Galilee, and the mother of Jesus was there.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "2",
+                       "number":  2,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Jesus and his disciples were also invited to the wedding.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "3",
+                       "number":  3,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "When the wine ran short, the mother of Jesus said to him, “They have no wine.”",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "4",
+                       "number":  4,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "[And] Jesus said to her, “Woman, how does your concern affect me? My hour has not yet come.”",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "5",
+                       "number":  5,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "His mother said to the servers, “Do whatever he tells you.”",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "6",
+                       "number":  6,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Now there were six stone water jars there for Jewish ceremonial washings, each holding twenty to thirty gallons.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "7",
+                       "number":  7,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Jesus told them, “Fill the jars with water.” So they filled them to the brim.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "8",
+                       "number":  8,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Then he told them, “Draw some out now and take it to the headwaiter.” So they took it.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "9",
+                       "number":  9,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "And when the headwaiter tasted the water that had become wine, without knowing where it came from (although the servers who had drawn the water knew), the headwaiter called the bridegroom",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "10",
+                       "number":  10,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "and said to him, “Everyone serves good wine first, and then when people have drunk freely, an inferior one; but you have kept the good wine until now.”",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "11",
+                       "number":  11,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Jesus did this as the beginning of his signs in Cana in Galilee and so revealed his glory, and his disciples began to believe in him.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "12",
+                       "number":  12,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "After this, he and his mother, [his] brothers, and his disciples went down to Capernaum and stayed there only a few days.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "13",
+                       "number":  13,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Cleansing of the Temple. Since the Passover of the Jews was near, Jesus went up to Jerusalem.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "14",
+                       "number":  14,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "He found in the temple area those who sold oxen, sheep, and doves, as well as the money-changers seated there.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "15",
+                       "number":  15,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "He made a whip out of cords and drove them all out of the temple area, with the sheep and oxen, and spilled the coins of the money-changers and overturned their tables,",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "16",
+                       "number":  16,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "and to those who sold doves he said, “Take these out of here, and stop making my Father’s house a marketplace.”",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "17",
+                       "number":  17,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "His disciples recalled the words of scripture, “Zeal for your house will consume me.”",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "18",
+                       "number":  18,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "At this the Jews answered and said to him, “What sign can you show us for doing this?”",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "19",
+                       "number":  19,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Jesus answered and said to them, “Destroy this temple and in three days I will raise it up.”",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "20",
+                       "number":  20,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "The Jews said, “This temple has been under construction for forty-six years, and you will raise it up in three days?”",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "21",
+                       "number":  21,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "But he was speaking about the temple of his body.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "22",
+                       "number":  22,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Therefore, when he was raised from the dead, his disciples remembered that he had said this, and they came to believe the scripture and the word Jesus had spoken.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "23",
+                       "number":  23,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "While he was in Jerusalem for the feast of Passover, many began to believe in his name when they saw the signs he was doing.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "24",
+                       "number":  24,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "But Jesus would not trust himself to them because he knew them all,",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "25",
+                       "number":  25,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "and did not need anyone to testify about human nature. He himself understood it well.",
+                       "isPoetry":  false
+                   }
+               ],
+    "marks":  [
+
+              ]
+}

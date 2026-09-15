@@ -1,0 +1,424 @@
+{
+    "headings":  [
+
+                 ],
+    "verses":  [
+                   {
+                       "label":  "1",
+                       "number":  1,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Chapter 18 - Elijah Ends the Drought. Long afterward, in the third year, the word of the LORD came to Elijah: Go, present yourself to Ahab, that I may send rain upon the earth.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "2",
+                       "number":  2,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "So Elijah went to present himself to Ahab. Now the famine in Samaria was severe,",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "3",
+                       "number":  3,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "and Ahab had summoned Obadiah, master of his palace, who greatly revered the LORD.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "4",
+                       "number":  4,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "When Jezebel was slaughtering the prophets of the LORD, Obadiah took a hundred prophets, hid them away by fifties in caves, and supplied them with food and water.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "5",
+                       "number":  5,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Ahab said to Obadiah, “Go through the land to all sources of water and to all the wadies. We may find grass and keep the horses and mules alive, so that we shall not have to slaughter any of the beasts.”",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "6",
+                       "number":  6,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Dividing the land to explore between them, Ahab went one way by himself, Obadiah another way by himself.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "7",
+                       "number":  7,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "As Obadiah was on his way, Elijah met him. Recognizing him, Obadiah fell prostrate and asked, “Is it you, my lord Elijah?”",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "8",
+                       "number":  8,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "He said to him, “Yes. Go tell your lord, ‘Elijah is here!’”",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "9",
+                       "number":  9,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "But Obadiah said, “What sin has your servant committed, that you are handing me over to Ahab to be killed?",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "10",
+                       "number":  10,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "As the LORD, your God, lives, there is no nation or kingdom where my lord has not sent in search of you. When they replied, ‘He is not here,’ he made each kingdom and nation swear they could not find you.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "11",
+                       "number":  11,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "And now you say, ‘Go tell your lord: Elijah is here!’",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "12",
+                       "number":  12,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "After I leave you, the spirit of the LORD will carry you to some place I do not know, and when I go to inform Ahab and he does not find you, he will kill me—though your servant has revered the LORD from his youth!",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "13",
+                       "number":  13,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Have you not been told, my lord, what I did when Jezebel was murdering the prophets of the LORD—that I hid a hundred of the prophets of the LORD, fifty each in caves, and supplied them with food and water?",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "14",
+                       "number":  14,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "And now you say, ‘Go tell your lord: Elijah is here!’ He will kill me!”",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "15",
+                       "number":  15,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Elijah answered, “As the LORD of hosts lives, whom I serve, I will present myself to him today.”",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "16",
+                       "number":  16,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "So Obadiah went to meet Ahab and informed him, and Ahab came to meet Elijah.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "17",
+                       "number":  17,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "When Ahab saw Elijah, he said to him, “Is it you, you disturber of Israel?”",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "18",
+                       "number":  18,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "He answered, “It is not I who disturb Israel, but you and your father’s house, by forsaking the commands of the LORD and you by following the Baals.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "19",
+                       "number":  19,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Now summon all Israel to me on Mount Carmel, as well as the four hundred and fifty prophets of Baal and the four hundred prophets of Asherah who eat at Jezebel’s table.”",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "20",
+                       "number":  20,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "So Ahab summoned all the Israelites and had the prophets gather on Mount Carmel.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "21",
+                       "number":  21,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Elijah approached all the people and said, “How long will you straddle the issue? If the LORD is God, follow him; if Baal, follow him.” But the people did not answer him.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "22",
+                       "number":  22,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "So Elijah said to the people, “I am the only remaining prophet of the LORD, and there are four hundred and fifty prophets of Baal.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "23",
+                       "number":  23,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Give us two young bulls. Let them choose one, cut it into pieces, and place it on the wood, but start no fire. I shall prepare the other and place it on the wood, but shall start no fire.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "24",
+                       "number":  24,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "You shall call upon the name of your gods, and I will call upon the name of the LORD. The God who answers with fire is God.” All the people answered, “We agree!”",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "25",
+                       "number":  25,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Elijah then said to the prophets of Baal, “Choose one young bull and prepare it first, for there are more of you. Call upon your gods, but do not start the fire.”",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "26",
+                       "number":  26,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Taking the young bull that was turned over to them, they prepared it and called upon Baal from morning to noon, saying, “Baal, answer us!” But there was no sound, and no one answering. And they hopped around the altar they had prepared.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "27",
+                       "number":  27,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "When it was noon, Elijah taunted them: “Call louder, for he is a god; he may be busy doing his business, or may be on a journey. Perhaps he is asleep and must be awakened.”",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "28",
+                       "number":  28,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "They called out louder and slashed themselves with swords and spears according to their ritual until blood gushed over them.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "29",
+                       "number":  29,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Noon passed and they remained in a prophetic state until the time for offering sacrifice. But there was no sound, no one answering, no one listening.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "30",
+                       "number":  30,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Then Elijah said to all the people, “Come here to me.” When they drew near to him, he repaired the altar of the LORD which had been destroyed.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "31",
+                       "number":  31,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "He took twelve stones, for the number of tribes of the sons of Jacob, to whom the LORD had said: Israel shall be your name.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "32",
+                       "number":  32,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "He built the stones into an altar to the name of the LORD, and made a trench around the altar large enough for two measures of grain.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "33",
+                       "number":  33,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "When he had arranged the wood, he cut up the young bull and laid it on the wood.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "34",
+                       "number":  34,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "He said, “Fill four jars with water and pour it over the burnt offering and over the wood.” “Do it again,” he said, and they did it again. “Do it a third time,” he said, and they did it a third time.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "35",
+                       "number":  35,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "The water flowed around the altar; even the trench was filled with the water.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "36",
+                       "number":  36,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "At the time for offering sacrifice, Elijah the prophet came forward and said, “LORD, God of Abraham, Isaac, and Israel, let it be known this day that you are God in Israel and that I am your servant and have done all these things at your command.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "37",
+                       "number":  37,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Answer me, LORD! Answer me, that this people may know that you, LORD, are God and that you have turned their hearts back to you.”",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "38",
+                       "number":  38,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "The LORD’s fire came down and devoured the burnt offering, wood, stones, and dust, and lapped up the water in the trench.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "39",
+                       "number":  39,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Seeing this, all the people fell prostrate and said, “The LORD is God! The LORD is God!”",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "40",
+                       "number":  40,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Then Elijah said to them, “Seize the prophets of Baal. Let none of them escape!” They seized them, and Elijah brought them down to the Wadi Kishon and there he slaughtered them.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "41",
+                       "number":  41,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Elijah then said to Ahab, “Go up, eat and drink, for there is the sound of a heavy rain.”",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "42",
+                       "number":  42,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "So Ahab went up to eat and drink, while Elijah went up to the top of Carmel, crouched down to the earth, and put his head between his knees.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "43",
+                       "number":  43,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "He said to his servant, “Go up and look out to sea.” He went up and looked, but reported, “There is nothing.” Seven times he said, “Go look again!”",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "44",
+                       "number":  44,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "And the seventh time the youth reported, “There is a cloud as small as a man’s hand rising from the sea.” Elijah said, “Go and say to Ahab, ‘Harness up and go down the mountain before the rain stops you.’”",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "45",
+                       "number":  45,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "All at once the sky grew dark with clouds and wind, and a heavy rain fell. Ahab mounted his chariot and headed for Jezreel.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "46",
+                       "number":  46,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "But the hand of the LORD was on Elijah. He girded up his clothing and ran before Ahab as far as the approaches to Jezreel.",
+                       "isPoetry":  false
+                   }
+               ],
+    "marks":  [
+
+              ]
+}

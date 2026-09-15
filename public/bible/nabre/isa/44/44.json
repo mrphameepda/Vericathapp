@@ -1,0 +1,262 @@
+{
+    "headings":  [
+
+                 ],
+    "verses":  [
+                   {
+                       "label":  "1",
+                       "number":  1,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Chapter 44 - Hear then, Jacob, my servant, Israel, whom I have chosen.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "2",
+                       "number":  2,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Thus says the LORD who made you, your help, who formed you from the womb: Do not fear, Jacob, my servant, Jeshurun, whom I have chosen.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "3",
+                       "number":  3,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "I will pour out water upon the thirsty ground, streams upon the dry land; I will pour out my spirit upon your offspring, my blessing upon your descendants.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "4",
+                       "number":  4,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "They shall spring forth amid grass like poplars beside flowing waters.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "5",
+                       "number":  5,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "One shall say, “I am the LORD’s,” another shall be named after Jacob, And this one shall write on his hand, “The LORD’s,” and receive the name Israel.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "6",
+                       "number":  6,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "The True God and False Gods - Thus says the LORD, Israel’s king, its redeemer, the LORD of hosts: I am the first, I am the last; there is no God but me.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "7",
+                       "number":  7,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Who is like me? Let him stand up and declare, make it evident, and confront me with it. Who of old announced future events? Let them foretell to us the things to come.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "8",
+                       "number":  8,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Do not fear or be troubled. Did I not announce it to you long ago? I declared it, and you are my witnesses. Is there any God but me? There is no other Rock, I know of none!",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "9",
+                       "number":  9,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Those who fashion idols are all nothing; their precious works are of no avail. They are their witnesses: they see nothing, know nothing, and so they are put to shame.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "10",
+                       "number":  10,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Who would fashion a god or cast an idol, that is of no use?",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "11",
+                       "number":  11,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Look, all its company will be shamed; they are artisans, mere human beings! They all assemble and stand there, only to cower in shame.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "12",
+                       "number":  12,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "The ironsmith fashions a likeness, he works it over the coals, Shaping it with hammers, working it with his strong arm. With hunger his strength wanes, without water, he grows faint.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "13",
+                       "number":  13,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "The woodworker stretches a line, and marks out a shape with a stylus. He shapes it with scraping tools, with a compass measures it off, Making it the copy of a man, human display, enthroned in a shrine.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "14",
+                       "number":  14,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "He goes out to cut down cedars, takes a holm tree or an oak. He picks out for himself trees of the forest, plants a fir, and the rain makes it grow.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "15",
+                       "number":  15,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "It is used for fuel: with some of the wood he warms himself, makes a fire and bakes bread. Yet he makes a god and worships it, turns it into an idol and adores it!",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "16",
+                       "number":  16,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Half of it he burns in the fire, on its embers he roasts meat; he eats the roast and is full. He warms himself and says, “Ah! I am warm! I see the flames!”",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "17",
+                       "number":  17,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "The rest of it he makes into a god, an image to worship and adore. He prays to it and says, “Help me! You are my god!”",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "18",
+                       "number":  18,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "They do not know, do not understand; their eyes are too clouded to see, their minds, to perceive.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "19",
+                       "number":  19,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "He does not think clearly; he lacks the wit and knowledge to say, “Half the wood I burned in the fire, on its embers I baked bread, I roasted meat and ate. Shall I turn the rest into an abomination? Shall I worship a block of wood?”",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "20",
+                       "number":  20,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "He is chasing ashes! A deluded mind has led him astray; He cannot save himself, does not say, “This thing in my right hand—is it not a fraud?”",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "21",
+                       "number":  21,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Remember these things, Jacob, Israel, for you are my servant! I formed you, a servant to me; Israel, you shall never be forgotten by me:",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "22",
+                       "number":  22,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "I have brushed away your offenses like a cloud, your sins like a mist; return to me, for I have redeemed you.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "23",
+                       "number":  23,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Raise a glad cry, you heavens—the LORD has acted! Shout, you depths of the earth. Break forth, mountains, into song, forest, with all your trees. For the LORD has redeemed Jacob, shows his glory through Israel.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "24",
+                       "number":  24,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Cyrus, Anointed of the Lord, Agent of Israel’s Liberation - Thus says the LORD, your redeemer, who formed you from the womb: I am the LORD, who made all things, who alone stretched out the heavens, I spread out the earth by myself.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "25",
+                       "number":  25,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "I bring to nought the omens of babblers, make fools of diviners, Turn back the wise and make their knowledge foolish.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "26",
+                       "number":  26,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "I confirm the words of my servant, carry out the plan my messengers announce. I say to Jerusalem, Be inhabited! To the cities of Judah, Be rebuilt! I will raise up their ruins.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "27",
+                       "number":  27,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "I say to the deep, Be dry! I will dry up your rivers.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "28",
+                       "number":  28,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "I say of Cyrus, My shepherd! He carries out my every wish, Saying of Jerusalem, “Let it be rebuilt,” and of the temple, “Lay its foundations.”",
+                       "isPoetry":  false
+                   }
+               ],
+    "marks":  [
+
+              ]
+}

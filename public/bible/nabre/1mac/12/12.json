@@ -1,0 +1,487 @@
+{
+    "headings":  [
+
+                 ],
+    "verses":  [
+                   {
+                       "label":  "1",
+                       "number":  1,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Chapter 12 - Alliances with Rome and Sparta. When Jonathan saw that the time was right, he chose men and sent them to Rome to confirm and renew the friendship with the Romans.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "2",
+                       "number":  2,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "He also sent letters to the Spartans and other places to the same effect.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "3",
+                       "number":  3,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "After reaching Rome, the men entered the senate chamber and said, “The high priest Jonathan and the Jewish people have sent us to renew the friendship and alliance of earlier times with them.”",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "4",
+                       "number":  4,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "The Romans gave them letters addressed to authorities in various places, with the request to provide them with safe conduct to the land of Judah.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "5",
+                       "number":  5,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "This is a copy of the letter that Jonathan wrote to the Spartans:",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "6",
+                       "number":  6,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "“Jonathan the high priest, the senate of the nation, the priests, and the rest of the Jewish people send greetings to their brothers the Spartans.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "7",
+                       "number":  7,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Long ago a letter was sent to the high priest Onias from Arius, who then reigned over you, stating that you are our brothers, as the attached copy shows.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "8",
+                       "number":  8,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Onias welcomed the envoy with honor and received the letter, which spoke clearly of alliance and friendship.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "9",
+                       "number":  9,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Though we have no need of these things, since we have for our encouragement the holy books that are in our possession,",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "10",
+                       "number":  10,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "we have ventured to send word to you for the renewal of brotherhood and friendship, lest we become strangers to you; a long time has passed since you sent your message to us.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "11",
+                       "number":  11,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "We, on our part, have unceasingly remembered you in the sacrifices and prayers that we offer on our feasts and other appropriate days, as it is right and proper to remember brothers.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "12",
+                       "number":  12,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "We likewise rejoice in your renown.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "13",
+                       "number":  13,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "But many tribulations and many wars have beset us, and the kings around us have attacked us.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "14",
+                       "number":  14,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "We did not wish to be troublesome to you and to the rest of our allies and friends in these wars.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "15",
+                       "number":  15,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "For we have the help of Heaven for our support, and we have been saved from our enemies, and our enemies have been humbled.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "16",
+                       "number":  16,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "So we have chosen Numenius, son of Antiochus, and Antipater, son of Jason, and we have sent them to the Romans to renew with them the friendship and alliance of earlier times.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "17",
+                       "number":  17,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "We have also ordered them to come to you and greet you, and to deliver to you our letter concerning the renewal of our brotherhood.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "18",
+                       "number":  18,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Therefore kindly send us an answer on this matter.”",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "19",
+                       "number":  19,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "This is a copy of the letter that they sent to Onias:",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "20",
+                       "number":  20,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "“Arius, king of the Spartans, sends greetings to Onias the high priest.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "21",
+                       "number":  21,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "A document has been found stating that the Spartans and the Jews are brothers and that they are of the family of Abraham.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "22",
+                       "number":  22,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Now that we have learned this, kindly write to us about your welfare.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "23",
+                       "number":  23,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "We, for our part, declare to you that your animals and your possessions are ours, and ours are yours. We have, therefore, given orders that you should be told of this.”",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "24",
+                       "number":  24,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "More Campaigns of Jonathan and Simon. Then Jonathan heard that the officers of Demetrius had returned to attack him with a stronger army than before.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "25",
+                       "number":  25,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "So he set out from Jerusalem and met them in the territory of Hamath, giving them no opportunity to enter his province.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "26",
+                       "number":  26,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "The spies he had sent into their camp came back and reported to him that the enemy were preparing to attack them that night.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "27",
+                       "number":  27,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Therefore, when the sun set, Jonathan ordered his men to keep watch, with their weapons at the ready for battle, throughout the night; and he set outposts around the camp.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "28",
+                       "number":  28,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "When the enemy heard that Jonathan and his men were ready for battle, their hearts sank with fear and dread. They lighted fires in their camp and then withdrew.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "29",
+                       "number":  29,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "But because Jonathan and his men were watching the campfires burning, they did not know until the morning what had happened.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "30",
+                       "number":  30,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Then Jonathan pursued them, but he could not overtake them, for they had crossed the river Eleutherus.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "31",
+                       "number":  31,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "So Jonathan turned aside against the Arabians who are called Zabadeans, and he struck them down and plundered them.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "32",
+                       "number":  32,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Then he broke camp, marched on toward Damascus and traveled through the whole region.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "33",
+                       "number":  33,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Simon also set out and traveled as far as Askalon and its neighboring strongholds. He then turned to Joppa and took it by surprise,",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "34",
+                       "number":  34,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "for he heard that its people intended to hand over the stronghold to the supporters of Demetrius. He left a garrison there to guard it.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "35",
+                       "number":  35,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "When Jonathan returned, he assembled the elders of the people, and with them he made plans for building strongholds in Judea,",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "36",
+                       "number":  36,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "for making the walls of Jerusalem still higher, and for erecting a high barrier between the citadel and the city, to separate it from the city and isolate it, so that its garrison could neither buy nor sell.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "37",
+                       "number":  37,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "The people therefore gathered together to build up the city, for part of the wall of the eastern valley had collapsed. And Jonathan repaired the quarter called Chaphenatha.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "38",
+                       "number":  38,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Simon likewise built up Adida in the Shephelah, and fortified it by installing gates and bars.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "39",
+                       "number":  39,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Capture of Jonathan. Then Trypho sought to become king of Asia, assume the diadem, and do violence to King Antiochus.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "40",
+                       "number":  40,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "But he was afraid that Jonathan would not permit him, but would fight against him. Looking for a way to seize and kill him, he set out and came to Beth-shan.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "41",
+                       "number":  41,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Jonathan marched out to meet him with forty thousand picked fighting men and came to Beth-shan.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "42",
+                       "number":  42,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "But when Trypho saw that Jonathan had arrived with a large army he was afraid to do him violence.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "43",
+                       "number":  43,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Instead, he received him with honor, introduced him to all his friends, and gave him presents. He also ordered his friends and soldiers to obey him as they would himself.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "44",
+                       "number":  44,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Then he said to Jonathan: “Why have you put all these people to so much trouble when we are not at war?",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "45",
+                       "number":  45,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Now pick out a few men to stay with you, send the rest to their homes, and then come with me to Ptolemais. I will hand it over to you together with other strongholds and the remaining troops, as well as all the officials; then I will turn back and go home. That is why I came here.”",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "46",
+                       "number":  46,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Jonathan trusted him and did as he said. He dismissed his troops, and they returned to the land of Judah.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "47",
+                       "number":  47,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "But he kept with him three thousand men, of whom he left two thousand in Galilee while one thousand accompanied him.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "48",
+                       "number":  48,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Then as soon as Jonathan entered Ptolemais, the people of Ptolemais closed the gates and seized him; all who had entered with him, they killed with the sword.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "49",
+                       "number":  49,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Then Trypho sent soldiers and cavalry to Galilee and the Great Plain to destroy all Jonathan’s men.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "50",
+                       "number":  50,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "These, upon learning that Jonathan had been captured and killed along with his companions, encouraged one another and went out in close formation, ready to fight.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "51",
+                       "number":  51,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "As their pursuers saw that they were ready to fight for their lives, they turned back.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "52",
+                       "number":  52,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Thus all Jonathan’s men came safely into the land of Judah. They mourned Jonathan and those who were with him. They were in great fear, and all Israel fell into deep mourning.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "53",
+                       "number":  53,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "All the nations round about sought to crush them. They said, “Now that they have no leader or helper, let us make war on them and wipe out their memory from the earth.”",
+                       "isPoetry":  false
+                   }
+               ],
+    "marks":  [
+
+              ]
+}

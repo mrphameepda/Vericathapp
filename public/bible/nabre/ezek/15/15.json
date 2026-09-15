@@ -1,0 +1,82 @@
+{
+    "headings":  [
+
+                 ],
+    "verses":  [
+                   {
+                       "label":  "1",
+                       "number":  1,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Chapter 15 - Parable of the Vine. The word of the LORD came to me:",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "2",
+                       "number":  2,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Son of man, what makes the wood of the vine Better than the wood of branches found on the trees in the forest?",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "3",
+                       "number":  3,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Can wood be taken from it to make something useful? Can someone make even a peg out of it on which to hang a vessel?",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "4",
+                       "number":  4,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Of course not! If it is fed to the fire for fuel, and the fire devours both ends of it, Leaving the middle charred, is it useful for anything then?",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "5",
+                       "number":  5,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Even when it is whole it cannot be used for anything; So when fire has devoured and charred it, how useful can it be?",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "6",
+                       "number":  6,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Therefore, thus says the Lord GOD: Like vine wood among forest trees, which I have given as fuel for fire, So I will give the inhabitants of Jerusalem.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "7",
+                       "number":  7,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "I will set my face against them: Although they have escaped the fire, the fire will still devour them; You shall know that I am the LORD, when I set my face against them.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "8",
+                       "number":  8,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Yes, I will make the land desolate, because they are so unfaithful— oracle of the Lord GOD.",
+                       "isPoetry":  false
+                   }
+               ],
+    "marks":  [
+
+              ]
+}

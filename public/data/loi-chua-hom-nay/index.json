@@ -1,0 +1,7358 @@
+[
+  {
+    "ma_dinh_danh": "chua-nhat-i-mua-vong-nam-a",
+    "tieu_de": "Chúa Nhật I Mùa Vọng – Năm A",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Vọng",
+      "tuan": "I",
+      "thu": "Chúa Nhật",
+      "mau_sac": "Tím",
+      "bac_le": "Chúa Nhật"
+    }
+  },
+  {
+    "ma_dinh_danh": "chua-nhat-i-mua-vong-nam-b",
+    "tieu_de": "Chúa Nhật I Mùa Vọng – Năm B",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Vọng",
+      "tuan": "I",
+      "thu": "Chúa Nhật",
+      "mau_sac": "Tím",
+      "bac_le": "Chúa Nhật"
+    }
+  },
+  {
+    "ma_dinh_danh": "chua-nhat-i-mua-vong-nam-c",
+    "tieu_de": "Chúa Nhật I Mùa Vọng – Năm C",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Vọng",
+      "tuan": "I",
+      "thu": "Chúa Nhật",
+      "mau_sac": "Tím",
+      "bac_le": "Chúa Nhật"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-hai-tuan-i-mua-vong",
+    "tieu_de": "Thứ hai tuần I mùa Vọng",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Vọng",
+      "tuan": "I",
+      "thu": "Thứ Hai",
+      "mau_sac": "Tím",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-ba-tuan-i-mua-vong",
+    "tieu_de": "Thứ ba tuần I mùa Vọng",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Vọng",
+      "tuan": "I",
+      "thu": "Thứ Ba",
+      "mau_sac": "Tím",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-tu-tuan-i-mua-vong",
+    "tieu_de": "Thứ tư tuần I mùa Vọng",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Vọng",
+      "tuan": "I",
+      "thu": "Thứ Tư",
+      "mau_sac": "Tím",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-nam-tuan-i-mua-vong",
+    "tieu_de": "Thứ năm tuần I mùa Vọng",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Vọng",
+      "tuan": "I",
+      "thu": "Thứ Năm",
+      "mau_sac": "Tím",
+      "bac_le": "Thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-sau-tuan-i-mua-vong",
+    "tieu_de": "Thứ sáu tuần I mùa vọng",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Vọng",
+      "tuan": "I",
+      "thu": "Thứ Sáu",
+      "mau_sac": "Tím",
+      "bac_le": "Thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-bay-tuan-i-mua-vong",
+    "tieu_de": "Thứ bẩy tuần I mùa vọng",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Vọng",
+      "tuan": "I",
+      "thu": "Thứ Ba",
+      "mau_sac": "Tím",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "chua-nhat-ii-mua-vong-nam-a",
+    "tieu_de": "Chúa Nhật II Mùa Vọng – Năm A",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Vọng",
+      "tuan": "II",
+      "thu": "Chúa Nhật",
+      "mau_sac": "Tím",
+      "bac_le": "Chúa Nhật"
+    }
+  },
+  {
+    "ma_dinh_danh": "chua-nhat-tuan-ii-mua-vong-nam-b",
+    "tieu_de": "Chúa Nhật II Mùa Vọng – Năm B",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Vọng",
+      "tuan": "II",
+      "thu": "Chúa Nhật",
+      "mau_sac": "Tím",
+      "bac_le": "Chúa nhật"
+    }
+  },
+  {
+    "ma_dinh_danh": "chua-nhat-ii-mua-vong-nam-c",
+    "tieu_de": "Chúa Nhật II Mùa Vọng – Năm C",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Vọng",
+      "tuan": "II",
+      "thu": "Chúa Nhật",
+      "mau_sac": "Tím",
+      "bac_le": "Chúa Nhật"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-hai-tuan-ii-mua-vong",
+    "tieu_de": "Thứ hai tuần II mùa Vọng",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Vọng",
+      "tuan": "II",
+      "thu": "Thứ Hai",
+      "mau_sac": "Tím",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-ba-tuan-ii-mua-vong",
+    "tieu_de": "Thứ ba tuần II mùa Vọng",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Vọng",
+      "tuan": "II",
+      "thu": "Thứ Ba",
+      "mau_sac": "Tím",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-tu-tuan-ii-mua-vong",
+    "tieu_de": "Thứ tư tuần II mùa Vọng",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Vọng",
+      "tuan": "II",
+      "thu": "Thứ Tư",
+      "mau_sac": "Tím",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-nam-tuan-ii-mua-vong",
+    "tieu_de": "Thứ năm tuần II mùa Vọng",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Vọng",
+      "tuan": "II",
+      "thu": "Thứ Năm",
+      "mau_sac": "Tím",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-sau-tuan-ii-mua-vong",
+    "tieu_de": "Thứ sáu tuần II mùa Vọng",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Vọng",
+      "tuan": "II",
+      "thu": "Thứ Sáu",
+      "mau_sac": "Tím",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-bay-tuan-ii-mua-vong",
+    "tieu_de": "Thứ bảy tuần II mùa Vọng",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Vọng",
+      "tuan": "II",
+      "thu": "Thứ Ba",
+      "mau_sac": "Tím",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "chua-nhat-iii-mua-vong-nam-a",
+    "tieu_de": "Chúa Nhật III Mùa Vọng – Năm A",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Vọng",
+      "tuan": "III",
+      "thu": "Chúa Nhật",
+      "mau_sac": "Tím",
+      "bac_le": "Chúa Nhật"
+    }
+  },
+  {
+    "ma_dinh_danh": "chua-nhat-tuan-iii-mua-vong",
+    "tieu_de": "Chúa Nhật III Mùa Vọng – Năm B",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Vọng",
+      "tuan": "III",
+      "thu": "Chúa Nhật",
+      "mau_sac": "Tím",
+      "bac_le": "Chúa nhật"
+    }
+  },
+  {
+    "ma_dinh_danh": "chua-nhat-iii-mua-vong-nam-c",
+    "tieu_de": "Chúa Nhật III Mùa Vọng – Năm C",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Vọng",
+      "tuan": "III",
+      "thu": "Chúa Nhật",
+      "mau_sac": "Tím",
+      "bac_le": "Chúa Nhật"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-hai-tuan-iii-mua-vong",
+    "tieu_de": "Thứ hai tuần III mùa Vọng",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Vọng",
+      "tuan": "III",
+      "thu": "Thứ Hai",
+      "mau_sac": "Tím",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-ba-tuan-iii-mua-vong",
+    "tieu_de": "Thứ ba tuần III mùa Vọng",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Vọng",
+      "tuan": "III",
+      "thu": "Thứ Ba",
+      "mau_sac": "Tím",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-tu-tuan-iii-mua-vong",
+    "tieu_de": "Thứ tư tuần III mùa Vọng",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Vọng",
+      "tuan": "III",
+      "thu": "Thứ Tư",
+      "mau_sac": "Tím",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-nam-tuan-iii-mua-vong",
+    "tieu_de": "Thứ năm tuần III mùa Vọng",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Vọng",
+      "tuan": "III",
+      "thu": "Thứ Năm",
+      "mau_sac": "Tím",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-sau-tuan-iii-mua-vong",
+    "tieu_de": "Thứ sáu tuần III mùa Vọng",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Vọng",
+      "tuan": "III",
+      "thu": "Thứ Sáu",
+      "mau_sac": "Tím",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "chua-nhat-iv-mua-vong-nam-a-2",
+    "tieu_de": "Chúa Nhật IV Mùa Vọng – Năm A",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Vọng",
+      "tuan": "IV",
+      "thu": "Chúa Nhật",
+      "mau_sac": "Tím",
+      "bac_le": "Chúa Nhật"
+    }
+  },
+  {
+    "ma_dinh_danh": "chua-nhat-iv-mua-vong-nam-b",
+    "tieu_de": "Chúa Nhật IV Mùa Vọng – Năm B",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Vọng",
+      "tuan": "IV",
+      "thu": "Chúa Nhật",
+      "mau_sac": "Tím",
+      "bac_le": "Chúa nhật"
+    }
+  },
+  {
+    "ma_dinh_danh": "chua-nhat-iv-mua-vong-nam-c",
+    "tieu_de": "Chúa Nhật IV Mùa Vọng – Năm C",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Vọng",
+      "tuan": "IV",
+      "thu": "Chúa Nhật",
+      "mau_sac": "Tím",
+      "bac_le": "Chúa Nhật"
+    }
+  },
+  {
+    "ma_dinh_danh": "mua-vong-ngay-17-12",
+    "tieu_de": "Mùa Vọng – Ngày 17/12",
+    "thong_tin_ngay": {
+      "ngay": "17/12",
+      "mua_phung_vu": "Mùa Vọng",
+      "tuan": null,
+      "thu": null,
+      "mau_sac": "Tím",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "mua-vong-ngay-18-12",
+    "tieu_de": "Mùa Vọng – Ngày 18/12",
+    "thong_tin_ngay": {
+      "ngay": "18/12",
+      "mua_phung_vu": "Mùa Vọng",
+      "tuan": null,
+      "thu": null,
+      "mau_sac": "Tím",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "mua-vong-ngay-19-12",
+    "tieu_de": "Mùa Vọng – Ngày 19/12",
+    "thong_tin_ngay": {
+      "ngay": "19/12",
+      "mua_phung_vu": "Mùa Vọng",
+      "tuan": null,
+      "thu": null,
+      "mau_sac": "Tím",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "mua-vong-ngay-20-12",
+    "tieu_de": "Mùa Vọng – Ngày 20/12",
+    "thong_tin_ngay": {
+      "ngay": "20/12",
+      "mua_phung_vu": "Mùa Vọng",
+      "tuan": null,
+      "thu": null,
+      "mau_sac": "Tím",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "mua-vong-ngay-21-12",
+    "tieu_de": "Mùa Vọng – Ngày 21/12",
+    "thong_tin_ngay": {
+      "ngay": "21/12",
+      "mua_phung_vu": "Mùa Vọng",
+      "tuan": null,
+      "thu": null,
+      "mau_sac": "Tím",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "mua-vong-ngay-22-12",
+    "tieu_de": "Mùa Vọng – Ngày 22/12",
+    "thong_tin_ngay": {
+      "ngay": "22/12",
+      "mua_phung_vu": "Mùa Vọng",
+      "tuan": null,
+      "thu": null,
+      "mau_sac": "Tím",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "mua-vong-ngay-23-12",
+    "tieu_de": "Mùa Vọng – Ngày 23/12",
+    "thong_tin_ngay": {
+      "ngay": "23/12",
+      "mua_phung_vu": "Mùa Vọng",
+      "tuan": null,
+      "thu": null,
+      "mau_sac": "Tím",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "le-vong-giang-sinh-le-chieu-24-12",
+    "tieu_de": "Lễ vọng Giáng Sinh – Lễ chiều 24/12",
+    "thong_tin_ngay": {
+      "ngay": "24/12",
+      "mua_phung_vu": "Mùa Giáng Sinh",
+      "tuan": null,
+      "thu": null,
+      "mau_sac": "Trắng",
+      "bac_le": "Trọng"
+    }
+  },
+  {
+    "ma_dinh_danh": "le-vong-giang-sinh-thanh-le-ban-dem",
+    "tieu_de": "Lễ Giáng Sinh – Thánh lễ ban đêm",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Giáng Sinh",
+      "tuan": null,
+      "thu": null,
+      "mau_sac": "Trắng",
+      "bac_le": "Trọng"
+    }
+  },
+  {
+    "ma_dinh_danh": "dai-le-giang-sinh-le-rang-dong",
+    "tieu_de": "Đại Lễ Giáng Sinh – Lễ rạng đông",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Giáng Sinh",
+      "tuan": null,
+      "thu": null,
+      "mau_sac": "Trắng",
+      "bac_le": "Trọng"
+    }
+  },
+  {
+    "ma_dinh_danh": "dai-le-giang-sinh-le-ngay",
+    "tieu_de": "Đại Lễ Giáng Sinh – Lễ ngày",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Giáng Sinh",
+      "tuan": null,
+      "thu": null,
+      "mau_sac": "Trắng",
+      "bac_le": "Trọng"
+    }
+  },
+  {
+    "ma_dinh_danh": "chua-nhat-le-thanh-gia-nam-a",
+    "tieu_de": "Chúa Nhật Lễ Thánh Gia – Năm A",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": null,
+      "tuan": null,
+      "thu": "Chúa Nhật",
+      "mau_sac": "Trắng",
+      "bac_le": "Kính"
+    }
+  },
+  {
+    "ma_dinh_danh": "chua-nhat-le-thanh-gia-nam-b",
+    "tieu_de": "Chúa Nhật Lễ Thánh Gia – Năm B",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": null,
+      "tuan": null,
+      "thu": "Chúa Nhật",
+      "mau_sac": "Trắng",
+      "bac_le": "Chúa nhật"
+    }
+  },
+  {
+    "ma_dinh_danh": "chua-nhat-le-thanh-gia-nam-c",
+    "tieu_de": "Chúa Nhật Lễ Thánh Gia – Năm C",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": null,
+      "tuan": null,
+      "thu": "Chúa Nhật",
+      "mau_sac": "Trắng",
+      "bac_le": "Chúa Nhật"
+    }
+  },
+  {
+    "ma_dinh_danh": "ngay-27-12-thanh-gioan-tong-do-2",
+    "tieu_de": "27/12: Thánh Gio-an Tông đồ",
+    "thong_tin_ngay": {
+      "ngay": "27/12",
+      "mua_phung_vu": null,
+      "tuan": null,
+      "thu": null,
+      "mau_sac": "Trắng",
+      "bac_le": "Kính"
+    }
+  },
+  {
+    "ma_dinh_danh": "ngay-28-12-cac-thanh-anh-hai-tu-dao",
+    "tieu_de": "28/12: Các thánh anh hài tử đạo",
+    "thong_tin_ngay": {
+      "ngay": "28/12",
+      "mua_phung_vu": null,
+      "tuan": null,
+      "thu": null,
+      "mau_sac": null,
+      "bac_le": null
+    }
+  },
+  {
+    "ma_dinh_danh": "ngay-29-12-tuan-bat-nhat-giang-sinh",
+    "tieu_de": "29/12: Tuần bát nhật Giáng Sinh",
+    "thong_tin_ngay": {
+      "ngay": "29/12",
+      "mua_phung_vu": "Mùa Giáng Sinh",
+      "tuan": null,
+      "thu": null,
+      "mau_sac": "Trắng",
+      "bac_le": "Kính"
+    }
+  },
+  {
+    "ma_dinh_danh": "ngay-30-12-tuan-bat-nhat-giang-sinh",
+    "tieu_de": "30/12: Tuần bát nhật Giáng Sinh",
+    "thong_tin_ngay": {
+      "ngay": "30/12",
+      "mua_phung_vu": "Mùa Giáng Sinh",
+      "tuan": null,
+      "thu": null,
+      "mau_sac": "Trắng",
+      "bac_le": "Kính"
+    }
+  },
+  {
+    "ma_dinh_danh": "ngay-31-12-tuan-bat-nhat-giang-sinh",
+    "tieu_de": "31/12: Tuần bát nhật Giáng Sinh",
+    "thong_tin_ngay": {
+      "ngay": "31/12",
+      "mua_phung_vu": "Mùa Giáng Sinh",
+      "tuan": null,
+      "thu": null,
+      "mau_sac": "Trắng",
+      "bac_le": "Kính"
+    }
+  },
+  {
+    "ma_dinh_danh": "ngay-01-01-thanh-maria-me-thien-chua-le-trong",
+    "tieu_de": "01/01: Thánh Ma-ri-a Mẹ Thiên Chúa, lễ trọng",
+    "thong_tin_ngay": {
+      "ngay": "01/01",
+      "mua_phung_vu": null,
+      "tuan": null,
+      "thu": null,
+      "mau_sac": "Trắng",
+      "bac_le": "Trọng"
+    }
+  },
+  {
+    "ma_dinh_danh": "chua-nhat-ii-sau-le-giang-sinh",
+    "tieu_de": "Chúa Nhật II sau lễ Giáng Sinh",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Giáng Sinh",
+      "tuan": "II",
+      "thu": "Chúa Nhật",
+      "mau_sac": "Trắng",
+      "bac_le": "Chúa Nhật"
+    }
+  },
+  {
+    "ma_dinh_danh": "ngay-02-01-mua-giang-sinh",
+    "tieu_de": "02/01: Mùa Giáng Sinh",
+    "thong_tin_ngay": {
+      "ngay": "02/01",
+      "mua_phung_vu": "Mùa Giáng Sinh",
+      "tuan": null,
+      "thu": null,
+      "mau_sac": "Trắng",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "ngay-03-01-mua-giang-sinh",
+    "tieu_de": "03/01: Mùa Giáng Sinh",
+    "thong_tin_ngay": {
+      "ngay": "03/01",
+      "mua_phung_vu": "Mùa Giáng Sinh",
+      "tuan": null,
+      "thu": null,
+      "mau_sac": "Trắng",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "ngay-4-01-mua-giang-sinh",
+    "tieu_de": "04/01: Mùa Giáng Sinh",
+    "thong_tin_ngay": {
+      "ngay": "04/01",
+      "mua_phung_vu": "Mùa Giáng Sinh",
+      "tuan": null,
+      "thu": null,
+      "mau_sac": "Trắng",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "ngay-5-01-mua-giang-sinh",
+    "tieu_de": "05/01: Mùa Giáng Sinh",
+    "thong_tin_ngay": {
+      "ngay": "05/01",
+      "mua_phung_vu": "Mùa Giáng Sinh",
+      "tuan": null,
+      "thu": null,
+      "mau_sac": "Trắng",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "ngay-6-01-mua-giang-sinh",
+    "tieu_de": "06/01: Mùa Giáng Sinh",
+    "thong_tin_ngay": {
+      "ngay": "06/01",
+      "mua_phung_vu": "Mùa Giáng Sinh",
+      "tuan": null,
+      "thu": null,
+      "mau_sac": "Trắng",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "ngay-10-01-mua-giang-sinh",
+    "tieu_de": "10/01: Mùa Giáng Sinh",
+    "thong_tin_ngay": {
+      "ngay": "10/01",
+      "mua_phung_vu": "Mùa Giáng Sinh",
+      "tuan": null,
+      "thu": null,
+      "mau_sac": "Trắng",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "ngay-11-01-mua-giang-sinh",
+    "tieu_de": "11/01: Mùa Giáng Sinh",
+    "thong_tin_ngay": {
+      "ngay": "11/01",
+      "mua_phung_vu": "Mùa Giáng Sinh",
+      "tuan": null,
+      "thu": null,
+      "mau_sac": "Trắng",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "ngay-12-01-mua-giang-sinh",
+    "tieu_de": "12/01: Mùa Giáng Sinh",
+    "thong_tin_ngay": {
+      "ngay": "12/01",
+      "mua_phung_vu": "Mùa Giáng Sinh",
+      "tuan": null,
+      "thu": null,
+      "mau_sac": "Trắng",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "chua-nhat-le-hien-linh",
+    "tieu_de": "Lễ Hiển Linh",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": null,
+      "tuan": null,
+      "thu": null,
+      "mau_sac": "Trắng",
+      "bac_le": "Trọng"
+    }
+  },
+  {
+    "ma_dinh_danh": "ngay-7-01-mua-giang-sinh",
+    "tieu_de": "Thứ Hai sau lễ Hiển Linh",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": null,
+      "tuan": null,
+      "thu": "Thứ Hai",
+      "mau_sac": "Trắng",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "ngay-8-01-mua-giang-sinh",
+    "tieu_de": "Thứ Ba sau lễ Hiển Linh",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": null,
+      "tuan": null,
+      "thu": "Thứ Ba",
+      "mau_sac": "Trắng",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "ngay-9-01-mua-giang-sinh",
+    "tieu_de": "Thứ Tư sau lễ Hiển Linh",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": null,
+      "tuan": null,
+      "thu": "Thứ Tư",
+      "mau_sac": "Trắng",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-hai-sau-le-hien-xuong-le-duc-me-la-me-giao-hoi",
+    "tieu_de": "Thứ Năm sau lễ Hiển Linh",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": null,
+      "tuan": null,
+      "thu": "Thứ Năm",
+      "mau_sac": "Trắng",
+      "bac_le": "nhớ"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-tu-le-tro",
+    "tieu_de": "Thứ tư lễ tro",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": null,
+      "tuan": null,
+      "thu": "Thứ Tư",
+      "mau_sac": "Tím",
+      "bac_le": ""
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-nam-sau-le-tro",
+    "tieu_de": "Thứ năm sau lễ tro",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": null,
+      "tuan": null,
+      "thu": "Thứ Năm",
+      "mau_sac": "Tím",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-sau-sau-le-tro",
+    "tieu_de": "Thứ sáu sau lễ tro",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": null,
+      "tuan": null,
+      "thu": "Thứ Sáu",
+      "mau_sac": "Tím",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-bay-sau-le-tro",
+    "tieu_de": "Thứ bảy sau lễ tro",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": null,
+      "tuan": null,
+      "thu": "Thứ Ba",
+      "mau_sac": "Tím",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "chua-nhat-i-mua-chay-nam-a",
+    "tieu_de": "Chúa Nhật I Mùa Chay – Năm A",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Chay",
+      "tuan": "I",
+      "thu": "Chúa Nhật",
+      "mau_sac": "Tím",
+      "bac_le": "Chúa Nhật"
+    }
+  },
+  {
+    "ma_dinh_danh": "chua-nhat-i-mua-chay-nam-b",
+    "tieu_de": "Chúa Nhật I Mùa Chay – Năm B",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Chay",
+      "tuan": "I",
+      "thu": "Chúa Nhật",
+      "mau_sac": "Tím",
+      "bac_le": "Chúa Nhật"
+    }
+  },
+  {
+    "ma_dinh_danh": "chua-nhat-i-mua-chay-nam-c",
+    "tieu_de": "Chúa Nhật I Mùa Chay – Năm C",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Chay",
+      "tuan": "I",
+      "thu": "Chúa Nhật",
+      "mau_sac": "Tím",
+      "bac_le": "Chúa Nhật"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-hai-tuan-i-mua-chay",
+    "tieu_de": "Thứ hai tuần I mùa chay",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Chay",
+      "tuan": "I",
+      "thu": "Thứ Hai",
+      "mau_sac": "Tím",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-ba-tuan-i-mua-chay",
+    "tieu_de": "Thứ ba tuần I mùa chay",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Chay",
+      "tuan": "I",
+      "thu": "Thứ Ba",
+      "mau_sac": "Tím",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-tu-tuan-i-mua-chay",
+    "tieu_de": "Thứ tư tuần I mùa chay",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Chay",
+      "tuan": "I",
+      "thu": "Thứ Tư",
+      "mau_sac": "Tím",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-nam-tuan-i-mua-chay",
+    "tieu_de": "Thứ năm tuần I mùa chay",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Chay",
+      "tuan": "I",
+      "thu": "Thứ Năm",
+      "mau_sac": "Tím",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-sau-tuan-i-mua-chay",
+    "tieu_de": "Thứ sáu tuần I mùa chay",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Chay",
+      "tuan": "I",
+      "thu": "Thứ Sáu",
+      "mau_sac": "Tím",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-bay-tuan-i-mua-chay",
+    "tieu_de": "Thứ bảy tuần I mùa chay",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Chay",
+      "tuan": "I",
+      "thu": "Thứ Ba",
+      "mau_sac": "Tím",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "chua-nhat-ii-mua-chay-nam-a",
+    "tieu_de": "Chúa Nhật II Mùa Chay – Năm A",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Chay",
+      "tuan": "II",
+      "thu": "Chúa Nhật",
+      "mau_sac": "Tím",
+      "bac_le": "Chúa nhật"
+    }
+  },
+  {
+    "ma_dinh_danh": "chua-nhat-ii-mua-chay-nam-b",
+    "tieu_de": "Chúa Nhật II Mùa Chay – Năm B",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Chay",
+      "tuan": "II",
+      "thu": "Chúa Nhật",
+      "mau_sac": "Tím",
+      "bac_le": "Chúa nhật"
+    }
+  },
+  {
+    "ma_dinh_danh": "chua-nhat-ii-mua-chay-nam-c",
+    "tieu_de": "Chúa Nhật II Mùa Chay – Năm C",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Chay",
+      "tuan": "II",
+      "thu": "Chúa Nhật",
+      "mau_sac": "Tím",
+      "bac_le": "Chúa Nhật"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-hai-tuan-ii-mua-chay",
+    "tieu_de": "Thứ hai tuần II mùa chay",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Chay",
+      "tuan": "II",
+      "thu": "Thứ Hai",
+      "mau_sac": "Tím",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-ba-tuan-ii-mua-chay",
+    "tieu_de": "Thứ ba tuần II mùa chay",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Chay",
+      "tuan": "II",
+      "thu": "Thứ Ba",
+      "mau_sac": "Tím",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-tu-tuan-ii-mua-chay",
+    "tieu_de": "Thứ tư tuần II mùa chay",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Chay",
+      "tuan": "II",
+      "thu": "Thứ Tư",
+      "mau_sac": "Tím",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-nam-tuan-ii-mua-chay",
+    "tieu_de": "Thứ năm tuần II mùa chay",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Chay",
+      "tuan": "II",
+      "thu": "Thứ Năm",
+      "mau_sac": "Tím",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-sau-tuan-ii-mua-chay",
+    "tieu_de": "Thứ sáu tuần II mùa chay",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Chay",
+      "tuan": "II",
+      "thu": "Thứ Sáu",
+      "mau_sac": "Tím",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-bay-tuan-ii-mua-chay",
+    "tieu_de": "Thứ bảy tuần II mùa chay",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Chay",
+      "tuan": "II",
+      "thu": "Thứ Ba",
+      "mau_sac": "Tím",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "chua-nhat-iii-mua-chay-nam-a",
+    "tieu_de": "Chúa Nhật III Mùa Chay – Năm A",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Chay",
+      "tuan": "III",
+      "thu": "Chúa Nhật",
+      "mau_sac": "Tím",
+      "bac_le": "Chúa Nhật"
+    }
+  },
+  {
+    "ma_dinh_danh": "chua-nhat-iii-mua-chay-nam-b",
+    "tieu_de": "Chúa Nhật III Mùa Chay – Năm B",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Chay",
+      "tuan": "III",
+      "thu": "Chúa Nhật",
+      "mau_sac": "Tím",
+      "bac_le": "Chúa nhật"
+    }
+  },
+  {
+    "ma_dinh_danh": "chua-nhat-iii-mua-chay-nam-c",
+    "tieu_de": "Chúa Nhật III Mùa Chay – Năm C",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Chay",
+      "tuan": "III",
+      "thu": "Chúa Nhật",
+      "mau_sac": "Tím",
+      "bac_le": "Chúa Nhật"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-hai-tuan-iii-mua-chay",
+    "tieu_de": "Thứ hai tuần III mùa chay",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Chay",
+      "tuan": "III",
+      "thu": "Thứ Hai",
+      "mau_sac": "Tím",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-ba-tuan-iii-mua-chay",
+    "tieu_de": "Thứ ba tuần III mùa chay",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Chay",
+      "tuan": "III",
+      "thu": "Thứ Ba",
+      "mau_sac": "Tím",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-tu-tuan-iii-mua-chay",
+    "tieu_de": "Thứ tư tuần III mùa chay",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Chay",
+      "tuan": "III",
+      "thu": "Thứ Tư",
+      "mau_sac": "Tím",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-nam-tuan-iii-mua-chay",
+    "tieu_de": "Thứ năm tuần III mùa chay",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Chay",
+      "tuan": "III",
+      "thu": "Thứ Năm",
+      "mau_sac": "Tím",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-sau-tuan-iii-mua-chay",
+    "tieu_de": "Thứ sáu tuần III mùa chay",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Chay",
+      "tuan": "III",
+      "thu": "Thứ Sáu",
+      "mau_sac": "Tím",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-bay-tuan-iii-mua-chay",
+    "tieu_de": "Thứ bảy tuần III mùa chay",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Chay",
+      "tuan": "III",
+      "thu": "Thứ Ba",
+      "mau_sac": "Tím",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "chua-nhat-iv-mua-chay-nam-a",
+    "tieu_de": "Chúa Nhật IV Mùa Chay – Năm A",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Chay",
+      "tuan": "IV",
+      "thu": "Chúa Nhật",
+      "mau_sac": "Tím",
+      "bac_le": "Chúa Nhật"
+    }
+  },
+  {
+    "ma_dinh_danh": "chua-nhat-iv-mua-chay-nam-b",
+    "tieu_de": "Chúa Nhật IV Mùa Chay – Năm B",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Chay",
+      "tuan": "IV",
+      "thu": "Chúa Nhật",
+      "mau_sac": "Tím",
+      "bac_le": "Chúa Nhật"
+    }
+  },
+  {
+    "ma_dinh_danh": "chua-nhat-iv-mua-chay-nam-c",
+    "tieu_de": "Chúa Nhật IV Mùa Chay – Năm C",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Chay",
+      "tuan": "IV",
+      "thu": "Chúa Nhật",
+      "mau_sac": "Tím",
+      "bac_le": "Chúa Nhật"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-hai-tuan-iv-mua-chay",
+    "tieu_de": "Thứ hai tuần IV mùa chay",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Chay",
+      "tuan": "IV",
+      "thu": "Thứ Hai",
+      "mau_sac": "Tím",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-ba-tuan-iv-mua-chay",
+    "tieu_de": "Thứ ba tuần IV mùa chay",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Chay",
+      "tuan": "IV",
+      "thu": "Thứ Ba",
+      "mau_sac": "Tím",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-tu-tuan-iv-mua-chay",
+    "tieu_de": "Thứ tư tuần IV mùa chay",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Chay",
+      "tuan": "IV",
+      "thu": "Thứ Tư",
+      "mau_sac": "Tím",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-nam-tuan-iv-mua-chay",
+    "tieu_de": "Thứ năm tuần IV mùa chay",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Chay",
+      "tuan": "IV",
+      "thu": "Thứ Năm",
+      "mau_sac": "Tím",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-sau-tuan-iv-mua-chay",
+    "tieu_de": "Thứ sáu tuần IV mùa chay",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Chay",
+      "tuan": "IV",
+      "thu": "Thứ Sáu",
+      "mau_sac": "Tím",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-bay-tuan-iv-mua-chay",
+    "tieu_de": "Thứ bảy tuần IV mùa chay",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Chay",
+      "tuan": "IV",
+      "thu": "Thứ Ba",
+      "mau_sac": "Tím",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "chua-nhat-v-mua-chay-nam-a",
+    "tieu_de": "Chúa Nhật V Mùa Chay – Năm A",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Chay",
+      "tuan": "V",
+      "thu": "Chúa Nhật",
+      "mau_sac": "Tím",
+      "bac_le": "Chúa nhật"
+    }
+  },
+  {
+    "ma_dinh_danh": "chua-nhat-v-mua-chay-nam-b",
+    "tieu_de": "Chúa Nhật V Mùa Chay – Năm B",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Chay",
+      "tuan": "V",
+      "thu": "Chúa Nhật",
+      "mau_sac": "Tím",
+      "bac_le": "Chúa nhật"
+    }
+  },
+  {
+    "ma_dinh_danh": "chua-nhat-v-mua-chay-nam-c",
+    "tieu_de": "Chúa Nhật V Mùa Chay – Năm C",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Chay",
+      "tuan": "V",
+      "thu": "Chúa Nhật",
+      "mau_sac": "Tím",
+      "bac_le": "Chúa nhật"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-hai-tuan-v-mua-chay",
+    "tieu_de": "Thứ hai tuần V mùa chay",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Chay",
+      "tuan": "V",
+      "thu": "Thứ Hai",
+      "mau_sac": "Tím",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-ba-tuan-v-mua-chay",
+    "tieu_de": "Thứ ba tuần V mùa chay",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Chay",
+      "tuan": "V",
+      "thu": "Thứ Ba",
+      "mau_sac": "Tím",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-tu-tuan-v-mua-chay",
+    "tieu_de": "Thứ tư tuần V mùa chay",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Chay",
+      "tuan": "V",
+      "thu": "Thứ Tư",
+      "mau_sac": "Tím",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-nam-tuan-v-mua-chay",
+    "tieu_de": "Thứ năm tuần V mùa chay",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Chay",
+      "tuan": "V",
+      "thu": "Thứ Năm",
+      "mau_sac": "Tím",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-sau-tuan-v-mua-chay",
+    "tieu_de": "Thứ sáu tuần V mùa chay",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Chay",
+      "tuan": "V",
+      "thu": "Thứ Sáu",
+      "mau_sac": "Tím",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-bay-tuan-v-mua-chay",
+    "tieu_de": "Thứ bảy tuần V mùa chay",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Chay",
+      "tuan": "V",
+      "thu": "Thứ Ba",
+      "mau_sac": "Tím",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "chua-nhat-le-la-nam-a",
+    "tieu_de": "Chúa nhật lễ Lá – Năm A",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": null,
+      "tuan": null,
+      "thu": "Chúa Nhật",
+      "mau_sac": "Đỏ",
+      "bac_le": "Chúa Nhật"
+    }
+  },
+  {
+    "ma_dinh_danh": "chua-nhat-le-la-nam-b",
+    "tieu_de": "Chúa nhật lễ Lá – Năm B",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": null,
+      "tuan": null,
+      "thu": "Chúa Nhật",
+      "mau_sac": "Đỏ",
+      "bac_le": "Chúa Nhật"
+    }
+  },
+  {
+    "ma_dinh_danh": "chua-nhat-le-la-nam-c",
+    "tieu_de": "Chúa nhật lễ Lá – Năm C",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": null,
+      "tuan": null,
+      "thu": "Chúa Nhật",
+      "mau_sac": "Đỏ",
+      "bac_le": "Chúa Nhật"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-hai-tuan-thanh",
+    "tieu_de": "Thứ Hai tuần thánh",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": null,
+      "tuan": null,
+      "thu": "Thứ Hai",
+      "mau_sac": "Tím",
+      "bac_le": ""
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-ba-tuan-thanh",
+    "tieu_de": "Thứ Ba tuần thánh",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": null,
+      "tuan": null,
+      "thu": "Thứ Ba",
+      "mau_sac": "Tím",
+      "bac_le": ""
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-tu-tuan-thanh",
+    "tieu_de": "Thứ Tư tuần thánh",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": null,
+      "tuan": null,
+      "thu": "Thứ Tư",
+      "mau_sac": "Tím",
+      "bac_le": ""
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-nam-tuan-thanh",
+    "tieu_de": "Thứ Năm tuần thánh",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": null,
+      "tuan": null,
+      "thu": "Thứ Năm",
+      "mau_sac": "Trắng",
+      "bac_le": ""
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-sau-tuan-thanh",
+    "tieu_de": "Thứ Sáu tuần thánh",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": null,
+      "tuan": null,
+      "thu": "Thứ Sáu",
+      "mau_sac": "Đỏ",
+      "bac_le": ""
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-bay-tuan-thanh-canh-thuc-vuot-qua",
+    "tieu_de": "Thứ Bảy tuần thánh",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": null,
+      "tuan": null,
+      "thu": "Thứ Ba",
+      "mau_sac": "Trắng",
+      "bac_le": null
+    }
+  },
+  {
+    "ma_dinh_danh": "chua-nhat-phuc-sinh-nam-a",
+    "tieu_de": "Chúa Nhật Phục Sinh – Năm A",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Phục Sinh",
+      "tuan": null,
+      "thu": "Chúa Nhật",
+      "mau_sac": "Trắng",
+      "bac_le": "Trọng"
+    }
+  },
+  {
+    "ma_dinh_danh": "chua-nhat-phuc-sinh-nam-b",
+    "tieu_de": "Chúa Nhật Phục Sinh – Năm B",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Phục Sinh",
+      "tuan": null,
+      "thu": "Chúa Nhật",
+      "mau_sac": "Trắng",
+      "bac_le": "Trọng"
+    }
+  },
+  {
+    "ma_dinh_danh": "chua-nhat-phuc-sinh-nam-c",
+    "tieu_de": "Chúa Nhật Phục Sinh – Năm C",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Phục Sinh",
+      "tuan": null,
+      "thu": "Chúa Nhật",
+      "mau_sac": "Trắng",
+      "bac_le": "Trọng"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-hai-tuan-bat-nhat-phuc-sinh",
+    "tieu_de": "Thứ hai tuần Bát nhật Phục Sinh",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Phục Sinh",
+      "tuan": null,
+      "thu": "Thứ Hai",
+      "mau_sac": null,
+      "bac_le": "Bát nhật Phục sinh"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-ba-tuan-bat-nhat-phuc-sinh",
+    "tieu_de": "Thứ ba tuần Bát Nhật Phục Sinh",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Phục Sinh",
+      "tuan": null,
+      "thu": "Thứ Ba",
+      "mau_sac": null,
+      "bac_le": "Bát nhật Phục sinh"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-tu-tuan-bat-nhat-phuc-sinh",
+    "tieu_de": "Thứ tư tuần Bát Nhật Phục Sinh",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Phục Sinh",
+      "tuan": null,
+      "thu": "Thứ Tư",
+      "mau_sac": null,
+      "bac_le": "Bát nhật Phục sinh"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-nam-tuan-bat-nhat-phuc-sinh",
+    "tieu_de": "Thứ năm tuần Bát Nhật Phục Sinh",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Phục Sinh",
+      "tuan": null,
+      "thu": "Thứ Năm",
+      "mau_sac": null,
+      "bac_le": "Bát nhật Phục sinh"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-sau-tuan-bat-nhat-phuc-sinh",
+    "tieu_de": "Thứ sáu tuần Bát Nhật Phục Sinh",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Phục Sinh",
+      "tuan": null,
+      "thu": "Thứ Sáu",
+      "mau_sac": null,
+      "bac_le": "Bát nhật Phục sinh"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-bay-tuan-bat-nhat-phuc-sinh",
+    "tieu_de": "Thứ bảy tuần Bát Nhật Phục Sinh",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Phục Sinh",
+      "tuan": null,
+      "thu": "Thứ Ba",
+      "mau_sac": null,
+      "bac_le": "Bát nhật Phục sinh"
+    }
+  },
+  {
+    "ma_dinh_danh": "chua-nhat-ii-phuc-sinh-nam-c",
+    "tieu_de": "CN II PS – Năm A – Lòng Thương Xót Chúa",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": null,
+      "tuan": "II",
+      "thu": null,
+      "mau_sac": null,
+      "bac_le": "Chúa Nhật"
+    }
+  },
+  {
+    "ma_dinh_danh": "chua-nhat-ii-phuc-sinh-nam-a-chua-nhat-long-thuong-xot-chua",
+    "tieu_de": "CN II PS – Năm B – Lòng Thương Xót Chúa",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": null,
+      "tuan": "II",
+      "thu": null,
+      "mau_sac": null,
+      "bac_le": "Chúa Nhật"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-hai-sau-chua-nhat-ii-phuc-sinh",
+    "tieu_de": "Thứ hai sau Chúa Nhật II Phục Sinh",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Phục Sinh",
+      "tuan": "II",
+      "thu": "Thứ Hai",
+      "mau_sac": null,
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-ba-sau-chua-nhat-ii-phuc-sinh",
+    "tieu_de": "Thứ ba sau Chúa Nhật II Phục Sinh",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Phục Sinh",
+      "tuan": "II",
+      "thu": "Thứ Ba",
+      "mau_sac": "Trắng",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-tu-sau-chua-nhat-ii-phuc-sinh",
+    "tieu_de": "Thứ tư sau Chúa Nhật II Phục Sinh",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Phục Sinh",
+      "tuan": "II",
+      "thu": "Thứ Tư",
+      "mau_sac": null,
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-nam-sau-chua-nhat-ii-phuc-sinh",
+    "tieu_de": "Thứ năm sau Chúa Nhật II Phục Sinh",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Phục Sinh",
+      "tuan": "II",
+      "thu": "Thứ Năm",
+      "mau_sac": null,
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-sau-sau-chua-nhat-ii-phuc-sinh",
+    "tieu_de": "Thứ sáu sau Chúa Nhật II Phục Sinh",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Phục Sinh",
+      "tuan": "II",
+      "thu": "Thứ Sáu",
+      "mau_sac": null,
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-bay-tuan-ii-phuc-sinh",
+    "tieu_de": "Thứ bẩy sau Chúa Nhật II Phục Sinh",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Phục Sinh",
+      "tuan": "II",
+      "thu": "Thứ Ba",
+      "mau_sac": "Trắng",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "chua-nhat-iii-phuc-sinh-nam-a",
+    "tieu_de": "Chúa Nhật III Phục Sinh – Năm A",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Phục Sinh",
+      "tuan": "III",
+      "thu": "Chúa Nhật",
+      "mau_sac": null,
+      "bac_le": "Chúa Nhật"
+    }
+  },
+  {
+    "ma_dinh_danh": "chua-nhat-iii-phuc-sinh-nam-b",
+    "tieu_de": "Chúa Nhật III Phục Sinh – Năm B",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Phục Sinh",
+      "tuan": "III",
+      "thu": "Chúa Nhật",
+      "mau_sac": null,
+      "bac_le": "Chúa Nhật"
+    }
+  },
+  {
+    "ma_dinh_danh": "chua-nhat-iii-phuc-sinh-nam-c",
+    "tieu_de": "Chúa Nhật III Phục Sinh – Năm C",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Phục Sinh",
+      "tuan": "III",
+      "thu": "Chúa Nhật",
+      "mau_sac": null,
+      "bac_le": "Chúa Nhật"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-hai-sau-chua-nhat-iii-phuc-sinh",
+    "tieu_de": "Thứ hai sau Chúa nhật III Phục Sinh",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Phục Sinh",
+      "tuan": "III",
+      "thu": "Thứ Hai",
+      "mau_sac": "trắng",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-ba-sau-chua-nhat-iii-phuc-sinh",
+    "tieu_de": "Thứ ba sau Chúa Nhật III Phục Sinh",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Phục Sinh",
+      "tuan": "III",
+      "thu": "Thứ Ba",
+      "mau_sac": null,
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-tu-sau-chua-nhat-iii-phuc-sinh",
+    "tieu_de": "Thứ tư sau Chúa Nhật III Phục Sinh",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Phục Sinh",
+      "tuan": "III",
+      "thu": "Thứ Tư",
+      "mau_sac": "Trắng",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-nam-sau-chua-nhat-iii-phuc-sinh",
+    "tieu_de": "Thứ năm sau Chúa Nhật III Phục Sinh",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Phục Sinh",
+      "tuan": "III",
+      "thu": "Thứ Năm",
+      "mau_sac": null,
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-sau-sau-chua-nhat-iii-phuc-sinh",
+    "tieu_de": "Thứ sáu sau Chúa Nhật III Phục Sinh",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Phục Sinh",
+      "tuan": "III",
+      "thu": "Thứ Sáu",
+      "mau_sac": null,
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-bay-sau-chua-nhat-iii-phuc-sinh",
+    "tieu_de": "Thứ bảy sau Chúa Nhật III Phục Sinh",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Phục Sinh",
+      "tuan": "III",
+      "thu": "Thứ Ba",
+      "mau_sac": null,
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "chua-nhat-iv-phuc-sinh-b-chua-chien-lanh",
+    "tieu_de": "CN IV Phục Sinh Năm A – Chúa Chiên Lành",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Phục Sinh",
+      "tuan": "IV",
+      "thu": null,
+      "mau_sac": null,
+      "bac_le": "Chúa Nhật"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-hai-sau-chua-nhat-iv-phuc-sinh",
+    "tieu_de": "Thứ hai sau Chúa Nhật IV Phục Sinh",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Phục Sinh",
+      "tuan": "IV",
+      "thu": "Thứ Hai",
+      "mau_sac": null,
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-ba-sau-chua-nhat-iv-phuc-sinh",
+    "tieu_de": "Thứ ba sau Chúa Nhật IV Phục Sinh",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Phục Sinh",
+      "tuan": "IV",
+      "thu": "Thứ Ba",
+      "mau_sac": null,
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-tu-sau-chua-nhat-iv-phuc-sinh",
+    "tieu_de": "Thứ tư sau Chúa Nhật IV Phục Sinh",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Phục Sinh",
+      "tuan": "IV",
+      "thu": "Thứ Tư",
+      "mau_sac": null,
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-nam-sau-chua-nhat-iv-phuc-sinh",
+    "tieu_de": "Thứ năm sau Chúa Nhật IV Phục Sinh",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Phục Sinh",
+      "tuan": "IV",
+      "thu": "Thứ Năm",
+      "mau_sac": null,
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-sau-sau-chua-nhat-iv-phuc-sinh",
+    "tieu_de": "Thứ sáu sau Chúa nhật IV Phục Sinh",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Phục Sinh",
+      "tuan": "IV",
+      "thu": "Thứ Sáu",
+      "mau_sac": null,
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-bay-sau-chua-nhat-iv-phuc-sinh",
+    "tieu_de": "Thứ bảy sau Chúa Nhật IV Phục Sinh",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Phục Sinh",
+      "tuan": "IV",
+      "thu": "Thứ Ba",
+      "mau_sac": null,
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "chua-nhat-v-phuc-sinh-nam-a",
+    "tieu_de": "Chúa Nhật V Phục Sinh – Năm A",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Phục Sinh",
+      "tuan": "V",
+      "thu": "Chúa Nhật",
+      "mau_sac": null,
+      "bac_le": "Chúa Nhật"
+    }
+  },
+  {
+    "ma_dinh_danh": "chua-nhat-v-phuc-sinh-nam-b",
+    "tieu_de": "Chúa Nhật V Phục Sinh – Năm B",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Phục Sinh",
+      "tuan": "V",
+      "thu": "Chúa Nhật",
+      "mau_sac": null,
+      "bac_le": "Chúa Nhật"
+    }
+  },
+  {
+    "ma_dinh_danh": "chua-nhat-v-phuc-sinh-nam-c",
+    "tieu_de": "Chúa Nhật V Phục Sinh – Năm C",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Phục Sinh",
+      "tuan": "V",
+      "thu": "Chúa Nhật",
+      "mau_sac": null,
+      "bac_le": "Chúa Nhật"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-hai-sau-chua-nhat-v-phuc-sinh",
+    "tieu_de": "Thứ hai sau Chúa Nhật V Phục Sinh",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Phục Sinh",
+      "tuan": "V",
+      "thu": "Thứ Hai",
+      "mau_sac": null,
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-ba-sau-chua-nhat-v-phuc-sinh",
+    "tieu_de": "Thứ ba sau Chúa Nhật V Phục Sinh",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Phục Sinh",
+      "tuan": "V",
+      "thu": "Thứ Ba",
+      "mau_sac": null,
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-tu-sau-chua-nhat-v-phuc-sinh",
+    "tieu_de": "Thứ tư sau Chúa Nhật V Phục Sinh",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Phục Sinh",
+      "tuan": "V",
+      "thu": "Thứ Tư",
+      "mau_sac": null,
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-nam-sau-chua-nhat-v-phuc-sinh",
+    "tieu_de": "Thứ năm sau Chúa Nhật V Phục Sinh",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Phục Sinh",
+      "tuan": "V",
+      "thu": "Thứ Năm",
+      "mau_sac": null,
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-sau-sau-chua-nhat-v-phuc-sinh",
+    "tieu_de": "Thứ sáu sau Chúa Nhật V Phục Sinh",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Phục Sinh",
+      "tuan": "V",
+      "thu": "Thứ Sáu",
+      "mau_sac": null,
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-bay-sau-chua-nhat-v-phuc-sinh",
+    "tieu_de": "Thứ bảy sau Chúa Nhật V Phục Sinh",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Phục Sinh",
+      "tuan": "V",
+      "thu": "Thứ Ba",
+      "mau_sac": null,
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "chua-nhat-vi-phuc-sinh-nam-a",
+    "tieu_de": "Chúa Nhật VI Phục Sinh – Năm A",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Phục Sinh",
+      "tuan": "VI",
+      "thu": "Chúa Nhật",
+      "mau_sac": null,
+      "bac_le": "Chúa Nhật"
+    }
+  },
+  {
+    "ma_dinh_danh": "chua-nhat-vi-phuc-sinh-nam-b",
+    "tieu_de": "Chúa Nhật VI Phục Sinh – Năm B",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Phục Sinh",
+      "tuan": "VI",
+      "thu": "Chúa Nhật",
+      "mau_sac": null,
+      "bac_le": "Chúa Nhật"
+    }
+  },
+  {
+    "ma_dinh_danh": "chua-nhat-vi-phuc-sinh-nam-c",
+    "tieu_de": "Chúa Nhật VI Phục Sinh – Năm C",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Phục Sinh",
+      "tuan": "VI",
+      "thu": "Chúa Nhật",
+      "mau_sac": null,
+      "bac_le": "Chúa Nhật"
+    }
+  },
+  {
+    "ma_dinh_danh": "chua-thanh-than-2",
+    "tieu_de": "Thứ hai sau Chúa Nhật VI Phục Sinh",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Phục Sinh",
+      "tuan": "VI",
+      "thu": "Thứ Hai",
+      "mau_sac": null,
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-ba-sau-chua-nhat-vi-phuc-sinh",
+    "tieu_de": "Thứ ba sau Chúa Nhật VI Phục Sinh",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Phục Sinh",
+      "tuan": "VI",
+      "thu": "Thứ Ba",
+      "mau_sac": null,
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-tu-sau-chua-nhat-vi-phuc-sinh",
+    "tieu_de": "Thứ tư sau Chúa Nhật VI Phục Sinh",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Phục Sinh",
+      "tuan": "VI",
+      "thu": "Thứ Tư",
+      "mau_sac": "Trắng",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-nam-sau-chua-nhat-vi-phuc-sinh",
+    "tieu_de": "Thứ năm sau Chúa Nhật VI Phục Sinh",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Phục Sinh",
+      "tuan": "VI",
+      "thu": "Thứ Năm",
+      "mau_sac": "trắng",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-sau-sau-chua-nhat-vi-phuc-sinh",
+    "tieu_de": "Thứ sáu sau Chúa Nhật VI Phục Sinh",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Phục Sinh",
+      "tuan": "VI",
+      "thu": "Thứ Sáu",
+      "mau_sac": "Trắng",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-bay-sau-chua-nhat-vi-phuc-sinh",
+    "tieu_de": "Thứ bảy sau Chúa Nhật VI Phục Sinh",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Phục Sinh",
+      "tuan": "VI",
+      "thu": "Thứ Ba",
+      "mau_sac": "Trắng",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "le-chua-len-troi-nam-a",
+    "tieu_de": "Lễ Chúa Thăng Thiên – Năm A",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": null,
+      "tuan": null,
+      "thu": null,
+      "mau_sac": "Trắng",
+      "bac_le": "Trọng"
+    }
+  },
+  {
+    "ma_dinh_danh": "le-chua-len-troi-nam-b",
+    "tieu_de": "Lễ Chúa Thăng Thiên – Năm B",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": null,
+      "tuan": null,
+      "thu": null,
+      "mau_sac": "Trắng",
+      "bac_le": "Trọng"
+    }
+  },
+  {
+    "ma_dinh_danh": "le-chua-len-troi-nam-c",
+    "tieu_de": "Lễ Chúa Thăng Thiên – Năm C",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": null,
+      "tuan": null,
+      "thu": null,
+      "mau_sac": "Trắng",
+      "bac_le": "Trọng"
+    }
+  },
+  {
+    "ma_dinh_danh": "chua-nhat-vii-phuc-sinh-nam-a",
+    "tieu_de": "Chúa nhật VII Phục Sinh – Năm A",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Phục Sinh",
+      "tuan": "VII",
+      "thu": "Chúa Nhật",
+      "mau_sac": "Trắng",
+      "bac_le": "Chúa Nhật"
+    }
+  },
+  {
+    "ma_dinh_danh": "chua-nhat-vii-phuc-sinh-nam-b",
+    "tieu_de": "Chúa Nhật VII Phục Sinh – Năm B",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Phục Sinh",
+      "tuan": "VII",
+      "thu": "Chúa Nhật",
+      "mau_sac": "Trắng",
+      "bac_le": "Chúa Nhật"
+    }
+  },
+  {
+    "ma_dinh_danh": "chua-nhat-vii-phuc-sinh-nam-c",
+    "tieu_de": "Chúa Nhật VII Phục Sinh – Năm C",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Phục Sinh",
+      "tuan": "VII",
+      "thu": "Chúa Nhật",
+      "mau_sac": "Trắng",
+      "bac_le": "Chúa Nhật"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-hai-sau-chua-nhat-vii-phuc-sinh",
+    "tieu_de": "Thứ hai sau Chúa Nhật VII Phục Sinh",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Phục Sinh",
+      "tuan": "VII",
+      "thu": "Thứ Hai",
+      "mau_sac": "Trắng",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-ba-sau-chua-nhat-vii-phuc-sinh",
+    "tieu_de": "Thứ ba sau Chúa Nhật VII Phục Sinh",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Phục Sinh",
+      "tuan": "VII",
+      "thu": "Thứ Ba",
+      "mau_sac": "Trắng",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-tu-sau-chua-nhat-vii-phuc-sinh",
+    "tieu_de": "Thứ tư sau Chúa Nhật VII Phục Sinh",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Phục Sinh",
+      "tuan": "VII",
+      "thu": "Thứ Tư",
+      "mau_sac": "Trắng",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-nam-sau-chua-nhat-vii-phuc-sinh",
+    "tieu_de": "Thứ năm sau Chúa Nhật VII Phục Sinh",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Phục Sinh",
+      "tuan": "VII",
+      "thu": "Thứ Năm",
+      "mau_sac": "trắng",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-sau-sau-chua-nhat-vii-phuc-sinh",
+    "tieu_de": "Thứ sáu sau Chúa Nhật VII Phục Sinh",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Phục Sinh",
+      "tuan": "VII",
+      "thu": "Thứ Sáu",
+      "mau_sac": "Trắng",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-bay-sau-chua-nhat-vii-phuc-sinh",
+    "tieu_de": "Thứ bẩy sau Chúa Nhật VII Phục Sinh",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Phục Sinh",
+      "tuan": "VII",
+      "thu": "Thứ Ba",
+      "mau_sac": "Trắng",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "chua-nhat-chua-thanh-than-hien-xuong",
+    "tieu_de": "Lễ Vọng – Chúa Thánh Thần Hiện Xuống",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": null,
+      "tuan": null,
+      "thu": null,
+      "mau_sac": "Đỏ",
+      "bac_le": "Trọng"
+    }
+  },
+  {
+    "ma_dinh_danh": "chua-nhat-le-vong-chua-thanh-than-hien-xuong",
+    "tieu_de": "Lễ Chúa Thánh Thần Hiện Xuống",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": null,
+      "tuan": null,
+      "thu": null,
+      "mau_sac": "Đỏ",
+      "bac_le": null
+    }
+  },
+  {
+    "ma_dinh_danh": "chua-giesu-chiu-phep-rua-nam-a",
+    "tieu_de": "Chúa Giê-su chịu phép rửa – Năm A",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": null,
+      "tuan": null,
+      "thu": null,
+      "mau_sac": "Trắng",
+      "bac_le": "Kính"
+    }
+  },
+  {
+    "ma_dinh_danh": "chua-giesu-chiu-phep-rua-nam-b",
+    "tieu_de": "Chúa Giê-su chịu phép rửa – Năm B",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": null,
+      "tuan": null,
+      "thu": null,
+      "mau_sac": "Trắng",
+      "bac_le": "Kính"
+    }
+  },
+  {
+    "ma_dinh_danh": "chua-giesu-chiu-phep-rua-nam-c",
+    "tieu_de": "Chúa Giê-su chịu phép rửa – Năm C",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": null,
+      "tuan": null,
+      "thu": null,
+      "mau_sac": "Trắng",
+      "bac_le": "Kính"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-hai-tuan-i-thuong-nien",
+    "tieu_de": "Thứ hai tuần I thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "I",
+      "thu": "Thứ Hai",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-ba-tuan-i-thuong-nien",
+    "tieu_de": "Thứ ba tuần I thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "I",
+      "thu": "Thứ Ba",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-tu-tuan-i-thuong-nien",
+    "tieu_de": "Thứ tư tuần I thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "I",
+      "thu": "Thứ Tư",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-nam-tuan-i-thuong-nien",
+    "tieu_de": "Thứ năm tuần I thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "I",
+      "thu": "Thứ Năm",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-sau-tuan-i-thuong-nien",
+    "tieu_de": "Thứ sáu tuần I thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "I",
+      "thu": "Thứ Sáu",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-bay-tuan-i-thuong-nien",
+    "tieu_de": "Thứ bảy tuần I thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "I",
+      "thu": "Thứ Ba",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "chua-nhat-ii-thuong-nien-nam-a",
+    "tieu_de": "Chúa Nhật II Thường niên – Năm A",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "II",
+      "thu": "Chúa Nhật",
+      "mau_sac": "Xanh",
+      "bac_le": "Chúa Nhật"
+    }
+  },
+  {
+    "ma_dinh_danh": "chua-nhat-ii-thuong-nien-nam-b",
+    "tieu_de": "Chúa Nhật II Thường niên – Năm B",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "II",
+      "thu": "Chúa Nhật",
+      "mau_sac": "Xanh",
+      "bac_le": "Chúa Nhật"
+    }
+  },
+  {
+    "ma_dinh_danh": "chua-nhat-ii-thuong-nien-nam-c",
+    "tieu_de": "Chúa Nhật II Thường Niên – Năm C",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "II",
+      "thu": "Chúa Nhật",
+      "mau_sac": "Xanh",
+      "bac_le": "Chúa Nhật"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-hai-tuan-ii-thuong-nien",
+    "tieu_de": "Thứ hai tuần II thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "II",
+      "thu": "Thứ Hai",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-ba-tuan-ii-thuong-nien",
+    "tieu_de": "Thứ ba tuần II thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "II",
+      "thu": "Thứ Ba",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-tu-tuan-ii-thuong-nien",
+    "tieu_de": "Thứ tư tuần II thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "II",
+      "thu": "Thứ Tư",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-nam-tuan-ii-thuong-nien",
+    "tieu_de": "Thứ năm tuần II thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "II",
+      "thu": "Thứ Năm",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-sau-tuan-ii-thuong-nien",
+    "tieu_de": "Thứ sáu tuần II thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "II",
+      "thu": "Thứ Sáu",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-bay-tuan-ii-thuong-nien",
+    "tieu_de": "Thứ bảy tuần II thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "II",
+      "thu": "Thứ Ba",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "chua-nhat-iii-thuong-nien-nam-a",
+    "tieu_de": "Chúa Nhật III Thường Niên – Năm A",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "III",
+      "thu": "Chúa Nhật",
+      "mau_sac": "Xanh",
+      "bac_le": "Chúa Nhật"
+    }
+  },
+  {
+    "ma_dinh_danh": "chua-nhat-iii-thuong-nien-nam-b",
+    "tieu_de": "Chúa Nhật III Thường Niên – Năm B",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "III",
+      "thu": "Chúa Nhật",
+      "mau_sac": "Xanh",
+      "bac_le": "Chúa Nhật"
+    }
+  },
+  {
+    "ma_dinh_danh": "chua-nhat-iii-thuong-nien-nam-c",
+    "tieu_de": "Chúa Nhật III Thường Niên – Năm C",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "III",
+      "thu": "Chúa Nhật",
+      "mau_sac": "Xanh",
+      "bac_le": "Chúa Nhật"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-hai-tuan-iii-thuong-nien",
+    "tieu_de": "Thứ hai tuần III thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "III",
+      "thu": "Thứ Hai",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-ba-tuan-iii-thuong-nien",
+    "tieu_de": "Thứ ba tuần III thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "III",
+      "thu": "Thứ Ba",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-tu-tuan-iii-thuong-nien",
+    "tieu_de": "Thứ tư tuần III thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "III",
+      "thu": "Thứ Tư",
+      "mau_sac": "Xanh",
+      "bac_le": "Thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-nam-tuan-iii-thuong-nien",
+    "tieu_de": "Thứ năm tuần III thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "III",
+      "thu": "Thứ Năm",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-sau-tuan-iii-thuong-nien",
+    "tieu_de": "Thứ sáu tuần III thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "III",
+      "thu": "Thứ Sáu",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-bay-tuan-iii-thuong-nien",
+    "tieu_de": "Thứ bảy tuần III thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "III",
+      "thu": "Thứ Ba",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "chua-nhat-iv-thuong-nien-nam-a",
+    "tieu_de": "Chúa Nhật IV Thường Niên – Năm A",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "IV",
+      "thu": "Chúa Nhật",
+      "mau_sac": "Xanh",
+      "bac_le": "Chúa Nhật"
+    }
+  },
+  {
+    "ma_dinh_danh": "chua-nhat-iv-thuong-nien-nam-b",
+    "tieu_de": "Chúa Nhật IV Thường Niên – Năm B",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "IV",
+      "thu": "Chúa Nhật",
+      "mau_sac": "Xanh",
+      "bac_le": "Chúa Nhật"
+    }
+  },
+  {
+    "ma_dinh_danh": "chua-nhat-iv-thuong-nien-nam-c",
+    "tieu_de": "Chúa Nhật IV Thường Niên – Năm C",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "IV",
+      "thu": "Chúa Nhật",
+      "mau_sac": "Xanh",
+      "bac_le": "Chúa Nhật"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-hai-tuan-iv-thuong-nien",
+    "tieu_de": "Thứ hai tuần IV thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "IV",
+      "thu": "Thứ Hai",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-ba-tuan-iv-thuong-nien",
+    "tieu_de": "Thứ ba tuần IV thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "IV",
+      "thu": "Thứ Ba",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-tu-tuan-iv-thuong-nien",
+    "tieu_de": "Thứ tư tuần IV thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "IV",
+      "thu": "Thứ Tư",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-nam-tuan-iv-thuong-nien",
+    "tieu_de": "Thứ năm tuần IV thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "IV",
+      "thu": "Thứ Năm",
+      "mau_sac": null,
+      "bac_le": null
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-sau-tuan-iv-thuong-nien",
+    "tieu_de": "Thứ sáu tuần IV thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "IV",
+      "thu": "Thứ Sáu",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-bay-tuan-iv-thuong-nien",
+    "tieu_de": "Thứ bảy tuần IV thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "IV",
+      "thu": "Thứ Ba",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "chua-nhat-v-thuong-nien-nam-a",
+    "tieu_de": "Chúa Nhật V Thường Niên – Năm A",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "V",
+      "thu": "Chúa Nhật",
+      "mau_sac": "Xanh",
+      "bac_le": "Chúa Nhật"
+    }
+  },
+  {
+    "ma_dinh_danh": "chua-nhat-v-thuong-nien-nam-b",
+    "tieu_de": "Chúa Nhật V Thường Niên – Năm B",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "V",
+      "thu": "Chúa Nhật",
+      "mau_sac": "Xanh",
+      "bac_le": "Chúa Nhật"
+    }
+  },
+  {
+    "ma_dinh_danh": "chua-nhat-v-thuong-nien-nam-c",
+    "tieu_de": "Chúa Nhật V Thường Niên – Năm C",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "V",
+      "thu": "Chúa Nhật",
+      "mau_sac": "Xanh",
+      "bac_le": "Chúa Nhật"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-hai-tuan-v-thuong-nien",
+    "tieu_de": "Thứ hai tuần V thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "V",
+      "thu": "Thứ Hai",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-ba-tuan-v-thuong-nien",
+    "tieu_de": "Thứ ba tuần V thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "V",
+      "thu": "Thứ Ba",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-tu-tuan-v-thuong-nien",
+    "tieu_de": "Thứ tư tuần V thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "V",
+      "thu": "Thứ Tư",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-nam-tuan-v-thuong-nien",
+    "tieu_de": "Thứ năm tuần V thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "V",
+      "thu": "Thứ Năm",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-sau-tuan-v-thuong-nien",
+    "tieu_de": "Thứ sáu tuần V thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "V",
+      "thu": "Thứ Sáu",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-bay-tuan-v-thuong-nien",
+    "tieu_de": "Thứ bảy tuần V thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "V",
+      "thu": "Thứ Ba",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "chua-nhat-vi-thuong-nien-a",
+    "tieu_de": "Chúa Nhật VI Thường Niên – Năm A",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "VI",
+      "thu": "Chúa Nhật",
+      "mau_sac": "Xanh",
+      "bac_le": "Chúa Nhật"
+    }
+  },
+  {
+    "ma_dinh_danh": "chua-nhat-vi-thuong-nien-nam-b",
+    "tieu_de": "Chúa Nhật VI Thường Niên – Năm B",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "VI",
+      "thu": "Chúa Nhật",
+      "mau_sac": "Xanh",
+      "bac_le": "Chúa Nhật"
+    }
+  },
+  {
+    "ma_dinh_danh": "chua-nhat-vi-thuong-nien-nam-c",
+    "tieu_de": "Chúa Nhật VI Thường Niên – Năm C",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "VI",
+      "thu": "Chúa Nhật",
+      "mau_sac": "Xanh",
+      "bac_le": "Chúa Nhật"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-hai-tuan-vi-thuong-nien",
+    "tieu_de": "Thứ hai tuần VI thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "VI",
+      "thu": "Thứ Hai",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-ba-tuan-vi-thuong-nien",
+    "tieu_de": "Thứ ba tuần VI thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "VI",
+      "thu": "Thứ Ba",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-tu-tuan-vi-thuong-nien",
+    "tieu_de": "Thứ tư tuần VI thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "VI",
+      "thu": "Thứ Tư",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-nam-tuan-vi-thuong-nien",
+    "tieu_de": "Thứ năm tuần VI thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "VI",
+      "thu": "Thứ Năm",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-sau-tuan-vi-thuong-nien",
+    "tieu_de": "Thứ sáu tuần VI thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "VI",
+      "thu": "Thứ Sáu",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-bay-tuan-vi-thuong-nien",
+    "tieu_de": "Thứ bảy tuần VI thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "VI",
+      "thu": "Thứ Ba",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "chua-nhat-vii-thuong-nien-a",
+    "tieu_de": "Chúa Nhật VII Thường Niên – Năm A",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "VII",
+      "thu": "Chúa Nhật",
+      "mau_sac": "Xanh",
+      "bac_le": "Chúa Nhật"
+    }
+  },
+  {
+    "ma_dinh_danh": "chua-nhat-vii-thuong-nien-nam-b",
+    "tieu_de": "Chúa Nhật VII Thường Niên – Năm B",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "VII",
+      "thu": "Chúa Nhật",
+      "mau_sac": "Xanh",
+      "bac_le": "Chúa Nhật"
+    }
+  },
+  {
+    "ma_dinh_danh": "chua-nhat-vii-thuong-nien-nam-c",
+    "tieu_de": "Chúa Nhật VII Thường Niên – Năm C",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "VII",
+      "thu": "Chúa Nhật",
+      "mau_sac": "Xanh",
+      "bac_le": "Chúa Nhật"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-hai-tuan-vii-thuong-nien",
+    "tieu_de": "Thứ hai tuần VII thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "VII",
+      "thu": "Thứ Hai",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-ba-tuan-vii-thuong-nien",
+    "tieu_de": "Thứ ba tuần VII thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "VII",
+      "thu": "Thứ Ba",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-tu-tuan-vii-thuong-nien",
+    "tieu_de": "Thứ tư tuần VII thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "VII",
+      "thu": "Thứ Tư",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-nam-tuan-vii-thuong-nien",
+    "tieu_de": "Thứ năm tuần VII thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "VII",
+      "thu": "Thứ Năm",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-sau-tuan-vii-thuong-nien",
+    "tieu_de": "Thứ sáu tuần VII thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "VII",
+      "thu": "Thứ Sáu",
+      "mau_sac": null,
+      "bac_le": null
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-bay-tuan-vii-thuong-nien",
+    "tieu_de": "Thứ bảy tuần VII thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "VII",
+      "thu": "Thứ Ba",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "chua-nhat-viii-thuong-nien-a",
+    "tieu_de": "Chúa Nhật VIII Thường Niên – Năm A",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "VIII",
+      "thu": "Chúa Nhật",
+      "mau_sac": "Xanh",
+      "bac_le": "Chúa Nhật"
+    }
+  },
+  {
+    "ma_dinh_danh": "chua-nhat-viii-thuong-nien-nam-b",
+    "tieu_de": "Chúa Nhật VIII Thường Niên – Năm B",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "VIII",
+      "thu": "Chúa Nhật",
+      "mau_sac": "Xanh",
+      "bac_le": "Chúa Nhật"
+    }
+  },
+  {
+    "ma_dinh_danh": "chua-nhat-viii-thuong-nien-nam-c",
+    "tieu_de": "Chúa Nhật VIII Thường Niên – Năm C",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "VIII",
+      "thu": "Chúa Nhật",
+      "mau_sac": "Xanh",
+      "bac_le": "Chúa Nhật"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-hai-tuan-viii-thuong-nien",
+    "tieu_de": "Thứ hai tuần VIII thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "VIII",
+      "thu": "Thứ Hai",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-ba-tuan-viii-thuong-nien",
+    "tieu_de": "Thứ ba tuần VIII thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "VIII",
+      "thu": "Thứ Ba",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-tu-tuan-viii-thuong-nien",
+    "tieu_de": "Thứ tư tuần VIII thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "VIII",
+      "thu": "Thứ Tư",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-nam-tuan-viii-thuong-nien",
+    "tieu_de": "Thứ năm tuần VIII thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "VIII",
+      "thu": "Thứ Năm",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-sau-tuan-viii-thuong-nien",
+    "tieu_de": "Thứ sáu tuần VIII thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "VIII",
+      "thu": "Thứ Sáu",
+      "mau_sac": "xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-bay-tuan-viii-thuong-nien",
+    "tieu_de": "Thứ bẩy tuần VIII thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "VIII",
+      "thu": "Thứ Ba",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "chua-nhat-ix-thuong-nien-nam-a",
+    "tieu_de": "Chúa Nhật IX Thường Niên – Năm A",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "IX",
+      "thu": "Chúa Nhật",
+      "mau_sac": "Xanh",
+      "bac_le": "Chúa Nhật"
+    }
+  },
+  {
+    "ma_dinh_danh": "chua-nhat-ix-thuong-nien-nam-b",
+    "tieu_de": "Chúa Nhật IX Thường Niên – Năm B",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "IX",
+      "thu": "Chúa Nhật",
+      "mau_sac": "Xanh",
+      "bac_le": "Chúa Nhật"
+    }
+  },
+  {
+    "ma_dinh_danh": "chua-nhat-ix-thuong-nien-nam-c",
+    "tieu_de": "Chúa Nhật IX Thường Niên – Năm C",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "IX",
+      "thu": "Chúa Nhật",
+      "mau_sac": "Xanh",
+      "bac_le": "Chúa Nhật"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-hai-tuan-ix-thuong-nien",
+    "tieu_de": "Thứ hai tuần IX thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "IX",
+      "thu": "Thứ Hai",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-ba-tuan-ix-thuong-nien",
+    "tieu_de": "Thứ ba tuần IX thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "IX",
+      "thu": "Thứ Ba",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-tu-tuan-ix-thuong-nien",
+    "tieu_de": "Thứ tư tuần IX thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "IX",
+      "thu": "Thứ Tư",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-nam-tuan-ix-thuong-nien",
+    "tieu_de": "Thứ năm tuần IX thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "IX",
+      "thu": "Thứ Năm",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-sau-tuan-ix-thuong-nien",
+    "tieu_de": "Thứ sáu tuần IX thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "IX",
+      "thu": "Thứ Sáu",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-bay-tuan-ix-thuong-nien",
+    "tieu_de": "Thứ bảy tuần IX thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "IX",
+      "thu": "Thứ Ba",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "chua-nhat-x-thuong-nien-nam-a",
+    "tieu_de": "Chúa Nhật X Thường Niên – Năm A",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "X",
+      "thu": "Chúa Nhật",
+      "mau_sac": "Xanh",
+      "bac_le": "Chúa Nhật"
+    }
+  },
+  {
+    "ma_dinh_danh": "chua-nhat-x-thuong-nien-nam-b",
+    "tieu_de": "Chúa Nhật X Thường Niên – Năm B",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "X",
+      "thu": "Chúa Nhật",
+      "mau_sac": "Xanh",
+      "bac_le": "Chúa Nhật"
+    }
+  },
+  {
+    "ma_dinh_danh": "chua-nhat-x-thuong-nien-nam-c",
+    "tieu_de": "Chúa Nhật X Thường Niên – Năm C",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "X",
+      "thu": "Chúa Nhật",
+      "mau_sac": "Xanh",
+      "bac_le": "Chúa Nhật"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-hai-tuan-x-thuong-nien",
+    "tieu_de": "Thứ hai tuần X thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "X",
+      "thu": "Thứ Hai",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-ba-tuan-x-thuong-nien",
+    "tieu_de": "Thứ ba tuần X thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "X",
+      "thu": "Thứ Ba",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-tu-tuan-x-thuong-nien",
+    "tieu_de": "Thứ tư tuần X thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "X",
+      "thu": "Thứ Tư",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-nam-tuan-x-thuong-nien",
+    "tieu_de": "Thứ năm tuần X thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "X",
+      "thu": "Thứ Năm",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-sau-tuan-x-thuong-nien",
+    "tieu_de": "Thứ sáu tuần X thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "X",
+      "thu": "Thứ Sáu",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-bay-tuan-x-thuong-nien",
+    "tieu_de": "Thứ bảy tuần X thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "X",
+      "thu": "Thứ Ba",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "chua-nhat-xi-thuong-nien-nam-a",
+    "tieu_de": "Chúa Nhật XI Thường Niên – Năm A",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XI",
+      "thu": "Chúa Nhật",
+      "mau_sac": "Xanh",
+      "bac_le": "Chúa Nhật"
+    }
+  },
+  {
+    "ma_dinh_danh": "chua-nhat-xi-thuong-nien-nam-b",
+    "tieu_de": "Chúa Nhật XI Thường Niên – Năm B",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XI",
+      "thu": "Chúa Nhật",
+      "mau_sac": "Xanh",
+      "bac_le": "Chúa Nhật"
+    }
+  },
+  {
+    "ma_dinh_danh": "chua-nhat-xi-thuong-nien-nam-c",
+    "tieu_de": "Chúa Nhật XI Thường Niên – Năm C",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XI",
+      "thu": "Chúa Nhật",
+      "mau_sac": "Xanh",
+      "bac_le": "Chúa Nhật"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-hai-tuan-xi-thuong-nien",
+    "tieu_de": "Thứ hai tuần XI thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XI",
+      "thu": "Thứ Hai",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-ba-tuan-xi-thuong-nien",
+    "tieu_de": "Thứ ba tuần XI thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XI",
+      "thu": "Thứ Ba",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-tu-tuan-xi-thuong-nien",
+    "tieu_de": "Thứ tư tuần XI thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XI",
+      "thu": "Thứ Tư",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-nam-tuan-xi-thuong-nien",
+    "tieu_de": "Thứ năm tuần XI thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XI",
+      "thu": "Thứ Năm",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-sau-tuan-xi-thuong-nien",
+    "tieu_de": "Thứ sáu tuần XI thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XI",
+      "thu": "Thứ Sáu",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-bay-tuan-xi-thuong-nien",
+    "tieu_de": "Thứ bảy tuần XI thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XI",
+      "thu": "Thứ Ba",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "chua-nhat-xii-thuong-nien-a",
+    "tieu_de": "Chúa Nhật XII thường Niên – Năm A",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XII",
+      "thu": "Chúa Nhật",
+      "mau_sac": "Xanh",
+      "bac_le": "Chúa nhật"
+    }
+  },
+  {
+    "ma_dinh_danh": "chua-nhat-xii-thuong-nien-b",
+    "tieu_de": "Chúa Nhật XII thường Niên – Năm B",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XII",
+      "thu": "Chúa Nhật",
+      "mau_sac": "Xanh",
+      "bac_le": "Chúa nhật"
+    }
+  },
+  {
+    "ma_dinh_danh": "chua-nhat-xii-thuong-nien-nam-c",
+    "tieu_de": "Chúa Nhật XII Thường Niên – Năm C",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XII",
+      "thu": "Chúa Nhật",
+      "mau_sac": "Xanh",
+      "bac_le": "Chúa nhật"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-hai-tuan-xii-thuong-nien",
+    "tieu_de": "Thứ hai tuần XII thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XII",
+      "thu": "Thứ Hai",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-ba-tuan-xii-thuong-nien",
+    "tieu_de": "Thứ ba tuần XII thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XII",
+      "thu": "Thứ Ba",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-tu-tuan-xii-thuong-nien",
+    "tieu_de": "Thứ tư tuần XII thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XII",
+      "thu": "Thứ Tư",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-nam-tuan-xii-thuong-nien",
+    "tieu_de": "Thứ năm tuần XII thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XII",
+      "thu": "Thứ Năm",
+      "mau_sac": "Xanh",
+      "bac_le": "Thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-sau-tuan-xii-thuong-nien",
+    "tieu_de": "Thứ sáu tuần XII thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XII",
+      "thu": "Thứ Sáu",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-bay-tuan-xii-thuong-nien",
+    "tieu_de": "Thứ bảy tuần XII thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XII",
+      "thu": "Thứ Ba",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "chua-nhat-xiii-thuong-nien-2023-nam-a",
+    "tieu_de": "Chúa Nhật XIII thường Niên – Năm A",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XIII",
+      "thu": "Chúa Nhật",
+      "mau_sac": "Xanh",
+      "bac_le": "Chúa Nhật"
+    }
+  },
+  {
+    "ma_dinh_danh": "chua-nhat-xiii-thuong-nien-nam-b",
+    "tieu_de": "Chúa Nhật XIII Thường Niên – Năm B",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XIII",
+      "thu": "Chúa Nhật",
+      "mau_sac": "Xanh",
+      "bac_le": "Chúa Nhật"
+    }
+  },
+  {
+    "ma_dinh_danh": "chua-nhat-xiii-thuong-nien-nam-c",
+    "tieu_de": "Chúa Nhật XIII Thường Niên – Năm C",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XIII",
+      "thu": "Chúa Nhật",
+      "mau_sac": "Xanh",
+      "bac_le": "Chúa Nhật"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-hai-tuan-xiii-thuong-nien",
+    "tieu_de": "Thứ hai tuần XIII thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XIII",
+      "thu": "Thứ Hai",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-ba-tuan-xiii-thuong-nien",
+    "tieu_de": "Thứ ba tuần XIII thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XIII",
+      "thu": "Thứ Ba",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-tu-tuan-xiii-thuong-nien",
+    "tieu_de": "Thứ tư tuần XIII thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XIII",
+      "thu": "Thứ Tư",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-nam-tuan-xiii-thuong-nien",
+    "tieu_de": "Thứ năm tuần XIII thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XIII",
+      "thu": "Thứ Năm",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-sau-tuan-xiii-thuong-nien",
+    "tieu_de": "Thứ sáu tuần XIII thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XIII",
+      "thu": "Thứ Sáu",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-bay-tuan-xiii-thuong-nien",
+    "tieu_de": "Thứ bảy tuần XIII thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XIII",
+      "thu": "Thứ Ba",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "chua-nhat-xiv-thuong-nien-a",
+    "tieu_de": "Chúa Nhật XIV Thường Niên – Năm A",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XIV",
+      "thu": "Chúa Nhật",
+      "mau_sac": "Xanh",
+      "bac_le": "Chúa nhật"
+    }
+  },
+  {
+    "ma_dinh_danh": "chua-nhat-xiv-thuong-nien-nam-b",
+    "tieu_de": "Chúa Nhật XIV Thường Niên – Năm B",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XIV",
+      "thu": "Chúa Nhật",
+      "mau_sac": "Xanh",
+      "bac_le": "Chúa Nhật"
+    }
+  },
+  {
+    "ma_dinh_danh": "chua-nhat-xiv-thuong-nien-nam-c",
+    "tieu_de": "Chúa Nhật XIV Thường Niên – Năm C",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XIV",
+      "thu": "Chúa Nhật",
+      "mau_sac": "Xanh",
+      "bac_le": "Chúa Nhật"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-hai-tuan-xiv-thuong-nien",
+    "tieu_de": "Thứ hai tuần XIV thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XIV",
+      "thu": "Thứ Hai",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-ba-tuan-xiv-thuong-nien",
+    "tieu_de": "Thứ ba tuần XIV thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XIV",
+      "thu": "Thứ Ba",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-tu-tuan-xiv-thuong-nien",
+    "tieu_de": "Thứ tư tuần XIV thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XIV",
+      "thu": "Thứ Tư",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-nam-tuan-xiv-thuong-nien",
+    "tieu_de": "Thứ năm tuần XIV thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XIV",
+      "thu": "Thứ Năm",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-sau-tuan-xiv-thuong-nien",
+    "tieu_de": "Thứ sáu tuần XIV thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XIV",
+      "thu": "Thứ Sáu",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-bay-tuan-xiv-thuong-nien",
+    "tieu_de": "Thứ bẩy tuần XIV thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XIV",
+      "thu": "Thứ Ba",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "chua-nhat-xv-thuong-nien-a",
+    "tieu_de": "Chúa Nhật XV Thường Niên – Năm A",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XV",
+      "thu": "Chúa Nhật",
+      "mau_sac": "Xanh",
+      "bac_le": "Chúa Nhật"
+    }
+  },
+  {
+    "ma_dinh_danh": "chua-nhat-xv-thuong-nien-nam-b",
+    "tieu_de": "Chúa Nhật XV Thường Niên – Năm B",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XV",
+      "thu": "Chúa Nhật",
+      "mau_sac": "Xanh",
+      "bac_le": "Chúa Nhật"
+    }
+  },
+  {
+    "ma_dinh_danh": "chua-nhat-xv-thuong-nien-nam-c",
+    "tieu_de": "Chúa Nhật XV Thường Niên – Năm C",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XV",
+      "thu": "Chúa Nhật",
+      "mau_sac": "Xanh",
+      "bac_le": "Chúa Nhật"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-hai-tuan-xv-thuong-nien",
+    "tieu_de": "Thứ hai tuần XV thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XV",
+      "thu": "Thứ Hai",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-ba-tuan-xv-thuong-nien",
+    "tieu_de": "Thứ ba tuần XV thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XV",
+      "thu": "Thứ Ba",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-tu-tuan-xv-thuong-nien",
+    "tieu_de": "Thứ tư tuần XV thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XV",
+      "thu": "Thứ Tư",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-nam-tuan-xv-thuong-nien",
+    "tieu_de": "Thứ năm tuần XV thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XV",
+      "thu": "Thứ Năm",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-sau-tuan-xv-thuong-nien",
+    "tieu_de": "Thứ sáu tuần XV thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XV",
+      "thu": "Thứ Sáu",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-bay-tuan-xv-thuong-nien",
+    "tieu_de": "Thứ bẩy tuần XV thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XV",
+      "thu": "Thứ Ba",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "chua-nhat-xvi-thuong-nien-a",
+    "tieu_de": "Chúa Nhật XVI thường niên – Năm A",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XVI",
+      "thu": "Chúa Nhật",
+      "mau_sac": "Xanh",
+      "bac_le": "Chúa Nhật"
+    }
+  },
+  {
+    "ma_dinh_danh": "chua-nhat-xvi-thuong-nien-nam-b",
+    "tieu_de": "Chúa Nhật XVI Thường Niên – Năm B",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XVI",
+      "thu": "Chúa Nhật",
+      "mau_sac": "Xanh",
+      "bac_le": "Chúa Nhật"
+    }
+  },
+  {
+    "ma_dinh_danh": "chua-nhat-xvi-thuong-nien-nam-c",
+    "tieu_de": "Chúa Nhật XVI Thường Niên – Năm C",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XVI",
+      "thu": "Chúa Nhật",
+      "mau_sac": "Xanh",
+      "bac_le": "Chúa Nhật"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-hai-tuan-xvi-thuong-nien",
+    "tieu_de": "Thứ hai tuần XVI thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XVI",
+      "thu": "Thứ Hai",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-ba-tuan-xvi-thuong-nien",
+    "tieu_de": "Thứ ba tuần XVI thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XVI",
+      "thu": "Thứ Ba",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-nam-tuan-xvi-thuong-nien",
+    "tieu_de": "Thứ năm tuần XVI thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XVI",
+      "thu": "Thứ Năm",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-tu-tuan-xvi-thuong-nien",
+    "tieu_de": "Thứ tư tuần XVI thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XVI",
+      "thu": "Thứ Tư",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-sau-tuan-xvi-thuong-nien",
+    "tieu_de": "Thứ sáu tuần XVI thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XVI",
+      "thu": "Thứ Sáu",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-bay-tuan-xvi-thuong-nien",
+    "tieu_de": "Thứ bẩy tuần XVI thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XVI",
+      "thu": "Thứ Ba",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "chua-nhat-xvii-thuong-nien-nam-a",
+    "tieu_de": "Chúa Nhật XVII Thường Niên – Năm A",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XVII",
+      "thu": "Chúa Nhật",
+      "mau_sac": "Xanh",
+      "bac_le": "Chúa Nhật"
+    }
+  },
+  {
+    "ma_dinh_danh": "chua-nhat-xvii-thuong-nien-nam-b",
+    "tieu_de": "Chúa Nhật XVII Thường Niên – Năm B",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XVII",
+      "thu": "Chúa Nhật",
+      "mau_sac": "Xanh",
+      "bac_le": "Chúa Nhật"
+    }
+  },
+  {
+    "ma_dinh_danh": "chua-nhat-xvii-thuong-nien-nam-c",
+    "tieu_de": "Chúa Nhật XVII Thường Niên – Năm C",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XVII",
+      "thu": "Chúa Nhật",
+      "mau_sac": "Xanh",
+      "bac_le": "Chúa Nhật"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-hai-tuan-xvii-thuong-nien",
+    "tieu_de": "Thứ hai tuần XVII thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XVII",
+      "thu": "Thứ Hai",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-ba-tuan-xvii-thuong-nien",
+    "tieu_de": "Thứ ba tuần XVII thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XVII",
+      "thu": "Thứ Ba",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-tu-tuan-xvii-thuong-nien",
+    "tieu_de": "Thứ tư tuần XVII thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XVII",
+      "thu": "Thứ Tư",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-nam-tuan-xvii-thuong-nien",
+    "tieu_de": "Thứ năm tuần XVII thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XVII",
+      "thu": "Thứ Năm",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-sau-tuan-xvii-thuong-nien",
+    "tieu_de": "Thứ sáu tuần XVII thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XVII",
+      "thu": "Thứ Sáu",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-bay-tuan-xvii-thuong-nien",
+    "tieu_de": "Thứ bẩy tuần XVII thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XVII",
+      "thu": "Thứ Ba",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "chua-nhat-xviii-thuong-nien-nam-a",
+    "tieu_de": "Chúa Nhật XVIII Thường Niên – Năm A",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XVIII",
+      "thu": "Chúa Nhật",
+      "mau_sac": "Xanh",
+      "bac_le": "Chúa Nhật"
+    }
+  },
+  {
+    "ma_dinh_danh": "chua-nhat-xviii-thuong-nien-nam-b",
+    "tieu_de": "Chúa Nhật XVIII Thường Niên – Năm B",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XVIII",
+      "thu": "Chúa Nhật",
+      "mau_sac": "Xanh",
+      "bac_le": "Chúa Nhật"
+    }
+  },
+  {
+    "ma_dinh_danh": "chua-nhat-xviii-thuong-nien-nam-c",
+    "tieu_de": "Chúa Nhật XVIII Thường Niên – Năm C",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XVIII",
+      "thu": "Chúa Nhật",
+      "mau_sac": "Xanh",
+      "bac_le": "Chúa Nhật"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-hai-tuan-xviii-thuong-nien",
+    "tieu_de": "Thứ hai tuần XVIII thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XVIII",
+      "thu": "Thứ Hai",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-ba-tuan-xviii-thuong-nien",
+    "tieu_de": "Thứ ba tuần XVIII thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XVIII",
+      "thu": "Thứ Ba",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-tu-tuan-xviii-thuong-nien",
+    "tieu_de": "Thứ tư tuần XVIII thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XVIII",
+      "thu": "Thứ Tư",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-nam-tuan-xviii-thuong-nien",
+    "tieu_de": "Thứ năm tuần XVIII thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XVIII",
+      "thu": "Thứ Năm",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-sau-tuan-xviii-thuong-nien",
+    "tieu_de": "Thứ sáu tuần XVIII thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XVIII",
+      "thu": "Thứ Sáu",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-bay-tuan-xviii-thuong-nien",
+    "tieu_de": "Thứ bảy tuần XVIII thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XVIII",
+      "thu": "Thứ Ba",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "chua-nhat-xix-thuong-nien-nam-a",
+    "tieu_de": "Chúa Nhật XIX Thường Niên – Năm A",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XIX",
+      "thu": "Chúa Nhật",
+      "mau_sac": "Xanh",
+      "bac_le": "Chúa Nhật"
+    }
+  },
+  {
+    "ma_dinh_danh": "chua-nhat-xix-thuong-nien-nam-b",
+    "tieu_de": "Chúa Nhật XIX Thường Niên – Năm B",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XIX",
+      "thu": "Chúa Nhật",
+      "mau_sac": "Xanh",
+      "bac_le": "Chúa Nhật"
+    }
+  },
+  {
+    "ma_dinh_danh": "chua-nhat-xix-thuong-nien-nam-c",
+    "tieu_de": "Chúa Nhật XIX Thường Niên – Năm C",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XIX",
+      "thu": "Chúa Nhật",
+      "mau_sac": "Xanh",
+      "bac_le": "Chúa Nhật"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-hai-tuan-xix-thuong-nien",
+    "tieu_de": "Thứ hai tuần XIX thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XIX",
+      "thu": "Thứ Hai",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-ba-tuan-xix-thuong-nien",
+    "tieu_de": "Thứ ba tuần XIX thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XIX",
+      "thu": "Thứ Ba",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-tu-tuan-xix-thuong-nien",
+    "tieu_de": "Thứ tư tuần XIX thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XIX",
+      "thu": "Thứ Tư",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-nam-tuan-xix-thuong-nien",
+    "tieu_de": "Thứ năm tuần XIX thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XIX",
+      "thu": "Thứ Năm",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-sau-tuan-xix-thuong-nien",
+    "tieu_de": "Thứ sáu tuần XIX thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XIX",
+      "thu": "Thứ Sáu",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-bay-tuan-xix-thuong-nien",
+    "tieu_de": "Thứ bảy tuần XIX thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XIX",
+      "thu": "Thứ Ba",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "chua-nhat-xx-thuong-nien-nam-a",
+    "tieu_de": "Chúa Nhật XX Thường Niên – Năm A",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XX",
+      "thu": "Chúa Nhật",
+      "mau_sac": "Xanh",
+      "bac_le": "Chúa Nhật"
+    }
+  },
+  {
+    "ma_dinh_danh": "chua-nhat-xx-thuong-nien-nam-b",
+    "tieu_de": "Chúa Nhật XX Thường Niên – Năm B",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XX",
+      "thu": "Chúa Nhật",
+      "mau_sac": "Xanh",
+      "bac_le": "Chúa Nhật"
+    }
+  },
+  {
+    "ma_dinh_danh": "chua-nhat-xx-thuong-nien-nam-c",
+    "tieu_de": "Chúa Nhật XX Thường Niên – Năm C",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XX",
+      "thu": "Chúa Nhật",
+      "mau_sac": "Xanh",
+      "bac_le": "Chúa Nhật"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-hai-tuan-xx-thuong-nien",
+    "tieu_de": "Thứ hai tuần XX thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XX",
+      "thu": "Thứ Hai",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-ba-tuan-xx-thuong-nien",
+    "tieu_de": "Thứ ba tuần XX thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XX",
+      "thu": "Thứ Ba",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-tu-tuan-xx-thuong-nien",
+    "tieu_de": "Thứ tư tuần XX thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XX",
+      "thu": "Thứ Tư",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-nam-tuan-xx-thuong-nien",
+    "tieu_de": "Thứ năm tuần XX thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XX",
+      "thu": "Thứ Năm",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-sau-tuan-xx-thuong-nien",
+    "tieu_de": "Thứ sáu tuần XX thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XX",
+      "thu": "Thứ Sáu",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-bay-tuan-xx-thuong-nien",
+    "tieu_de": "Thứ bảy tuần XX thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XX",
+      "thu": "Thứ Ba",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "chua-nhat-xxi-thuong-nien-nam-a",
+    "tieu_de": "Chúa Nhật XXI Thường Niên – Năm A",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XXI",
+      "thu": "Chúa Nhật",
+      "mau_sac": "Xanh",
+      "bac_le": "Chúa Nhật"
+    }
+  },
+  {
+    "ma_dinh_danh": "chua-nhat-xxi-thuong-nien-nam-b",
+    "tieu_de": "Chúa Nhật XXI Thường Niên – Năm B",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XXI",
+      "thu": "Chúa Nhật",
+      "mau_sac": "Xanh",
+      "bac_le": "Chúa Nhật"
+    }
+  },
+  {
+    "ma_dinh_danh": "chua-nhat-xxi-thuong-nien-nam-c",
+    "tieu_de": "Chúa Nhật XXI Thường Niên – Năm C",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XXI",
+      "thu": "Chúa Nhật",
+      "mau_sac": "Xanh",
+      "bac_le": "Chúa Nhật"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-hai-tuan-xxi-thuong-nien",
+    "tieu_de": "Thứ hai tuần XXI thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XXI",
+      "thu": "Thứ Hai",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-ba-tuan-xxi-thuong-nien",
+    "tieu_de": "Thứ ba tuần XXI thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XXI",
+      "thu": "Thứ Ba",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-tu-tuan-xxi-thuong-nien",
+    "tieu_de": "Thứ tư tuần XXI thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XXI",
+      "thu": "Thứ Tư",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-nam-tuan-xxi-thuong-nien",
+    "tieu_de": "Thứ năm tuần XXI thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XXI",
+      "thu": "Thứ Năm",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-sau-tuan-xxi-thuong-nien",
+    "tieu_de": "Thứ sáu tuần XXI thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XXI",
+      "thu": "Thứ Sáu",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-bay-tuan-xxi-thuong-nien",
+    "tieu_de": "Thứ bảy tuần XXI thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XXI",
+      "thu": "Thứ Ba",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "chua-nhat-xxii-thuong-nien-nam-a",
+    "tieu_de": "Chúa Nhật XXII Thường Niên – Năm A",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XXII",
+      "thu": "Chúa Nhật",
+      "mau_sac": "Xanh",
+      "bac_le": "Chúa Nhật"
+    }
+  },
+  {
+    "ma_dinh_danh": "chua-nhat-xxii-thuong-nien-nam-b",
+    "tieu_de": "Chúa Nhật XXII Thường Niên – Năm B",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XXII",
+      "thu": "Chúa Nhật",
+      "mau_sac": "Xanh",
+      "bac_le": "Chúa Nhật"
+    }
+  },
+  {
+    "ma_dinh_danh": "chua-nhat-xxii-thuong-nien-nam-c",
+    "tieu_de": "Chúa Nhật XXII Thường Niên – Năm C",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XXII",
+      "thu": "Chúa Nhật",
+      "mau_sac": "Xanh",
+      "bac_le": "Chúa Nhật"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-hai-tuan-xxii-thuong-nien",
+    "tieu_de": "Thứ hai tuần XXII thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XXII",
+      "thu": "Thứ Hai",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-ba-tuan-xxii-thuong-nien",
+    "tieu_de": "Thứ ba tuần XXII thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XXII",
+      "thu": "Thứ Ba",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-tu-tuan-xxii-thuong-nien",
+    "tieu_de": "Thứ tư tuần XXII thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XXII",
+      "thu": "Thứ Tư",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-nam-tuan-xxii-thuong-nien",
+    "tieu_de": "Thứ năm tuần XXII thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XXII",
+      "thu": "Thứ Năm",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-sau-tuan-xxii-thuong-nien",
+    "tieu_de": "Thứ sáu tuần XXII thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XXII",
+      "thu": "Thứ Sáu",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-bay-tuan-xxii-thuong-nien",
+    "tieu_de": "Thứ bảy tuần XXII thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XXII",
+      "thu": "Thứ Ba",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "chua-nhat-xxiii-thuong-nien-nam-a",
+    "tieu_de": "Chúa Nhật XXIII Thường Niên – Năm A",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XXIII",
+      "thu": "Chúa Nhật",
+      "mau_sac": "Xanh",
+      "bac_le": "Chúa Nhật"
+    }
+  },
+  {
+    "ma_dinh_danh": "chua-nhat-xxiii-thuong-nien-nam-b",
+    "tieu_de": "Chúa Nhật XXIII Thường Niên – Năm B",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XXIII",
+      "thu": "Chúa Nhật",
+      "mau_sac": "Xanh",
+      "bac_le": "Chúa Nhật"
+    }
+  },
+  {
+    "ma_dinh_danh": "chua-nhat-xxiii-thuong-nien-nam-c",
+    "tieu_de": "Chúa Nhật XXIII Thường Niên – Năm C",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XXIII",
+      "thu": "Chúa Nhật",
+      "mau_sac": "Xanh",
+      "bac_le": "Chúa Nhật"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-hai-tuan-xxiii-thuong-nien",
+    "tieu_de": "Thứ hai tuần XXIII thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XXIII",
+      "thu": "Thứ Hai",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-ba-tuan-xxiii-thuong-nien",
+    "tieu_de": "Thứ ba tuần XXIII thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XXIII",
+      "thu": "Thứ Ba",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-tu-tuan-xxiii-thuong-nien",
+    "tieu_de": "Thứ tư tuần XXIII thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XXIII",
+      "thu": "Thứ Tư",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-nam-tuan-xxiii-thuong-nien",
+    "tieu_de": "Thứ năm tuần XXIII thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XXIII",
+      "thu": "Thứ Năm",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-sau-tuan-xxiii-thuong-nien",
+    "tieu_de": "Thứ sáu tuần XXIII thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XXIII",
+      "thu": "Thứ Sáu",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-bay-tuan-xxiii-thuong-nien",
+    "tieu_de": "Thứ bảy tuần XXIII thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XXIII",
+      "thu": "Thứ Ba",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "chua-nhat-xxiv-thuong-nien-nam-a",
+    "tieu_de": "Chúa Nhật XXIV Thường Niên – Năm A",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XXIV",
+      "thu": "Chúa Nhật",
+      "mau_sac": "Xanh",
+      "bac_le": "Chúa Nhật"
+    }
+  },
+  {
+    "ma_dinh_danh": "chua-nhat-xxiv-thuong-nien-nam-b",
+    "tieu_de": "Chúa Nhật XXIV Thường Niên – Năm B",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XXIV",
+      "thu": "Chúa Nhật",
+      "mau_sac": "Xanh",
+      "bac_le": "Chúa Nhật"
+    }
+  },
+  {
+    "ma_dinh_danh": "chua-nhat-xxiv-thuong-nien-nam-c",
+    "tieu_de": "Chúa Nhật XXIV Thường Niên – Năm C",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XXIV",
+      "thu": "Chúa Nhật",
+      "mau_sac": "Xanh",
+      "bac_le": "Chúa Nhật"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-hai-tuan-xxiv-thuong-nien",
+    "tieu_de": "Thứ hai tuần XXIV thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XXIV",
+      "thu": "Thứ Hai",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-ba-tuan-xxiv-thuong-nien",
+    "tieu_de": "Thứ ba tuần XXIV thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XXIV",
+      "thu": "Thứ Ba",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-tu-tuan-xxiv-thuong-nien",
+    "tieu_de": "Thứ tư tuần XXIV thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XXIV",
+      "thu": "Thứ Tư",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-nam-tuan-xxiv-thuong-nien",
+    "tieu_de": "Thứ năm tuần XXIV thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XXIV",
+      "thu": "Thứ Năm",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-sau-tuan-xxiv-thuong-nien",
+    "tieu_de": "Thứ sáu tuần XXIV thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XXIV",
+      "thu": "Thứ Sáu",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-bay-tuan-xxiv-thuong-nien",
+    "tieu_de": "Thứ bảy tuần XXIV thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XXIV",
+      "thu": "Thứ Ba",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "chua-nhat-xxv-thuong-nien-nam-a",
+    "tieu_de": "Chúa Nhật XXV Thường Niên – Năm A",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XXV",
+      "thu": "Chúa Nhật",
+      "mau_sac": "Xanh",
+      "bac_le": "Chúa nhật"
+    }
+  },
+  {
+    "ma_dinh_danh": "chua-nhat-xxv-thuong-nien-nam-b",
+    "tieu_de": "Chúa Nhật XXV Thường Niên – Năm B",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XXV",
+      "thu": "Chúa Nhật",
+      "mau_sac": "Xanh",
+      "bac_le": "Chúa Nhật"
+    }
+  },
+  {
+    "ma_dinh_danh": "chua-nhat-xxv-thuong-nien-nam-c",
+    "tieu_de": "Chúa Nhật XXV Thường Niên – Năm C",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XXV",
+      "thu": "Chúa Nhật",
+      "mau_sac": "Xanh",
+      "bac_le": "Chúa Nhật"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-hai-tuan-xxv-thuong-nien",
+    "tieu_de": "Thứ hai tuần XXV thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XXV",
+      "thu": "Thứ Hai",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-ba-tuan-xxv-thuong-nien",
+    "tieu_de": "Thứ ba tuần XXV thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XXV",
+      "thu": "Thứ Ba",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-tu-tuan-xxv-thuong-nien",
+    "tieu_de": "Thứ tư tuần XXV thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XXV",
+      "thu": "Thứ Tư",
+      "mau_sac": "Xanh",
+      "bac_le": "nhớ"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-nam-tuan-xxv-thuong-nien",
+    "tieu_de": "Thứ năm tuần XXV thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XXV",
+      "thu": "Thứ Năm",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-sau-tuan-xxv-thuong-nien",
+    "tieu_de": "Thứ sáu tuần XXV thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XXV",
+      "thu": "Thứ Sáu",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-bay-tuan-xxv-thuong-nien",
+    "tieu_de": "Thứ bảy tuần XXV thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XXV",
+      "thu": "Thứ Ba",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "chua-nhat-xxvi-thuong-nien-nam-a",
+    "tieu_de": "Chúa Nhật XXVI Thường Niên – Năm A",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XXVI",
+      "thu": "Chúa Nhật",
+      "mau_sac": "Xanh",
+      "bac_le": "Chúa Nhật"
+    }
+  },
+  {
+    "ma_dinh_danh": "chua-nhat-xxvi-thuong-nien-nam-b",
+    "tieu_de": "Chúa Nhật XXVI Thường Niên – Năm B",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XXVI",
+      "thu": "Chúa Nhật",
+      "mau_sac": "Xanh",
+      "bac_le": "Chúa Nhật"
+    }
+  },
+  {
+    "ma_dinh_danh": "chua-nhat-xxvi-thuong-nien-nam-c",
+    "tieu_de": "Chúa Nhật XXVI Thường Niên – Năm C",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XXVI",
+      "thu": "Chúa Nhật",
+      "mau_sac": "Xanh",
+      "bac_le": "Chúa Nhật"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-hai-tuan-xxvi-thuong-nien",
+    "tieu_de": "Thứ hai tuần XXVI thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XXVI",
+      "thu": "Thứ Hai",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-ba-tuan-xxvi-thuong-nien",
+    "tieu_de": "Thứ ba tuần XXVI thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XXVI",
+      "thu": "Thứ Ba",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-tu-tuan-xxvi-thuong-nien",
+    "tieu_de": "Thứ tư tuần XXVI thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XXVI",
+      "thu": "Thứ Tư",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-nam-tuan-xxvi-thuong-nien",
+    "tieu_de": "Thứ năm tuần XXVI thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XXVI",
+      "thu": "Thứ Năm",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-sau-tuan-xxvi-thuong-nien",
+    "tieu_de": "Thứ sáu tuần XXVI thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XXVI",
+      "thu": "Thứ Sáu",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-bay-tuan-xxvi-thuong-nien",
+    "tieu_de": "Thứ bảy tuần XXVI thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XXVI",
+      "thu": "Thứ Ba",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "chua-nhat-xxvii-thuong-nien-nam-a",
+    "tieu_de": "Chúa Nhật XXVII Thường Niên – Năm A",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XXVII",
+      "thu": "Chúa Nhật",
+      "mau_sac": "Xanh",
+      "bac_le": "Chúa nhật"
+    }
+  },
+  {
+    "ma_dinh_danh": "chua-nhat-xxvii-thuong-nien-nam-b",
+    "tieu_de": "Chúa Nhật XXVII Thường Niên – Năm B",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XXVII",
+      "thu": "Chúa Nhật",
+      "mau_sac": "Xanh",
+      "bac_le": "Chúa Nhật"
+    }
+  },
+  {
+    "ma_dinh_danh": "chua-nhat-xxvii-thuong-nien-nam-c",
+    "tieu_de": "Chúa Nhật XXVII Thường Niên – Năm C",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XXVII",
+      "thu": "Chúa Nhật",
+      "mau_sac": "Xanh",
+      "bac_le": "Chúa Nhật"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-hai-tuan-xxvii-thuong-nien",
+    "tieu_de": "Thứ hai tuần XXVII thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XXVII",
+      "thu": "Thứ Hai",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-ba-tuan-xxvii-thuong-nien",
+    "tieu_de": "Thứ ba tuần XXVII thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XXVII",
+      "thu": "Thứ Ba",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-tu-tuan-xxvii-thuong-nien",
+    "tieu_de": "Thứ tư tuần XXVII thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XXVII",
+      "thu": "Thứ Tư",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-nam-tuan-xxvii-thuong-nien",
+    "tieu_de": "Thứ năm tuần XXVII thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XXVII",
+      "thu": "Thứ Năm",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-sau-tuan-xxvii-thuong-nien",
+    "tieu_de": "Thứ sáu tuần XXVII thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XXVII",
+      "thu": "Thứ Sáu",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-bay-tuan-xxvii-thuong-nien",
+    "tieu_de": "Thứ bảy tuần XXVII thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XXVII",
+      "thu": "Thứ Ba",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "chua-nhat-xxviii-thuong-nien-nam-a",
+    "tieu_de": "Chúa Nhật XXVIII Thường Niên – Năm A",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XXVIII",
+      "thu": "Chúa Nhật",
+      "mau_sac": "Xanh",
+      "bac_le": "Chúa nhật"
+    }
+  },
+  {
+    "ma_dinh_danh": "chua-nhat-xxviii-thuong-nien-nam-b",
+    "tieu_de": "Chúa Nhật XXVIII Thường Niên – Năm B",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XXVIII",
+      "thu": "Chúa Nhật",
+      "mau_sac": "Xanh",
+      "bac_le": "Chúa Nhật"
+    }
+  },
+  {
+    "ma_dinh_danh": "chua-nhat-xxviii-thuong-nien-nam-c",
+    "tieu_de": "Chúa Nhật XXVIII Thường Niên – Năm C",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XXVIII",
+      "thu": "Chúa Nhật",
+      "mau_sac": "Xanh",
+      "bac_le": "Chúa Nhật"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-hai-tuan-xxviii-thuong-nien",
+    "tieu_de": "Thứ hai tuần XXVIII thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XXVIII",
+      "thu": "Thứ Hai",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-ba-tuan-xxviii-thuong-nien",
+    "tieu_de": "Thứ ba tuần XXVIII thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XXVIII",
+      "thu": "Thứ Ba",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-tu-tuan-xxviii-thuong-nien",
+    "tieu_de": "Thứ tư tuần XXVIII thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XXVIII",
+      "thu": "Thứ Tư",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-nam-tuan-xxviii-thuong-nien",
+    "tieu_de": "Thứ năm tuần XXVIII thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XXVIII",
+      "thu": "Thứ Năm",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-sau-tuan-xxviii-thuong-nien",
+    "tieu_de": "Thứ sáu tuần XXVIII thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XXVIII",
+      "thu": "Thứ Sáu",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-bay-tuan-xxviii-thuong-nien",
+    "tieu_de": "Thứ bảy tuần XXVIII thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XXVIII",
+      "thu": "Thứ Ba",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "chua-nhat-xxix-thuong-nien-nam-a",
+    "tieu_de": "Chúa Nhật XXIX Thường Niên – Năm A",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XXIX",
+      "thu": "Chúa Nhật",
+      "mau_sac": "Xanh",
+      "bac_le": "Chúa Nhật"
+    }
+  },
+  {
+    "ma_dinh_danh": "chua-nhat-xxix-thuong-nien-nam-b",
+    "tieu_de": "Chúa Nhật XXIX Thường Niên – Năm B",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XXIX",
+      "thu": "Chúa Nhật",
+      "mau_sac": "Xanh",
+      "bac_le": "Chúa Nhật"
+    }
+  },
+  {
+    "ma_dinh_danh": "chua-nhat-xxix-thuong-nien-nam-c",
+    "tieu_de": "Chúa Nhật XXIX Thường Niên – Năm C",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XXIX",
+      "thu": "Chúa Nhật",
+      "mau_sac": "Xanh",
+      "bac_le": "Chúa Nhật"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-hai-tuan-xxix-thuong-nien",
+    "tieu_de": "Thứ hai tuần XXIX thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XXIX",
+      "thu": "Thứ Hai",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-ba-tuan-xxix-thuong-nien",
+    "tieu_de": "Thứ ba tuần XXIX thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XXIX",
+      "thu": "Thứ Ba",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-tu-tuan-xxix-thuong-nien",
+    "tieu_de": "Thứ tư tuần XXIX thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XXIX",
+      "thu": "Thứ Tư",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-nam-tuan-xxix-thuong-nien",
+    "tieu_de": "Thứ năm tuần XXIX thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XXIX",
+      "thu": "Thứ Năm",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-sau-tuan-xxix-thuong-nien",
+    "tieu_de": "Thứ sáu tuần XXIX thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XXIX",
+      "thu": "Thứ Sáu",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-bay-tuan-xxix-thuong-nien",
+    "tieu_de": "Thứ bảy tuần XXIX thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XXIX",
+      "thu": "Thứ Ba",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "chua-nhat-xxx-thuong-nien-nam-a",
+    "tieu_de": "Chúa Nhật XXX Thường Niên – Năm A",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XXX",
+      "thu": "Chúa Nhật",
+      "mau_sac": "Xanh",
+      "bac_le": "Chúa Nhật"
+    }
+  },
+  {
+    "ma_dinh_danh": "chua-nhat-xxx-thuong-nien-nam-b",
+    "tieu_de": "Chúa Nhật XXX Thường Niên – Năm B",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XXX",
+      "thu": "Chúa Nhật",
+      "mau_sac": "Xanh",
+      "bac_le": "Chúa nhật"
+    }
+  },
+  {
+    "ma_dinh_danh": "chua-nhat-xxx-thuong-nien-nam-c",
+    "tieu_de": "Chúa Nhật XXX Thường Niên – Năm C",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XXX",
+      "thu": "Chúa Nhật",
+      "mau_sac": "Xanh",
+      "bac_le": "Chúa nhật"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-hai-tuan-xxx-thuong-nien",
+    "tieu_de": "Thứ hai tuần XXX thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XXX",
+      "thu": "Thứ Hai",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-ba-tuan-xxx-thuong-nien",
+    "tieu_de": "Thứ ba tuần XXX thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XXX",
+      "thu": "Thứ Ba",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-tu-tuan-xxx-thuong-nien",
+    "tieu_de": "Thứ tư tuần XXX thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XXX",
+      "thu": "Thứ Tư",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-nam-tuan-xxx-thuong-nien",
+    "tieu_de": "Thứ năm tuần XXX thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XXX",
+      "thu": "Thứ Năm",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-sau-tuan-xxx-thuong-nien",
+    "tieu_de": "Thứ sáu tuần XXX thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XXX",
+      "thu": "Thứ Sáu",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-bay-tuan-xxx-thuong-nien",
+    "tieu_de": "Thứ bảy tuần XXX thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XXX",
+      "thu": "Thứ Ba",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "chua-nhat-xxxi-thuong-nien-nam-a",
+    "tieu_de": "Chúa Nhật XXXI Thường Niên – Năm A",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XXXI",
+      "thu": "Chúa Nhật",
+      "mau_sac": "Xanh",
+      "bac_le": "Chúa nhật"
+    }
+  },
+  {
+    "ma_dinh_danh": "chua-nhat-xxxi-thuong-nien-nam-b",
+    "tieu_de": "Chúa Nhật XXXI Thường Niên – Năm B",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XXXI",
+      "thu": "Chúa Nhật",
+      "mau_sac": "Xanh",
+      "bac_le": "Chúa nhật"
+    }
+  },
+  {
+    "ma_dinh_danh": "chua-nhat-xxxi-thuong-nien-nam-c",
+    "tieu_de": "Chúa Nhật XXXI Thường Niên – Năm C",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XXXI",
+      "thu": "Chúa Nhật",
+      "mau_sac": "Xanh",
+      "bac_le": "Chúa Nhật"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-hai-tuan-xxxi-thuong-nien",
+    "tieu_de": "Thứ hai tuần XXXI Thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XXXI",
+      "thu": "Thứ Hai",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-ba-tuan-xxxi-thuong-nien",
+    "tieu_de": "Thứ ba tuần XXXI Thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XXXI",
+      "thu": "Thứ Ba",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-tu-tuan-xxxi-thuong-nien",
+    "tieu_de": "Thứ tư tuần XXXI Thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XXXI",
+      "thu": "Thứ Tư",
+      "mau_sac": "Xanh",
+      "bac_le": "Thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-nam-tuan-xxxi-thuong-nien",
+    "tieu_de": "Thứ năm tuần XXXI thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XXXI",
+      "thu": "Thứ Năm",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-sau-tuan-xxxi-thuong-nien",
+    "tieu_de": "Thứ sáu tuần XXXI Thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XXXI",
+      "thu": "Thứ Sáu",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-bay-tuan-xxxi-thuong-nien",
+    "tieu_de": "Thứ bảy tuần XXXI Thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XXXI",
+      "thu": "Thứ Ba",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "chua-nhat-xxxii-thuong-nien-nam-a",
+    "tieu_de": "Chúa nhật XXXII Thường Niên – Năm A",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XXXII",
+      "thu": "Chúa Nhật",
+      "mau_sac": "Xanh",
+      "bac_le": "Chúa Nhật"
+    }
+  },
+  {
+    "ma_dinh_danh": "chua-nhat-xxxii-thuong-nien-nam-b",
+    "tieu_de": "Chúa Nhật XXXII Thường Niên – Năm B",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XXXII",
+      "thu": "Chúa Nhật",
+      "mau_sac": "Xanh",
+      "bac_le": "Chúa Nhật"
+    }
+  },
+  {
+    "ma_dinh_danh": "chua-nhat-xxxii-thuong-nien-nam-c",
+    "tieu_de": "Chúa nhật XXXII Thường Niên – Năm C",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XXXII",
+      "thu": "Chúa Nhật",
+      "mau_sac": "Xanh",
+      "bac_le": "Chúa Nhật"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-hai-tuan-xxxii-thuong-nien",
+    "tieu_de": "Thứ hai tuần XXXII thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XXXII",
+      "thu": "Thứ Hai",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-ba-tuan-xxxii-thuong-nien",
+    "tieu_de": "Thứ ba tuần XXXII thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XXXII",
+      "thu": "Thứ Ba",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-tu-tuan-xxxii-thuong-nien",
+    "tieu_de": "Thứ tư tuần XXXII thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XXXII",
+      "thu": "Thứ Tư",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-nam-tuan-xxxii-thuong-nien",
+    "tieu_de": "Thứ năm tuần XXXII thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XXXII",
+      "thu": "Thứ Năm",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-sau-tuan-xxxii-thuong-nien",
+    "tieu_de": "Thứ sáu tuần XXXII thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XXXII",
+      "thu": "Thứ Sáu",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-bay-tuan-xxxii-thuong-nien",
+    "tieu_de": "Thứ bảy tuần XXXII thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XXXII",
+      "thu": "Thứ Ba",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "chua-nhat-xxxiii-thuong-nien-nam-a",
+    "tieu_de": "Chúa Nhật XXXIII Thường Niên – Năm A",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XXXIII",
+      "thu": "Chúa Nhật",
+      "mau_sac": "Xanh",
+      "bac_le": "Chúa Nhật"
+    }
+  },
+  {
+    "ma_dinh_danh": "chua-nhat-xxxiii-thuong-nien-nam-b",
+    "tieu_de": "Chúa nhật XXXIII Thường Niên – Năm B",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XXXIII",
+      "thu": "Chúa Nhật",
+      "mau_sac": "Xanh",
+      "bac_le": "Chúa Nhật"
+    }
+  },
+  {
+    "ma_dinh_danh": "chua-nhat-xxxiii-thuong-nien-nam-c",
+    "tieu_de": "Chúa nhật XXXIII Thường Niên – Năm C",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XXXIII",
+      "thu": "Chúa Nhật",
+      "mau_sac": "Xanh",
+      "bac_le": "Chúa Nhật"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-hai-tuan-xxxiii-thuong-nien",
+    "tieu_de": "Thứ hai tuần XXXIII thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XXXIII",
+      "thu": "Thứ Hai",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-ba-tuan-xxxiii-thuong-nien",
+    "tieu_de": "Thứ ba tuần XXXIII thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XXXIII",
+      "thu": "Thứ Ba",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-tu-tuan-xxxiii-thuong-nien",
+    "tieu_de": "Thứ tư tuần XXXIII thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XXXIII",
+      "thu": "Thứ Tư",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-nam-tuan-xxxiii-thuong-nien",
+    "tieu_de": "Thứ năm tuần XXXIII thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XXXIII",
+      "thu": "Thứ Năm",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-sau-tuan-xxxiii-thuong-nien",
+    "tieu_de": "Thứ sáu tuần XXXIII thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XXXIII",
+      "thu": "Thứ Sáu",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-bay-tuan-xxxiii-thuong-nien",
+    "tieu_de": "Thứ bảy tuần XXXIII thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XXXIII",
+      "thu": "Thứ Ba",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "chua-nhat-xxxiv-thuong-nien-chua-kito-vua-vu-tru-nam-a",
+    "tieu_de": "CN XXXIV TN Năm A – Chúa Kitô Vua vũ trụ",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": null,
+      "tuan": "XXXIV",
+      "thu": null,
+      "mau_sac": "Trắng",
+      "bac_le": "Trọng"
+    }
+  },
+  {
+    "ma_dinh_danh": "chua-nhat-xxxiv-thuong-nien-chua-kito-vua-vu-tru-nam-b",
+    "tieu_de": "CN XXXIV TN Năm B – Chúa Kitô Vua vũ trụ",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": null,
+      "tuan": "XXXIV",
+      "thu": null,
+      "mau_sac": "Trắng",
+      "bac_le": "Trọng"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-hai-tuan-xxxiv-thuong-nien",
+    "tieu_de": "Thứ hai tuần XXXIV thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XXXIV",
+      "thu": "Thứ Hai",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-ba-tuan-xxxiv-thuong-nien",
+    "tieu_de": "Thứ ba tuần XXXIV thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XXXIV",
+      "thu": "Thứ Ba",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-tu-tuan-xxxiv-thuong-nien",
+    "tieu_de": "Thứ tư tuần XXXIV thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XXXIV",
+      "thu": "Thứ Tư",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-nam-tuan-xxxiv-thuong-nien",
+    "tieu_de": "Thứ năm tuần XXXIV thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XXXIV",
+      "thu": "Thứ Năm",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-sau-tuan-xxxiv-thuong-nien",
+    "tieu_de": "Thứ sáu tuần XXXIV thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XXXIV",
+      "thu": "Thứ Sáu",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "thu-bay-tuan-xxxiv-thuong-nien",
+    "tieu_de": "Thứ bảy tuần XXXIV thường niên",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": "Mùa Thường Niên",
+      "tuan": "XXXIV",
+      "thu": "Thứ Ba",
+      "mau_sac": "Xanh",
+      "bac_le": "thường"
+    }
+  },
+  {
+    "ma_dinh_danh": "chua-nhat-le-chua-ba-ngoi-nam-a",
+    "tieu_de": "Chúa Nhật Lễ Chúa Ba Ngôi – Năm A",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": null,
+      "tuan": null,
+      "thu": "Chúa Nhật",
+      "mau_sac": "Trắng",
+      "bac_le": "Trọng"
+    }
+  },
+  {
+    "ma_dinh_danh": "chua-nhat-le-chua-ba-ngoi-nam-b",
+    "tieu_de": "Chúa Nhật Lễ Chúa Ba Ngôi – Năm B",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": null,
+      "tuan": null,
+      "thu": "Chúa Nhật",
+      "mau_sac": "Trắng",
+      "bac_le": "Trọng"
+    }
+  },
+  {
+    "ma_dinh_danh": "chua-nhat-le-chua-ba-ngoi-nam-c",
+    "tieu_de": "Chúa Nhật Lễ Chúa Ba Ngôi – Năm C",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": null,
+      "tuan": null,
+      "thu": "Chúa Nhật",
+      "mau_sac": "Trắng",
+      "bac_le": "Trọng"
+    }
+  },
+  {
+    "ma_dinh_danh": "chua-nhat-le-minh-mau-thanh-nam-a",
+    "tieu_de": "Chúa Nhật Lễ Mình Máu Thánh – Năm A",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": null,
+      "tuan": null,
+      "thu": "Chúa Nhật",
+      "mau_sac": "Trắng",
+      "bac_le": "Trọng"
+    }
+  },
+  {
+    "ma_dinh_danh": "chua-nhat-kinh-minh-va-mau-chua-ki-to-nam-b",
+    "tieu_de": "Chúa Nhật Lễ Mình Máu Thánh – Năm B",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": null,
+      "tuan": null,
+      "thu": "Chúa Nhật",
+      "mau_sac": "Trắng",
+      "bac_le": "Trọng"
+    }
+  },
+  {
+    "ma_dinh_danh": "chua-nhat-le-minh-mau-thanh-nam-c",
+    "tieu_de": "Chúa Nhật Lễ Mình Máu Thánh – Năm C",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": null,
+      "tuan": null,
+      "thu": "Chúa Nhật",
+      "mau_sac": "Trắng",
+      "bac_le": "Trọng"
+    }
+  },
+  {
+    "ma_dinh_danh": "le-thanh-tam-chua-giesu-nam-a",
+    "tieu_de": "Lễ Thánh Tâm Chúa Giê-su – Năm A",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": null,
+      "tuan": null,
+      "thu": null,
+      "mau_sac": "Trắng",
+      "bac_le": "Trọng"
+    }
+  },
+  {
+    "ma_dinh_danh": "le-thanh-tam-chua-giesu-nam-b",
+    "tieu_de": "Lễ Thánh Tâm Chúa Giê-su – Năm B",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": null,
+      "tuan": null,
+      "thu": null,
+      "mau_sac": "Trắng",
+      "bac_le": "Trọng"
+    }
+  },
+  {
+    "ma_dinh_danh": "le-thanh-tam-chua-giesu-nam-c",
+    "tieu_de": "Lễ Thánh Tâm Chúa Giê-su – Năm C",
+    "thong_tin_ngay": {
+      "ngay": null,
+      "mua_phung_vu": null,
+      "tuan": null,
+      "thu": null,
+      "mau_sac": "Trắng",
+      "bac_le": "Trọng"
+    }
+  },
+  {
+    "ma_dinh_danh": "ngay-02-01-thanh-ba-xi-li-o-ca-va-thanh-ghe-go-ri-o-na-di-en-giam-muc-tien-si-hoi-thanh",
+    "tieu_de": "Ngày 02/01: Thánh Ba-xi-li-ô Cả và Thánh Ghê-gô-ri-ô Na-di-en, Giám mục, Tiến sĩ Hội Thánh",
+    "thong_tin_ngay": {
+      "ngay": "02/01",
+      "mua_phung_vu": null,
+      "tuan": null,
+      "thu": null,
+      "mau_sac": "Trắng",
+      "bac_le": "Nhớ"
+    }
+  },
+  {
+    "ma_dinh_danh": "ngay-17-01-thanh-anton-vien-phu",
+    "tieu_de": "Ngày 17/01: Thánh An-tôn, Viện phụ",
+    "thong_tin_ngay": {
+      "ngay": "17/01",
+      "mua_phung_vu": null,
+      "tuan": null,
+      "thu": null,
+      "mau_sac": "Trắng",
+      "bac_le": "Nhớ"
+    }
+  },
+  {
+    "ma_dinh_danh": "ngay-21-01-thanh-a-ne-trinh-nu-tu-dao",
+    "tieu_de": "Ngày 21/01: Thánh A-nê, Trinh nữ, Tử đạo",
+    "thong_tin_ngay": {
+      "ngay": "21/01",
+      "mua_phung_vu": null,
+      "tuan": null,
+      "thu": null,
+      "mau_sac": "Đỏ",
+      "bac_le": "Nhớ"
+    }
+  },
+  {
+    "ma_dinh_danh": "ngay-24-01-thanh-phan-xi-co-sa-le-si-o-giam-muc-tien-si-hoi-thanh",
+    "tieu_de": "Ngày 24/01: Thánh Phan-xi-cô Sa-lê-si-ô, Giám mục, Tiến sĩ Hội Thánh",
+    "thong_tin_ngay": {
+      "ngay": "24/01",
+      "mua_phung_vu": null,
+      "tuan": null,
+      "thu": null,
+      "mau_sac": "Trắng",
+      "bac_le": "Nhớ"
+    }
+  },
+  {
+    "ma_dinh_danh": "ngay-25-1-thanh-phao-lo-tong-do-tro-lai",
+    "tieu_de": "Ngày 25/01: Thánh Phao-lô, Tông đồ trở lại",
+    "thong_tin_ngay": {
+      "ngay": "25/01",
+      "mua_phung_vu": null,
+      "tuan": null,
+      "thu": null,
+      "mau_sac": "Trắng",
+      "bac_le": "Kính"
+    }
+  },
+  {
+    "ma_dinh_danh": "ngay-26-1-thanh-ti-mo-the-o-va-thanh-ti-to-giam-muc",
+    "tieu_de": "Ngày 26/01: Thánh Ti-mô-thê-ô và Thánh Ti-tô, Giám mục",
+    "thong_tin_ngay": {
+      "ngay": "26/01",
+      "mua_phung_vu": null,
+      "tuan": null,
+      "thu": null,
+      "mau_sac": "Trắng",
+      "bac_le": "Nhớ"
+    }
+  },
+  {
+    "ma_dinh_danh": "ngay-28-01-le-thanh-toma-aquino-tien-si-hoi-thanh",
+    "tieu_de": "Ngày 28/01: Lễ Thánh Tô-ma A-qui-nô, Tiến sĩ Hội Thánh",
+    "thong_tin_ngay": {
+      "ngay": "28/01",
+      "mua_phung_vu": null,
+      "tuan": null,
+      "thu": null,
+      "mau_sac": "Trắng",
+      "bac_le": "Nhớ"
+    }
+  },
+  {
+    "ma_dinh_danh": "ngay-31-1-thanh-gio-an-bot-co-bosco-linh-muc",
+    "tieu_de": "Ngày 31/01: Thánh Gio-an Bốt-cô (Bosco), Linh mục",
+    "thong_tin_ngay": {
+      "ngay": "31/01",
+      "mua_phung_vu": null,
+      "tuan": null,
+      "thu": null,
+      "mau_sac": "Trắng",
+      "bac_le": "Nhớ"
+    }
+  },
+  {
+    "ma_dinh_danh": "ngay-02-02-dang-chua-trong-den-tho-le-nen",
+    "tieu_de": "Ngày 02/02: Dâng Chúa trong đền thờ (Lễ Nến)",
+    "thong_tin_ngay": {
+      "ngay": "02/02",
+      "mua_phung_vu": null,
+      "tuan": null,
+      "thu": null,
+      "mau_sac": "Trắng",
+      "bac_le": "Kính"
+    }
+  },
+  {
+    "ma_dinh_danh": "ngay-02-02-thanh-gioan-theophan-venard-ven-linh-muc-tu-dao",
+    "tieu_de": "Ngày 02/02: Thánh Gio-an Thê-ô-phan Ven – Linh mục, Tử đạo",
+    "thong_tin_ngay": {
+      "ngay": "02/02",
+      "mua_phung_vu": null,
+      "tuan": null,
+      "thu": null,
+      "mau_sac": "Đỏ",
+      "bac_le": "Nhớ (hoặc Kính)"
+    }
+  },
+  {
+    "ma_dinh_danh": "ngay-05-02-thanh-a-ga-ta-trinh-nu-tu-dao",
+    "tieu_de": "Ngày 05/02: Thánh A-ga-ta -Trinh nữ, Tử đạo",
+    "thong_tin_ngay": {
+      "ngay": "05/02",
+      "mua_phung_vu": null,
+      "tuan": null,
+      "thu": null,
+      "mau_sac": "Trắng",
+      "bac_le": "Nhớ"
+    }
+  },
+  {
+    "ma_dinh_danh": "ngay-06-02-thanh-phao-lo-mi-ki-va-cac-ban-tu-dao-tai-nhat-ban",
+    "tieu_de": "Ngày 06/02: Thánh Phao-lô Mi-ki và các bạn, Tử đạo tại Nhật Bản",
+    "thong_tin_ngay": {
+      "ngay": "06/02",
+      "mua_phung_vu": null,
+      "tuan": null,
+      "thu": null,
+      "mau_sac": "Đỏ",
+      "bac_le": "Nhớ"
+    }
+  },
+  {
+    "ma_dinh_danh": "ngay-10-02-thanh-scholastica-trinh-nu-2",
+    "tieu_de": "Ngày 10/02: Thánh Cô-lát-ti-ca, Trinh nữ",
+    "thong_tin_ngay": {
+      "ngay": "10/02",
+      "mua_phung_vu": null,
+      "tuan": null,
+      "thu": null,
+      "mau_sac": "Trắng",
+      "bac_le": "Nhớ"
+    }
+  },
+  {
+    "ma_dinh_danh": "ngay-14-02-thanh-xy-ri-lo-dan-si-va-thanh-me-to-di-o-giam-muc",
+    "tieu_de": "Ngày 14/02: Thánh Xy-ri-lô, Đan sĩ và thánh Mê-tô-đi-ô, Giám mục",
+    "thong_tin_ngay": {
+      "ngay": "14/02",
+      "mua_phung_vu": null,
+      "tuan": null,
+      "thu": null,
+      "mau_sac": "Trắng",
+      "bac_le": "Nhớ"
+    }
+  },
+  {
+    "ma_dinh_danh": "ngay-22-02-lap-tong-toa-thanh-phero-2",
+    "tieu_de": "Ngày 22/02 – Lập tông tòa Thánh Phê-rô",
+    "thong_tin_ngay": {
+      "ngay": "22/02",
+      "mua_phung_vu": null,
+      "tuan": null,
+      "thu": null,
+      "mau_sac": "Trắng",
+      "bac_le": "Kính"
+    }
+  },
+  {
+    "ma_dinh_danh": "ngay-23-02-thanh-po-li-ca-po-giam-muc-tu-dao",
+    "tieu_de": "Ngày 23/02: Thánh Pô-li-ca-pô, Giám mục, Tử đạo",
+    "thong_tin_ngay": {
+      "ngay": "23/02",
+      "mua_phung_vu": null,
+      "tuan": null,
+      "thu": null,
+      "mau_sac": "Trắng",
+      "bac_le": "Nhớ"
+    }
+  },
+  {
+    "ma_dinh_danh": "ngay-07-03-thanh-perpetua-va-phelixita-tu-dao",
+    "tieu_de": "Ngày 07/3: Thánh Per-pê-tu-a và Phê-li-xi-ta, Tử đạo",
+    "thong_tin_ngay": {
+      "ngay": "07/03",
+      "mua_phung_vu": null,
+      "tuan": null,
+      "thu": null,
+      "mau_sac": null,
+      "bac_le": null
+    }
+  },
+  {
+    "ma_dinh_danh": "ngay-19-3-thanh-giuse-ban-tram-nam-duc-trinh-nu-maria",
+    "tieu_de": "Ngày 19/3: Thánh Giuse, bạn trăm năm Đức Trinh Nữ Ma-ri-a",
+    "thong_tin_ngay": {
+      "ngay": "19/03",
+      "mua_phung_vu": null,
+      "tuan": null,
+      "thu": null,
+      "mau_sac": "Trắng",
+      "bac_le": "Trọng"
+    }
+  },
+  {
+    "ma_dinh_danh": "ngay-25-3-le-truyen-tin-2",
+    "tieu_de": "Ngày 25/3: Lễ Truyền Tin",
+    "thong_tin_ngay": {
+      "ngay": "25/03",
+      "mua_phung_vu": null,
+      "tuan": null,
+      "thu": null,
+      "mau_sac": "Trắng",
+      "bac_le": "Trọng"
+    }
+  },
+  {
+    "ma_dinh_danh": "ngay-11-4-thanh-sta-nit-la-o-giam-muc-tu-dao",
+    "tieu_de": "Ngày 11/4: Thánh Sta-nit-la-ô – Giám mục, Tử đạo",
+    "thong_tin_ngay": {
+      "ngay": "11/04",
+      "mua_phung_vu": null,
+      "tuan": null,
+      "thu": null,
+      "mau_sac": "Đỏ",
+      "bac_le": "Nhớ"
+    }
+  },
+  {
+    "ma_dinh_danh": "ngay-25-4-thanh-mac-co-tac-gia-sach-tin-mung",
+    "tieu_de": "Ngày 25/4: Thánh Mác-cô, tác giả sách Tin Mừng",
+    "thong_tin_ngay": {
+      "ngay": "25/04",
+      "mua_phung_vu": null,
+      "tuan": null,
+      "thu": null,
+      "mau_sac": null,
+      "bac_le": "Kính"
+    }
+  },
+  {
+    "ma_dinh_danh": "ngay-27-04-thanh-lo-ren-xo-nguyen-van-huong-linh-muc-tu-dao",
+    "tieu_de": "Ngày 27/4: Thánh Lô-ren-xô Nguyễn Văn Hưởng – Linh mục, Tử đạo",
+    "thong_tin_ngay": {
+      "ngay": "27/04",
+      "mua_phung_vu": null,
+      "tuan": null,
+      "thu": null,
+      "mau_sac": "Đỏ",
+      "bac_le": "Nhớ (hoặc Kính)"
+    }
+  },
+  {
+    "ma_dinh_danh": "ngay-29-4-thanh-ca-ta-ri-na-thanh-si-e-na-trinh-nu-tien-si-hoi-thanh",
+    "tieu_de": "Ngày 29/4: Thánh Ca-ta-ri-na thành Si-ê-na, Trinh nữ, Tiến sĩ Hội Thánh",
+    "thong_tin_ngay": {
+      "ngay": "29/04",
+      "mua_phung_vu": null,
+      "tuan": null,
+      "thu": null,
+      "mau_sac": null,
+      "bac_le": "nhớ"
+    }
+  },
+  {
+    "ma_dinh_danh": "ngay-01-5-thanh-giuse-tho",
+    "tieu_de": "Ngày 01/5: Thánh Giu-se Thợ",
+    "thong_tin_ngay": {
+      "ngay": "01/05",
+      "mua_phung_vu": null,
+      "tuan": null,
+      "thu": null,
+      "mau_sac": null,
+      "bac_le": "Nhớ"
+    }
+  },
+  {
+    "ma_dinh_danh": "ngay-04-5-thanh-gioan-louis-bonnard-huong-linh-muc-1824-1852",
+    "tieu_de": "Ngày 01/5: Thánh Gio-an Louis Bonnard Hương – Linh Mục (1824-1852)",
+    "thong_tin_ngay": {
+      "ngay": "01/05",
+      "mua_phung_vu": null,
+      "tuan": null,
+      "thu": null,
+      "mau_sac": "Đỏ",
+      "bac_le": "Nhớ (hoặc Kính)"
+    }
+  },
+  {
+    "ma_dinh_danh": "ngay-02-5-thanh-a-tha-na-si-o-giam-muc-tien-si-hoi-thanh",
+    "tieu_de": "Ngày 02/5: Thánh A-tha-na-si-ô, Giám mục, Tiến sĩ Hội Thánh",
+    "thong_tin_ngay": {
+      "ngay": "02/05",
+      "mua_phung_vu": null,
+      "tuan": null,
+      "thu": null,
+      "mau_sac": null,
+      "bac_le": "Nhớ"
+    }
+  },
+  {
+    "ma_dinh_danh": "ngay-03-5-thanh-phi-lip-phe-va-gia-co-be-tong-do",
+    "tieu_de": "Ngày 03/5: Thánh Phi-lip-phê và Gia-cô-bê, Tông đồ",
+    "thong_tin_ngay": {
+      "ngay": "03/05",
+      "mua_phung_vu": null,
+      "tuan": null,
+      "thu": null,
+      "mau_sac": null,
+      "bac_le": "Kính"
+    }
+  },
+  {
+    "ma_dinh_danh": "ngay-14-5-thanh-mat-thi-a-tong-do-2",
+    "tieu_de": "Ngày 14/5: Thánh Mát-thi-a, Tông đồ",
+    "thong_tin_ngay": {
+      "ngay": "14/05",
+      "mua_phung_vu": null,
+      "tuan": null,
+      "thu": null,
+      "mau_sac": "Đỏ",
+      "bac_le": "Kính"
+    }
+  },
+  {
+    "ma_dinh_danh": "ngay-25-5-thanh-phero-doan-van-van-thay-giang-1780-1857-2",
+    "tieu_de": "Ngày 25/5: Thánh Phê-rô Đoàn Văn Vân – Thầy Giảng (1780-1857)",
+    "thong_tin_ngay": {
+      "ngay": "25/05",
+      "mua_phung_vu": null,
+      "tuan": null,
+      "thu": null,
+      "mau_sac": "Đỏ",
+      "bac_le": "Nhớ (hoặc Kính)"
+    }
+  },
+  {
+    "ma_dinh_danh": "ngay-26-5-thanh-phi-lip-ne-ri-linh-muc",
+    "tieu_de": "Ngày 26/5: Thánh Phi-lip Nê-ri, Linh mục",
+    "thong_tin_ngay": {
+      "ngay": "26/05",
+      "mua_phung_vu": null,
+      "tuan": null,
+      "thu": null,
+      "mau_sac": "Trắng",
+      "bac_le": "nhớ"
+    }
+  },
+  {
+    "ma_dinh_danh": "ngay-31-5-duc-maria-tham-vieng-ba-elisabet",
+    "tieu_de": "Ngày 31/5: Đức Ma-ri-a thăm viếng bà Ê-li-sa-bét",
+    "thong_tin_ngay": {
+      "ngay": "31/05",
+      "mua_phung_vu": null,
+      "tuan": null,
+      "thu": null,
+      "mau_sac": "Trắng",
+      "bac_le": "Kính"
+    }
+  },
+  {
+    "ma_dinh_danh": "ngay-01-6-thanh-giut-ti-no-tu-dao",
+    "tieu_de": "Ngày 01/6: Thánh Giút-ti-nô, Tử đạo",
+    "thong_tin_ngay": {
+      "ngay": "01/06",
+      "mua_phung_vu": null,
+      "tuan": null,
+      "thu": null,
+      "mau_sac": "Đỏ",
+      "bac_le": "Nhớ"
+    }
+  },
+  {
+    "ma_dinh_danh": "ngay-03-6-thanh-ca-ro-lo-loan-ga-va-cac-ban-tu-dao",
+    "tieu_de": "Ngày 03/6: Thánh Ca-rô-lô Loan-ga và các bạn tử đạo",
+    "thong_tin_ngay": {
+      "ngay": "03/06",
+      "mua_phung_vu": null,
+      "tuan": null,
+      "thu": null,
+      "mau_sac": "Đỏ",
+      "bac_le": "nhớ"
+    }
+  },
+  {
+    "ma_dinh_danh": "ngay-05-6-thanh-luca-vu-ba-loan-linh-muc-1756-1840-2",
+    "tieu_de": "Ngày 05/6: Thánh Lu-ca Vũ Bá Loan – Linh mục (1756-1840)",
+    "thong_tin_ngay": {
+      "ngay": "05/06",
+      "mua_phung_vu": null,
+      "tuan": null,
+      "thu": null,
+      "mau_sac": "Đỏ",
+      "bac_le": "Nhớ (hoặc Kính)"
+    }
+  },
+  {
+    "ma_dinh_danh": "ngay-05-6-thanh-bo-ni-phat-giam-muc-tu-dao",
+    "tieu_de": "Ngày 05/6: Thánh Bô-ni-phát, Giám mục, tử đạo",
+    "thong_tin_ngay": {
+      "ngay": "05/06",
+      "mua_phung_vu": null,
+      "tuan": null,
+      "thu": null,
+      "mau_sac": "Đỏ",
+      "bac_le": "nhớ"
+    }
+  },
+  {
+    "ma_dinh_danh": "ngay-11-6-thanh-ba-na-ba-tong-do-2",
+    "tieu_de": "Ngày 11/6: Thánh Ba-na-ba, tông đồ",
+    "thong_tin_ngay": {
+      "ngay": "11/06",
+      "mua_phung_vu": null,
+      "tuan": null,
+      "thu": null,
+      "mau_sac": "Đỏ",
+      "bac_le": "Nhớ"
+    }
+  },
+  {
+    "ma_dinh_danh": "ngay-13-6-thanh-anton-pa-dua-a-tien-si-hoi-thanh",
+    "tieu_de": "Ngày 13/6: Thánh An-tôn Pa-đua-a, Tiến Sĩ Hội Thánh",
+    "thong_tin_ngay": {
+      "ngay": "13/06",
+      "mua_phung_vu": null,
+      "tuan": null,
+      "thu": null,
+      "mau_sac": "Trắng",
+      "bac_le": "lễ nhớ"
+    }
+  },
+  {
+    "ma_dinh_danh": "ngay-21-6-thanh-lu-i-gong-da-ga",
+    "tieu_de": "Ngày 21/6: Thánh Lu-i Gông-da-ga",
+    "thong_tin_ngay": {
+      "ngay": "21/06",
+      "mua_phung_vu": null,
+      "tuan": null,
+      "thu": null,
+      "mau_sac": "Trắng",
+      "bac_le": "nhớ"
+    }
+  },
+  {
+    "ma_dinh_danh": "ngay-24-06-le-vong-sinh-nhat-thanh-gioan-tay-gia",
+    "tieu_de": "Ngày 23/6: Lễ vọng sinh nhật Thánh Gio-an Bao-ti-xi-ta",
+    "thong_tin_ngay": {
+      "ngay": "23/06",
+      "mua_phung_vu": null,
+      "tuan": null,
+      "thu": null,
+      "mau_sac": "Trắng",
+      "bac_le": "Trọng"
+    }
+  },
+  {
+    "ma_dinh_danh": "ngay-24-6-sinh-nhat-thanh-gioan-baotixita",
+    "tieu_de": "Ngày 24/6: Sinh nhật Thánh Gio-an Bao-ti-xi-ta",
+    "thong_tin_ngay": {
+      "ngay": "24/06",
+      "mua_phung_vu": null,
+      "tuan": null,
+      "thu": null,
+      "mau_sac": "Trắng",
+      "bac_le": "Trọng"
+    }
+  },
+  {
+    "ma_dinh_danh": "ngay-28-6-thanh-irene-giam-muc-tu-dao",
+    "tieu_de": "Ngày 28/6: Thánh I-rê-nê, Giám mục, Tử đạo",
+    "thong_tin_ngay": {
+      "ngay": "28/06",
+      "mua_phung_vu": null,
+      "tuan": null,
+      "thu": null,
+      "mau_sac": "Đỏ",
+      "bac_le": "nhớ"
+    }
+  },
+  {
+    "ma_dinh_danh": "ngay-29-6-le-vong-le-thanh-phero-va-phaolo-tong-do",
+    "tieu_de": "Ngày 29/6: Lễ vọng Thánh Phê-rô và Phao-lô, tông đồ",
+    "thong_tin_ngay": {
+      "ngay": "29/06",
+      "mua_phung_vu": null,
+      "tuan": null,
+      "thu": null,
+      "mau_sac": "Đỏ",
+      "bac_le": "Trọng"
+    }
+  },
+  {
+    "ma_dinh_danh": "ngay-29-6-thanh-phero-va-phaolo-tong-do",
+    "tieu_de": "Ngày 29/6: Thánh Phê-rô và Phao-lô, tông đồ",
+    "thong_tin_ngay": {
+      "ngay": "29/06",
+      "mua_phung_vu": null,
+      "tuan": null,
+      "thu": null,
+      "mau_sac": "Đỏ",
+      "bac_le": "Trọng"
+    }
+  },
+  {
+    "ma_dinh_danh": "ngay-03-7-thanh-toma-tong-do",
+    "tieu_de": "Ngày 03/7: Thánh Tô-ma, tông đồ",
+    "thong_tin_ngay": {
+      "ngay": "03/07",
+      "mua_phung_vu": null,
+      "tuan": null,
+      "thu": null,
+      "mau_sac": "Đỏ",
+      "bac_le": "Kính"
+    }
+  },
+  {
+    "ma_dinh_danh": "ngay-12-7-thanh-phero-nguyen-khac-tu-thay-giang-1808-1840",
+    "tieu_de": "Ngày 10/7: Thánh Phê-rô Nguyễn Khắc Tự, Thầy Giảng",
+    "thong_tin_ngay": {
+      "ngay": "10/07",
+      "mua_phung_vu": null,
+      "tuan": null,
+      "thu": null,
+      "mau_sac": "Đỏ",
+      "bac_le": "Nhớ (hoặc Kính)"
+    }
+  },
+  {
+    "ma_dinh_danh": "ngay-11-7-thanh-be-ne-dic-to-vien-phu",
+    "tieu_de": "Ngày 11/7: Thánh Bê-nê-đíc-tô, Viện phụ",
+    "thong_tin_ngay": {
+      "ngay": "11/07",
+      "mua_phung_vu": null,
+      "tuan": null,
+      "thu": null,
+      "mau_sac": "Trắng",
+      "bac_le": "Lễ nhớ"
+    }
+  },
+  {
+    "ma_dinh_danh": "ngay-15-7-thanh-bo-na-ven-tu-ra-giam-muc-tien-si-hoi-thanh",
+    "tieu_de": "Ngày 15/7: Thánh Bô-na-ven-tu-ra, Giám mục, Tiến sĩ Hội Thánh",
+    "thong_tin_ngay": {
+      "ngay": "15/07",
+      "mua_phung_vu": null,
+      "tuan": null,
+      "thu": null,
+      "mau_sac": "Trắng",
+      "bac_le": "Nhớ"
+    }
+  },
+  {
+    "ma_dinh_danh": "ngay-22-7-thanh-nu-ma-ri-a-ma-da-le-na",
+    "tieu_de": "Ngày 22/7: Thánh nữ Ma-ri-a Ma-đa-lê-na",
+    "thong_tin_ngay": {
+      "ngay": "22/07",
+      "mua_phung_vu": null,
+      "tuan": null,
+      "thu": null,
+      "mau_sac": "Trắng",
+      "bac_le": "Kính"
+    }
+  },
+  {
+    "ma_dinh_danh": "ngay-25-7-thanh-gia-co-be-tong-do",
+    "tieu_de": "Ngày 25/7: Thánh Gia-cô-bê, tông đồ",
+    "thong_tin_ngay": {
+      "ngay": "25/07",
+      "mua_phung_vu": null,
+      "tuan": null,
+      "thu": null,
+      "mau_sac": "Đỏ",
+      "bac_le": "Kính"
+    }
+  },
+  {
+    "ma_dinh_danh": "ngay-26-7-thanh-gio-a-kim-va-thanh-an-na-song-than-duc-ma-ri-a",
+    "tieu_de": "Ngày 26/7: Thánh Gio-a-kim và thánh An-na, song thân Đức Ma-ri-a",
+    "thong_tin_ngay": {
+      "ngay": "26/07",
+      "mua_phung_vu": null,
+      "tuan": null,
+      "thu": null,
+      "mau_sac": "Trắng",
+      "bac_le": "Nhớ"
+    }
+  },
+  {
+    "ma_dinh_danh": "ngay-29-7-thanh-nu-matta-2",
+    "tieu_de": "Ngày 29/7: Thánh nữ Mát-ta, Ma-ri-a và La-da-rô",
+    "thong_tin_ngay": {
+      "ngay": "29/07",
+      "mua_phung_vu": null,
+      "tuan": null,
+      "thu": null,
+      "mau_sac": "Trắng",
+      "bac_le": "Nhớ"
+    }
+  },
+  {
+    "ma_dinh_danh": "ngay-31-7-thanh-i-nha-xi-o-loi-o-la-linh-muc",
+    "tieu_de": "Ngày 31/7: Thánh I-nha-xi-ô Lôi-ô-la, Linh mục",
+    "thong_tin_ngay": {
+      "ngay": "31/07",
+      "mua_phung_vu": null,
+      "tuan": null,
+      "thu": null,
+      "mau_sac": "Trắng",
+      "bac_le": "nhớ"
+    }
+  },
+  {
+    "ma_dinh_danh": "ngay-4-8-thanh-gio-an-ma-ri-a-vi-a-ne-linh-muc",
+    "tieu_de": "Ngày 04/8: Thánh Gio-an Ma-ri-a Vi-a-nê, Linh mục",
+    "thong_tin_ngay": {
+      "ngay": "04/08",
+      "mua_phung_vu": null,
+      "tuan": null,
+      "thu": null,
+      "mau_sac": "Trắng",
+      "bac_le": "nhớ"
+    }
+  },
+  {
+    "ma_dinh_danh": "ngay-8-8-thanh-daminh-linh-muc",
+    "tieu_de": "Ngày 08/8: Thánh Đa-minh – Linh mục",
+    "thong_tin_ngay": {
+      "ngay": "08/08",
+      "mua_phung_vu": null,
+      "tuan": null,
+      "thu": null,
+      "mau_sac": "Trắng",
+      "bac_le": "nhớ"
+    }
+  },
+  {
+    "ma_dinh_danh": "ngay-10-8-thanh-lo-ren-xo-pho-te-tu-dao",
+    "tieu_de": "Ngày 10/8: Thánh Lô-ren-xô – Phó tế, Tử đạo",
+    "thong_tin_ngay": {
+      "ngay": "10/08",
+      "mua_phung_vu": null,
+      "tuan": null,
+      "thu": null,
+      "mau_sac": "Đỏ",
+      "bac_le": "Kính"
+    }
+  },
+  {
+    "ma_dinh_danh": "ngay-11-8-thanh-co-la-ra-trinh-nu",
+    "tieu_de": "Ngày 11/8: Thánh Cờ-la-ra, Trinh nữ",
+    "thong_tin_ngay": {
+      "ngay": "11/08",
+      "mua_phung_vu": null,
+      "tuan": null,
+      "thu": null,
+      "mau_sac": "Trắng",
+      "bac_le": "nhớ"
+    }
+  },
+  {
+    "ma_dinh_danh": "ngay-12-8-thanh-giacobe-do-mai-nam-linh-muc-thanh-phero-nguyen-dich-giao-dan-va-thanh-micae-nguyen-huy-my-ly-truong-tu-dao",
+    "tieu_de": "Ngày 12/8: Thánh Gia-cô-bê Đỗ Mai Năm, thánh An-tôn Nguyễn Đích và thánh Mi-ca-e Nguyễn Huy Mỹ, tử đạo",
+    "thong_tin_ngay": {
+      "ngay": "12/08",
+      "mua_phung_vu": null,
+      "tuan": null,
+      "thu": null,
+      "mau_sac": "Đỏ",
+      "bac_le": "Nhớ (hoặc Kính)"
+    }
+  },
+  {
+    "ma_dinh_danh": "ngay-14-8-thanh-mac-xi-mi-li-a-no-kon-be-linh-muc-tu-dao",
+    "tieu_de": "Ngày 14/8: Thánh Mac-xi-mi-li-a-nô Kôn-bê, Linh mục, tử đạo",
+    "thong_tin_ngay": {
+      "ngay": "14/08",
+      "mua_phung_vu": null,
+      "tuan": null,
+      "thu": null,
+      "mau_sac": "Đỏ",
+      "bac_le": "nhớ"
+    }
+  },
+  {
+    "ma_dinh_danh": "ngay-14-8-le-vong-duc-me-linh-hon-va-xac-len-troi",
+    "tieu_de": "Ngày 14/8: Lễ vọng Đức Mẹ linh hồn và xác lên trời",
+    "thong_tin_ngay": {
+      "ngay": "14/08",
+      "mua_phung_vu": null,
+      "tuan": null,
+      "thu": null,
+      "mau_sac": "Trắng",
+      "bac_le": "Trọng"
+    }
+  },
+  {
+    "ma_dinh_danh": "ngay-15-8-le-duc-me-linh-hon-va-xac-len-troi",
+    "tieu_de": "Ngày 15/8: Lễ Đức Mẹ linh hồn và xác lên trời",
+    "thong_tin_ngay": {
+      "ngay": "15/08",
+      "mua_phung_vu": null,
+      "tuan": null,
+      "thu": null,
+      "mau_sac": "Trắng",
+      "bac_le": "Trọng"
+    }
+  },
+  {
+    "ma_dinh_danh": "ngay-20-8-thanh-be-na-do-vien-phu-tien-si-hoi-thanh",
+    "tieu_de": "Ngày 20/8: Thánh Bê-na-đô, viện phụ, Tiến sĩ Hội Thánh",
+    "thong_tin_ngay": {
+      "ngay": "20/08",
+      "mua_phung_vu": null,
+      "tuan": null,
+      "thu": null,
+      "mau_sac": "Trắng",
+      "bac_le": "nhớ"
+    }
+  },
+  {
+    "ma_dinh_danh": "ngay-21-8-thanh-pio-x-giao-hoang",
+    "tieu_de": "Ngày 21/8: Thánh Pi-ô X, Giáo hoàng",
+    "thong_tin_ngay": {
+      "ngay": "21/08",
+      "mua_phung_vu": null,
+      "tuan": null,
+      "thu": null,
+      "mau_sac": "Trắng",
+      "bac_le": "Nhớ"
+    }
+  },
+  {
+    "ma_dinh_danh": "ngay-22-8-duc-trinh-nu-ma-ri-a-nu-vuong",
+    "tieu_de": "Ngày 22/8: Đức Trinh nữ Ma-ri-a Nữ Vương",
+    "thong_tin_ngay": {
+      "ngay": "22/08",
+      "mua_phung_vu": null,
+      "tuan": null,
+      "thu": null,
+      "mau_sac": "Trắng",
+      "bac_le": "Nhớ"
+    }
+  },
+  {
+    "ma_dinh_danh": "ngay-24-8-thanh-ba-to-lo-me-o-tong-do",
+    "tieu_de": "Ngày 24/8: Thánh Ba-tô-lô-mê-ô, tông đồ",
+    "thong_tin_ngay": {
+      "ngay": "24/08",
+      "mua_phung_vu": null,
+      "tuan": null,
+      "thu": null,
+      "mau_sac": "Đỏ",
+      "bac_le": "Kính"
+    }
+  },
+  {
+    "ma_dinh_danh": "ngay-27-8-thanh-nu-mo-ni-ca",
+    "tieu_de": "Ngày 27/8: Thánh nữ Mô-ni-ca",
+    "thong_tin_ngay": {
+      "ngay": "27/08",
+      "mua_phung_vu": null,
+      "tuan": null,
+      "thu": null,
+      "mau_sac": "Trắng",
+      "bac_le": "Nhớ"
+    }
+  },
+  {
+    "ma_dinh_danh": "ngay-28-8-thanh-au-gut-ti-no-giam-muc-tien-si-hoi-thanh",
+    "tieu_de": "Ngày 28/8: Thánh Au-gút-ti-nô, Giám mục, Tiến sĩ Hội Thánh",
+    "thong_tin_ngay": {
+      "ngay": "28/08",
+      "mua_phung_vu": null,
+      "tuan": null,
+      "thu": null,
+      "mau_sac": "Trắng",
+      "bac_le": "nhớ"
+    }
+  },
+  {
+    "ma_dinh_danh": "ngay-29-8-thanh-gio-an-bao-ti-xi-ta-bi-tram-quyet",
+    "tieu_de": "Ngày 29/8: Thánh Gio-an Bao-ti-xi-ta bị trảm quyết",
+    "thong_tin_ngay": {
+      "ngay": "29/08",
+      "mua_phung_vu": null,
+      "tuan": null,
+      "thu": null,
+      "mau_sac": "Đỏ",
+      "bac_le": "Nhớ"
+    }
+  },
+  {
+    "ma_dinh_danh": "ngay-03-9-thanh-gre-go-ri-o-ca-giao-hoang-tien-si-hoi-thanh",
+    "tieu_de": "Ngày 03/9: Thánh Grê-gô-ri-ô Cả, Giáo hoàng, Tiến sĩ Hội Thánh",
+    "thong_tin_ngay": {
+      "ngay": "03/09",
+      "mua_phung_vu": null,
+      "tuan": null,
+      "thu": null,
+      "mau_sac": "Trắng",
+      "bac_le": "nhớ"
+    }
+  },
+  {
+    "ma_dinh_danh": "ngay-8-9-sinh-nhat",
+    "tieu_de": "Ngày 08/9: Lễ sinh nhật Đức Trinh Nữ Ma-ri-a",
+    "thong_tin_ngay": {
+      "ngay": "08/09",
+      "mua_phung_vu": null,
+      "tuan": null,
+      "thu": null,
+      "mau_sac": "Trắng",
+      "bac_le": "Kính"
+    }
+  },
+  {
+    "ma_dinh_danh": "ngay-13-9-thanh-gio-an-kim-khau-giam-muc-tien-si-hoi-thanh",
+    "tieu_de": "Ngày 13/9: Thánh Gio-an Kim Khẩu, Giám mục, Tiến sĩ Hội Thánh",
+    "thong_tin_ngay": {
+      "ngay": "13/09",
+      "mua_phung_vu": null,
+      "tuan": null,
+      "thu": null,
+      "mau_sac": "Trắng",
+      "bac_le": "nhớ"
+    }
+  },
+  {
+    "ma_dinh_danh": "ngay-14-9-le-suy-ton-thanh-gia",
+    "tieu_de": "Ngày 14/9: Lễ Suy tôn Thánh giá",
+    "thong_tin_ngay": {
+      "ngay": "14/09",
+      "mua_phung_vu": null,
+      "tuan": null,
+      "thu": null,
+      "mau_sac": "Đỏ",
+      "bac_le": "Lễ kính"
+    }
+  },
+  {
+    "ma_dinh_danh": "ngay-15-9-le-duc-me-sau-bi",
+    "tieu_de": "Ngày 15/9: Lễ Đức Mẹ Sầu Bi",
+    "thong_tin_ngay": {
+      "ngay": "15/09",
+      "mua_phung_vu": null,
+      "tuan": null,
+      "thu": null,
+      "mau_sac": "Trắng",
+      "bac_le": "Nhớ"
+    }
+  },
+  {
+    "ma_dinh_danh": "ngay-16-9-thanh-co-ne-li-o-va-thanh-sip-ri-a-no",
+    "tieu_de": "Ngày 16/9: Thánh Coóc-nê-li-ô và Thánh Sip-ri-a-nô",
+    "thong_tin_ngay": {
+      "ngay": "16/09",
+      "mua_phung_vu": null,
+      "tuan": null,
+      "thu": null,
+      "mau_sac": "Đỏ",
+      "bac_le": "Nhớ"
+    }
+  },
+  {
+    "ma_dinh_danh": "ngay-20-9-thanh-an-re-kim-phao-lo-chung-va-cac-ban-tu-dao",
+    "tieu_de": "Ngày 20/9: Thánh An-rê Kim, Phao-lô Chung và các bạn tử đạo",
+    "thong_tin_ngay": {
+      "ngay": "20/09",
+      "mua_phung_vu": null,
+      "tuan": null,
+      "thu": null,
+      "mau_sac": "Đỏ",
+      "bac_le": "Nhớ"
+    }
+  },
+  {
+    "ma_dinh_danh": "ngay-21-9-thanh-mattheu-tong-do",
+    "tieu_de": "Ngày 21/9: Thánh Mát-thêu, tông đồ",
+    "thong_tin_ngay": {
+      "ngay": "21/09",
+      "mua_phung_vu": null,
+      "tuan": null,
+      "thu": null,
+      "mau_sac": "Đỏ",
+      "bac_le": "Kính"
+    }
+  },
+  {
+    "ma_dinh_danh": "ngay-23-9-thanh-pio-nam-dau",
+    "tieu_de": "Ngày 23/9: Thánh Pi-ô năm dấu",
+    "thong_tin_ngay": {
+      "ngay": "23/09",
+      "mua_phung_vu": null,
+      "tuan": null,
+      "thu": null,
+      "mau_sac": "Trắng",
+      "bac_le": "Nhớ"
+    }
+  },
+  {
+    "ma_dinh_danh": "ngay-27-9-thanh-vinhson-phaolo-linh-muc",
+    "tieu_de": "Ngày 27/9: Thánh Vinh-sơn Phao-lô, Linh mục",
+    "thong_tin_ngay": {
+      "ngay": "27/09",
+      "mua_phung_vu": null,
+      "tuan": null,
+      "thu": null,
+      "mau_sac": "Trắng",
+      "bac_le": "nhớ"
+    }
+  },
+  {
+    "ma_dinh_danh": "ngay-30-9-thanh-gie-ro-ni-mo-linh-muc-tien-si-hoi-thanh-2",
+    "tieu_de": "Ngày 30/9: Thánh Giê-rô-ni-mô, Linh mục, Tiến sĩ Hội Thánh",
+    "thong_tin_ngay": {
+      "ngay": "30/09",
+      "mua_phung_vu": null,
+      "tuan": null,
+      "thu": null,
+      "mau_sac": "Trắng",
+      "bac_le": "Nhớ"
+    }
+  },
+  {
+    "ma_dinh_danh": "ngay-1-10-thanh-te-re-sa-hai-dong-giesu-trinh-nu-tien-si-hoi-thanh",
+    "tieu_de": "Ngày 01/10: Thánh Tê-rê-sa Hài Đồng Giê-su, Trinh nữ, Tiến sĩ Hội Thánh",
+    "thong_tin_ngay": {
+      "ngay": "01/10",
+      "mua_phung_vu": null,
+      "tuan": null,
+      "thu": null,
+      "mau_sac": "Trắng",
+      "bac_le": "Kính"
+    }
+  },
+  {
+    "ma_dinh_danh": "ngay-2-10-cac-thien-than-ho-thu-2",
+    "tieu_de": "Ngày 02/10: Các Thiên thần hộ thủ",
+    "thong_tin_ngay": {
+      "ngay": "02/10",
+      "mua_phung_vu": null,
+      "tuan": null,
+      "thu": null,
+      "mau_sac": "Trắng",
+      "bac_le": "Nhớ"
+    }
+  },
+  {
+    "ma_dinh_danh": "ngay-4-10-thanh-phan-xi-co-thanh-at-si-si",
+    "tieu_de": "Ngày 04/10: Thánh Phan-xi-cô thành Át-si-si",
+    "thong_tin_ngay": {
+      "ngay": "04/10",
+      "mua_phung_vu": null,
+      "tuan": null,
+      "thu": null,
+      "mau_sac": "Trắng",
+      "bac_le": "Nhớ"
+    }
+  },
+  {
+    "ma_dinh_danh": "ngay-7-10-le-duc-me-man-coi",
+    "tieu_de": "Ngày 07/10: Lễ Đức Mẹ Mân Côi",
+    "thong_tin_ngay": {
+      "ngay": "07/10",
+      "mua_phung_vu": null,
+      "tuan": null,
+      "thu": null,
+      "mau_sac": "Trắng",
+      "bac_le": "Nhớ"
+    }
+  },
+  {
+    "ma_dinh_danh": "ngay-11-10-le-thanh-gioan-xxiii-giao-hoang",
+    "tieu_de": "Ngày 11/10: Lễ Thánh Gio-an XXIII, Giáo hoàng",
+    "thong_tin_ngay": {
+      "ngay": "11/10",
+      "mua_phung_vu": null,
+      "tuan": null,
+      "thu": null,
+      "mau_sac": null,
+      "bac_le": null
+    }
+  },
+  {
+    "ma_dinh_danh": "ngay-11-10-thanh-phero-le-tuy-linh-muc-1773-1833-2",
+    "tieu_de": "Ngày 11/10: Thánh Phê-rô Lê Tùy, Linh mục",
+    "thong_tin_ngay": {
+      "ngay": "11/10",
+      "mua_phung_vu": null,
+      "tuan": null,
+      "thu": null,
+      "mau_sac": "Đỏ",
+      "bac_le": "Nhớ (hoặc Kính)"
+    }
+  },
+  {
+    "ma_dinh_danh": "ngay-15-10-thanh-te-re-sa-gie-su-thanh-avila-trinh-nu-tien-si-hoi-thanh",
+    "tieu_de": "Ngày 15/10: Thánh Tê-rê-sa Giê-su (thành A-vi-la), Tiến sĩ Hội Thánh",
+    "thong_tin_ngay": {
+      "ngay": "15/10",
+      "mua_phung_vu": null,
+      "tuan": null,
+      "thu": null,
+      "mau_sac": "Trắng",
+      "bac_le": null
+    }
+  },
+  {
+    "ma_dinh_danh": "ngay-17-10-thanh-i-nha-xi-o-thanh-an-ti-o-ki-a-giam-muc-tu-dao-2",
+    "tieu_de": "Ngày 17/10: Thánh I-nha-xi-ô thành An-ti-ô-ki-a, Giám mục, tử đạo",
+    "thong_tin_ngay": {
+      "ngay": "17/10",
+      "mua_phung_vu": null,
+      "tuan": null,
+      "thu": null,
+      "mau_sac": "Đỏ",
+      "bac_le": "Nhớ"
+    }
+  },
+  {
+    "ma_dinh_danh": "ngay-18-10-thanh-luca-tac-gia-sach-tin-mung-2",
+    "tieu_de": "Ngày 18/10: Thánh Luca, Tác giả sách Tin Mừng",
+    "thong_tin_ngay": {
+      "ngay": "18/10",
+      "mua_phung_vu": null,
+      "tuan": null,
+      "thu": null,
+      "mau_sac": "Đỏ",
+      "bac_le": "Kính"
+    }
+  },
+  {
+    "ma_dinh_danh": "ngay-22-10-thanh-gioan-phaolo-ii-giao-hoang",
+    "tieu_de": "Ngày 22/10: Thánh Gio-an Phao-lô II, Giáo hoàng",
+    "thong_tin_ngay": {
+      "ngay": "22/10",
+      "mua_phung_vu": null,
+      "tuan": null,
+      "thu": null,
+      "mau_sac": null,
+      "bac_le": null
+    }
+  },
+  {
+    "ma_dinh_danh": "ngay-27-10-thanh-gioan-dat-linh-muc-1765-1798-2",
+    "tieu_de": "Ngày 28/10: Thánh Gio-an Đạt, Linh mục",
+    "thong_tin_ngay": {
+      "ngay": "28/10",
+      "mua_phung_vu": null,
+      "tuan": null,
+      "thu": null,
+      "mau_sac": "Đỏ",
+      "bac_le": "Nhớ (hoặc Kính)"
+    }
+  },
+  {
+    "ma_dinh_danh": "ngay-28-10-thanh-si-mon-va-thanh-giu-da-tong-do",
+    "tieu_de": "Ngày 28/10: Thánh Si-mon và Thánh Giu-đa, tông đồ",
+    "thong_tin_ngay": {
+      "ngay": "28/10",
+      "mua_phung_vu": null,
+      "tuan": null,
+      "thu": null,
+      "mau_sac": "Đỏ",
+      "bac_le": "Kính"
+    }
+  },
+  {
+    "ma_dinh_danh": "ngay-1-11-le-cac-thanh-nam-nu",
+    "tieu_de": "Ngày 01/11: Lễ Các Thánh Nam Nữ",
+    "thong_tin_ngay": {
+      "ngay": "01/11",
+      "mua_phung_vu": null,
+      "tuan": null,
+      "thu": null,
+      "mau_sac": "Trắng",
+      "bac_le": "Trọng buộc"
+    }
+  },
+  {
+    "ma_dinh_danh": "ngay-2-11-cau-cho-cac-tin-huu-da-qua-doi",
+    "tieu_de": "Ngày 02/11: Cầu cho các tín hữu đã qua đời",
+    "thong_tin_ngay": {
+      "ngay": "02/11",
+      "mua_phung_vu": null,
+      "tuan": null,
+      "thu": null,
+      "mau_sac": "Tím",
+      "bac_le": "nhớ"
+    }
+  },
+  {
+    "ma_dinh_danh": "ngay-4-11-thanh-ca-ro-lo-bo-ro-me-o-giam-muc",
+    "tieu_de": "Ngày 04/11: Thánh Ca-rô-lô Bô-rô-mê-ô, Giám mục",
+    "thong_tin_ngay": {
+      "ngay": "04/11",
+      "mua_phung_vu": null,
+      "tuan": null,
+      "thu": null,
+      "mau_sac": "Trắng",
+      "bac_le": "Nhớ buộc"
+    }
+  },
+  {
+    "ma_dinh_danh": "ngay-08-11-thanh-giuse-nguyen-dinh-nghi-linh-muc-thanh-mactino-ta-duc-thinh-linh-muc-thanh-phaolo-nguyen-ngan-linh-muc-thanh-mactino-tho-trum-ho-va-thanh-gioan-baotixita-con-ly-truong",
+    "tieu_de": "Ngày 08/11: Thánh Giu-se Nghi, Mác-ti-nô Thịnh, Phao-lô Ngân, Mác-ti-nô Thọ và Gio-an Bao-ti-xi-ta Cỏn",
+    "thong_tin_ngay": {
+      "ngay": "08/11",
+      "mua_phung_vu": null,
+      "tuan": null,
+      "thu": null,
+      "mau_sac": "Đỏ",
+      "bac_le": "Nhớ (hoặc Kính)"
+    }
+  },
+  {
+    "ma_dinh_danh": "ngay-9-11-cung-hien-den-tho-la-te-ra-no",
+    "tieu_de": "Ngày 09/11: Cung hiến đền thờ La-tê-ra-nô",
+    "thong_tin_ngay": {
+      "ngay": "09/11",
+      "mua_phung_vu": null,
+      "tuan": null,
+      "thu": null,
+      "mau_sac": "Trắng",
+      "bac_le": "Kính"
+    }
+  },
+  {
+    "ma_dinh_danh": "ngay-10-11-thanh-le-o-ca-giao-hoang",
+    "tieu_de": "Ngày 10/11: Thánh Lê-ô Cả, Giáo hoàng",
+    "thong_tin_ngay": {
+      "ngay": "10/11",
+      "mua_phung_vu": null,
+      "tuan": null,
+      "thu": null,
+      "mau_sac": "Trắng",
+      "bac_le": "Nhớ buộc"
+    }
+  },
+  {
+    "ma_dinh_danh": "ngay-11-11-thanh-mac-ti-no-thanh-tua",
+    "tieu_de": "Ngày 11/11: Thánh Mác-ti-nô thành Tua",
+    "thong_tin_ngay": {
+      "ngay": "11/11",
+      "mua_phung_vu": null,
+      "tuan": null,
+      "thu": null,
+      "mau_sac": "Trắng",
+      "bac_le": "Nhớ buộc"
+    }
+  },
+  {
+    "ma_dinh_danh": "ngay-12-11-thanh-gio-sa-phat-giam-muc-tu-dao",
+    "tieu_de": "Ngày 12/11: Thánh Giô-sa-phát, Giám mục, tử đạo",
+    "thong_tin_ngay": {
+      "ngay": "12/11",
+      "mua_phung_vu": null,
+      "tuan": null,
+      "thu": null,
+      "mau_sac": "Đỏ",
+      "bac_le": "Nhớ buộc"
+    }
+  },
+  {
+    "ma_dinh_danh": "ngay-17-11-thanh-nu-e-li-sa-bet-nuoc-hung-ga-ri",
+    "tieu_de": "Ngày 17/11: Thánh nữ Ê-li-sa-bet nước Hung-ga-ri",
+    "thong_tin_ngay": {
+      "ngay": "17/11",
+      "mua_phung_vu": null,
+      "tuan": null,
+      "thu": null,
+      "mau_sac": "Trắng",
+      "bac_le": "Nhớ"
+    }
+  },
+  {
+    "ma_dinh_danh": "ngay-20-11-thanh-phanxico-xavier-nguyen-can-thay-giang-1803-1837-2",
+    "tieu_de": "Ngày 20/11: Thánh Phan-xi-cô Xa-vi-ê Nguyễn Cần, Thầy Giảng",
+    "thong_tin_ngay": {
+      "ngay": "20/11",
+      "mua_phung_vu": null,
+      "tuan": null,
+      "thu": null,
+      "mau_sac": "Đỏ",
+      "bac_le": "Nhớ (hoặc Kính)"
+    }
+  },
+  {
+    "ma_dinh_danh": "ngay-21-11-duc-trinh-nu-ma-ri-a-dang-minh-trong-den-tho",
+    "tieu_de": "Ngày 21/11: Đức Trinh nữ Ma-ri-a dâng mình trong đền thờ",
+    "thong_tin_ngay": {
+      "ngay": "21/11",
+      "mua_phung_vu": null,
+      "tuan": null,
+      "thu": null,
+      "mau_sac": "Trắng",
+      "bac_le": "Nhớ buộc"
+    }
+  },
+  {
+    "ma_dinh_danh": "ngay-22-11-thanh-xe-xi-li-a-trinh-nu-tu-dao",
+    "tieu_de": "Ngày 22/11: Thánh Xê-xi-li-a, Trinh nữ, tử đạo",
+    "thong_tin_ngay": {
+      "ngay": "22/11",
+      "mua_phung_vu": null,
+      "tuan": null,
+      "thu": null,
+      "mau_sac": "Trắng",
+      "bac_le": "Nhớ"
+    }
+  },
+  {
+    "ma_dinh_danh": "ngay-24-11-le-cac-thanh-tu-dao-viet-nam",
+    "tieu_de": "Ngày 24/11: Lễ Các thánh Tử đạo Việt Nam",
+    "thong_tin_ngay": {
+      "ngay": "24/11",
+      "mua_phung_vu": null,
+      "tuan": null,
+      "thu": null,
+      "mau_sac": "Đỏ",
+      "bac_le": "Trọng"
+    }
+  },
+  {
+    "ma_dinh_danh": "ngay-30-11-thanh-anre-tong-do",
+    "tieu_de": "Ngày 30/11: Thánh An-rê, tông đồ",
+    "thong_tin_ngay": {
+      "ngay": "30/11",
+      "mua_phung_vu": null,
+      "tuan": null,
+      "thu": null,
+      "mau_sac": "Đỏ",
+      "bac_le": "Kính"
+    }
+  },
+  {
+    "ma_dinh_danh": "ngay-03-12-thanh-phanxico-xavie-linh-muc-bon-mang-cac-xu-truyen-giao",
+    "tieu_de": "Ngày 03/12: Thánh Phan-xi-cô Xa-vi-ê, Linh mục, Bổn mạng các xứ truyền giáo",
+    "thong_tin_ngay": {
+      "ngay": "03/12",
+      "mua_phung_vu": null,
+      "tuan": null,
+      "thu": null,
+      "mau_sac": "Trắng",
+      "bac_le": "Lễ Kính"
+    }
+  },
+  {
+    "ma_dinh_danh": "ngay-7-12-thanh-am-bro-xi-o-giam-muc-tien-si-hoi-thanh-2",
+    "tieu_de": "Ngày 07/12: Thánh Am-brô-xi-ô, Giám mục, Tiến sĩ Hội Thánh",
+    "thong_tin_ngay": {
+      "ngay": "07/12",
+      "mua_phung_vu": null,
+      "tuan": null,
+      "thu": null,
+      "mau_sac": "Trắng",
+      "bac_le": "Nhớ buộc"
+    }
+  },
+  {
+    "ma_dinh_danh": "ngay-8-12-duc-trinh-nu-maria-vo-nhiem-nguyen-toi-2",
+    "tieu_de": "Ngày 08/12: Đức Trinh Nữ Ma-ri-a Vô Nhiễm Nguyên Tội",
+    "thong_tin_ngay": {
+      "ngay": "08/12",
+      "mua_phung_vu": null,
+      "tuan": null,
+      "thu": null,
+      "mau_sac": "Trắng",
+      "bac_le": "Trọng"
+    }
+  },
+  {
+    "ma_dinh_danh": "ngay-13-12-thanh-luxia-trinh-nu-tu-dao",
+    "tieu_de": "Ngày 13/12: Thánh Lu-xi-a, Trinh nữ, tử đạo",
+    "thong_tin_ngay": {
+      "ngay": "13/12",
+      "mua_phung_vu": null,
+      "tuan": null,
+      "thu": null,
+      "mau_sac": "Đỏ",
+      "bac_le": "Nhớ"
+    }
+  },
+  {
+    "ma_dinh_danh": "ngay-14-12-thanh-gioan-thanh-gia-linh-muc-tien-si-hoi-thanh",
+    "tieu_de": "Ngày 14/12: Thánh Gio-an Thánh giá, Linh mục, Tiến sĩ Hội Thánh",
+    "thong_tin_ngay": {
+      "ngay": "14/12",
+      "mua_phung_vu": null,
+      "tuan": null,
+      "thu": null,
+      "mau_sac": "Trắng",
+      "bac_le": "Nhớ"
+    }
+  },
+  {
+    "ma_dinh_danh": "ngay-18-12-thanh-phe-ro-truong-van-duong-thay-giang-tu-dao",
+    "tieu_de": "Ngày 18/12: Thánh Phê-rô Trương Văn Đường – Thầy Giảng, Tử đạo",
+    "thong_tin_ngay": {
+      "ngay": "18/12",
+      "mua_phung_vu": null,
+      "tuan": null,
+      "thu": null,
+      "mau_sac": "Đỏ",
+      "bac_le": "Nhớ (hoặc Kính)"
+    }
+  },
+  {
+    "ma_dinh_danh": "ngay-21-12-thanh-phe-ro-truong-van-thi-linh-muc-tu-dao",
+    "tieu_de": "Ngày 21/12: Thánh Phê-rô Trương Văn Thi – Linh mục, Tử đạo",
+    "thong_tin_ngay": {
+      "ngay": "21/12",
+      "mua_phung_vu": null,
+      "tuan": null,
+      "thu": null,
+      "mau_sac": "Đỏ",
+      "bac_le": "Nhớ (hoặc Kính)"
+    }
+  },
+  {
+    "ma_dinh_danh": "ngay-26-12-thanh-te-pha-no-pho-te-tu-dao-tien-khoi",
+    "tieu_de": "Ngày 26/12: Thánh Tê-pha-nô, Phó tế, tử đạo tiên khởi",
+    "thong_tin_ngay": {
+      "ngay": "26/12",
+      "mua_phung_vu": null,
+      "tuan": null,
+      "thu": null,
+      "mau_sac": "Đỏ",
+      "bac_le": "Kính"
+    }
+  },
+  {
+    "ma_dinh_danh": "ngay-28-12-cac-thanh-anh-hai-tu-dao-2",
+    "tieu_de": "Ngày 28/12: Các Thánh Anh Hài, tử đạo",
+    "thong_tin_ngay": {
+      "ngay": "28/12",
+      "mua_phung_vu": null,
+      "tuan": null,
+      "thu": null,
+      "mau_sac": "Đỏ",
+      "bac_le": "Kính"
+    }
+  }
+]

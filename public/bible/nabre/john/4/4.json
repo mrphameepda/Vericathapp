@@ -1,0 +1,496 @@
+{
+    "headings":  [
+
+                 ],
+    "verses":  [
+                   {
+                       "label":  "1",
+                       "number":  1,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Chapter 4 - Now when Jesus learned that the Pharisees had heard that Jesus was making and baptizing more disciples than John",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "2",
+                       "number":  2,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "(although Jesus himself was not baptizing, just his disciples),",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "3",
+                       "number":  3,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "he left Judea and returned to Galilee.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "4",
+                       "number":  4,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "The Samaritan Woman. He had to pass through Samaria.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "5",
+                       "number":  5,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "So he came to a town of Samaria called Sychar, near the plot of land that Jacob had given to his son Joseph.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "6",
+                       "number":  6,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Jacob’s well was there. Jesus, tired from his journey, sat down there at the well. It was about noon.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "7",
+                       "number":  7,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "A woman of Samaria came to draw water. Jesus said to her, “Give me a drink.”",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "8",
+                       "number":  8,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "His disciples had gone into the town to buy food.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "9",
+                       "number":  9,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "The Samaritan woman said to him, “How can you, a Jew, ask me, a Samaritan woman, for a drink?” (For Jews use nothing in common with Samaritans.)",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "10",
+                       "number":  10,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Jesus answered and said to her, “If you knew the gift of God and who is saying to you, ‘Give me a drink,’ you would have asked him and he would have given you living water.”",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "11",
+                       "number":  11,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "[The woman] said to him, “Sir, you do not even have a bucket and the well is deep; where then can you get this living water?",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "12",
+                       "number":  12,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Are you greater than our father Jacob, who gave us this well and drank from it himself with his children and his flocks?”",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "13",
+                       "number":  13,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Jesus answered and said to her, “Everyone who drinks this water will be thirsty again;",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "14",
+                       "number":  14,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "but whoever drinks the water I shall give will never thirst; the water I shall give will become in him a spring of water welling up to eternal life.”",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "15",
+                       "number":  15,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "The woman said to him, “Sir, give me this water, so that I may not be thirsty or have to keep coming here to draw water.”",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "16",
+                       "number":  16,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Jesus said to her, “Go call your husband and come back.”",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "17",
+                       "number":  17,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "The woman answered and said to him, “I do not have a husband.” Jesus answered her, “You are right in saying, ‘I do not have a husband.’",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "18",
+                       "number":  18,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "For you have had five husbands, and the one you have now is not your husband. What you have said is true.”",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "19",
+                       "number":  19,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "The woman said to him, “Sir, I can see that you are a prophet.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "20",
+                       "number":  20,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Our ancestors worshiped on this mountain; but you people say that the place to worship is in Jerusalem.”",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "21",
+                       "number":  21,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Jesus said to her, “Believe me, woman, the hour is coming when you will worship the Father neither on this mountain nor in Jerusalem.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "22",
+                       "number":  22,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "You people worship what you do not understand; we worship what we understand, because salvation is from the Jews.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "23",
+                       "number":  23,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "But the hour is coming, and is now here, when true worshipers will worship the Father in Spirit and truth; and indeed the Father seeks such people to worship him.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "24",
+                       "number":  24,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "God is Spirit, and those who worship him must worship in Spirit and truth.”",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "25",
+                       "number":  25,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "The woman said to him, “I know that the Messiah is coming, the one called the Anointed; when he comes, he will tell us everything.”",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "26",
+                       "number":  26,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Jesus said to her, “I am he, the one who is speaking with you.”",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "27",
+                       "number":  27,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "At that moment his disciples returned, and were amazed that he was talking with a woman, but still no one said, “What are you looking for?” or “Why are you talking with her?”",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "28",
+                       "number":  28,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "The woman left her water jar and went into the town and said to the people,",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "29",
+                       "number":  29,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "“Come see a man who told me everything I have done. Could he possibly be the Messiah?”",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "30",
+                       "number":  30,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "They went out of the town and came to him.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "31",
+                       "number":  31,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Meanwhile, the disciples urged him, “Rabbi, eat.”",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "32",
+                       "number":  32,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "But he said to them, “I have food to eat of which you do not know.”",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "33",
+                       "number":  33,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "So the disciples said to one another, “Could someone have brought him something to eat?”",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "34",
+                       "number":  34,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Jesus said to them, “My food is to do the will of the one who sent me and to finish his work.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "35",
+                       "number":  35,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Do you not say, ‘In four months the harvest will be here’? I tell you, look up and see the fields ripe for the harvest.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "36",
+                       "number":  36,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "The reaper is already receiving his payment and gathering crops for eternal life, so that the sower and reaper can rejoice together.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "37",
+                       "number":  37,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "For here the saying is verified that ‘One sows and another reaps.’",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "38",
+                       "number":  38,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "I sent you to reap what you have not worked for; others have done the work, and you are sharing the fruits of their work.”",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "39",
+                       "number":  39,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Many of the Samaritans of that town began to believe in him because of the word of the woman who testified, “He told me everything I have done.”",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "40",
+                       "number":  40,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "When the Samaritans came to him, they invited him to stay with them; and he stayed there two days.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "41",
+                       "number":  41,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Many more began to believe in him because of his word,",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "42",
+                       "number":  42,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "and they said to the woman, “We no longer believe because of your word; for we have heard for ourselves, and we know that this is truly the savior of the world.”",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "43",
+                       "number":  43,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Return to Galilee. After the two days, he left there for Galilee.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "44",
+                       "number":  44,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "For Jesus himself testified that a prophet has no honor in his native place.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "45",
+                       "number":  45,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "When he came into Galilee, the Galileans welcomed him, since they had seen all he had done in Jerusalem at the feast; for they themselves had gone to the feast. Second Sign at Cana.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "46",
+                       "number":  46,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Then he returned to Cana in Galilee, where he had made the water wine. Now there was a royal official whose son was ill in Capernaum.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "47",
+                       "number":  47,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "When he heard that Jesus had arrived in Galilee from Judea, he went to him and asked him to come down and heal his son, who was near death.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "48",
+                       "number":  48,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Jesus said to him, “Unless you people see signs and wonders, you will not believe.”",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "49",
+                       "number":  49,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "The royal official said to him, “Sir, come down before my child dies.”",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "50",
+                       "number":  50,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Jesus said to him, “You may go; your son will live.” The man believed what Jesus said to him and left.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "51",
+                       "number":  51,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "While he was on his way back, his slaves met him and told him that his boy would live.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "52",
+                       "number":  52,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "He asked them when he began to recover. They told him, “The fever left him yesterday, about one in the afternoon.”",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "53",
+                       "number":  53,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "The father realized that just at that time Jesus had said to him, “Your son will live,” and he and his whole household came to believe.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "54",
+                       "number":  54,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "[Now] this was the second sign Jesus did when he came to Galilee from Judea.",
+                       "isPoetry":  false
+                   }
+               ],
+    "marks":  [
+
+              ]
+}

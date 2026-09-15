@@ -1,0 +1,550 @@
+{
+    "headings":  [
+
+                 ],
+    "verses":  [
+                   {
+                       "label":  "1",
+                       "number":  1,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "II. Leadership of Judas Maccabeus Chapter 3 - Judas and His Early Victories. Then his son Judas, who was called Maccabeus, took his place.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "2",
+                       "number":  2,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "All his brothers and all who had joined his father supported him, and they gladly carried on Israel’s war.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "3",
+                       "number":  3,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "He spread abroad the glory of his people, and put on his breastplate like a giant. He armed himself with weapons of war; he fought battles and protected the camp with his sword.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "4",
+                       "number":  4,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "In his deeds he was like a lion, like a young lion roaring for prey.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "5",
+                       "number":  5,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "He pursued the lawless, hunting them out, and those who troubled his people he destroyed by fire.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "6",
+                       "number":  6,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "The lawless were cowed by fear of him, and all evildoers were dismayed. By his hand deliverance was happily achieved,",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "7",
+                       "number":  7,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "and he afflicted many kings. He gave joy to Jacob by his deeds, and his memory is blessed forever.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "8",
+                       "number":  8,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "He went about the cities of Judah destroying the renegades there. He turned away wrath from Israel,",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "9",
+                       "number":  9,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "was renowned to the ends of the earth; and gathered together those who were perishing.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "10",
+                       "number":  10,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Then Apollonius gathered together the Gentiles, along with a large army from Samaria, to fight against Israel.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "11",
+                       "number":  11,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "When Judas learned of it, he went out to meet him and struck and killed him. Many fell wounded, and the rest fled.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "12",
+                       "number":  12,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "They took their spoils, and Judas took the sword of Apollonius and fought with it the rest of his life.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "13",
+                       "number":  13,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "But Seron, commander of the Syrian army, heard that Judas had mustered an assembly of faithful men ready for war.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "14",
+                       "number":  14,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "So he said, “I will make a name for myself and win honor in the kingdom. I will wage war against Judas and his followers, who have despised the king’s command.”",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "15",
+                       "number":  15,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "And again a large company of renegades advanced with him to help him take revenge on the Israelites.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "16",
+                       "number":  16,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "When he reached the ascent of Beth-horon, Judas went out to meet him with a few men.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "17",
+                       "number":  17,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "But when they saw the army coming against them, they said to Judas: “How can we, few as we are, fight such a strong host as this? Besides, we are weak since we have not eaten today.”",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "18",
+                       "number":  18,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "But Judas said: “Many are easily hemmed in by a few; in the sight of Heaven there is no difference between deliverance by many or by few;",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "19",
+                       "number":  19,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "for victory in war does not depend upon the size of the army, but on strength that comes from Heaven.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "20",
+                       "number":  20,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "With great presumption and lawlessness they come against us to destroy us and our wives and children and to despoil us;",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "21",
+                       "number":  21,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "but we are fighting for our lives and our laws.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "22",
+                       "number":  22,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "He will crush them before us; so do not fear them.”",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "23",
+                       "number":  23,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "When he finished speaking, he rushed suddenly upon Seron and his army, who were crushed before him.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "24",
+                       "number":  24,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "He pursued Seron down the descent of Beth-horon into the plain. About eight hundred of their men fell, and the rest fled to the land of the Philistines.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "25",
+                       "number":  25,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Then Judas and his brothers began to be feared, and dread fell upon the Gentiles about them.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "26",
+                       "number":  26,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "His fame reached the king, and the Gentiles talked about the battles of Judas.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "27",
+                       "number":  27,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "The King’s Strategy. When King Antiochus heard these reports, he was filled with rage; so he ordered that all the forces of his kingdom be gathered, a very strong army.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "28",
+                       "number":  28,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "He opened his treasury, gave his soldiers a year’s pay, and commanded them to be prepared for anything.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "29",
+                       "number":  29,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "But then he saw that this exhausted the money in his treasury; moreover the tribute from the province was small because of the dissension and distress he had brought upon the land by abolishing the laws which had been in effect from of old.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "30",
+                       "number":  30,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "He feared that, as had happened once or twice, he would not have enough for his expenses and for the gifts that he was accustomed to give with a lavish hand—more so than all previous kings.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "31",
+                       "number":  31,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Greatly perplexed, he decided to go to Persia and levy tribute on those provinces, and so raise a large sum of money.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "32",
+                       "number":  32,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "He left Lysias, a noble of royal descent, in charge of the king’s affairs from the Euphrates River to the frontier of Egypt,",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "33",
+                       "number":  33,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "and commissioned him to take care of his son Antiochus until his return.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "34",
+                       "number":  34,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "He entrusted to him half of his forces, and the elephants, and gave him instructions concerning everything he wanted done. As for the inhabitants of Judea and Jerusalem,",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "35",
+                       "number":  35,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Lysias was to send an army against them to crush and destroy the power of Israel and the remnant of Jerusalem and efface their memory from the place.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "36",
+                       "number":  36,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "He was to settle foreigners in all their territory and distribute their land by lot.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "37",
+                       "number":  37,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "The king took the remaining half of the army and set out from Antioch, his capital, in the year one hundred and forty-seven; he crossed the Euphrates River and went through the provinces beyond.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "38",
+                       "number":  38,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Preparations for Battle. Lysias chose Ptolemy, son of Dorymenes, and Nicanor and Gorgias, powerful men among the King’s Friends,",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "39",
+                       "number":  39,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "and with them he sent forty thousand foot soldiers and seven thousand cavalry to invade and ravage the land of Judah according to the king’s orders.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "40",
+                       "number":  40,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Setting out with their whole force, they came and pitched their camp near Emmaus in the plain.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "41",
+                       "number":  41,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "When the merchants of the region heard of their prowess, they came to the camp, bringing a huge sum of silver and gold, along with fetters, to buy the Israelites as slaves. A force from Edom and from Philistia joined with them.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "42",
+                       "number":  42,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Judas and his brothers saw that evils had multiplied and that armies were encamped within their territory. They learned of the orders which the king had given to destroy and utterly wipe out the people.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "43",
+                       "number":  43,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "So they said to one another, “Let us raise our people from their ruin and fight for them and for our sanctuary!”",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "44",
+                       "number":  44,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "The assembly gathered together to prepare for battle and to pray and ask for mercy and compassion.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "45",
+                       "number":  45,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Jerusalem was uninhabited, like a wilderness; not one of her children came in or went out. The sanctuary was trampled on, and foreigners were in the citadel; it was a habitation for Gentiles. Joy had disappeared from Jacob, and the flute and the harp were silent.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "46",
+                       "number":  46,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Thus they assembled and went to Mizpah near Jerusalem, because formerly at Mizpah there was a place of prayer for Israel.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "47",
+                       "number":  47,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "That day they fasted and wore sackcloth; they sprinkled ashes on their heads and tore their garments.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "48",
+                       "number":  48,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "They unrolled the scroll of the law, to learn about the things for which the Gentiles consulted the images of their idols.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "49",
+                       "number":  49,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "They brought with them the priestly garments, the first fruits, and the tithes; and they brought forward the nazirites who had completed the time of their vows.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "50",
+                       "number":  50,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "And they cried aloud to Heaven: “What shall we do with these, and where shall we take them?",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "51",
+                       "number":  51,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "For your sanctuary has been trampled on and profaned, and your priests are in mourning and humbled.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "52",
+                       "number":  52,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Now the Gentiles are gathered together against us to destroy us. You know what they plot against us.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "53",
+                       "number":  53,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "How shall we be able to resist them unless you help us?”",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "54",
+                       "number":  54,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Then they blew the trumpets and cried out loudly.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "55",
+                       "number":  55,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "After this Judas appointed officers for the people, over thousands, over hundreds, over fifties, and over tens.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "56",
+                       "number":  56,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "He proclaimed that those who were building houses, or were just married, or were planting vineyards, and those who were afraid, could each return home, according to the law.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "57",
+                       "number":  57,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Then the army moved off, and they camped to the south of Emmaus.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "58",
+                       "number":  58,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Judas said: “Arm yourselves and be brave; in the morning be ready to fight these Gentiles who have assembled against us to destroy us and our sanctuary.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "59",
+                       "number":  59,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "It is better for us to die in battle than to witness the evils befalling our nation and our sanctuary.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "60",
+                       "number":  60,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Whatever is willed in heaven will be done.”",
+                       "isPoetry":  false
+                   }
+               ],
+    "marks":  [
+
+              ]
+}

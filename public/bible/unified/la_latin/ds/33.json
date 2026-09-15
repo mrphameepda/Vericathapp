@@ -1,0 +1,230 @@
+{
+  "book": "ds",
+  "chapter": 33,
+  "verses": [
+    {
+      "verseNumber": 1,
+      "textEn": "Hae sunt mansiones filiorum Israel, qui egressi sunt de Aegypto per turmas suas in manu Moysi et Aaron,"
+    },
+    {
+      "verseNumber": 2,
+      "textEn": "quas descripsit Moyses iuxta castrorum loca, quae Domini iussione mutabant."
+    },
+    {
+      "verseNumber": 3,
+      "textEn": "Profecti igitur de Ramesse mense primo, quinta decima die mensis primi, altera die Paschae, filii Israel in manu excelsa, videntibus cunctis Aegyptiis"
+    },
+    {
+      "verseNumber": 4,
+      "textEn": "et sepelientibus primogenitos, quos percusserat Dominus, nam et in diis eorum exercuerat ultionem,"
+    },
+    {
+      "verseNumber": 5,
+      "textEn": "castrametati sunt in Succoth."
+    },
+    {
+      "verseNumber": 6,
+      "textEn": "Et de Succoth venerunt in Etham, quae est in extremis finibus solitudinis."
+    },
+    {
+      "verseNumber": 7,
+      "textEn": "Inde egressi venerunt contra Phihahiroth, quae respicit Beelsephon, et castrametati sunt ante Magdolum."
+    },
+    {
+      "verseNumber": 8,
+      "textEn": "Profectique de Phihahiroth transierunt per medium mare in solitudinem, et ambulantes tribus diebus per desertum Etham castrametati sunt in Mara."
+    },
+    {
+      "verseNumber": 9,
+      "textEn": "Profectique de Mara venerunt in Elim, ubi erant duodecim fontes aquarum et palmae septuaginta; ibique castrametati sunt."
+    },
+    {
+      "verseNumber": 10,
+      "textEn": "Sed et inde egressi fixerunt tentoria super mare Rubrum. Profectique de mari Rubro"
+    },
+    {
+      "verseNumber": 11,
+      "textEn": "castrametati sunt in deserto Sin;"
+    },
+    {
+      "verseNumber": 12,
+      "textEn": "unde egressi venerunt in Daphca."
+    },
+    {
+      "verseNumber": 13,
+      "textEn": "Profectique de Daphca castrametati sunt in Alus."
+    },
+    {
+      "verseNumber": 14,
+      "textEn": "Egressique de Alus in Raphidim fixere tentoria, ubi populo defuit aqua ad bibendum;"
+    },
+    {
+      "verseNumber": 15,
+      "textEn": "profectique de Raphidim castrametati sunt in deserto Sinai."
+    },
+    {
+      "verseNumber": 16,
+      "textEn": "Sed et de solitudine Sinai egressi venerunt ad Cibrottaava;"
+    },
+    {
+      "verseNumber": 17,
+      "textEn": "profectique de Cibrottaava castrametati sunt in Aseroth."
+    },
+    {
+      "verseNumber": 18,
+      "textEn": "Et de Aseroth venerunt in Rethma;"
+    },
+    {
+      "verseNumber": 19,
+      "textEn": "profectique de Rethma castrametati sunt in Remmonphares."
+    },
+    {
+      "verseNumber": 20,
+      "textEn": "Unde egressi venerunt in Lebna;"
+    },
+    {
+      "verseNumber": 21,
+      "textEn": "de Lebna castrametati sunt in Ressa;"
+    },
+    {
+      "verseNumber": 22,
+      "textEn": "egressique de Ressa venerunt in Ceelatha,"
+    },
+    {
+      "verseNumber": 23,
+      "textEn": "unde profecti castrametati sunt in monte Sepher."
+    },
+    {
+      "verseNumber": 24,
+      "textEn": "Egressi de monte Sepher venerunt in Arada;"
+    },
+    {
+      "verseNumber": 25,
+      "textEn": "inde proficiscentes castrametati sunt in Maceloth;"
+    },
+    {
+      "verseNumber": 26,
+      "textEn": "profectique de Maceloth venerunt in Thahath;"
+    },
+    {
+      "verseNumber": 27,
+      "textEn": "de Thahath castrametati sunt in Thare."
+    },
+    {
+      "verseNumber": 28,
+      "textEn": "Unde egressi fixere tentoria in Methca"
+    },
+    {
+      "verseNumber": 29,
+      "textEn": "et de Methca castrametati sunt in Hesmona;"
+    },
+    {
+      "verseNumber": 30,
+      "textEn": "profectique de Hesmona venerunt in Moseroth."
+    },
+    {
+      "verseNumber": 31,
+      "textEn": "Et de Moseroth castrametati sunt in Beneiacan;"
+    },
+    {
+      "verseNumber": 32,
+      "textEn": "profectique de Beneiacan venerunt in montem Gadgad;"
+    },
+    {
+      "verseNumber": 33,
+      "textEn": "unde profecti castrametati sunt in Ietebatha."
+    },
+    {
+      "verseNumber": 34,
+      "textEn": "Et de Ietebatha venerunt in Ebrona;"
+    },
+    {
+      "verseNumber": 35,
+      "textEn": "egressique de Ebrona castrametati sunt in Asiongaber."
+    },
+    {
+      "verseNumber": 36,
+      "textEn": "Inde profecti venerunt in desertum Sin, hoc est Cades."
+    },
+    {
+      "verseNumber": 37,
+      "textEn": "Egressique de Cades castrametati sunt in monte Hor in extremis finibus terrae Edom."
+    },
+    {
+      "verseNumber": 38,
+      "textEn": "Ascenditque Aaron sacerdos in montem Hor, iubente Domino, et ibi mortuus est anno quadragesimo egressionis filiorum Israel ex Aegypto, mense quinto, prima die mensis,"
+    },
+    {
+      "verseNumber": 39,
+      "textEn": "cum esset annorum centum viginti trium."
+    },
+    {
+      "verseNumber": 40,
+      "textEn": "Audivitque Chananaeus rex Arad, qui habitabat in Nageb, in terra Chanaan, venisse filios Israel."
+    },
+    {
+      "verseNumber": 41,
+      "textEn": "Et profecti de monte Hor castrametati sunt in Salmona;"
+    },
+    {
+      "verseNumber": 42,
+      "textEn": "unde egressi venerunt in Phinon."
+    },
+    {
+      "verseNumber": 43,
+      "textEn": "Profectique de Phinon castrametati sunt in Oboth;"
+    },
+    {
+      "verseNumber": 44,
+      "textEn": "et de Oboth venerunt in Ieabarim, quae est in finibus Moabitarum."
+    },
+    {
+      "verseNumber": 45,
+      "textEn": "Profectique de Ieabarim fixere tentoria in Dibongad;"
+    },
+    {
+      "verseNumber": 46,
+      "textEn": "unde egressi castrametati sunt in Elmondeblathaim."
+    },
+    {
+      "verseNumber": 47,
+      "textEn": "Egressique de Elmondeblathaim venerunt ad montes Abarim contra Nabo."
+    },
+    {
+      "verseNumber": 48,
+      "textEn": "Profectique de montibus Abarim transierunt ad campestria Moab supra Iordanem contra Iericho;"
+    },
+    {
+      "verseNumber": 49,
+      "textEn": "ibique castrametati sunt de Bethiesimoth usque ad Abelsettim in campestribus Moab."
+    },
+    {
+      "verseNumber": 50,
+      "textEn": "Ubi locutus est Dominus ad Moysen:"
+    },
+    {
+      "verseNumber": 51,
+      "textEn": "“ Praecipe filiis Israel et dic ad eos: Quando transieritis Iordanem intrantes terram Chanaan,"
+    },
+    {
+      "verseNumber": 52,
+      "textEn": "disperdite cunctos habitatores terrae ante vos, confringite omnes imagines eorum et omnes statuas comminuite atque omnia excelsa vastate."
+    },
+    {
+      "verseNumber": 53,
+      "textEn": "Possidebitis terram et habitabitis in ea. Ego enim dedi vobis illam in possessionem,"
+    },
+    {
+      "verseNumber": 54,
+      "textEn": "quam dividetis inter tribus vestras. Maiori dabitis latiorem et minori angustiorem; singulis, ut sors ceciderit, ita tribuetur hereditas; per tribus et familias possessio dividetur."
+    },
+    {
+      "verseNumber": 55,
+      "textEn": "Sin autem nolueritis expellere habitatores terrae, qui remanserint, erunt vobis quasi spinae in oculis vestris et sudes in lateribus, et adversabuntur vobis in terra habitationis vestrae;"
+    },
+    {
+      "verseNumber": 56,
+      "textEn": "et, quidquid illis cogitaveram facere, vobis faciam ”."
+    }
+  ]
+}

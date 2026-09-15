@@ -1,0 +1,37 @@
+{
+  "book": "tv",
+  "chapter": 123,
+  "verses": [
+    {
+      "verseNumber": 1,
+      "viHeadings": [
+        "Tv 123 (122) Dân Ít-ra-en [1] bị áp bức đặt hy vọng nơi Thiên Chúa [2]"
+      ],
+      "textVi": "<em>Ca khúc lên Đền.</em><blockquote> Con <sup><a href=\"#fn-1@-7073f2dc-4134-4a18-afdc-508814094b7e\" id=\"fnref-1@-7073f2dc-4134-4a18-afdc-508814094b7e\">1@</a></sup>ngước mắt hướng nhìn lên Chúa,</blockquote><blockquote><sup><a href=\"#fn-2@-7073f2dc-4134-4a18-afdc-508814094b7e\" id=\"fnref-2@-7073f2dc-4134-4a18-afdc-508814094b7e\">2@</a></sup>Đấng đang ngự trên trời.</blockquote>",
+      "textEn": "Psalm 123 Reliance on the Lord - A song of ascents. To you I raise my eyes, to you enthroned in heaven."
+    },
+    {
+      "verseNumber": 2,
+      "textVi": "<blockquote> Quả thật như mắt của gia nhân hướng nhìn tay ông chủ,</blockquote><blockquote> như mắt của nữ tỳ hướng nhìn tay bà chủ,</blockquote><blockquote> mắt chúng ta cũng hướng nhìn lên CHÚA<sup><a href=\"#fn-3-7073f2dc-4134-4a18-afdc-508814094b7e\" id=\"fnref-3-7073f2dc-4134-4a18-afdc-508814094b7e\">3</a></sup></blockquote><blockquote> là Thiên Chúa chúng ta,</blockquote><blockquote> tới khi Người xót thương chút phận.</blockquote>",
+      "textEn": "Yes, like the eyes of servants on the hand of their masters, Like the eyes of a maid on the hand of her mistress, So our eyes are on the LORD our God, till we are shown favor."
+    },
+    {
+      "verseNumber": 3,
+      "textVi": "<blockquote> Rủ lòng thương, lạy CHÚA, xin rủ lòng thương,</blockquote><blockquote> bởi chúng con bị khinh miệt ê chề ;</blockquote>",
+      "textEn": "Show us favor, LORD, show us favor, for we have our fill of contempt."
+    },
+    {
+      "verseNumber": 4,
+      "textVi": "<blockquote> hồn thật quá ê chề vì hứng chịu</blockquote><blockquote> lời nhạo báng của phường tự mãn,</blockquote><blockquote> giọng khinh người của bọn kiêu căng<sup><a href=\"#fn-4-7073f2dc-4134-4a18-afdc-508814094b7e\" id=\"fnref-4-7073f2dc-4134-4a18-afdc-508814094b7e\">4</a></sup>.</blockquote>",
+      "textEn": "Our souls are more than sated with mockery from the insolent, with contempt from the arrogant."
+    }
+  ],
+  "footnotesVi": {
+    "fn-1-7073f2dc-4134-4a18-afdc-508814094b7e": "<p>English: Israel | French: Israel | Latin: Israel | Origin: יׅשְׂרָאֵל | Vietnamese: Ít-ra-en 1 -- tên được đặt cho ông Gia-cóp, St 35,10 </p>",
+    "fn-2-7073f2dc-4134-4a18-afdc-508814094b7e": "<p>Có lẽ <em>ai ca này của tập thể</em> đã được soạn thảo sau thời lưu đày hoặc vào thời ông Nơ-khe-mi-a. Lúc đó, dân Ít-ra-en bị dân ngoại tấn công, khinh dể và nhục mạ. </p>",
+    "fn-3-7073f2dc-4134-4a18-afdc-508814094b7e": "<p>Đó là thái độ của cộng đoàn Ít-ra-en đợi chờ sự cứu giúp của Thiên Chúa với niềm tin tưởng cậy trông. </p>",
+    "fn-4-7073f2dc-4134-4a18-afdc-508814094b7e": "<p>Không rõ ở đây, tác giả muốn nói về những người trong cộng đoàn Ít-ra-en, về những kẻ thù ở ngoài cộng đoàn hay về những người ngoại xâm ? </p>",
+    "fn-1@-7073f2dc-4134-4a18-afdc-508814094b7e": "<p>Tv 25,15; 141,8 [<a href=\"#fnref-1@-7073f2dc-4134-4a18-afdc-508814094b7e\">1@</a>]</p>",
+    "fn-2@-7073f2dc-4134-4a18-afdc-508814094b7e": "<p>Mt 6,9 [<a href=\"#fnref-2@-7073f2dc-4134-4a18-afdc-508814094b7e\">2@</a>]</p>"
+  }
+}

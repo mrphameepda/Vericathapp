@@ -1,0 +1,222 @@
+{
+  "book": "ds",
+  "chapter": 33,
+  "verses": [
+    {
+      "verseNumber": 1,
+      "textEn": "Nämä ovat israelilaisten pysähdyspaikat siitä alkaen, kun he Mooseksen ja Aaronin johtamina lähtivät kaikkine joukkoineen Egyptistä."
+    },
+    {
+      "verseNumber": 2,
+      "textEn": "Joka kerta, kun israelilaiset lähtivät liikkeelle leiripaikastaan, Mooses kirjoitti Herran käskystä muistiin paikan nimen. Tässä on luettelo heidän leiripaikoistaan."
+    },
+    {
+      "verseNumber": 3,
+      "textEn": "Israelilaiset lähtivät Ramseksesta ensimmäisen kuun viidentenätoista päivänä. He lähtivät pääsiäisen jälkeisenä päivänä Herran johdolla matkaan kaikkien egyptiläisten nähden."
+    },
+    {
+      "verseNumber": 4,
+      "textEn": "Egyptiläiset olivat juuri hautaamassa esikoisiaan. Herra oli ne surmannut ja näin antanut tuomionsa kohdata egyptiläisten jumalia."
+    },
+    {
+      "verseNumber": 5,
+      "textEn": "Ramseksesta israelilaiset siirtyivät Sukkotiin ja leiriytyivät sinne."
+    },
+    {
+      "verseNumber": 6,
+      "textEn": "Sukkotin jälkeen he leiriytyivät Etamiin, autiomaan laitaan."
+    },
+    {
+      "verseNumber": 7,
+      "textEn": "Lähdettyään Etamista he palasivat Pi-Hirotiin, joka on vastapäätä Baal-Sefonia, ja leiriytyivät Migdolin luo."
+    },
+    {
+      "verseNumber": 8,
+      "textEn": "Pi-Hirotin luota lähdettyään he kulkivat meren poikki autiomaahan, vaelsivat kolmen päivän matkan Etamin autiomaassa ja leiriytyivät Maraan."
+    },
+    {
+      "verseNumber": 9,
+      "textEn": "Marasta he siirtyivät Elimiin. Elimissä oli kaksitoista lähdettä ja seitsemänkymmentä palmua, ja he leiriytyivät sinne."
+    },
+    {
+      "verseNumber": 10,
+      "textEn": "Heidän seuraava leiripaikkansa Elimin jälkeen oli Kaislameren rannalla."
+    },
+    {
+      "verseNumber": 11,
+      "textEn": "Kaislamereltä he siirtyivät Sinin autiomaahan ja leiriytyivät sinne."
+    },
+    {
+      "verseNumber": 12,
+      "textEn": "Sinin autiomaan jälkeen he leiriytyivät Dofkaan."
+    },
+    {
+      "verseNumber": 13,
+      "textEn": "Dofkan jälkeen he leiriytyivät Alusiin,"
+    },
+    {
+      "verseNumber": 14,
+      "textEn": "Alusin jälkeen Refidimiin, mutta siellä ei ollut vettä kansan juotavaksi."
+    },
+    {
+      "verseNumber": 15,
+      "textEn": "Refidimistä he menivät Siinain autiomaahan ja leiriytyivät sinne."
+    },
+    {
+      "verseNumber": 16,
+      "textEn": "Siinain autiomaan jälkeen he leiriytyivät Kibrot-Taavaan,"
+    },
+    {
+      "verseNumber": 17,
+      "textEn": "Kibrot-Taavan jälkeen Haserotiin,"
+    },
+    {
+      "verseNumber": 18,
+      "textEn": "Haserotin jälkeen Ritmaan,"
+    },
+    {
+      "verseNumber": 19,
+      "textEn": "Ritman jälkeen Rimmon-Peresiin,"
+    },
+    {
+      "verseNumber": 20,
+      "textEn": "Rimmon-Peresin jälkeen Libnaan,"
+    },
+    {
+      "verseNumber": 21,
+      "textEn": "Libnan jälkeen Rissaan,"
+    },
+    {
+      "verseNumber": 22,
+      "textEn": "Rissan jälkeen Kehelataan,"
+    },
+    {
+      "verseNumber": 23,
+      "textEn": "Kehelatan jälkeen Seferinvuoren luo."
+    },
+    {
+      "verseNumber": 24,
+      "textEn": "Seferinvuoren luota he siirtyivät Haradaan ja leiriytyivät sinne."
+    },
+    {
+      "verseNumber": 25,
+      "textEn": "Haradan jälkeen he leiriytyivät Makhelotiin,"
+    },
+    {
+      "verseNumber": 26,
+      "textEn": "Makhelotin jälkeen Tahatiin,"
+    },
+    {
+      "verseNumber": 27,
+      "textEn": "Tahatin jälkeen Terahiin,"
+    },
+    {
+      "verseNumber": 28,
+      "textEn": "Terahin jälkeen Mitkaan,"
+    },
+    {
+      "verseNumber": 29,
+      "textEn": "Mitkan jälkeen Hasmonaan,"
+    },
+    {
+      "verseNumber": 30,
+      "textEn": "Hasmonan jälkeen Moserotiin,"
+    },
+    {
+      "verseNumber": 31,
+      "textEn": "Moserotin jälkeen Bene- Jaakaniin,"
+    },
+    {
+      "verseNumber": 32,
+      "textEn": "Bene-Jaakanin jälkeen Hor-Gidgadiin,"
+    },
+    {
+      "verseNumber": 33,
+      "textEn": "Hor-Gidgadin jälkeen Jotbataan,"
+    },
+    {
+      "verseNumber": 34,
+      "textEn": "Jotbatan jälkeen Abronaan,"
+    },
+    {
+      "verseNumber": 35,
+      "textEn": "Abronan jälkeen Esjon-Geberiin,"
+    },
+    {
+      "verseNumber": 36,
+      "textEn": "Esjon-Geberin jälkeen Sinin autiomaahan Kadesiin."
+    },
+    {
+      "verseNumber": 37,
+      "textEn": "Kadesista he siirtyivät Horinvuoren luo Edomin maan rajalle ja leiriytyivät sinne."
+    },
+    {
+      "verseNumber": 38,
+      "textEn": "Pappi Aaron nousi Herran käskystä Horinvuorelle, ja siellä hän kuoli. Tämä tapahtui neljäkymmentä vuotta israelilaisten Egyptistä lähdön jälkeen, viidennen kuun ensimmäisenä päivänä."
+    },
+    {
+      "verseNumber": 39,
+      "textEn": "Kuollessaan Horinvuorella Aaron oli sadankahdenkymmenenkolmen vuoden ikäinen."
+    },
+    {
+      "verseNumber": 40,
+      "textEn": "Kanaanilainen Aradin kuningas, joka asui Negevissä, Kanaaninmaan eteläosassa, sai tuolloin tietää, että israelilaiset olivat lähestymässä."
+    },
+    {
+      "verseNumber": 41,
+      "textEn": "Horinvuoren luota lähdettyään israelilaiset kulkivat Salmonaan, jonne he leiriytyivät."
+    },
+    {
+      "verseNumber": 42,
+      "textEn": "Salmonan jälkeen he leiriytyivät Punoniin,"
+    },
+    {
+      "verseNumber": 43,
+      "textEn": "sitten Obotiin"
+    },
+    {
+      "verseNumber": 44,
+      "textEn": "ja sitten Ijje-Abarimiin Moabin maan rajalle."
+    },
+    {
+      "verseNumber": 45,
+      "textEn": "Ijje-Abarimin jälkeen he leiriytyivät Dibon-Gadiin,"
+    },
+    {
+      "verseNumber": 46,
+      "textEn": "sitten Almon- Diblataimiin"
+    },
+    {
+      "verseNumber": 47,
+      "textEn": "ja sitten Abarimin vuorille vastapäätä Neboa."
+    },
+    {
+      "verseNumber": 48,
+      "textEn": "Abarimin vuorilta lähdettyään israelilaiset siirtyivät Moabin tasangolle Jordanin varrelle vastapäätä Jerikoa ja leiriytyivät sinne."
+    },
+    {
+      "verseNumber": 49,
+      "textEn": "Heidän leirialueensa ulottui Bet-Jesimotista Abel-Sittimiin."
+    },
+    {
+      "verseNumber": 50,
+      "textEn": "Moabin tasangolla Jordanin varrella vastapäätä Jerikoa Herra sanoi Moosekselle:"
+    },
+    {
+      "verseNumber": 51,
+      "textEn": "hävittäkää tieltänne kaikki sen maan asukkaat. Hävittäkää heidän kiveen veistetyt epäjumalansa, samoin kaikki heidän valetut jumalankuvansa, ja tuhotkaa heidän uhrikukkulansa."
+    },
+    {
+      "verseNumber": 52,
+      "textEn": "Ottakaa maa haltuunne ja asettukaa sinne asumaan, sillä minä annan sen teidän omaksenne."
+    },
+    {
+      "verseNumber": 53,
+      "textEn": "Jakakaa maa suvuittain keskenänne ja toimittakaa jako arpomalla. Mitä suurempi suku on, sitä enemmän teidän on annettava sille maata, mitä pienempi se on, sitä vähemmän. Kunkin suvun tulee saada osuutensa sieltä mistä arpa määrää. Jakakaa maa heimoittain ja suvuittain."
+    },
+    {
+      "verseNumber": 54,
+      "textEn": "Mutta ellette hävitä maan asukkaita tieltänne, niin ne, joiden annatte jäädä jäljelle, pistävät teitä piikkeinä silmiin ja okaina kylkiin, ja he ahdistavat teitä siinä maassa, jossa asutte."
+    }
+  ]
+}

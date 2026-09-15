@@ -1,0 +1,451 @@
+{
+    "headings":  [
+
+                 ],
+    "verses":  [
+                   {
+                       "label":  "1",
+                       "number":  1,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Chapter 14 - Capture of Demetrius II. In the one hundred and seventy-second year, King Demetrius assembled his army and marched into Media to obtain help so that he could fight Trypho.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "2",
+                       "number":  2,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "When Arsaces, king of Persia and Media, heard that Demetrius had entered his territory, he sent one of his generals to take him alive.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "3",
+                       "number":  3,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "The general went forth and attacked the army of Demetrius; he captured him and brought him to Arsaces, who put him under guard.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "4",
+                       "number":  4,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Praise of Simon - The land was at rest all the days of Simon, who sought the good of his nation. His rule delighted his people and his glory all his days.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "5",
+                       "number":  5,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "As his crowning glory he took Joppa for a port and made it a gateway to the isles of the sea.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "6",
+                       "number":  6,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "He enlarged the borders of his nation and gained control of the country.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "7",
+                       "number":  7,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "He took many prisoners of war and made himself master of Gazara, Beth-zur, and the citadel. He cleansed the citadel of its impurities; there was no one to withstand him.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "8",
+                       "number":  8,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "The people cultivated their land in peace; the land yielded its produce, the trees of the field their fruit.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "9",
+                       "number":  9,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Old men sat in the squares, all talking about the good times, while the young men put on the glorious raiment of war.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "10",
+                       "number":  10,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "He supplied the cities with food and equipped them with means of defense, till his glorious name reached the ends of the earth.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "11",
+                       "number":  11,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "He brought peace to the land, and Israel was filled with great joy.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "12",
+                       "number":  12,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Every one sat under his vine and fig tree, with no one to disturb them.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "13",
+                       "number":  13,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "No attacker was left in the land; the kings in those days were crushed.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "14",
+                       "number":  14,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "He strengthened all the lowly among his people and was zealous for the law; he destroyed the lawless and the wicked.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "15",
+                       "number":  15,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "The sanctuary he made splendid and multiplied its furnishings.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "16",
+                       "number":  16,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Alliance with Rome and Sparta. When people in Rome and even in Sparta heard that Jonathan had died, they were deeply grieved.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "17",
+                       "number":  17,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "But when they heard that his brother Simon had become high priest in his place and was master of the territory and its cities,",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "18",
+                       "number":  18,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "they sent him inscribed tablets of bronze to renew with him the friendship and alliance that they had established with his brothers Judas and Jonathan.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "19",
+                       "number":  19,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "These were read before the assembly in Jerusalem.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "20",
+                       "number":  20,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "This is a copy of the letter that the Spartans sent: “The rulers and the city of the Spartans send greetings to Simon the high priest, the elders, the priests, and the rest of the Jewish people, our brothers.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "21",
+                       "number":  21,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "The ambassadors sent to our people have informed us of your glory and renown, and we rejoiced at their coming.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "22",
+                       "number":  22,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "In accordance with what they said we have recorded the following in the public decrees: Numenius, son of Antiochus, and Antipater, son of Jason, ambassadors of the Jews, have come to us to renew their friendship with us.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "23",
+                       "number":  23,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "The people have resolved to receive these men with honor, and to deposit a copy of their words in the public archives, so that the people of Sparta may have a record of them. A copy of this decree has been made for Simon the high priest.”",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "24",
+                       "number":  24,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "After this, Simon sent Numenius to Rome with a large gold shield weighing a thousand minas, to confirm the alliance with the Romans.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "25",
+                       "number":  25,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Official Honors for Simon. When the people heard of these things, they said, “How shall we thank Simon and his sons?",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "26",
+                       "number":  26,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "He and his brothers and his father’s house have stood firm and repulsed Israel’s enemies, and so have established its freedom.” So they made an inscription on bronze tablets, which they affixed to pillars on Mount Zion.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "27",
+                       "number":  27,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "The following is a copy of the inscription: “On the eighteenth day of Elul, in the one hundred and seventy-second year, that is, the third year under Simon the great high priest in Asaramel,",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "28",
+                       "number":  28,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "in a great assembly of priests, people, rulers of the nation, and elders of the region, the following proclamation was made to us:",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "29",
+                       "number":  29,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "“‘Since there have often been wars in our country, Simon, son of the priest Mattathias, descendant of Joarib, and his brothers have put themselves in danger and resisted the enemies of their nation, so that their sanctuary and law might be maintained, and they have thus brought great glory to their nation.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "30",
+                       "number":  30,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Jonathan rallied the nation, became their high priest, and was gathered to his people.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "31",
+                       "number":  31,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "When their enemies sought to invade and ravage their country and to violate their sanctuary,",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "32",
+                       "number":  32,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Simon rose up and fought for his nation, spending large sums of his own money to equip his nation’s forces and give them their pay.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "33",
+                       "number":  33,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "He fortified the cities of Judea, especially the border city of Beth-zur, formerly the site of the enemy’s weaponry, and he stationed there a garrison of Jewish soldiers.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "34",
+                       "number":  34,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "He also fortified Joppa by the sea and Gazara on the border of Azotus, a place previously occupied by the enemy; these cities he settled with Jews and furnished them with all that was necessary for their restoration.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "35",
+                       "number":  35,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "When the people saw Simon’s fidelity and the glory he planned to bring to his nation, they made him their leader and high priest because of all he had accomplished and the justice and fidelity he had shown his nation. In every way he sought to exalt his people.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "36",
+                       "number":  36,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "“‘In his time and under his guidance they succeeded in driving the Gentiles out of their country and those in the City of David in Jerusalem, who had built for themselves a citadel from which they used to sally forth to defile the environs of the sanctuary and inflict grave injury on its purity.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "37",
+                       "number":  37,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "In this citadel he stationed Jewish soldiers, and he strengthened its fortifications for the security of the land and the city, while he also built up the wall of Jerusalem to a greater height.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "38",
+                       "number":  38,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Consequently, King Demetrius confirmed him in the high priesthood,",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "39",
+                       "number":  39,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "made him one of his Friends, and conferred great honor on him.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "40",
+                       "number":  40,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "This was because he had heard that the Romans had addressed the Jews as friends, allies, and brothers, that they had received Simon’s envoys with honor,",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "41",
+                       "number":  41,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "and that the Jewish people and their priests had decided the following: Simon shall be their leader and high priest forever until a trustworthy prophet arises.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "42",
+                       "number":  42,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "He shall act as governor over them, and shall have charge of the sanctuary, to make regulations concerning its functions and concerning the country, its weapons and strongholds.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "43",
+                       "number":  43,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "He shall be obeyed by all. All contracts in the country shall be written in his name, and he shall be clothed in purple and gold.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "44",
+                       "number":  44,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "It shall not be lawful for any of the people or priests to nullify any of these decisions, or to contradict the orders given by him, or to convene an assembly in the country without his consent, to be clothed in purple or wear a gold buckle.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "45",
+                       "number":  45,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Whoever acts otherwise or violates any of these prescriptions shall be liable to punishment.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "46",
+                       "number":  46,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "“‘Thus all the people approved of granting Simon the right to act in accord with these decisions,",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "47",
+                       "number":  47,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "and Simon accepted and agreed to be high priest, governor, and ethnarch of the Jewish people and priests, and to have authority over all.’”",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "48",
+                       "number":  48,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "It was decreed that this inscription should be engraved on bronze tablets, to be set up in a conspicuous place in the precincts of the sanctuary,",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "49",
+                       "number":  49,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "and that copies of it should be deposited in the treasury, where they would be available to Simon and his sons.",
+                       "isPoetry":  false
+                   }
+               ],
+    "marks":  [
+
+              ]
+}

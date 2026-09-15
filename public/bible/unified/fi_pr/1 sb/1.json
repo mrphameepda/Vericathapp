@@ -1,0 +1,222 @@
+{
+  "book": "1 sb",
+  "chapter": 1,
+  "verses": [
+    {
+      "verseNumber": 1,
+      "textEn": "Aadam, Set, Enos,"
+    },
+    {
+      "verseNumber": 2,
+      "textEn": "Kenan, Mahalalel, Jered,"
+    },
+    {
+      "verseNumber": 3,
+      "textEn": "Henok, Metuselah, Lemek,"
+    },
+    {
+      "verseNumber": 4,
+      "textEn": "Nooa, Seem, Haam ja Jafet."
+    },
+    {
+      "verseNumber": 5,
+      "textEn": "Jafetin pojat olivat Gomer, Magog, Madai, Javan, Tubal, Mesek ja Tiras."
+    },
+    {
+      "verseNumber": 6,
+      "textEn": "Gomerin pojat olivat Askenas, Difat ja Togarma."
+    },
+    {
+      "verseNumber": 7,
+      "textEn": "Javanin pojat olivat Elisa ja Tarsis; myös kittiläiset ja rodanilaiset ovat hänen jälkeläisiään."
+    },
+    {
+      "verseNumber": 8,
+      "textEn": "Haamin pojat olivat Kus, Misraim, Put ja Kanaan."
+    },
+    {
+      "verseNumber": 9,
+      "textEn": "Kusin pojat olivat Seba, Havila, Sabta, Raema ja Sabteka. Raeman pojat olivat Saba ja Dedan."
+    },
+    {
+      "verseNumber": 10,
+      "textEn": "Kusille syntyi myös Nimrod, josta tuli ensimmäinen mahtava hallitsija maan päällä."
+    },
+    {
+      "verseNumber": 11,
+      "textEn": "Misraimin jälkeläisiä ovat ludilaiset, anamilaiset, lehabilaiset, naftuhilaiset,"
+    },
+    {
+      "verseNumber": 12,
+      "textEn": "patrosilaiset ja kasluhilaiset, joista filistealaiset ovat lähtöisin, sekä kaftorilaiset."
+    },
+    {
+      "verseNumber": 13,
+      "textEn": "Kanaanille syntyivät Sidon, hänen esikoisensa, sekä Het."
+    },
+    {
+      "verseNumber": 14,
+      "textEn": "Hänen jälkeläisiään ovat myös jebusilaiset, amorilaiset, girgasilaiset,"
+    },
+    {
+      "verseNumber": 15,
+      "textEn": "hivviläiset, arkilaiset, siniläiset,"
+    },
+    {
+      "verseNumber": 16,
+      "textEn": "arvadilaiset, semeriläiset ja hamatilaiset."
+    },
+    {
+      "verseNumber": 17,
+      "textEn": "Seemin pojat olivat Elam, Assur, Arpaksad, Lud ja Aram. Aramin pojat olivat Us, Hul, Geter ja Mesek."
+    },
+    {
+      "verseNumber": 18,
+      "textEn": "Arpaksadille syntyi Selah ja Selahille Eber."
+    },
+    {
+      "verseNumber": 19,
+      "textEn": "Eberille syntyi kaksi poikaa. Toinen oli nimeltään Peleg, sillä hänen aikanaan ihmissuku hajaantui yli maan, ja hänen veljensä nimi oli Joktan."
+    },
+    {
+      "verseNumber": 20,
+      "textEn": "Joktanille syntyivät Almodad, Selef, Hasarmavet, Jerah,"
+    },
+    {
+      "verseNumber": 21,
+      "textEn": "Hadoram, Usal, Dikla,"
+    },
+    {
+      "verseNumber": 22,
+      "textEn": "Ebal, Abimael, Saba,"
+    },
+    {
+      "verseNumber": 23,
+      "textEn": "Ofir, Havila ja Jobab. Nämä kaikki olivat Joktanin jälkeläisiä."
+    },
+    {
+      "verseNumber": 24,
+      "textEn": "Seemin jälkeläisiä olivat Arpaksad, Selah,"
+    },
+    {
+      "verseNumber": 25,
+      "textEn": "Eber, Peleg, Reu,"
+    },
+    {
+      "verseNumber": 26,
+      "textEn": "Serug, Nahor, Terah"
+    },
+    {
+      "verseNumber": 27,
+      "textEn": "ja Abram eli Abraham."
+    },
+    {
+      "verseNumber": 28,
+      "textEn": "Abrahamin pojat olivat Iisak ja Ismael."
+    },
+    {
+      "verseNumber": 29,
+      "textEn": "Tässä on luettelo heidän jälkeläisistään. Ismaelin esikoinen oli Nebajot, ja hänen muut poikansa olivat Kedar, Adbeel, Mibsam,"
+    },
+    {
+      "verseNumber": 30,
+      "textEn": "Misma, Duma, Massa, Hadad, Tema,"
+    },
+    {
+      "verseNumber": 31,
+      "textEn": "Jetur, Nafis ja Kedma. Nämä olivat Ismaelin pojat."
+    },
+    {
+      "verseNumber": 32,
+      "textEn": "Pojat, jotka Abrahamin sivuvaimo Ketura synnytti, olivat Simran, Joksan, Medan, Midian, Jisbak ja Suah. Joksanin pojat olivat Saba ja Dedan."
+    },
+    {
+      "verseNumber": 33,
+      "textEn": "Midianin pojat olivat Efa, Efer, Henok, Abida ja Eldaa. Nämä kaikki olivat Keturan jälkeläisiä."
+    },
+    {
+      "verseNumber": 34,
+      "textEn": "Abrahamille syntyi Iisak. Iisakin pojat olivat Esau ja Israel."
+    },
+    {
+      "verseNumber": 35,
+      "textEn": "Esaun pojat olivat Elifas, Reuel, Jeus, Jaelam ja Korah."
+    },
+    {
+      "verseNumber": 36,
+      "textEn": "Elifasin pojat olivat Teman, Omar, Sefi, Gaetam, Kenas, Timna ja Amalek."
+    },
+    {
+      "verseNumber": 37,
+      "textEn": "Reuelin pojat olivat Nahat, Serah, Samma ja Missa."
+    },
+    {
+      "verseNumber": 38,
+      "textEn": "Seirin pojat olivat Lotan, Sobal, Sibeon, Ana, Dison, Eser ja Disan."
+    },
+    {
+      "verseNumber": 39,
+      "textEn": "Lotanin pojat olivat Hori ja Homam. Lotanin sisar oli nimeltään Timna."
+    },
+    {
+      "verseNumber": 40,
+      "textEn": "Sobalin pojat olivat Aljan, Manahat, Ebal, Sefi ja Onam. Sibeonin pojat olivat Ajja ja Ana."
+    },
+    {
+      "verseNumber": 41,
+      "textEn": "Anan poika oli Dison, ja Disonin pojat olivat Hamran, Esban, Jitran ja Keran."
+    },
+    {
+      "verseNumber": 42,
+      "textEn": "Eserin pojat olivat Bilhan, Saavan ja Jaakan. Disanin pojat olivat Us ja Aran."
+    },
+    {
+      "verseNumber": 43,
+      "textEn": "Nämä olivat ne kuninkaat, jotka hallitsivat Edomin maassa ennen kuin israelilaisilla oli kuningasta hallitsijanaan: Bela, Beorin poika; hänen hallituskaupunkinsa nimi oli Dinhaba."
+    },
+    {
+      "verseNumber": 44,
+      "textEn": "Belan kuoltua tuli kuninkaaksi Jobab, Serahin poika, kotoisin Bosrasta."
+    },
+    {
+      "verseNumber": 45,
+      "textEn": "Jobabin kuoltua tuli kuninkaaksi Husam, kotoisin Temanin maasta."
+    },
+    {
+      "verseNumber": 46,
+      "textEn": "Husamin kuoltua tuli kuninkaaksi Hadad, Bedadin poika, se joka voitti midianilaiset Moabin tasangolla. Hänen hallituskaupunkinsa oli Avit."
+    },
+    {
+      "verseNumber": 47,
+      "textEn": "Hadadin kuoltua tuli kuninkaaksi Samla, kotoisin Masrekasta."
+    },
+    {
+      "verseNumber": 48,
+      "textEn": "Samlan kuoltua tuli kuninkaaksi Saul, kotoisin Rehobot-Naharista."
+    },
+    {
+      "verseNumber": 49,
+      "textEn": "Saulin kuoltua tuli kuninkaaksi Baal-Hanan, Akborin poika."
+    },
+    {
+      "verseNumber": 50,
+      "textEn": "Baal-Hananin kuoltua tuli kuninkaaksi Hadad. Hänen hallituskaupunkinsa oli Pai. Hänen vaimonsa oli Mehetabel, Matredin tytär; Matred puolestaan oli Me-Sahabin tytär."
+    },
+    {
+      "verseNumber": 51,
+      "textEn": "Hadadin kuoltua Edomin heimojen hallitsijoiksi tulivat päälliköt, jotka johtivat Timnan, Alvan, Jetetin,"
+    },
+    {
+      "verseNumber": 52,
+      "textEn": "Oholibaman, Elan, Pinonin,"
+    },
+    {
+      "verseNumber": 53,
+      "textEn": "Kenasin, Temanin, Mibsarin,"
+    },
+    {
+      "verseNumber": 54,
+      "textEn": "Magdielin ja Iramin heimokuntia. Nämä olivat Edomin heimojen hallitsijat."
+    }
+  ]
+}

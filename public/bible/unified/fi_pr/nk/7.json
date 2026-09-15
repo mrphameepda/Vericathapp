@@ -1,0 +1,294 @@
+{
+  "book": "nk",
+  "chapter": 7,
+  "verses": [
+    {
+      "verseNumber": 1,
+      "textEn": "Kun muuri oli saatu valmiiksi ja portinpuoliskot oli pystytetty, määrättiin portinvartijat, laulajat ja leeviläiset tehtäviinsä."
+    },
+    {
+      "verseNumber": 2,
+      "textEn": "Jerusalemin johtoon asetin veljeni Hananin ja linnanpäällikkö Hananjan, joka oli luotettava ja jumalaapelkäävä mies."
+    },
+    {
+      "verseNumber": 3,
+      "textEn": "Annoin heille määräyksen, että Jerusalemin portteja ei saanut avata ennen kuin aurinko paistoi lämpimästi. Määräsin myös, että portit oli suljettava ja lukittava, kun aurinko oli vielä ylhäällä, ja että Jerusalemin asukkaista oli asetettava vartijat, jotka vartioisivat kukin oman talonsa kohdalla olevaa osuutta."
+    },
+    {
+      "verseNumber": 4,
+      "textEn": "Kaupunki oli suuri ja laaja, mutta väkeä siellä oli vähän, ja taloja oli vielä rakentamatta."
+    },
+    {
+      "verseNumber": 5,
+      "textEn": "Jumala kehotti minua kutsumaan ylimykset, johtomiehet ja kansan koolle sukuluetteloihin merkitsemistä varten. Löysin ensimmäisinä palanneiden sukuluettelot, ja niihin oli kirjoitettu näin:"
+    },
+    {
+      "verseNumber": 6,
+      "textEn": "Nämä ovat ne Juudan maakunnan miehet, jotka Babylonian kuningas Nebukadnessar oli vienyt pakkosiirtolaisuuteen ja jotka palasivat Jerusalemiin ja Juudaan, kukin omaan kaupunkiinsa."
+    },
+    {
+      "verseNumber": 7,
+      "textEn": "Heitä johtivat Serubbabel, Jesua, Nehemia, Asarja, Raamja, Nahamani, Mordokai, Bilsan, Misperet, Bigvai, Nehum ja Baana. Näiden israelilaisten lukumäärä oli:"
+    },
+    {
+      "verseNumber": 8,
+      "textEn": "Pareosin sukua 2172,"
+    },
+    {
+      "verseNumber": 9,
+      "textEn": "Sefatjan sukua 372,"
+    },
+    {
+      "verseNumber": 10,
+      "textEn": "Arahin sukua 652,"
+    },
+    {
+      "verseNumber": 11,
+      "textEn": "Pahat-Moabin sukua, Jesuan ja Joabin jälkeläisiä, 2818,"
+    },
+    {
+      "verseNumber": 12,
+      "textEn": "Elamin sukua 1254,"
+    },
+    {
+      "verseNumber": 13,
+      "textEn": "Sattun sukua 845,"
+    },
+    {
+      "verseNumber": 14,
+      "textEn": "Sakkain sukua 760,"
+    },
+    {
+      "verseNumber": 15,
+      "textEn": "Binnuin sukua 648,"
+    },
+    {
+      "verseNumber": 16,
+      "textEn": "Bebain sukua 628,"
+    },
+    {
+      "verseNumber": 17,
+      "textEn": "Asgadin sukua 2322,"
+    },
+    {
+      "verseNumber": 18,
+      "textEn": "Adonikamin sukua 667,"
+    },
+    {
+      "verseNumber": 19,
+      "textEn": "Bigvain sukua 2067,"
+    },
+    {
+      "verseNumber": 20,
+      "textEn": "Adinin sukua 655,"
+    },
+    {
+      "verseNumber": 21,
+      "textEn": "Aterin sukua, Hiskian jälkeläisiä, 98,"
+    },
+    {
+      "verseNumber": 22,
+      "textEn": "Hasumin sukua 328,"
+    },
+    {
+      "verseNumber": 23,
+      "textEn": "Besain sukua 324,"
+    },
+    {
+      "verseNumber": 24,
+      "textEn": "Harifin sukua 112,"
+    },
+    {
+      "verseNumber": 25,
+      "textEn": "Gibeonin sukua 95."
+    },
+    {
+      "verseNumber": 26,
+      "textEn": "Betlehemiläisiä ja netofalaisia oli 188,"
+    },
+    {
+      "verseNumber": 27,
+      "textEn": "anatotilaisia 128,"
+    },
+    {
+      "verseNumber": 28,
+      "textEn": "bet-asmavetilaisia 42"
+    },
+    {
+      "verseNumber": 29,
+      "textEn": "kirjat-jearimilaisia, kefiralaisia ja beerotilaisia 743,"
+    },
+    {
+      "verseNumber": 30,
+      "textEn": "ramalaisia ja gebalaisia 621,"
+    },
+    {
+      "verseNumber": 31,
+      "textEn": "mikmasilaisia 122,"
+    },
+    {
+      "verseNumber": 32,
+      "textEn": "beteliläisiä ja ailaisia 123,"
+    },
+    {
+      "verseNumber": 33,
+      "textEn": "Nebon, sen toisen, miehiä 52."
+    },
+    {
+      "verseNumber": 34,
+      "textEn": "Elamin, sen toisen, sukua oli 1254,"
+    },
+    {
+      "verseNumber": 35,
+      "textEn": "Harimin sukua 320."
+    },
+    {
+      "verseNumber": 36,
+      "textEn": "Jerikolaisia oli 345,"
+    },
+    {
+      "verseNumber": 37,
+      "textEn": "lodilaisia, hadidilaisia ja onolaisia 721,"
+    },
+    {
+      "verseNumber": 38,
+      "textEn": "senaalaisia 3930."
+    },
+    {
+      "verseNumber": 39,
+      "textEn": "Pappeja oli: Jedajan sukua, Jesuan jälkeläisiä, 973,"
+    },
+    {
+      "verseNumber": 40,
+      "textEn": "Immerin sukua 1052,"
+    },
+    {
+      "verseNumber": 41,
+      "textEn": "Pashurin sukua 1247,"
+    },
+    {
+      "verseNumber": 42,
+      "textEn": "Harimin sukua 1017."
+    },
+    {
+      "verseNumber": 43,
+      "textEn": "Leeviläisiä oli: Jesuan sukua, Kadmielin ja Hodavjan jälkeläisiä, 74."
+    },
+    {
+      "verseNumber": 44,
+      "textEn": "Laulajia oli: Asafin sukua 148."
+    },
+    {
+      "verseNumber": 45,
+      "textEn": "Portinvartijoita oli: Sallumin, Aterin, Talmonin, Akkubin, Hatitan ja Sobain sukua yhteensä 138."
+    },
+    {
+      "verseNumber": 46,
+      "textEn": "Temppelipalvelijoita oli: Sihan, Hasufan, Tabbaotin,"
+    },
+    {
+      "verseNumber": 47,
+      "textEn": "Kerosin, Sian, Padonin,"
+    },
+    {
+      "verseNumber": 48,
+      "textEn": "Lebanan, Hagaban, Salmain,"
+    },
+    {
+      "verseNumber": 49,
+      "textEn": "Hananin, Giddelin, Gaharin,"
+    },
+    {
+      "verseNumber": 50,
+      "textEn": "Reajan, Resinin, Nekodan,"
+    },
+    {
+      "verseNumber": 51,
+      "textEn": "Gassamin, Ussan, Paseahin,"
+    },
+    {
+      "verseNumber": 52,
+      "textEn": "Besain, maonilaisten, nafusilaisten,"
+    },
+    {
+      "verseNumber": 53,
+      "textEn": "Bakbukin, Hakufan, Harhurin,"
+    },
+    {
+      "verseNumber": 54,
+      "textEn": "Baslitin, Mehidan, Harsan,"
+    },
+    {
+      "verseNumber": 55,
+      "textEn": "Barkosin, Siseran, Temahin,"
+    },
+    {
+      "verseNumber": 56,
+      "textEn": "Nesiahin ja Hatifan suvut."
+    },
+    {
+      "verseNumber": 57,
+      "textEn": "Salomon palvelijoiden jälkeläisiä oli: Sotain, Soferetin, Peridan,"
+    },
+    {
+      "verseNumber": 58,
+      "textEn": "Jaelan, Darkonin, Giddelin,"
+    },
+    {
+      "verseNumber": 59,
+      "textEn": "Sefatjan, Hattilin, Pokeret-Sebaimin ja Amonin sukukunnat."
+    },
+    {
+      "verseNumber": 60,
+      "textEn": "Temppelipalvelijoita ja Salomon palvelijoiden jälkeläisiä oli yhteensä 392."
+    },
+    {
+      "verseNumber": 61,
+      "textEn": "Nämä Tel-Melahista, Tel-Harsasta, Kerub- Addanista ja Immeristä lähteneet eivät pystyneet osoittamaan, että he ja heidän sukunsa olivat israelilaisia:"
+    },
+    {
+      "verseNumber": 62,
+      "textEn": "Delajan, Tobian ja Nekodan jälkeläiset, yhteensä 642."
+    },
+    {
+      "verseNumber": 63,
+      "textEn": "Joukossa oli myös pappeja, nimittäin Hobaijan, Kosin ja Barsillain jälkeläiset; Barsillai oli ottanut vaimokseen gileadilaisen Barsillain tyttären, ja häntä nimitettiin vaimonsa suvun mukaan."
+    },
+    {
+      "verseNumber": 64,
+      "textEn": "Nämä etsivät sukuluetteloista merkintää itsestään, mutta sitä ei löytynyt, ja sen vuoksi heidät katsottiin pappeuteen kelpaamattomiksi."
+    },
+    {
+      "verseNumber": 65,
+      "textEn": "Käskynhaltija kielsi heitä nauttimasta pyhiä uhreja, kunnes ilmaantuisi pappi, joka voisi ratkaista asian urimilla ja tummimilla."
+    },
+    {
+      "verseNumber": 66,
+      "textEn": "Palanneita oli kaikkiaan 42 360 henkeä."
+    },
+    {
+      "verseNumber": 67,
+      "textEn": "Lisäksi tulivat orjat ja orjattaret, joita oli 7337. Laulajia, miehiä ja naisia, oli 245."
+    },
+    {
+      "verseNumber": 68,
+      "textEn": "(H7:68)Tällä joukolla oli kameleja 435 ja aaseja 6720."
+    },
+    {
+      "verseNumber": 69,
+      "textEn": "(H7:69)Useat sukujen päämiehet antoivat lahjoja rakennustyötä varten. Käskynhaltija antoi rahastoon 1000 kultadrakmaa, 50 vihmontamaljaa, 30 papinpukua ja 500 hopeaminaa."
+    },
+    {
+      "verseNumber": 70,
+      "textEn": "(H7:70)Sukujen päämiehet antoivat rakennusrahastoon 20 000 kultadrakmaa ja 2200 hopeaminaa."
+    },
+    {
+      "verseNumber": 71,
+      "textEn": "(H7:71)Muu kansa antoi 20 000 kultadrakmaa, 2000 hopeaminaa ja 67 papinpukua."
+    },
+    {
+      "verseNumber": 72,
+      "textEn": "(H7:72)Papit, leeviläiset, portinvartijat, laulajat ja osa kansaa asettuivat asumaan Jerusalemiin, mutta temppelipalvelijat ja muut israelilaiset menivät omiin kaupunkeihinsa. Kun tuli seitsemäs kuukausi, kaikki israelilaiset olivat jo asettuneet asumaan kaupunkeihinsa."
+    }
+  ]
+}

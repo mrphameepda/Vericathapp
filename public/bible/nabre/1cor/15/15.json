@@ -1,0 +1,532 @@
+{
+    "headings":  [
+
+                 ],
+    "verses":  [
+                   {
+                       "label":  "1",
+                       "number":  1,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "V. The Resurrection A. The Resurrection of Christ Chapter 15 - The Gospel Teaching. Now I am reminding you, brothers, of the gospel I preached to you, which you indeed received and in which you also stand.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "2",
+                       "number":  2,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Through it you are also being saved, if you hold fast to the word I preached to you, unless you believed in vain.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "3",
+                       "number":  3,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "For I handed on to you as of first importance what I also received: that Christ died for our sins in accordance with the scriptures;",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "4",
+                       "number":  4,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "that he was buried; that he was raised on the third day in accordance with the scriptures;",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "5",
+                       "number":  5,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "that he appeared to Cephas, then to the Twelve.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "6",
+                       "number":  6,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "After that, he appeared to more than five hundred brothers at once, most of whom are still living, though some have fallen asleep.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "7",
+                       "number":  7,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "After that he appeared to James, then to all the apostles.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "8",
+                       "number":  8,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Last of all, as to one born abnormally, he appeared to me.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "9",
+                       "number":  9,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "For I am the least of the apostles, not fit to be called an apostle, because I persecuted the church of God.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "10",
+                       "number":  10,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "But by the grace of God I am what I am, and his grace to me has not been ineffective. Indeed, I have toiled harder than all of them; not I, however, but the grace of God [that is] with me.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "11",
+                       "number":  11,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Therefore, whether it be I or they, so we preach and so you believed. B. The Resurrection of the Dead - Results of Denial.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "12",
+                       "number":  12,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "But if Christ is preached as raised from the dead, how can some among you say there is no resurrection of the dead?",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "13",
+                       "number":  13,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "If there is no resurrection of the dead, then neither has Christ been raised.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "14",
+                       "number":  14,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "And if Christ has not been raised, then empty [too] is our preaching; empty, too, your faith.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "15",
+                       "number":  15,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Then we are also false witnesses to God, because we testified against God that he raised Christ, whom he did not raise if in fact the dead are not raised.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "16",
+                       "number":  16,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "For if the dead are not raised, neither has Christ been raised,",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "17",
+                       "number":  17,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "and if Christ has not been raised, your faith is vain; you are still in your sins.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "18",
+                       "number":  18,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Then those who have fallen asleep in Christ have perished.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "19",
+                       "number":  19,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "If for this life only we have hoped in Christ, we are the most pitiable people of all. Christ the Firstfruits.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "20",
+                       "number":  20,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "But now Christ has been raised from the dead, the firstfruits of those who have fallen asleep.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "21",
+                       "number":  21,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "For since death came through a human being, the resurrection of the dead came also through a human being.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "22",
+                       "number":  22,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "For just as in Adam all die, so too in Christ shall all be brought to life,",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "23",
+                       "number":  23,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "but each one in proper order: Christ the firstfruits; then, at his coming, those who belong to Christ;",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "24",
+                       "number":  24,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "then comes the end, when he hands over the kingdom to his God and Father, when he has destroyed every sovereignty and every authority and power.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "25",
+                       "number":  25,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "For he must reign until he has put all his enemies under his feet.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "26",
+                       "number":  26,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "The last enemy to be destroyed is death,",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "27",
+                       "number":  27,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "for “he subjected everything under his feet.” But when it says that everything has been subjected, it is clear that it excludes the one who subjected everything to him.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "28",
+                       "number":  28,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "When everything is subjected to him, then the Son himself will [also] be subjected to the one who subjected everything to him, so that God may be all in all. Practical Arguments.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "29",
+                       "number":  29,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Otherwise, what will people accomplish by having themselves baptized for the dead? If the dead are not raised at all, then why are they having themselves baptized for them?",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "30",
+                       "number":  30,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Moreover, why are we endangering ourselves all the time?",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "31",
+                       "number":  31,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Every day I face death; I swear it by the pride in you [brothers] that I have in Christ Jesus our Lord.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "32",
+                       "number":  32,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "If at Ephesus I fought with beasts, so to speak, what benefit was it to me? If the dead are not raised: “Let us eat and drink, for tomorrow we die.”",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "33",
+                       "number":  33,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Do not be led astray: “Bad company corrupts good morals.”",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "34",
+                       "number":  34,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Become sober as you ought and stop sinning. For some have no knowledge of God; I say this to your shame.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "35",
+                       "number":  35,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "C. The Manner of the Resurrection - But someone may say, “How are the dead raised? With what kind of body will they come back?”",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "36",
+                       "number":  36,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "The Resurrection Body. You fool! What you sow is not brought to life unless it dies.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "37",
+                       "number":  37,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "And what you sow is not the body that is to be but a bare kernel of wheat, perhaps, or of some other kind;",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "38",
+                       "number":  38,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "but God gives it a body as he chooses, and to each of the seeds its own body.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "39",
+                       "number":  39,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Not all flesh is the same, but there is one kind for human beings, another kind of flesh for animals, another kind of flesh for birds, and another for fish.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "40",
+                       "number":  40,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "There are both heavenly bodies and earthly bodies, but the brightness of the heavenly is one kind and that of the earthly another.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "41",
+                       "number":  41,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "The brightness of the sun is one kind, the brightness of the moon another, and the brightness of the stars another. For star differs from star in brightness.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "42",
+                       "number":  42,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "So also is the resurrection of the dead. It is sown corruptible; it is raised incorruptible.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "43",
+                       "number":  43,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "It is sown dishonorable; it is raised glorious. It is sown weak; it is raised powerful.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "44",
+                       "number":  44,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "It is sown a natural body; it is raised a spiritual body. If there is a natural body, there is also a spiritual one.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "45",
+                       "number":  45,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "So, too, it is written, “The first man, Adam, became a living being,” the last Adam a life-giving spirit.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "46",
+                       "number":  46,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "But the spiritual was not first; rather the natural and then the spiritual.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "47",
+                       "number":  47,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "The first man was from the earth, earthly; the second man, from heaven.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "48",
+                       "number":  48,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "As was the earthly one, so also are the earthly, and as is the heavenly one, so also are the heavenly.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "49",
+                       "number":  49,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Just as we have borne the image of the earthly one, we shall also bear the image of the heavenly one.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "50",
+                       "number":  50,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "The Resurrection Event. This I declare, brothers: flesh and blood cannot inherit the kingdom of God, nor does corruption inherit incorruption.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "51",
+                       "number":  51,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Behold, I tell you a mystery. We shall not all fall asleep, but we will all be changed,",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "52",
+                       "number":  52,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "in an instant, in the blink of an eye, at the last trumpet. For the trumpet will sound, the dead will be raised incorruptible, and we shall be changed.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "53",
+                       "number":  53,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "For that which is corruptible must clothe itself with incorruptibility, and that which is mortal must clothe itself with immortality.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "54",
+                       "number":  54,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "And when this which is corruptible clothes itself with incorruptibility and this which is mortal clothes itself with immortality, then the word that is written shall come about: “Death is swallowed up in victory.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "55",
+                       "number":  55,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Where, O death, is your victory? Where, O death, is your sting?”",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "56",
+                       "number":  56,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "The sting of death is sin, and the power of sin is the law.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "57",
+                       "number":  57,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "But thanks be to God who gives us the victory through our Lord Jesus Christ.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "58",
+                       "number":  58,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Therefore, my beloved brothers, be firm, steadfast, always fully devoted to the work of the Lord, knowing that in the Lord your labor is not in vain.",
+                       "isPoetry":  false
+                   }
+               ],
+    "marks":  [
+
+              ]
+}

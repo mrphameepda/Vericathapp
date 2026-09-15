@@ -1,0 +1,298 @@
+{
+    "headings":  [
+
+                 ],
+    "verses":  [
+                   {
+                       "label":  "1",
+                       "number":  1,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Chapter 29 - Letter to the Exiles in Babylon. These are the words of the scroll which Jeremiah the prophet sent from Jerusalem to the remaining elders among the exiles, to the priests, the prophets, and all the people whom Nebuchadnezzar exiled from Jerusalem to Babylon.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "2",
+                       "number":  2,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "This was after King Jeconiah and the queen mother, the court officials, the princes of Judah and Jerusalem, the artisans and smiths had left Jerusalem.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "3",
+                       "number":  3,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Delivered in Babylon by Elasah, son of Shaphan, and by Gemariah, son of Hilkiah, whom Zedekiah, king of Judah, sent to the king of Babylon, the letter read:",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "4",
+                       "number":  4,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Thus says the LORD of hosts, the God of Israel, to all the exiles whom I exiled from Jerusalem to Babylon:",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "5",
+                       "number":  5,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Build houses and live in them; plant gardens and eat their fruits.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "6",
+                       "number":  6,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Take wives and have sons and daughters; find wives for your sons and give your daughters to husbands, so that they may bear sons and daughters. Increase there; do not decrease.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "7",
+                       "number":  7,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Seek the welfare of the city to which I have exiled you; pray for it to the LORD, for upon its welfare your own depends.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "8",
+                       "number":  8,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "For thus says the LORD of hosts, the God of Israel: Do not be deceived by the prophets and diviners who are among you; do not listen to those among you who dream dreams,",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "9",
+                       "number":  9,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "for they prophesy lies to you in my name; I did not send them—oracle of the LORD.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "10",
+                       "number":  10,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "For thus says the LORD: Only after seventy years have elapsed for Babylon will I deal with you and fulfill for you my promise to bring you back to this place.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "11",
+                       "number":  11,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "For I know well the plans I have in mind for you—oracle of the LORD—plans for your welfare and not for woe, so as to give you a future of hope.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "12",
+                       "number":  12,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "When you call me, and come and pray to me, I will listen to you.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "13",
+                       "number":  13,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "When you look for me, you will find me. Yes, when you seek me with all your heart,",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "14",
+                       "number":  14,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "I will let you find me—oracle of the LORD—and I will change your lot; I will gather you together from all the nations and all the places to which I have banished you—oracle of the LORD—and bring you back to the place from which I have exiled you.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "15",
+                       "number":  15,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "As for your saying, “The LORD has raised up for us prophets here in Babylon”—",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "16",
+                       "number":  16,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Thus says the LORD concerning the king sitting on David’s throne and all the people living in this city, your kinsmen who did not go with you into exile;",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "17",
+                       "number":  17,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "thus says the LORD of hosts: I am sending against them sword, famine, and pestilence. I will make them like rotten figs, so spoiled that they cannot be eaten.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "18",
+                       "number":  18,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "I will pursue them with sword, famine, and pestilence, and make them an object of horror to all the kingdoms of the earth, a curse, a desolation, a hissing, and a reproach to all the nations among which I have banished them,",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "19",
+                       "number":  19,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "because they did not listen to my words—oracle of the LORD—even though I kept sending them my servants the prophets, but they would not listen to them—oracle of the LORD.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "20",
+                       "number":  20,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "As for you, listen to the word of the LORD, all you exiles whom I sent away from Jerusalem to Babylon.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "21",
+                       "number":  21,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "This is what the LORD of hosts, the God of Israel, says about Ahab, son of Kolaiah, and Zedekiah, son of Maaseiah, who prophesy lies to you in my name: I am handing them over to Nebuchadnezzar, king of Babylon, who will kill them before your eyes.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "22",
+                       "number":  22,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "And because of them this curse will be used by all the exiles of Judah in Babylon: “May the LORD make you like Zedekiah and Ahab, whom the king of Babylon roasted in fire,”",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "23",
+                       "number":  23,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "because they have committed an outrage in Israel, committing adultery with their neighbors’ wives, and alleging in my name things I did not command. I know, I am witness—oracle of the LORD.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "24",
+                       "number":  24,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "The False Prophet Shemaiah. To Shemaiah, the Nehelamite, say:",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "25",
+                       "number":  25,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Thus says the LORD of hosts, the God of Israel: Because you sent documents in your own name to all the people in Jerusalem, to Zephaniah, the priest, son of Maaseiah, and to all the priests saying:",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "26",
+                       "number":  26,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "“It is the LORD who has appointed you priest in place of the priest Jehoiada, to provide officers for the house of the LORD, that you may confine in stocks or pillory any madman who poses as a prophet.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "27",
+                       "number":  27,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Why, then, have you not rebuked Jeremiah of Anathoth who poses as a prophet among you?",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "28",
+                       "number":  28,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "For he sent this message to us in Babylon: It will be a long time; build houses to live in; plant gardens and eat their fruit. . . .”",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "29",
+                       "number":  29,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "When the priest Zephaniah read this letter to Jeremiah the prophet,",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "30",
+                       "number":  30,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "the word of the LORD came to Jeremiah:",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "31",
+                       "number":  31,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Send to all the exiles: Thus says the LORD concerning Shemaiah, the Nehelamite: Because Shemaiah prophesies to you, although I did not send him, and has led you to rely on a lie,",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "32",
+                       "number":  32,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "therefore thus says the LORD, I will punish Shemaiah, the Nehelamite, and his descendants. None of them shall dwell among this people to see the good I will do for this people—oracle of the LORD—because he preached rebellion against the LORD.",
+                       "isPoetry":  false
+                   }
+               ],
+    "marks":  [
+
+              ]
+}

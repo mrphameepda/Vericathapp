@@ -1,0 +1,28 @@
+{
+    "headings":  [
+
+                 ],
+    "verses":  [
+                   {
+                       "label":  "1",
+                       "number":  1,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Psalm 117 The Nations Called to Praise - Praise the LORD, all you nations! Extol him, all you peoples!",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "2",
+                       "number":  2,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "His mercy for us is strong; the faithfulness of the LORD is forever. Hallelujah!",
+                       "isPoetry":  false
+                   }
+               ],
+    "marks":  [
+
+              ]
+}

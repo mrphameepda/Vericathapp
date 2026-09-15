@@ -1,0 +1,26 @@
+{
+  "book": "tv",
+  "chapter": 15,
+  "verses": [
+    {
+      "verseNumber": 1,
+      "textEn": "PSALMUS. David . Domine, quis habitabit in tabernaculo tuo? Quis requiescet in monte sancto tuo?"
+    },
+    {
+      "verseNumber": 2,
+      "textEn": "Qui ingreditur sine macula et operatur iustitiam, qui loquitur veritatem in corde suo,"
+    },
+    {
+      "verseNumber": 3,
+      "textEn": "qui non egit dolum in lingua sua nec fecit proximo suo malum et opprobrium non intulit proximo suo."
+    },
+    {
+      "verseNumber": 4,
+      "textEn": "Ad nihilum reputatus est in conspectu eius malignus, timentes autem Dominum glorificat. Qui iuravit in detrimentum suum et non mutat,"
+    },
+    {
+      "verseNumber": 5,
+      "textEn": "qui pecuniam suam non dedit ad usuram et munera super innocentem non accepit. Qui facit haec, non movebitur in aeternum."
+    }
+  ]
+}

@@ -1,0 +1,667 @@
+{
+    "headings":  [
+
+                 ],
+    "verses":  [
+                   {
+                       "label":  "1",
+                       "number":  1,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Chapter 9 - Death of Judas. When Demetrius heard that Nicanor and his army had fallen in battle, he again sent Bacchides and Alcimus into the land of Judah, along with the right wing of his army.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "2",
+                       "number":  2,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "They took the road to Galilee, and camping opposite the ascent at Arbela, they captured it and killed many people.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "3",
+                       "number":  3,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "In the first month of the one hundred and fifty-second year, they encamped against Jerusalem.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "4",
+                       "number":  4,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Then they set out for Berea with twenty thousand men and two thousand cavalry.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "5",
+                       "number":  5,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Judas, with three thousand picked men, had camped at Elasa.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "6",
+                       "number":  6,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "When they saw the great number of the troops, they were very much afraid, and many slipped away from the camp, until only eight hundred of them remained.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "7",
+                       "number":  7,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "When Judas saw that his army was melting away just as the battle was imminent, he was brokenhearted, because he had no time to gather them together.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "8",
+                       "number":  8,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "In spite of his discouragement he said to those who remained: “Let us go forward to meet our enemies; perhaps we can put up a good fight against them.”",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "9",
+                       "number":  9,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "They tried to dissuade him, saying: “We certainly cannot. Let us save our own lives now, and come back with our kindred, and then fight against them. Now we are too few.”",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "10",
+                       "number":  10,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "But Judas said: “Far be it from me to do such a thing as to flee from them! If our time has come, let us die bravely for our kindred and not leave a stain upon our honor!”",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "11",
+                       "number":  11,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Then the army of Bacchides moved out of camp and took its position for combat. The cavalry were divided into two squadrons, and the slingers and the archers came on ahead of the army, and in the front line were all the best warriors. Bacchides was on the right wing.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "12",
+                       "number":  12,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Flanked by the two squadrons, the phalanx attacked as they blew their trumpets. Those who were on Judas’ side also blew their trumpets.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "13",
+                       "number":  13,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "The earth shook with the noise of the armies, and the battle raged from morning until evening.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "14",
+                       "number":  14,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "When Judas saw that Bacchides was on the right, with the main force of his army, all the most stouthearted rallied to him,",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "15",
+                       "number":  15,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "and the right wing was crushed; Judas pursued them as far as the mountain slopes.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "16",
+                       "number":  16,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "But when those on the left wing saw that the right wing was crushed, they closed in behind Judas and those with him.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "17",
+                       "number":  17,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "The battle became intense, and many on both sides fell wounded.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "18",
+                       "number":  18,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Then Judas fell, and the rest fled.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "19",
+                       "number":  19,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Jonathan and Simon took their brother Judas and buried him in the tomb of their ancestors at Modein.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "20",
+                       "number":  20,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "All Israel wept for him with great lamentation. They mourned for him many days, and they said,",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "21",
+                       "number":  21,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "“How the mighty one has fallen, the savior of Israel!”",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "22",
+                       "number":  22,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "The other acts of Judas, his battles, the brave deeds he performed, and his greatness have not been recorded; but they were very many.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "23",
+                       "number":  23,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "III. Leadership of Jonathan - Jonathan Succeeds Judas. After the death of Judas, the lawless raised their heads in every part of Israel, and all kinds of evildoers appeared.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "24",
+                       "number":  24,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "In those days there was a very great famine, and the country deserted to them.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "25",
+                       "number":  25,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Bacchides chose renegades and made them masters of the country.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "26",
+                       "number":  26,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "These sought out and hunted down the friends of Judas and brought them to Bacchides, who punished and derided them.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "27",
+                       "number":  27,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "There was great tribulation in Israel, the like of which had not been since the time prophets ceased to appear among them.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "28",
+                       "number":  28,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Then all the friends of Judas came together and said to Jonathan:",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "29",
+                       "number":  29,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "“Ever since your brother Judas died, there has been no one like him to lead us against our enemies, both Bacchides and those of our nation who are hostile to us.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "30",
+                       "number":  30,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Now therefore we have chosen you today to be our ruler and leader in his place, to fight our battle.”",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "31",
+                       "number":  31,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "From that moment Jonathan accepted the leadership, and took the place of Judas his brother.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "32",
+                       "number":  32,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Bacchides Pursues Jonathan. When Bacchides learned of it, he sought to kill him.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "33",
+                       "number":  33,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "But Jonathan and his brother Simon and all who were with him discovered this, and they fled to the wilderness of Tekoa and camped by the waters of the pool of Asphar.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "34",
+                       "number":  34,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "[ ]",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "35",
+                       "number":  35,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Jonathan sent his brother as leader of the convoy to implore his friends, the Nabateans, to let them deposit with them their great quantity of baggage.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "36",
+                       "number":  36,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "But the tribe of Jambri from Medaba made a raid and seized and carried off John and everything he had.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "37",
+                       "number":  37,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "After this, word was brought to Jonathan and his brother Simon: “The tribe of Jambri are celebrating a great wedding, and with a large escort they are bringing the bride, the daughter of one of the great princes of Canaan, from Nadabath.”",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "38",
+                       "number":  38,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Remembering the blood of John their brother, they went up and hid themselves under cover of the mountain.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "39",
+                       "number":  39,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "As they watched there appeared a noisy throng with much baggage; then the bridegroom and his friends and kinsmen had come out to meet them with tambourines and musicians with their instruments.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "40",
+                       "number":  40,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Jonathan and his party rose up against them from their ambush and killed them. Many fell wounded; the rest fled toward the mountain; all their spoils were taken.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "41",
+                       "number":  41,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Thus the wedding was turned into mourning, and the sound of their music into lamentation.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "42",
+                       "number":  42,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Having taken their revenge for the blood of their brother, they returned to the marshes of the Jordan.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "43",
+                       "number":  43,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "When Bacchides heard of it, he came on the sabbath to the banks of the Jordan with a large force.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "44",
+                       "number":  44,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Then Jonathan said to his companions, “Let us rise up now and fight for our lives, for today is not like yesterday and the day before.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "45",
+                       "number":  45,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "The battle is before us, behind us are the waters of the Jordan, on either side of us, marsh and thickets; there is no way of escape.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "46",
+                       "number":  46,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Cry out now to Heaven so that you may be delivered from the hand of our enemies.”",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "47",
+                       "number":  47,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "When they joined battle, Jonathan raised his hand to strike Bacchides, but Bacchides backed away from him.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "48",
+                       "number":  48,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Jonathan and those with him jumped into the Jordan and swam across to the other side, but the enemy did not pursue them across the Jordan.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "49",
+                       "number":  49,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "About a thousand men on Bacchides’ side fell that day.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "50",
+                       "number":  50,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "On returning to Jerusalem, Bacchides built strongholds in Judea: the Jericho fortress, as well as Emmaus, Beth-horon, Bethel, Timnath, Pharathon, and Tephon, with high walls and gates and bars.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "51",
+                       "number":  51,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "In each he put a garrison to harass Israel.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "52",
+                       "number":  52,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "He fortified the city of Beth-zur, Gazara and the citadel, and put troops in them and stores of provisions.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "53",
+                       "number":  53,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "He took as hostages the sons of the leading people of the country and put them in custody in the citadel at Jerusalem.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "54",
+                       "number":  54,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "In the one hundred and fifty-third year, in the second month, Alcimus ordered the wall of the inner court of the sanctuary to be torn down, thus destroying the work of the prophets. But he only began to tear it down.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "55",
+                       "number":  55,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Just at that time Alcimus was stricken, and his work was interrupted; his mouth was closed and he was paralyzed, so that he could no longer utter a word or give orders concerning his household.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "56",
+                       "number":  56,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Alcimus died in great agony at that time.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "57",
+                       "number":  57,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Seeing that Alcimus was dead, Bacchides returned to the king, and the land of Judah was at rest for two years.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "58",
+                       "number":  58,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Then all the lawless took counsel and said: “Jonathan and those with him are living in peace and security. Now then, let us have Bacchides return, and he will capture all of them in a single night.”",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "59",
+                       "number":  59,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "So they went and took counsel with him.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "60",
+                       "number":  60,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "When Bacchides was setting out with a large force, he sent letters secretly to all his allies in Judea, telling them to seize Jonathan and his companions. They were not able to do this, however, because their plan became known.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "61",
+                       "number":  61,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "In fact, Jonathan’s men seized about fifty of the men of the country who were leaders in the conspiracy and put them to death.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "62",
+                       "number":  62,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Then Jonathan and those with him, along with Simon, withdrew to Bethbasi in the wilderness; he rebuilt its ruins and fortified it.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "63",
+                       "number":  63,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "When Bacchides learned of this, he gathered together his whole force and sent word to those who were in Judea.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "64",
+                       "number":  64,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "He came and camped before Bethbasi, and constructing siege engines, he fought against it for many days.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "65",
+                       "number":  65,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Leaving his brother Simon in the city, Jonathan, accompanied by a small group of men, went out into the countryside.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "66",
+                       "number":  66,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "He struck down Odomera and his kindred and the tribe of Phasiron in their encampment; these men had begun to attack and they were going up with their forces.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "67",
+                       "number":  67,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Simon and those with him then sallied forth from the city and set fire to the siege engines.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "68",
+                       "number":  68,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "They fought against Bacchides, and he was crushed. They caused him great distress, because the enterprise he had planned was in vain.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "69",
+                       "number":  69,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "He was enraged with the lawless men who had advised him to invade the province. He killed many of them and resolved to return to his own country.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "70",
+                       "number":  70,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Jonathan learned of this and sent ambassadors to agree on peace with him and to obtain the release of the prisoners.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "71",
+                       "number":  71,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "He agreed to do as Jonathan asked. He swore an oath to him that he would never try to do him any harm for the rest of his life;",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "72",
+                       "number":  72,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "and he released to him the prisoners he had previously taken from the land of Judah. Thereupon he returned to his own land and never came into their territory again.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "73",
+                       "number":  73,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Then the sword ceased from Israel. Jonathan settled in Michmash; he began to judge the people and he eliminated the renegades from Israel.",
+                       "isPoetry":  false
+                   }
+               ],
+    "marks":  [
+
+              ]
+}

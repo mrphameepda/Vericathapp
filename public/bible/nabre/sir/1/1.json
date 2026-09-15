@@ -1,0 +1,46 @@
+{
+    "headings":  [
+
+                 ],
+    "verses":  [
+                   {
+                       "label":  "1",
+                       "number":  1,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Foreword - Inasmuch as many and great truths have been given to us through the Law, the prophets, and the authors who followed them, for which the instruction and wisdom of Israel merit praise, it is the duty of those who read the scriptures not only to become knowledgeable themselves but also to use their love of learning in speech and in writing to help others less familiar. So my grandfather Jesus, who had long devoted himself to the study of the law, the prophets, and the rest of the books of our ancestors, and had acquired great familiarity with them, was moved to write something himself regarding instruction and wisdom. He did this so that those who love learning might, by accepting what he had written, make even greater progress in living according to the Law. You are invited therefore to read it with good will and attention, with indulgence for any failure on our part, despite earnest efforts, in the interpretation of particular passages. For words spoken originally in Hebrew do not have the same effect when they are translated into another language. That is true not only of this book but of the Law itself, the prophecies, and the rest of the books, which differ no little when they are read in the original. I arrived in Egypt in the thirty-eighth year of the reign of King Euergetes, and while there, I had access to no little learning. I therefore considered it my duty to devote some diligence and industry to the translation of this book. During this time I applied my skill for many sleepless hours to complete the book and publish it for those living abroad who wish to acquire learning and are disposed to live their lives according to the Law. The Wisdom of Ben Sira Chapter 1 God’s Gift of Wisdom - All wisdom is from the Lord and remains with him forever.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "2",
+                       "number":  2,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "The sands of the sea, the drops of rain, the days of eternity—who can count them?",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "3",
+                       "number":  3,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Heaven’s height, earth’s extent, the abyss and wisdom—who can explore them?",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "4",
+                       "number":  4,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Before all other things wisdom was created; and prudent understanding, from eternity.",
+                       "isPoetry":  false
+                   }
+               ],
+    "marks":  [
+
+              ]
+}

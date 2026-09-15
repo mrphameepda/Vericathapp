@@ -1,0 +1,595 @@
+{
+    "headings":  [
+
+                 ],
+    "verses":  [
+                   {
+                       "label":  "1",
+                       "number":  1,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "the LORD said to Moses and Eleazar, son of Aaron the priest:",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "2",
+                       "number":  2,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Take a census, by ancestral houses, throughout the community of the Israelites of all those of twenty years or more who are eligible for military service in Israel.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "3",
+                       "number":  3,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "So on the plains of Moab along the Jordan at Jericho, Moses and Eleazar the priest enrolled them,",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "4",
+                       "number":  4,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "those of twenty years or more, as the LORD had commanded Moses. The Israelites who came out of the land of Egypt were as follows:",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "5",
+                       "number":  5,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Reuben, the firstborn of Israel. The descendants of Reuben by their clans were: through Hanoch, the clan of the Hanochites; through Pallu, the clan of the Palluites;",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "6",
+                       "number":  6,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "through Hezron, the clan of the Hezronites; through Carmi, the clan of the Carmites.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "7",
+                       "number":  7,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "These were the clans of the Reubenites, and those enrolled numbered forty-three thousand seven hundred and thirty.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "8",
+                       "number":  8,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "From Pallu descended Eliab.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "9",
+                       "number":  9,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "The sons of Eliab were Nemuel, Dathan, and Abiram—the same Dathan and Abiram, ones designated by the community, who contended with Moses and Aaron as part of Korah’s faction when they contended with the LORD.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "10",
+                       "number":  10,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "The earth opened its mouth and swallowed them, along with Korah, as a warning. The faction was destroyed when the fire consumed two hundred and fifty men.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "11",
+                       "number":  11,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "The descendants of Korah, however, did not die out.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "12",
+                       "number":  12,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "The descendants of Simeon by clans were: through Nemuel, the clan of the Nemuelites; through Jamin, the clan of the Jaminites; through Jachin, the clan of the Jachinites;",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "13",
+                       "number":  13,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "through Zerah, the clan of the Zerahites; through Shaul, the clan of the Shaulites.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "14",
+                       "number":  14,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "These were the clans of the Simeonites, twenty-two thousand two hundred.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "15",
+                       "number":  15,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "The descendants of Gad by clans were: through Zephon, the clan of the Zephonites; through Haggi, the clan of the Haggites; through Shuni, the clan of the Shunites;",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "16",
+                       "number":  16,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "through Ozni, the clan of the Oznites; through Eri, the clan of the Erites;",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "17",
+                       "number":  17,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "through Arod, the clan of the Arodites; through Areli, the clan of the Arelites.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "18",
+                       "number":  18,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "These were the clans of the descendants of Gad, of whom there were enrolled forty thousand five hundred.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "19",
+                       "number":  19,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "The sons of Judah were Er and Onan. Er and Onan died in the land of Canaan.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "20",
+                       "number":  20,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "The descendants of Judah by their clans were: through Shelah, the clan of the Shelahites; through Perez, the clan of the Perezites; through Zerah, the clan of the Zerahites.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "21",
+                       "number":  21,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "The descendants of Perez were: through Hezron, the clan of the Hezronites; through Hamul, the clan of the Hamulites.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "22",
+                       "number":  22,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "These were the clans of Judah, of whom there were enrolled seventy-six thousand five hundred.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "23",
+                       "number":  23,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "The descendants of Issachar by their clans were: through Tola, the clan of the Tolaites; through Puvah, the clan of the Puvahites;",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "24",
+                       "number":  24,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "through Jashub, the clan of the Jashubites; through Shimron, the clan of the Shimronites.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "25",
+                       "number":  25,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "These were the clans of Issachar, of whom there were enrolled sixty-four thousand three hundred.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "26",
+                       "number":  26,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "The descendants of Zebulun by their clans were: through Sered, the clan of the Seredites; through Elon, the clan of the Elonites; through Jahleel, the clan of the Jahleelites.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "27",
+                       "number":  27,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "These were the clans of the Zebulunites, of whom there were enrolled sixty thousand five hundred.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "28",
+                       "number":  28,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "The sons of Joseph were Manasseh and Ephraim.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "29",
+                       "number":  29,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "The descendants of Manasseh by clans were: through Machir, the clan of the Machirites. Now Machir begot Gilead: through Gilead, the clan of the Gileadites.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "30",
+                       "number":  30,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "The descendants of Gilead were: through Iezer, the clan of the Iezrites; through Helek, the clan of the Helekites;",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "31",
+                       "number":  31,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "through Asriel, the clan of the Asrielites; through Shechem, the clan of the Shechemites;",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "32",
+                       "number":  32,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "through Shemida, the clan of the Shemidaites; through Hepher, the clan of the Hepherites.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "33",
+                       "number":  33,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "As for Zelophehad, son of Hepher—he had no sons, but only daughters. The names of the daughters of Zelophehad were Mahlah, Noah, Hoglah, Milcah and Tirzah.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "34",
+                       "number":  34,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "These were the clans of Manasseh, and those enrolled numbered fifty-two thousand seven hundred.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "35",
+                       "number":  35,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "These were the descendants of Ephraim by their clans: through Shuthelah, the clan of the Shuthelahites; through Becher, the clan of the Becherites; through Tahan, the clan of the Tahanites.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "36",
+                       "number":  36,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "These were the descendants of Shuthelah: through Eran, the clan of the Eranites.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "37",
+                       "number":  37,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "These were the clans of the Ephraimites, of whom there were enrolled thirty-two thousand five hundred. These were the descendants of Joseph by their clans.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "38",
+                       "number":  38,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "The descendants of Benjamin by their clans were: through Bela, the clan of the Belaites; through Ashbel, the clan of the Ashbelites; through Ahiram, the clan of the Ahiramites;",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "39",
+                       "number":  39,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "through Shupham, the clan of the Shuphamites; through Hupham, the clan of the Huphamites.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "40",
+                       "number":  40,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "The sons of Bela were Ard and Naaman: through Ard, the clan of the Ardites; through Naaman, the clan of the Naamites.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "41",
+                       "number":  41,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "These were the descendants of Benjamin by their clans, of whom there were enrolled forty-five thousand six hundred.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "42",
+                       "number":  42,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "These were the descendants of Dan by their clans: through Shuham the clan of the Shuhamites. These were the clans of Dan,",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "43",
+                       "number":  43,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "of whom there were enrolled sixty-four thousand four hundred.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "44",
+                       "number":  44,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "The descendants of Asher by their clans were: through Imnah, the clan of the Imnites; through Ishvi, the clan of the Ishvites; through Beriah, the clan of the Beriites;",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "45",
+                       "number":  45,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "through Heber, the clan of the Heberites; through Malchiel, the clan of the Malchielites.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "46",
+                       "number":  46,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "The name of Asher’s daughter was Serah.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "47",
+                       "number":  47,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "These were the clans of the descendants of Asher, of whom there were enrolled fifty-three thousand four hundred.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "48",
+                       "number":  48,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "The descendants of Naphtali by their clans were: through Jahzeel, the clan of the Jahzeelites; through Guni, the clan of the Gunites;",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "49",
+                       "number":  49,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "through Jezer, the clan of the Jezerites; through Shillem, the clan of the Shillemites.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "50",
+                       "number":  50,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "These were the clans of Naphtali, of whom there were enrolled forty-five thousand four hundred.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "51",
+                       "number":  51,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "These were the Israelites who were enrolled: six hundred and one thousand seven hundred and thirty. Allotment of the Land.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "52",
+                       "number":  52,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "The LORD said to Moses:",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "53",
+                       "number":  53,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Among these the land shall be divided as their heritage in keeping with the number of people named.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "54",
+                       "number":  54,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "To a large tribe you shall assign a large heritage, to a small tribe a small heritage, each receiving its heritage in proportion to the number enrolled in it.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "55",
+                       "number":  55,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "But the land shall be divided by lot, all inheriting according to the lists of their ancestral tribes.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "56",
+                       "number":  56,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "As the lot falls the heritage of each tribe, large or small, will be assigned.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "57",
+                       "number":  57,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Census of the Levites. These were the Levites enrolled by clans: through Gershon, the clan of the Gershonites; through Kohath, the clan of the Kohathites; through Merari, the clan of the Merarites.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "58",
+                       "number":  58,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "These were clans of Levi: the clan of the Libnites, the clan of the Hebronites, the clan of the Mahlites, the clan of the Mushites, the clan of the Korahites. Now Kohath begot Amram,",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "59",
+                       "number":  59,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "whose wife was named Jochebed. She was the daughter of Levi, born to Levi in Egypt. To Amram she bore Aaron and Moses and Miriam their sister.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "60",
+                       "number":  60,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "To Aaron were born Nadab and Abihu, Eleazar and Ithamar.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "61",
+                       "number":  61,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "But Nadab and Abihu died when they offered unauthorized fire before the LORD.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "62",
+                       "number":  62,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "The Levites enrolled were twenty-three thousand, every male one month or more of age. They were not enrolled with the other Israelites, however, for no heritage was given them among the Israelites.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "63",
+                       "number":  63,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "These, then, were those enrolled by Moses and Eleazar the priest, when they enrolled the Israelites on the plains of Moab along the Jordan at Jericho.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "64",
+                       "number":  64,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Among them there was not one of those who had been enrolled by Moses and Aaron the priest, when they enrolled the Israelites in the wilderness of Sinai.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "65",
+                       "number":  65,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "For the LORD had told them that they would surely die in the wilderness, and not one of them was left except Caleb, son of Jephunneh, and Joshua, son of Nun.",
+                       "isPoetry":  false
+                   }
+               ],
+    "marks":  [
+
+              ]
+}

@@ -1,0 +1,163 @@
+{
+    "headings":  [
+
+                 ],
+    "verses":  [
+                   {
+                       "label":  "1",
+                       "number":  1,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Chapter 18 - David’s Victories. After this, David defeated the Philistines and subdued them; and he took Gath and its towns away from the Philistines.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "2",
+                       "number":  2,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "He also defeated Moab, and the Moabites became David’s subjects, paying tribute.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "3",
+                       "number":  3,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "David then defeated Hadadezer, king of Zobah, toward Hamath, who was on his way to set up his victory stele at the river Euphrates.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "4",
+                       "number":  4,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "David captured from him one thousand chariots, seven thousand horsemen, and twenty thousand foot soldiers. David hamstrung all the chariot horses, but left one hundred for his chariots.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "5",
+                       "number":  5,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "The Arameans of Damascus came to help Hadadezer, king of Zobah, but David also defeated twenty-two thousand of their men in Aram.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "6",
+                       "number":  6,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Then David set up garrisons in the Damascus region of Aram, and the Arameans became David’s subjects, paying tribute. Thus the LORD made David victorious in all his campaigns.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "7",
+                       "number":  7,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "David took the golden shields that were carried by Hadadezer’s attendants and brought them to Jerusalem.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "8",
+                       "number":  8,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "David likewise took away from Tibhath and Cun, cities of Hadadezer, large quantities of bronze; Solomon later used it to make the bronze sea and the pillars and the vessels of bronze.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "9",
+                       "number":  9,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "When Tou, king of Hamath, heard that David had defeated the entire army of Hadadezer, king of Zobah,",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "10",
+                       "number":  10,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "he sent his son Hadoram to wish King David well and to congratulate him on having waged a victorious war against Hadadezer; for Hadadezer had been at war with Tou. He also brought gold, silver and bronze articles of every sort.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "11",
+                       "number":  11,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "These also King David consecrated to the LORD along with all the silver and gold that he had taken from the nations: from Edom, Moab, the Ammonites, the Philistines, and Amalek.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "12",
+                       "number":  12,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Abishai, the son of Zeruiah, also defeated eighteen thousand Edomites in the Valley of Salt.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "13",
+                       "number":  13,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "He set up garrisons in Edom, and all the Edomites became David’s subjects. Thus the LORD brought David victory in all his undertakings.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "14",
+                       "number":  14,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "David’s Officials. David was king over all Israel; he dispensed justice and right to all his people.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "15",
+                       "number":  15,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Joab, son of Zeruiah, was in command of the army; Jehoshaphat, son of Ahilud, was chancellor;",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "16",
+                       "number":  16,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Zadok, son of Ahitub, and Ahimelech, son of Abiathar, were priests; Shavsha was scribe;",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "17",
+                       "number":  17,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Benaiah, son of Jehoiada, was in command of the Cherethites and the Pelethites; and David’s sons were the chief assistants to the king.",
+                       "isPoetry":  false
+                   }
+               ],
+    "marks":  [
+
+              ]
+}

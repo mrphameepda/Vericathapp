@@ -1,0 +1,1092 @@
+[
+  {
+    "title": "Giáo Lý Công Giáo",
+    "slug": "giao-ly-cong-giao",
+    "level": 0,
+    "kind": "sach",
+    "paragraph_start": null,
+    "paragraph_end": null,
+    "children": [
+      {
+        "title": "BẢNG KÝ HIỆU VIẾT TẮT",
+        "slug": "bang-ky-hieu-viet-tat-sach-giao-ly",
+        "level": 1,
+        "kind": "phan",
+        "paragraph_start": null,
+        "paragraph_end": null
+      },
+      {
+        "title": "TÔNG HIẾN FIDEI DEPOSITUM (KHO TÀNG ĐỨC TIN)",
+        "slug": "tong-hien-fidei-depositum",
+        "level": 1,
+        "kind": "phan",
+        "paragraph_start": null,
+        "paragraph_end": null
+      },
+      {
+        "title": "LỜI MỞ ĐẦU (1-25)",
+        "slug": "giao-ly-so-1-25",
+        "level": 1,
+        "kind": "phan",
+        "paragraph_start": 1,
+        "paragraph_end": 25
+      },
+      {
+        "title": "PHẦN THỨ NHẤT: TUYÊN XƯNG ĐỨC TIN (26-1065)",
+        "slug": "giao-ly-so-26-1065",
+        "level": 1,
+        "kind": "phan",
+        "paragraph_start": 26,
+        "paragraph_end": 1065,
+        "children": [
+          {
+            "title": "ĐOẠN THỨ NHẤT: “TÔI TIN” - “CHÚNG TÔI TIN” (26-184)",
+            "slug": "giao-ly-so-26-184",
+            "level": 2,
+            "kind": "doan",
+            "paragraph_start": 26,
+            "paragraph_end": 184,
+            "children": [
+              {
+                "title": "CHƯƠNG I: CON NGƯỜI “CÓ KHẢ NĂNG” ĐÓN NHẬN THIÊN CHÚA (27-49)",
+                "slug": "giao-ly-so-27-49",
+                "level": 3,
+                "kind": "chuong",
+                "paragraph_start": 27,
+                "paragraph_end": 49
+              },
+              {
+                "title": "CHƯƠNG II: THIÊN CHÚA ĐẾN GẶP CON NGƯỜI (50-141)",
+                "slug": "giao-ly-so-50-141",
+                "level": 3,
+                "kind": "chuong",
+                "paragraph_start": 50,
+                "paragraph_end": 141,
+                "children": [
+                  {
+                    "title": "Mục 1: Mặc Khải của Thiên Chúa (51-73)",
+                    "slug": "giao-ly-so-51-73",
+                    "level": 4,
+                    "kind": "muc",
+                    "paragraph_start": 51,
+                    "paragraph_end": 73
+                  },
+                  {
+                    "title": "Mục 2: Sự lưu truyền Mặc Khải của Thiên Chúa (74-100)",
+                    "slug": "giao-ly-so-74-100",
+                    "level": 4,
+                    "kind": "muc",
+                    "paragraph_start": 74,
+                    "paragraph_end": 100
+                  },
+                  {
+                    "title": "Mục 3: Thánh Kinh (101-141)",
+                    "slug": "giao-ly-so-101-141",
+                    "level": 4,
+                    "kind": "muc",
+                    "paragraph_start": 101,
+                    "paragraph_end": 141
+                  }
+                ]
+              },
+              {
+                "title": "CHƯƠNG III: CON NGƯỜI ĐÁP LỜI THIÊN CHÚA (142-184)",
+                "slug": "giao-ly-so-142-184",
+                "level": 3,
+                "kind": "chuong",
+                "paragraph_start": 142,
+                "paragraph_end": 184,
+                "children": [
+                  {
+                    "title": "Mục 1: Tôi tin (144-165)",
+                    "slug": "giao-ly-so-144-165",
+                    "level": 4,
+                    "kind": "muc",
+                    "paragraph_start": 144,
+                    "paragraph_end": 165
+                  },
+                  {
+                    "title": "Mục 2: Chúng tôi tin (166-184)",
+                    "slug": "giao-ly-so-166-184",
+                    "level": 4,
+                    "kind": "muc",
+                    "paragraph_start": 166,
+                    "paragraph_end": 184
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "TÍN BIỂU",
+            "slug": "tin-bieu",
+            "level": 2,
+            "kind": "doan",
+            "paragraph_start": null,
+            "paragraph_end": null
+          },
+          {
+            "title": "ĐOẠN THỨ HAI: TUYÊN XƯNG ĐỨC TIN KITÔ GIÁO (185-1065)",
+            "slug": "giao-ly-so-185-1065",
+            "level": 2,
+            "kind": "doan",
+            "paragraph_start": 185,
+            "paragraph_end": 1065,
+            "children": [
+              {
+                "title": "CHƯƠNG I: “TÔI TIN KÍNH ĐỨC CHÚA TRỜI LÀ CHA” (198-421)",
+                "slug": "giao-ly-so-198-421",
+                "level": 3,
+                "kind": "chuong",
+                "paragraph_start": 198,
+                "paragraph_end": 421,
+                "children": [
+                  {
+                    "title": "Mục 1: “Tôi tin kính Đức Chúa Trời, là Cha phép tắc vô cùng, dựng nên trời đất” (199-421)",
+                    "slug": "giao-ly-so-199-421",
+                    "level": 4,
+                    "kind": "muc",
+                    "paragraph_start": 199,
+                    "paragraph_end": 421,
+                    "children": [
+                      {
+                        "title": "Tiết 1: Tôi tin kính Đức Chúa Trời (199-231)",
+                        "slug": "giao-ly-so-199-231",
+                        "level": 5,
+                        "kind": "tiet",
+                        "paragraph_start": 199,
+                        "paragraph_end": 231
+                      },
+                      {
+                        "title": "Tiết 2: Chúa Cha (232-267)",
+                        "slug": "giao-ly-so-232-267",
+                        "level": 5,
+                        "kind": "tiet",
+                        "paragraph_start": 232,
+                        "paragraph_end": 267
+                      },
+                      {
+                        "title": "Tiết 3: Đấng Toàn Năng (268-278)",
+                        "slug": "giao-ly-so-268-278",
+                        "level": 5,
+                        "kind": "tiet",
+                        "paragraph_start": 268,
+                        "paragraph_end": 278
+                      },
+                      {
+                        "title": "Tiết 4: Đấng Tạo Hóa (279-324)",
+                        "slug": "giao-ly-so-279-324",
+                        "level": 5,
+                        "kind": "tiet",
+                        "paragraph_start": 279,
+                        "paragraph_end": 324
+                      },
+                      {
+                        "title": "Tiết 5: Trời và đất (325-354)",
+                        "slug": "giao-ly-so-325-354",
+                        "level": 5,
+                        "kind": "tiet",
+                        "paragraph_start": 325,
+                        "paragraph_end": 354
+                      },
+                      {
+                        "title": "Tiết 6: Con người (355-384)",
+                        "slug": "giao-ly-so-355-384",
+                        "level": 5,
+                        "kind": "tiet",
+                        "paragraph_start": 355,
+                        "paragraph_end": 384
+                      },
+                      {
+                        "title": "Tiết 7: Sự sa ngã (385-421)",
+                        "slug": "giao-ly-so-385-421",
+                        "level": 5,
+                        "kind": "tiet",
+                        "paragraph_start": 385,
+                        "paragraph_end": 421
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "title": "CHƯƠNG II: TÔI TIN KÍNH MỘT CHÚA GIÊSU KITÔ, CON MỘT THIÊN CHÚA (422-682)",
+                "slug": "giao-ly-so-422-682",
+                "level": 3,
+                "kind": "chuong",
+                "paragraph_start": 422,
+                "paragraph_end": 682,
+                "children": [
+                  {
+                    "title": "Mục 2: “Tôi tin kính Đức Chúa Giêsu Kitô, là Con Một Đức Chúa Cha, cùng là Chúa chúng tôi” (430-455)",
+                    "slug": "giao-ly-so-430-455",
+                    "level": 4,
+                    "kind": "muc",
+                    "paragraph_start": 430,
+                    "paragraph_end": 455
+                  },
+                  {
+                    "title": "Mục 3: Chúa Giêsu Kitô “bởi phép Đức Chúa Thánh Thần mà Người xuống thai, sinh bởi bà Maria đồng trinh” (456-570)",
+                    "slug": "giao-ly-so-456-570",
+                    "level": 4,
+                    "kind": "muc",
+                    "paragraph_start": 456,
+                    "paragraph_end": 570,
+                    "children": [
+                      {
+                        "title": "Tiết 1: Con Thiên Chúa làm người (456-483)",
+                        "slug": "giao-ly-so-456-483",
+                        "level": 5,
+                        "kind": "tiet",
+                        "paragraph_start": 456,
+                        "paragraph_end": 483
+                      },
+                      {
+                        "title": "Tiết 2: “Bởi phép Đức Chúa Thánh Thần mà Người xuống thai, sinh bởi bà Maria đồng trinh” (484-511)",
+                        "slug": "giao-ly-so-484-511",
+                        "level": 5,
+                        "kind": "tiet",
+                        "paragraph_start": 484,
+                        "paragraph_end": 511
+                      },
+                      {
+                        "title": "Tiết 3: Các mầu nhiệm của cuộc đời Đức Kitô (512-570)",
+                        "slug": "giao-ly-so-512-570",
+                        "level": 5,
+                        "kind": "tiet",
+                        "paragraph_start": 512,
+                        "paragraph_end": 570
+                      }
+                    ]
+                  },
+                  {
+                    "title": "Mục 4: Chúa Giêsu Kitô đã “chịu nạn đời quan Phongxiô Philatô, chịu đóng đinh trên cây thánh giá, chết và táng xác” (571-630)",
+                    "slug": "giao-ly-so-571-630",
+                    "level": 4,
+                    "kind": "muc",
+                    "paragraph_start": 571,
+                    "paragraph_end": 630,
+                    "children": [
+                      {
+                        "title": "Tiết 1: Chúa Giêsu và Ítraen (574-594)",
+                        "slug": "giao-ly-so-574-594",
+                        "level": 5,
+                        "kind": "tiet",
+                        "paragraph_start": 574,
+                        "paragraph_end": 594
+                      },
+                      {
+                        "title": "Tiết 2: Chúa Giêsu “chịu đóng đinh trên cây thánh giá, chết” (595-623)",
+                        "slug": "giao-ly-so-595-623",
+                        "level": 5,
+                        "kind": "tiet",
+                        "paragraph_start": 595,
+                        "paragraph_end": 623
+                      },
+                      {
+                        "title": "Tiết 3: Chúa Giêsu Kitô được “táng xác” (624-630)",
+                        "slug": "giao-ly-so-624-630",
+                        "level": 5,
+                        "kind": "tiet",
+                        "paragraph_start": 624,
+                        "paragraph_end": 630
+                      }
+                    ]
+                  },
+                  {
+                    "title": "Mục 5: Chúa Giêsu Kitô “xuống ngục tổ tông, ngày thứ ba bởi trong kẻ chết mà sống lại” (631-658)",
+                    "slug": "giao-ly-so-631-658",
+                    "level": 4,
+                    "kind": "muc",
+                    "paragraph_start": 631,
+                    "paragraph_end": 658,
+                    "children": [
+                      {
+                        "title": "Tiết 1: Đức Kitô “xuống ngục tổ tông” (632-637)",
+                        "slug": "giao-ly-so-632-637",
+                        "level": 5,
+                        "kind": "tiet",
+                        "paragraph_start": 632,
+                        "paragraph_end": 637
+                      },
+                      {
+                        "title": "Tiết 2: “Ngày thứ ba bởi trong kẻ chết mà sống lại” (638-658)",
+                        "slug": "giao-ly-so-638-658",
+                        "level": 5,
+                        "kind": "tiet",
+                        "paragraph_start": 638,
+                        "paragraph_end": 658
+                      }
+                    ]
+                  },
+                  {
+                    "title": "Mục 6: Chúa Giêsu “lên trời, ngự bên hữu Đức Chúa Cha phép tắc vô cùng” (659-667)",
+                    "slug": "giao-ly-so-659-667",
+                    "level": 4,
+                    "kind": "muc",
+                    "paragraph_start": 659,
+                    "paragraph_end": 667
+                  },
+                  {
+                    "title": "Mục 7: “Ngày sau bởi trời”, Người “lại xuống phán xét kẻ sống và kẻ chết” (668-682)",
+                    "slug": "giao-ly-so-668-682",
+                    "level": 4,
+                    "kind": "muc",
+                    "paragraph_start": 668,
+                    "paragraph_end": 682
+                  }
+                ]
+              },
+              {
+                "title": "CHƯƠNG III: TÔI TIN KÍNH ĐỨC CHÚA THÁNH THẦN (683-1065)",
+                "slug": "giao-ly-so-683-1065",
+                "level": 3,
+                "kind": "chuong",
+                "paragraph_start": 683,
+                "paragraph_end": 1065,
+                "children": [
+                  {
+                    "title": "Mục 8: “Tôi tin kính Đức Chúa Thánh Thần” (687-747)",
+                    "slug": "giao-ly-so-687-747",
+                    "level": 4,
+                    "kind": "muc",
+                    "paragraph_start": 687,
+                    "paragraph_end": 747
+                  },
+                  {
+                    "title": "Mục 9: “Tôi tin Hội Thánh Công Giáo” (748-975)",
+                    "slug": "giao-ly-so-748-975",
+                    "level": 4,
+                    "kind": "muc",
+                    "paragraph_start": 748,
+                    "paragraph_end": 975,
+                    "children": [
+                      {
+                        "title": "Tiết 1: Hội Thánh trong kế hoạch của Thiên Chúa (751-780)",
+                        "slug": "giao-ly-so-751-780",
+                        "level": 5,
+                        "kind": "tiet",
+                        "paragraph_start": 751,
+                        "paragraph_end": 780
+                      },
+                      {
+                        "title": "Tiết 2: Hội Thánh - Dân Thiên Chúa, Thân Thể Đức Kitô, Đền Thờ Chúa Thánh Thần (781-810)",
+                        "slug": "giao-ly-so-781-810",
+                        "level": 5,
+                        "kind": "tiet",
+                        "paragraph_start": 781,
+                        "paragraph_end": 810
+                      },
+                      {
+                        "title": "Tiết 3: Hội Thánh duy nhất, thánh thiện, công giáo và tông truyền (811-870)",
+                        "slug": "giao-ly-so-811-870",
+                        "level": 5,
+                        "kind": "tiet",
+                        "paragraph_start": 811,
+                        "paragraph_end": 870
+                      },
+                      {
+                        "title": "Tiết 4: Các Kitô hữu: Phẩm trật, giáo dân, đời sống thánh hiến (871-945)",
+                        "slug": "giao-ly-so-871-945",
+                        "level": 5,
+                        "kind": "tiet",
+                        "paragraph_start": 871,
+                        "paragraph_end": 945
+                      },
+                      {
+                        "title": "Tiết 5: “Các Thánh thông công” (946-962) [1474-1477]",
+                        "slug": "giao-ly-so-946-962-1474-1477",
+                        "level": 5,
+                        "kind": "tiet",
+                        "paragraph_start": 946,
+                        "paragraph_end": 962
+                      },
+                      {
+                        "title": "Tiết 6: Đức Maria - Mẹ Đức Kitô, Mẹ Hội Thánh (963-975)",
+                        "slug": "giao-ly-so-963-975",
+                        "level": 5,
+                        "kind": "tiet",
+                        "paragraph_start": 963,
+                        "paragraph_end": 975
+                      }
+                    ]
+                  },
+                  {
+                    "title": "Mục 10: “Tôi tin phép tha tội” (976-987)",
+                    "slug": "giao-ly-so-976-987",
+                    "level": 4,
+                    "kind": "muc",
+                    "paragraph_start": 976,
+                    "paragraph_end": 987
+                  },
+                  {
+                    "title": "Mục 11: “Tôi tin xác loài người ngày sau sống lại” (988-1019)",
+                    "slug": "giao-ly-so-988-1019",
+                    "level": 4,
+                    "kind": "muc",
+                    "paragraph_start": 988,
+                    "paragraph_end": 1019
+                  },
+                  {
+                    "title": "Mục 12: “Tôi tin hằng sống vậy” (1020-1060)",
+                    "slug": "giao-ly-so-1020-1060",
+                    "level": 4,
+                    "kind": "muc",
+                    "paragraph_start": 1020,
+                    "paragraph_end": 1060
+                  },
+                  {
+                    "title": "“Amen” (1061-1065)",
+                    "slug": "giao-ly-so-1061-1065",
+                    "level": 4,
+                    "kind": "muc",
+                    "paragraph_start": 1061,
+                    "paragraph_end": 1065
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "PHẦN THỨ HAI: CỬ HÀNH MẦU NHIỆM KITÔ GIÁO (1066-1690)",
+        "slug": "giao-ly-so-1066-1690",
+        "level": 1,
+        "kind": "phan",
+        "paragraph_start": 1066,
+        "paragraph_end": 1690,
+        "children": [
+          {
+            "title": "ĐOẠN THỨ NHẤT: NHIỆM CỤC BÍ TÍCH (1076-1209)",
+            "slug": "giao-ly-so-1076-1209",
+            "level": 2,
+            "kind": "doan",
+            "paragraph_start": 1076,
+            "paragraph_end": 1209,
+            "children": [
+              {
+                "title": "CHƯƠNG I: MẦU NHIỆM VƯỢT QUA TRONG THỜI ĐẠI CỦA HỘI THÁNH (1077-1134)",
+                "slug": "giao-ly-so-1077-1134",
+                "level": 3,
+                "kind": "chuong",
+                "paragraph_start": 1077,
+                "paragraph_end": 1134,
+                "children": [
+                  {
+                    "title": "Mục 1: Phụng vụ - Công trình của Ba Ngôi Chí Thánh (1077-1112)",
+                    "slug": "giao-ly-so-1077-1112",
+                    "level": 4,
+                    "kind": "muc",
+                    "paragraph_start": 1077,
+                    "paragraph_end": 1112
+                  },
+                  {
+                    "title": "Mục 2: Mầu nhiệm Vượt Qua trong các bí tích của Hội Thánh (1113-1134)",
+                    "slug": "giao-ly-so-1113-1134",
+                    "level": 4,
+                    "kind": "muc",
+                    "paragraph_start": 1113,
+                    "paragraph_end": 1134
+                  }
+                ]
+              },
+              {
+                "title": "CHƯƠNG II: CỬ HÀNH MẦU NHIỆM VƯỢT QUA TRONG CÁC BÍ TÍCH (1135-1209)",
+                "slug": "giao-ly-so-1135-1209",
+                "level": 3,
+                "kind": "chuong",
+                "paragraph_start": 1135,
+                "paragraph_end": 1209,
+                "children": [
+                  {
+                    "title": "Mục 1: Cử hành phụng vụ của Hội Thánh (1136-1199)",
+                    "slug": "giao-ly-so-1136-1199",
+                    "level": 4,
+                    "kind": "muc",
+                    "paragraph_start": 1136,
+                    "paragraph_end": 1199
+                  },
+                  {
+                    "title": "Mục 2: Nhiều phụng vụ khác nhau và một mầu nhiệm duy nhất (1200-1209)",
+                    "slug": "giao-ly-so-1200-1209",
+                    "level": 4,
+                    "kind": "muc",
+                    "paragraph_start": 1200,
+                    "paragraph_end": 1209
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "ĐOẠN THỨ HAI: BẢY BÍ TÍCH CỦA HỘI THÁNH (1210-1690)",
+            "slug": "giao-ly-so-1210-1690",
+            "level": 2,
+            "kind": "doan",
+            "paragraph_start": 1210,
+            "paragraph_end": 1690,
+            "children": [
+              {
+                "title": "CHƯƠNG I: CÁC BÍ TÍCH KHAI TÂM KITÔ GIÁO (1212-1419)",
+                "slug": "giao-ly-so-1212-1419",
+                "level": 3,
+                "kind": "chuong",
+                "paragraph_start": 1212,
+                "paragraph_end": 1419,
+                "children": [
+                  {
+                    "title": "Mục 1: Bí tích Rửa Tội (1213-1284)",
+                    "slug": "giao-ly-so-1213-1284",
+                    "level": 4,
+                    "kind": "muc",
+                    "paragraph_start": 1213,
+                    "paragraph_end": 1284
+                  },
+                  {
+                    "title": "Mục 2: Bí tích Thêm Sức (1285-1321)",
+                    "slug": "giao-ly-so-1285-1321",
+                    "level": 4,
+                    "kind": "muc",
+                    "paragraph_start": 1285,
+                    "paragraph_end": 1321
+                  },
+                  {
+                    "title": "Mục 3: Bí tích Thánh Thể (1322-1419)",
+                    "slug": "giao-ly-so-1322-1419",
+                    "level": 4,
+                    "kind": "muc",
+                    "paragraph_start": 1322,
+                    "paragraph_end": 1419
+                  }
+                ]
+              },
+              {
+                "title": "CHƯƠNG II: CÁC BÍ TÍCH CHỮA LÀNH (1420-1532)",
+                "slug": "giao-ly-so-1420-1532",
+                "level": 3,
+                "kind": "chuong",
+                "paragraph_start": 1420,
+                "paragraph_end": 1532,
+                "children": [
+                  {
+                    "title": "Mục 4: Bí tích Thống Hối và Giao Hòa (1422-1498)",
+                    "slug": "giao-ly-so-1422-1498",
+                    "level": 4,
+                    "kind": "muc",
+                    "paragraph_start": 1422,
+                    "paragraph_end": 1498
+                  },
+                  {
+                    "title": "Mục 5: Bí tích Xức Dầu Bệnh Nhân (1499-1532)",
+                    "slug": "giao-ly-so-1499-1532",
+                    "level": 4,
+                    "kind": "muc",
+                    "paragraph_start": 1499,
+                    "paragraph_end": 1532
+                  }
+                ]
+              },
+              {
+                "title": "CHƯƠNG III: CÁC BÍ TÍCH PHỤC VỤ SỰ HIỆP THÔNG (1533-1666)",
+                "slug": "giao-ly-so-1533-1666",
+                "level": 3,
+                "kind": "chuong",
+                "paragraph_start": 1533,
+                "paragraph_end": 1666,
+                "children": [
+                  {
+                    "title": "Mục 6: Bí tích Truyền Chức Thánh (1536-1600)",
+                    "slug": "giao-ly-so-1536-1600",
+                    "level": 4,
+                    "kind": "muc",
+                    "paragraph_start": 1536,
+                    "paragraph_end": 1600
+                  },
+                  {
+                    "title": "Mục 7: Bí tích Hôn Phối (1601-1666)",
+                    "slug": "giao-ly-so-1601-1666",
+                    "level": 4,
+                    "kind": "muc",
+                    "paragraph_start": 1601,
+                    "paragraph_end": 1666
+                  }
+                ]
+              },
+              {
+                "title": "CHƯƠNG IV: NHỮNG CỬ HÀNH PHỤNG VỤ KHÁC (1667-1690)",
+                "slug": "giao-ly-so-1667-1690",
+                "level": 3,
+                "kind": "chuong",
+                "paragraph_start": 1667,
+                "paragraph_end": 1690,
+                "children": [
+                  {
+                    "title": "Mục 1: Các á bí tích (1667-1679)",
+                    "slug": "giao-ly-so-1667-1679",
+                    "level": 4,
+                    "kind": "muc",
+                    "paragraph_start": 1667,
+                    "paragraph_end": 1679
+                  },
+                  {
+                    "title": "Mục 2: An táng theo nghi thức Kitô Giáo (1680-1690)",
+                    "slug": "giao-ly-so-1680-1690",
+                    "level": 4,
+                    "kind": "muc",
+                    "paragraph_start": 1680,
+                    "paragraph_end": 1690
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "PHẦN THỨ BA: ĐỜI SỐNG TRONG ĐỨC KITÔ (1691-2557)",
+        "slug": "giao-ly-so-1691-2557",
+        "level": 1,
+        "kind": "phan",
+        "paragraph_start": 1691,
+        "paragraph_end": 2557,
+        "children": [
+          {
+            "title": "ĐOẠN THỨ NHẤT: ƠN GỌI CỦA CON NGƯỜI: SỐNG TRONG THẦN KHÍ (1699-2051)",
+            "slug": "giao-ly-so-1699-2051",
+            "level": 2,
+            "kind": "doan",
+            "paragraph_start": 1699,
+            "paragraph_end": 2051,
+            "children": [
+              {
+                "title": "CHƯƠNG I: PHẨM GIÁ CỦA NHÂN VỊ (1700-1876)",
+                "slug": "giao-ly-so-1700-1876",
+                "level": 3,
+                "kind": "chuong",
+                "paragraph_start": 1700,
+                "paragraph_end": 1876,
+                "children": [
+                  {
+                    "title": "Mục 1: Con người là hình ảnh của Thiên Chúa (1701-1715)",
+                    "slug": "giao-ly-so-1701-1715",
+                    "level": 4,
+                    "kind": "muc",
+                    "paragraph_start": 1701,
+                    "paragraph_end": 1715
+                  },
+                  {
+                    "title": "Mục 2: Ơn gọi của chúng ta là đến hưởng vinh phúc (1716-1729)",
+                    "slug": "giao-ly-so-1716-1729",
+                    "level": 4,
+                    "kind": "muc",
+                    "paragraph_start": 1716,
+                    "paragraph_end": 1729
+                  },
+                  {
+                    "title": "Mục 3: Sự tự do của con người (1730-1748)",
+                    "slug": "giao-ly-so-1730-1748",
+                    "level": 4,
+                    "kind": "muc",
+                    "paragraph_start": 1730,
+                    "paragraph_end": 1748
+                  },
+                  {
+                    "title": "Mục 4: Tính luân lý của các hành vi nhân linh (1749-1761)",
+                    "slug": "giao-ly-so-1749-1761",
+                    "level": 4,
+                    "kind": "muc",
+                    "paragraph_start": 1749,
+                    "paragraph_end": 1761
+                  },
+                  {
+                    "title": "Mục 5: Tính luân lý của các đam mê (1762-1775)",
+                    "slug": "giao-ly-so-1762-1775",
+                    "level": 4,
+                    "kind": "muc",
+                    "paragraph_start": 1762,
+                    "paragraph_end": 1775
+                  },
+                  {
+                    "title": "Mục 6: Lương tâm luân lý (1776-1802)",
+                    "slug": "giao-ly-so-1776-1802",
+                    "level": 4,
+                    "kind": "muc",
+                    "paragraph_start": 1776,
+                    "paragraph_end": 1802
+                  },
+                  {
+                    "title": "Mục 7: Các nhân đức (1803-1845)",
+                    "slug": "giao-ly-so-1803-1845",
+                    "level": 4,
+                    "kind": "muc",
+                    "paragraph_start": 1803,
+                    "paragraph_end": 1845
+                  },
+                  {
+                    "title": "Mục 8: Tội lỗi (1846-1876)",
+                    "slug": "giao-ly-so-1846-1876",
+                    "level": 4,
+                    "kind": "muc",
+                    "paragraph_start": 1846,
+                    "paragraph_end": 1876
+                  }
+                ]
+              },
+              {
+                "title": "CHƯƠNG II: CỘNG ĐỒNG NHÂN LOẠI (1877-1948)",
+                "slug": "giao-ly-so-1877-1948",
+                "level": 3,
+                "kind": "chuong",
+                "paragraph_start": 1877,
+                "paragraph_end": 1948,
+                "children": [
+                  {
+                    "title": "Mục 1: Cá vị và xã hội (1878-1896)",
+                    "slug": "giao-ly-so-1878-1896",
+                    "level": 4,
+                    "kind": "muc",
+                    "paragraph_start": 1878,
+                    "paragraph_end": 1896
+                  },
+                  {
+                    "title": "Mục 2: Sự tham gia vào đời sống xã hội (1897-1927)",
+                    "slug": "giao-ly-so-1897-1927",
+                    "level": 4,
+                    "kind": "muc",
+                    "paragraph_start": 1897,
+                    "paragraph_end": 1927
+                  },
+                  {
+                    "title": "Mục 3: Công bằng xã hội (1928-1948)",
+                    "slug": "giao-ly-so-1928-1948",
+                    "level": 4,
+                    "kind": "muc",
+                    "paragraph_start": 1928,
+                    "paragraph_end": 1948
+                  }
+                ]
+              },
+              {
+                "title": "CHƯƠNG III: ƠN CỨU ĐỘ CỦA THIÊN CHÚA: LỀ LUẬT VÀ ÂN SỦNG (1949-2051)",
+                "slug": "giao-ly-so-1949-2051",
+                "level": 3,
+                "kind": "chuong",
+                "paragraph_start": 1949,
+                "paragraph_end": 2051,
+                "children": [
+                  {
+                    "title": "Mục 1: Luật luân lý (1950-1986)",
+                    "slug": "giao-ly-so-1950-1986",
+                    "level": 4,
+                    "kind": "muc",
+                    "paragraph_start": 1950,
+                    "paragraph_end": 1986
+                  },
+                  {
+                    "title": "Mục 2: Ân sủng và sự công chính hóa (1987-2029)",
+                    "slug": "giao-ly-so-1987-2029",
+                    "level": 4,
+                    "kind": "muc",
+                    "paragraph_start": 1987,
+                    "paragraph_end": 2029
+                  },
+                  {
+                    "title": "Mục 3: Hội Thánh, Mẹ và Thầy (2030-2051)",
+                    "slug": "giao-ly-so-2030-2051",
+                    "level": 4,
+                    "kind": "muc",
+                    "paragraph_start": 2030,
+                    "paragraph_end": 2051
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "MƯỜI ĐIỀU RĂN",
+            "slug": "muoi-dieu-ran",
+            "level": 2,
+            "kind": "doan",
+            "paragraph_start": null,
+            "paragraph_end": null
+          },
+          {
+            "title": "ĐOẠN THỨ HAI: MƯỜI ĐIỀU RĂN (2052-2557)",
+            "slug": "giao-ly-so-2052-2557",
+            "level": 2,
+            "kind": "doan",
+            "paragraph_start": 2052,
+            "paragraph_end": 2557,
+            "children": [
+              {
+                "title": "CHƯƠNG I: “NGƯƠI PHẢI YÊU MẾN CHÚA, THIÊN CHÚA CỦA NGƯƠI, HẾT LÒNG, HẾT LINH HỒN VÀ HẾT TRÍ KHÔN NGƯƠI” (2083-2195)",
+                "slug": "giao-ly-so-2083-2195",
+                "level": 3,
+                "kind": "chuong",
+                "paragraph_start": 2083,
+                "paragraph_end": 2195,
+                "children": [
+                  {
+                    "title": "Mục 1: Điều răn thứ nhất (2084-2141)",
+                    "slug": "giao-ly-so-2084-2141",
+                    "level": 4,
+                    "kind": "muc",
+                    "paragraph_start": 2084,
+                    "paragraph_end": 2141
+                  },
+                  {
+                    "title": "Mục 2: Điều răn thứ hai (2142-2167)",
+                    "slug": "giao-ly-so-2142-2167",
+                    "level": 4,
+                    "kind": "muc",
+                    "paragraph_start": 2142,
+                    "paragraph_end": 2167
+                  },
+                  {
+                    "title": "Mục 3: Điều răn thứ ba (2168-2195)",
+                    "slug": "giao-ly-so-2168-2195",
+                    "level": 4,
+                    "kind": "muc",
+                    "paragraph_start": 2168,
+                    "paragraph_end": 2195
+                  }
+                ]
+              },
+              {
+                "title": "CHƯƠNG II: “NGƯƠI PHẢI YÊU THƯƠNG NGƯỜI LÂN CẬN NHƯ CHÍNH MÌNH” (2196-2557)",
+                "slug": "giao-ly-so-2196-2557",
+                "level": 3,
+                "kind": "chuong",
+                "paragraph_start": 2196,
+                "paragraph_end": 2557,
+                "children": [
+                  {
+                    "title": "Mục 4: Điều răn thứ tư (2197-2257)",
+                    "slug": "giao-ly-so-2197-2257",
+                    "level": 4,
+                    "kind": "muc",
+                    "paragraph_start": 2197,
+                    "paragraph_end": 2257
+                  },
+                  {
+                    "title": "Mục 5: Điều răn thứ năm (2258-2330)",
+                    "slug": "giao-ly-so-2258-2330",
+                    "level": 4,
+                    "kind": "muc",
+                    "paragraph_start": 2258,
+                    "paragraph_end": 2330
+                  },
+                  {
+                    "title": "Mục 6: Điều răn thứ sáu (2331-2400)",
+                    "slug": "giao-ly-so-2331-2400",
+                    "level": 4,
+                    "kind": "muc",
+                    "paragraph_start": 2331,
+                    "paragraph_end": 2400
+                  },
+                  {
+                    "title": "Mục 7: Điều răn thứ bảy (2401-2463)",
+                    "slug": "giao-ly-so-2401-2463",
+                    "level": 4,
+                    "kind": "muc",
+                    "paragraph_start": 2401,
+                    "paragraph_end": 2463
+                  },
+                  {
+                    "title": "Mục 8: Điều răn thứ tám (2464-2513)",
+                    "slug": "giao-ly-so-2464-2513",
+                    "level": 4,
+                    "kind": "muc",
+                    "paragraph_start": 2464,
+                    "paragraph_end": 2513
+                  },
+                  {
+                    "title": "Mục 9: Điều răn thứ chín (2514-2533)",
+                    "slug": "giao-ly-so-2514-2533",
+                    "level": 4,
+                    "kind": "muc",
+                    "paragraph_start": 2514,
+                    "paragraph_end": 2533
+                  },
+                  {
+                    "title": "Mục 10: Điều răn thứ mười (2534-2557)",
+                    "slug": "giao-ly-so-2534-2557",
+                    "level": 4,
+                    "kind": "muc",
+                    "paragraph_start": 2534,
+                    "paragraph_end": 2557
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "PHẦN THỨ TƯ: KINH NGUYỆN KITÔ GIÁO (2558-2865)",
+        "slug": "giao-ly-so-2558-2865",
+        "level": 1,
+        "kind": "phan",
+        "paragraph_start": 2558,
+        "paragraph_end": 2865,
+        "children": [
+          {
+            "title": "ĐOẠN THỨ NHẤT: KINH NGUYỆN TRONG ĐỜI SỐNG KITÔ HỮU (2558-2758)",
+            "slug": "giao-ly-so-2558-2758",
+            "level": 2,
+            "kind": "doan",
+            "paragraph_start": 2558,
+            "paragraph_end": 2758,
+            "children": [
+              {
+                "title": "CHƯƠNG I: MẶC KHẢI VỀ CẦU NGUYỆN (2566-2649)",
+                "slug": "giao-ly-so-2566-2649",
+                "level": 3,
+                "kind": "chuong",
+                "paragraph_start": 2566,
+                "paragraph_end": 2649,
+                "children": [
+                  {
+                    "title": "Mục 1: Trong Cựu Ước (2568-2597)",
+                    "slug": "giao-ly-so-2568-2597",
+                    "level": 4,
+                    "kind": "muc",
+                    "paragraph_start": 2568,
+                    "paragraph_end": 2597
+                  },
+                  {
+                    "title": "Mục 2: Khi thời gian viên mãn (2598-2622)",
+                    "slug": "giao-ly-so-2598-2622",
+                    "level": 4,
+                    "kind": "muc",
+                    "paragraph_start": 2598,
+                    "paragraph_end": 2622
+                  },
+                  {
+                    "title": "Mục 3: Trong thời của Hội Thánh (2623-2649)",
+                    "slug": "giao-ly-so-2623-2649",
+                    "level": 4,
+                    "kind": "muc",
+                    "paragraph_start": 2623,
+                    "paragraph_end": 2649
+                  }
+                ]
+              },
+              {
+                "title": "CHƯƠNG II: TRUYỀN THỐNG CẦU NGUYỆN (2650-2696)",
+                "slug": "giao-ly-so-2650-2696",
+                "level": 3,
+                "kind": "chuong",
+                "paragraph_start": 2650,
+                "paragraph_end": 2696,
+                "children": [
+                  {
+                    "title": "Mục 1: Những nguồn mạch của kinh nguyện (2652-2662)",
+                    "slug": "giao-ly-so-2652-2662",
+                    "level": 4,
+                    "kind": "muc",
+                    "paragraph_start": 2652,
+                    "paragraph_end": 2662
+                  },
+                  {
+                    "title": "Mục 2: Con đường cầu nguyện (2663-2682)",
+                    "slug": "giao-ly-so-2663-2682",
+                    "level": 4,
+                    "kind": "muc",
+                    "paragraph_start": 2663,
+                    "paragraph_end": 2682
+                  },
+                  {
+                    "title": "Mục 3: Những người hướng dẫn cầu nguyện (2683-2696)",
+                    "slug": "giao-ly-so-2683-2696",
+                    "level": 4,
+                    "kind": "muc",
+                    "paragraph_start": 2683,
+                    "paragraph_end": 2696
+                  }
+                ]
+              },
+              {
+                "title": "CHƯƠNG III: ĐỜI SỐNG CẦU NGUYỆN (2697-2758)",
+                "slug": "giao-ly-so-2697-2758",
+                "level": 3,
+                "kind": "chuong",
+                "paragraph_start": 2697,
+                "paragraph_end": 2758,
+                "children": [
+                  {
+                    "title": "Mục 1: Những cách diễn đạt việc cầu nguyện (2700-2724)",
+                    "slug": "giao-ly-so-2700-2724",
+                    "level": 4,
+                    "kind": "muc",
+                    "paragraph_start": 2700,
+                    "paragraph_end": 2724
+                  },
+                  {
+                    "title": "Mục 2: Cuộc chiến đấu của việc cầu nguyện (2725-2745)",
+                    "slug": "giao-ly-so-2725-2745",
+                    "level": 4,
+                    "kind": "muc",
+                    "paragraph_start": 2725,
+                    "paragraph_end": 2745
+                  },
+                  {
+                    "title": "Mục 3: Lời cầu nguyện trong Giờ của Chúa Giêsu (2746-2758)",
+                    "slug": "giao-ly-so-2746-2758",
+                    "level": 4,
+                    "kind": "muc",
+                    "paragraph_start": 2746,
+                    "paragraph_end": 2758
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "ĐOẠN THỨ HAI: LỜI KINH CỦA CHÚA: KINH LẠY CHA (2759-2865)",
+            "slug": "giao-ly-so-2759-2865",
+            "level": 2,
+            "kind": "doan",
+            "paragraph_start": 2759,
+            "paragraph_end": 2865,
+            "children": [
+              {
+                "title": "Mục 1: “Bản tóm lược toàn bộ Tin Mừng” (2761-2776)",
+                "slug": "giao-ly-so-2761-2776",
+                "level": 4,
+                "kind": "muc",
+                "paragraph_start": 2761,
+                "paragraph_end": 2776
+              },
+              {
+                "title": "Mục 2: “Lạy Cha chúng con ở trên trời” (2777-2802)",
+                "slug": "giao-ly-so-2777-2802",
+                "level": 4,
+                "kind": "muc",
+                "paragraph_start": 2777,
+                "paragraph_end": 2802
+              },
+              {
+                "title": "Mục 3: Bảy lời cầu xin (2803-2854)",
+                "slug": "giao-ly-so-2803-2854",
+                "level": 4,
+                "kind": "muc",
+                "paragraph_start": 2803,
+                "paragraph_end": 2854
+              },
+              {
+                "title": "Mục 4: Vinh tụng ca kết thúc (2855-2865)",
+                "slug": "giao-ly-so-2855-2865",
+                "level": 4,
+                "kind": "muc",
+                "paragraph_start": 2855,
+                "paragraph_end": 2865
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

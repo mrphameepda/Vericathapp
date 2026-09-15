@@ -1,0 +1,26 @@
+{
+  "book": "tv",
+  "chapter": 100,
+  "verses": [
+    {
+      "verseNumber": 1,
+      "textEn": "Kiitospsalmi. Iloitse, maa! Kohottakaa riemuhuuto Herralle!"
+    },
+    {
+      "verseNumber": 2,
+      "textEn": "Palvelkaa häntä iloiten, tulkaa hänen eteensä riemuiten."
+    },
+    {
+      "verseNumber": 3,
+      "textEn": "Tietäkää, että Herra on Jumala. Hän on meidät luonut, ja hänen me olemme, hänen kansansa, hänen laitumensa lampaat."
+    },
+    {
+      "verseNumber": 4,
+      "textEn": "Tulkaa hänen porteilleen kiittäen, hänen esipihoilleen ylistystä laulaen. Kiittäkää häntä, ylistäkää hänen nimeään."
+    },
+    {
+      "verseNumber": 5,
+      "textEn": "Hyvä on Herra! Iäti kestää hänen armonsa, hänen uskollisuutensa polvesta polveen."
+    }
+  ]
+}

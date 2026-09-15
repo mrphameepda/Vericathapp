@@ -1,0 +1,82 @@
+{
+    "headings":  [
+
+                 ],
+    "verses":  [
+                   {
+                       "label":  "1",
+                       "number":  1,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Chapter 12 - Uncleanness of Childbirth. The LORD said to Moses:",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "2",
+                       "number":  2,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Tell the Israelites: When a woman has a child, giving birth to a boy, she shall be unclean for seven days, with the same uncleanness as during her menstrual period.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "3",
+                       "number":  3,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "On the eighth day, the flesh of the boy’s foreskin shall be circumcised,",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "4",
+                       "number":  4,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "and then she shall spend thirty-three days more in a state of blood purity; she shall not touch anything sacred nor enter the sanctuary till the days of her purification are fulfilled.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "5",
+                       "number":  5,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "If she gives birth to a girl, for fourteen days she shall be as unclean as during her menstrual period, after which she shall spend sixty-six days in a state of blood purity.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "6",
+                       "number":  6,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "When the days of her purification for a son or for a daughter are fulfilled, she shall bring to the priest at the entrance of the tent of meeting a yearling lamb for a burnt offering and a pigeon or a turtledove for a purification offering.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "7",
+                       "number":  7,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "The priest shall offer them before the LORD to make atonement for her, and thus she will be clean again after her flow of blood. Such is the ritual for the woman who gives birth to a child, male or female.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "8",
+                       "number":  8,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "If, however, she cannot afford a lamb, she may take two turtledoves or two pigeons, the one for a burnt offering and the other for a purification offering. The priest shall make atonement for her, and thus she will again be clean.",
+                       "isPoetry":  false
+                   }
+               ],
+    "marks":  [
+
+              ]
+}

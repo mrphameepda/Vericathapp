@@ -1,0 +1,26 @@
+{
+  "book": "tv",
+  "chapter": 15,
+  "verses": [
+    {
+      "verseNumber": 1,
+      "textEn": "Daavidin psalmi. Herra, kuka saa tulla sinun temppeliisi? Kuka saa asua pyhällä vuorellasi?"
+    },
+    {
+      "verseNumber": 2,
+      "textEn": "Se, joka on rehellinen ja tekee oikein, jonka sydän on vilpitön ja puheet totta."
+    },
+    {
+      "verseNumber": 3,
+      "textEn": "Se, joka ei panettele, joka ei tee lähimmäiselleen pahaa eikä saata naapuriaan huonoon huutoon."
+    },
+    {
+      "verseNumber": 4,
+      "textEn": "Se, joka kaihtaa kunniattomia mutta pitää arvossa Herraa pelkääviä. Se, joka pysyy valassaan vaikka omaksi vahingokseen."
+    },
+    {
+      "verseNumber": 5,
+      "textEn": "Se, joka ei vaadi lainasta korkoa eikä ota lahjusta viattoman vahingoksi.  Hyvin käy sen, joka näin elää."
+    }
+  ]
+}

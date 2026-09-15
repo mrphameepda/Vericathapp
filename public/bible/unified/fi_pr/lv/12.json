@@ -1,0 +1,30 @@
+{
+  "book": "lv",
+  "chapter": 12,
+  "verses": [
+    {
+      "verseNumber": 1,
+      "textEn": "Herra sanoi Moosekselle:"
+    },
+    {
+      "verseNumber": 2,
+      "textEn": "Kahdeksantena päivänä pojan esinahka on leikattava."
+    },
+    {
+      "verseNumber": 3,
+      "textEn": "Nainen pysyköön kotonaan vielä kolmekymmentäkolme päivää puhdistuakseen verenvuodosta. Hän ei saa koskea mihinkään, mikä on pyhää, eikä tulla pyhäkköön, ennen kuin hänen puhdistumisaikansa on kulunut umpeen."
+    },
+    {
+      "verseNumber": 4,
+      "textEn": "Kun nainen on synnyttänyt tytön, hän on kaksi viikkoa epäpuhdas samalla tavoin kuin kuukautisvuodon aikana. Sen lisäksi hänen on odotettava verenvuodostaan epäpuhtaana vielä kuusikymmentäkuusi päivää, ja vasta sitten hän on puhdas."
+    },
+    {
+      "verseNumber": 5,
+      "textEn": "Pappi uhratkoon ne Herran edessä ja toimittakoon sovitusmenot, ja näin nainen on taas puhdas verenvuodosta. Tämä laki koskee naista, joka on synnyttänyt lapsen, joko pojan tai tytön."
+    },
+    {
+      "verseNumber": 6,
+      "textEn": "Jos naisella ei ole varaa lampaaseen, hän tuokoon kaksi metsäkyyhkyä tai kaksi muuta kyyhkystä, toisen polttouhriksi ja toisen syntiuhriksi, ja pappi toimittakoon sovitusmenot. Tämän jälkeen nainen on puhdas."
+    }
+  ]
+}

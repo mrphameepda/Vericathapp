@@ -1,0 +1,26 @@
+{
+  "book": "tv",
+  "chapter": 150,
+  "verses": [
+    {
+      "verseNumber": 1,
+      "textEn": "ALLELUIA . Laudate Dominum in sanctuario eius, laudate eum in firmamento virtutis eius."
+    },
+    {
+      "verseNumber": 2,
+      "textEn": "Laudate eum in magnalibus eius, laudate eum secundum multitudinem magnitudinis eius."
+    },
+    {
+      "verseNumber": 3,
+      "textEn": "Laudate eum in sono tubae, laudate eum in psalterio et cithara,"
+    },
+    {
+      "verseNumber": 4,
+      "textEn": "laudate eum in tympano et choro, laudate eum in chordis et organo,"
+    },
+    {
+      "verseNumber": 5,
+      "textEn": "laudate eum in cymbalis benesonantibus, laudate eum in cymbalis iubilationis: omne quod spirat, laudet Dominum. ALLELUIA."
+    }
+  ]
+}

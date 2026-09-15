@@ -1,0 +1,316 @@
+{
+    "headings":  [
+
+                 ],
+    "verses":  [
+                   {
+                       "label":  "1",
+                       "number":  1,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Chapter 27 - Army Commanders. This is the list of the Israelite family heads, commanders of thousands and of hundreds, and other officers who served the king in all that pertained to the divisions, of twenty-four thousand men each, that came and went month by month throughout the year.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "2",
+                       "number":  2,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Over the first division for the first month was Ishbaal, son of Zabdiel, and in his division were twenty-four thousand men;",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "3",
+                       "number":  3,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "a descendant of Perez, he was chief over all the commanders of the army for the first month.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "4",
+                       "number":  4,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Over the division of the second month was Eleazar, son of Dodo, from Ahoh, and in his division were twenty-four thousand men.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "5",
+                       "number":  5,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "The third army commander, for the third month, was Benaiah, son of Jehoiada the chief priest, and in his division were twenty-four thousand men.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "6",
+                       "number":  6,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "This Benaiah was a warrior among the Thirty and over the Thirty. His son Ammizabad was over his division.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "7",
+                       "number":  7,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Fourth, for the fourth month, was Asahel, brother of Joab, and after him his son Zebadiah, and in his division were twenty-four thousand men.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "8",
+                       "number":  8,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Fifth, for the fifth month, was the commander Shamhuth, a descendant of Zerah, and in his division were twenty-four thousand men.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "9",
+                       "number":  9,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Sixth, for the sixth month, was Ira, son of Ikkesh, from Tekoa, and in his division were twenty-four thousand men.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "10",
+                       "number":  10,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Seventh, for the seventh month, was Hellez, from Beth-pelet, of the Ephraimites, and in his division were twenty-four thousand men.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "11",
+                       "number":  11,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Eighth, for the eighth month, was Sibbecai the Hushathite, a descendant of Zerah, and in his division were twenty-four thousand men.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "12",
+                       "number":  12,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Ninth, for the ninth month, was Abiezer from Anathoth, of Benjamin, and in his division were twenty-four thousand men.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "13",
+                       "number":  13,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Tenth, for the tenth month, was Maharai from Netophah, a descendant of Zerah, and in his division were twenty-four thousand men.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "14",
+                       "number":  14,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Eleventh, for the eleventh month, was Benaiah the Pirathonite, of the Ephraimites, and in his division were twenty-four thousand men.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "15",
+                       "number":  15,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Twelfth, for the twelfth month, was Heldai the Netophathite, of the family of Othniel, and in his division were twenty-four thousand men.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "16",
+                       "number":  16,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Tribal Leaders. Over the tribes of Israel, for the Reubenites the leader was Eliezer, son of Zichri; for the Simeonites, Shephatiah, son of Maacah;",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "17",
+                       "number":  17,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "for Levi, Hashabiah, son of Kemuel; for Aaron, Zadok;",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "18",
+                       "number":  18,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "for Judah, Eliab, one of David’s brothers; for Issachar, Omri, son of Michael;",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "19",
+                       "number":  19,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "for Zebulun, Ishmaiah, son of Obadiah; for Naphtali, Jeremoth, son of Azriel;",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "20",
+                       "number":  20,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "for the Ephraimites, Hoshea, son of Azaziah; for the half-tribe of Manasseh, Joel, son of Pedaiah;",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "21",
+                       "number":  21,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "for the half-tribe of Manasseh in Gilead, Iddo, son of Zechariah; for Benjamin, Jaasiel, son of Abner;",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "22",
+                       "number":  22,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "for Dan, Azarel, son of Jeroham. These were the commanders of the tribes of Israel.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "23",
+                       "number":  23,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "David did not count those who were twenty years of age or younger, for the LORD had promised to multiply Israel like the stars of the heavens.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "24",
+                       "number":  24,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Joab, son of Zeruiah, began to take the census, but he did not complete it, for because of it wrath fell upon Israel. Therefore the number was not recorded in the book of chronicles of King David.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "25",
+                       "number":  25,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Overseers. Over the treasuries of the king was Azmaveth, the son of Adiel. Over the treasuries in the country, the cities, the villages, and the towers was Jonathan, son of Uzziah.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "26",
+                       "number":  26,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Over the farm workers who tilled the soil was Ezri, son of Chelub.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "27",
+                       "number":  27,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Over the vineyards was Shimei from Ramah, and over their produce for the wine cellars was Zabdi the Shiphmite.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "28",
+                       "number":  28,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Over the olive trees and sycamores of the Shephelah was Baalhanan the Gederite, and over the stores of oil was Joash.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "29",
+                       "number":  29,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Over the cattle that grazed in Sharon was Shitrai the Sharonite, and over the cattle in the valleys was Shaphat, the son of Adlai;",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "30",
+                       "number":  30,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "over the camels was Obil the Ishmaelite; over the donkeys was Jehdeiah the Meronothite;",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "31",
+                       "number":  31,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "and over the flocks was Jaziz the Hagrite. All these were the overseers of King David’s possessions.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "32",
+                       "number":  32,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "David’s Court. Jonathan, David’s uncle and a man of intelligence, was counselor and scribe; he and Jehiel, the son of Hachmoni, attended the king’s sons.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "33",
+                       "number":  33,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Ahithophel was also the king’s counselor, and Hushai the Archite was the king’s friend.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "34",
+                       "number":  34,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "After Ahithophel came Jehoiada, the son of Benaiah, and Abiathar. The commander of the king’s army was Joab.",
+                       "isPoetry":  false
+                   }
+               ],
+    "marks":  [
+
+              ]
+}

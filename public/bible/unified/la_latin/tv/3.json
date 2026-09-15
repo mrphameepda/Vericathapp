@@ -1,0 +1,42 @@
+{
+  "book": "tv",
+  "chapter": 3,
+  "verses": [
+    {
+      "verseNumber": 1,
+      "textEn": "PSALMUS. David, cum fugit a filio suo Absalom ."
+    },
+    {
+      "verseNumber": 2,
+      "textEn": "Domine, quid multiplicati sunt, qui tribulant me? Multi insurgunt adversum me,"
+    },
+    {
+      "verseNumber": 3,
+      "textEn": "multi dicunt animae meae: “ Non est salus ipsi in Deo ”."
+    },
+    {
+      "verseNumber": 4,
+      "textEn": "Tu autem, Domine, protector meus es, gloria mea et exaltans caput meum."
+    },
+    {
+      "verseNumber": 5,
+      "textEn": "Voce mea ad Dominum clamavi, et exaudivit me de monte sancto suo."
+    },
+    {
+      "verseNumber": 6,
+      "textEn": "Ego obdormivi et soporatus sum, exsurrexi, quia Dominus suscepit me."
+    },
+    {
+      "verseNumber": 7,
+      "textEn": "Non timebo milia populi circumdantis me. Exsurge, Domine salvum me fac, Deus meus;"
+    },
+    {
+      "verseNumber": 8,
+      "textEn": "quoniam tu percussisti in maxillam omnes adversantes mihi, dentes peccatorum contrivisti."
+    },
+    {
+      "verseNumber": 9,
+      "textEn": "Domini est salus, et super populum tuum benedictio tua."
+    }
+  ]
+}

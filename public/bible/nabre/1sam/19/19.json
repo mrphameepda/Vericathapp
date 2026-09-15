@@ -1,0 +1,226 @@
+{
+    "headings":  [
+
+                 ],
+    "verses":  [
+                   {
+                       "label":  "1",
+                       "number":  1,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Chapter 19 - Persecution of David. Saul discussed his intention to kill David with his son Jonathan and with all his servants. But Saul’s son Jonathan, who was very fond of David,",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "2",
+                       "number":  2,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "told him: “My father Saul is trying to kill you. Therefore, please be on your guard tomorrow morning; stay out of sight and remain in hiding.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "3",
+                       "number":  3,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "I, however, will go out and stand beside my father in the countryside where you are, and will speak to him about you. If I learn anything, I will let you know.”",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "4",
+                       "number":  4,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Jonathan then spoke well of David to his father Saul, telling him: “The king should not harm his servant David. He has not harmed you, but has helped you very much by his deeds.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "5",
+                       "number":  5,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "When he took his life in his hands and killed the Philistine, and the LORD won a great victory for all Israel, you were glad to see it. Why, then, should you become guilty of shedding innocent blood by killing David without cause?”",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "6",
+                       "number":  6,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Saul heeded Jonathan’s plea and swore, “As the LORD lives, he shall not be killed.”",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "7",
+                       "number":  7,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "So Jonathan summoned David and repeated the whole conversation to him. He then brought David to Saul, and David served him as before.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "8",
+                       "number":  8,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "David Escapes from Saul. When war broke out again, David went out to fight against the Philistines and inflicted such a great defeat upon them that they fled from him.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "9",
+                       "number":  9,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Then an evil spirit from the LORD came upon Saul as he was sitting in his house with spear in hand while David was playing the harp nearby.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "10",
+                       "number":  10,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Saul tried to pin David to the wall with the spear, but David eluded Saul, and the spear struck only the wall, while David got away safely.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "11",
+                       "number":  11,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "The same night, Saul sent messengers to David’s house to guard it, planning to kill him in the morning. David’s wife Michal informed him, “Unless you run for your life tonight, tomorrow you will be killed.”",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "12",
+                       "number":  12,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Then Michal let David down through a window, and he made his escape in safety.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "13",
+                       "number":  13,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Michal took the teraphim and laid it in the bed, putting a tangle of goat’s hair at its head and covering it with a blanket.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "14",
+                       "number":  14,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "When Saul sent officers to arrest David, she said, “He is sick.”",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "15",
+                       "number":  15,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Saul, however, sent the officers back to see David and commanded them, “Bring him up to me in his bed, that I may kill him.”",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "16",
+                       "number":  16,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "But when the messengers entered, they found the teraphim in the bed, with the tangle of goat’s hair at its head.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "17",
+                       "number":  17,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Saul asked Michal: “Why did you lie to me like this? You have helped my enemy to get away!” Michal explained to Saul: “He threatened me, saying ‘Let me go or I will kill you.’”",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "18",
+                       "number":  18,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "David and Saul in Ramah. When David got safely away, he went to Samuel in Ramah, informing him of all that Saul had done to him. Then he and Samuel went to stay in Naioth.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "19",
+                       "number":  19,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "When Saul was told that David was at Naioth in Ramah,",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "20",
+                       "number":  20,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "he sent officers to arrest David. But when they saw the band of prophets presided over by Samuel in a prophetic state, the spirit of God came upon them and they too fell into the prophetic ecstasy.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "21",
+                       "number":  21,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Informed of this, Saul sent other messengers, who also fell into the prophetic ecstasy. For the third time Saul sent messengers, but they too fell into a prophetic ecstasy.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "22",
+                       "number":  22,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Saul Among the Prophets. Finally Saul went to Ramah himself. Arriving at the large cistern in Secu, he asked, “Where are Samuel and David?” Someone answered, “At Naioth in Ramah.”",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "23",
+                       "number":  23,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "As he walked from there to Naioth in Ramah, the spirit of God came upon him also, and he continued on, acting like a prophet until he reached Naioth in Ramah.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "24",
+                       "number":  24,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Then he, too, stripped himself of his garments and remained in a prophetic state in the presence of Samuel; all that day and night he lay naked. That is why they say, “Is Saul also among the prophets?”",
+                       "isPoetry":  false
+                   }
+               ],
+    "marks":  [
+
+              ]
+}

@@ -1,0 +1,22 @@
+{
+  "book": "tv",
+  "chapter": 123,
+  "verses": [
+    {
+      "verseNumber": 1,
+      "textEn": "Canticum ascensionum . Ad te levavi oculos meos, qui habitas in caelis."
+    },
+    {
+      "verseNumber": 2,
+      "textEn": "Ecce sicut oculi servorum ad manus dominorum suorum, sicut oculi ancillae ad manus dominae suae, ita oculi nostri ad Dominum Deum nostrum, donec misereatur nostri."
+    },
+    {
+      "verseNumber": 3,
+      "textEn": "Miserere nostri, Domine, miserere nostri, quia multum repleti sumus despectione;"
+    },
+    {
+      "verseNumber": 4,
+      "textEn": "quia multum repleta est anima nostra derisione abundantium et despectione superborum."
+    }
+  ]
+}

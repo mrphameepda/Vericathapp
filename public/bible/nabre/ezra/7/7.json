@@ -1,0 +1,262 @@
+{
+    "headings":  [
+
+                 ],
+    "verses":  [
+                   {
+                       "label":  "1",
+                       "number":  1,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "II. The Work of Ezra Chapter 7 - Ezra, Priest and Scribe. After these events, during the reign of Artaxerxes, king of Persia, Ezra, son of Seraiah, son of Azariah, son of Hilkiah,",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "2",
+                       "number":  2,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "son of Shallum, son of Zadok, son of Ahitub,",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "3",
+                       "number":  3,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "son of Amariah, son of Azariah, son of Meraioth,",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "4",
+                       "number":  4,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "son of Zerahiah, son of Uzzi, son of Bukki,",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "5",
+                       "number":  5,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "son of Abishua, son of Phinehas, son of Eleazar, son of Aaron, the high priest—",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "6",
+                       "number":  6,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "this Ezra came up from Babylon. He was a scribe, well-versed in the law of Moses given by the LORD, the God of Israel. The king granted him all that he requested, because the hand of the LORD, his God, was over him.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "7",
+                       "number":  7,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Some of the Israelites and some priests, Levites, singers, gatekeepers, and temple servants also came up to Jerusalem in the seventh year of King Artaxerxes.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "8",
+                       "number":  8,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Ezra came to Jerusalem in the fifth month of that seventh year of the king.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "9",
+                       "number":  9,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "On the first day of the first month he began the journey up from Babylon, and on the first day of the fifth month he arrived at Jerusalem, for the favoring hand of his God was over him.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "10",
+                       "number":  10,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Ezra had set his heart on the study and practice of the law of the LORD and on teaching statutes and ordinances in Israel.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "11",
+                       "number":  11,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "The Decree of Artaxerxes. This is a copy of the rescript which King Artaxerxes gave to Ezra the priest-scribe, the scribe versed in matters concerning the LORD’s commandments and statutes for Israel:",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "12",
+                       "number":  12,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "“Artaxerxes, king of kings, to Ezra the priest, scribe of the law of the God of heaven, greetings! And now,",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "13",
+                       "number":  13,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "I have issued this decree, that anyone in my kingdom belonging to the people of Israel, its priests or Levites, who is willing to go up to Jerusalem with you, may go,",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "14",
+                       "number":  14,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "for you are the one sent by the king and his seven counselors to supervise Judah and Jerusalem with regard to the law of your God which is in your possession,",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "15",
+                       "number":  15,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "and to bring the silver and gold which the king and his counselors have freely contributed to the God of Israel, whose dwelling is in Jerusalem,",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "16",
+                       "number":  16,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "as well as all the silver and gold which you may receive throughout the province of Babylon, together with the voluntary offerings the people and priests freely contribute for the house of their God in Jerusalem.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "17",
+                       "number":  17,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Therefore, you must use this money with all diligence to buy bulls, rams, lambs, and the grain offerings and libations proper to these, and offer them on the altar of the house of your God in Jerusalem.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "18",
+                       "number":  18,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "You and your kinsmen may do whatever seems best to you with the remainder of the silver and gold, as your God wills.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "19",
+                       "number":  19,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "The vessels given to you for the service of the house of your God you are to deposit before the God of Jerusalem.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "20",
+                       "number":  20,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Whatever else you may be required to supply for the needs of the house of your God, you may draw from the royal treasury.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "21",
+                       "number":  21,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "I, Artaxerxes the king, issue this decree to all the treasurers of West-of-Euphrates: Whatever Ezra the priest, scribe of the law of the God of heaven, requests of you, let it be done with all diligence,",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "22",
+                       "number":  22,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "within these limits: silver, one hundred talents; wheat, one hundred kors; wine, one hundred baths; oil, one hundred baths; salt, without limit.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "23",
+                       "number":  23,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Let everything that is decreed by the God of heaven be carried out exactly for the house of the God of heaven, that wrath may not come upon the realm of the king and his sons.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "24",
+                       "number":  24,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "We also inform you that it is not permitted to impose taxes, tributes, or tolls on any priest, Levite, singer, gatekeeper, temple servant, or any other servant of that house of God.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "25",
+                       "number":  25,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "“As for you, Ezra, in accordance with the wisdom of your God which is in your possession, appoint magistrates and judges to administer justice to all the people in West-of-Euphrates, to all, that is, who know the laws of your God. Instruct those who do not know these laws.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "26",
+                       "number":  26,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "All who will not obey the law of your God and the law of the king, let judgment be executed upon them with all diligence, whether death, or corporal punishment, or confiscation of goods, or imprisonment.”",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "27",
+                       "number":  27,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Ezra Prepares for the Journey. Blessed be the LORD, the God of our ancestors, who put it into the heart of the king thus to glorify the house of the LORD in Jerusalem,",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "28",
+                       "number":  28,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "and who let me find favor with the king, with his counselors, and with all the most influential royal officials. I therefore took courage and, with the hand of the LORD, my God, over me, I gathered together Israelite leaders to make the return journey with me.",
+                       "isPoetry":  false
+                   }
+               ],
+    "marks":  [
+
+              ]
+}

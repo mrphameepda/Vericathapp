@@ -1,0 +1,208 @@
+{
+    "headings":  [
+
+                 ],
+    "verses":  [
+                   {
+                       "label":  "1",
+                       "number":  1,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Chapter 19 - Ashes of the Red Heifer. The LORD spoke to Moses and Aaron:",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "2",
+                       "number":  2,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "This is the statute for the ritual which the LORD has commanded. Tell the Israelites to procure for you a red heifer without defect and free from every blemish and on which no yoke has ever been laid.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "3",
+                       "number":  3,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "You will give it to Eleazar the priest, and it will be led outside the camp and slaughtered in his presence.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "4",
+                       "number":  4,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Eleazar the priest will take some of its blood on his finger and sprinkle it seven times toward the front of the tent of meeting.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "5",
+                       "number":  5,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Then the heifer will be burned in his sight; it will be burned with its hide and flesh, its blood and dung;",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "6",
+                       "number":  6,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "and the priest will take cedar wood, hyssop and scarlet yarn and throw them into the fire in which the heifer is being burned.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "7",
+                       "number":  7,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "The priest shall then wash his garments and bathe his body in water, afterward he may enter the camp. The priest remains unclean until the evening.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "8",
+                       "number":  8,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Likewise, the one who burned the heifer shall wash his garments in water, bathe his body in water, and be unclean until evening.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "9",
+                       "number":  9,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Then somebody who is clean shall gather up the ashes of the heifer and deposit them in a clean place outside the camp. There they are to be kept to prepare purification water for the Israelite community. This is a purification offering.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "10",
+                       "number":  10,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "The one who has gathered up the ashes of the heifer shall also wash his garments and be unclean until evening. This is a permanent statute, both for the Israelites and for the alien residing among them.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "11",
+                       "number":  11,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Use of the Ashes. Those who touch the corpse of any human being will be unclean for seven days;",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "12",
+                       "number":  12,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "they shall purify themselves with the water on the third and on the seventh day, and then be clean. But if they fail to purify themselves on the third and on the seventh day, they will not become clean.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "13",
+                       "number":  13,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Those who touch the corpse of a human being who dies and who fail to purify themselves defile the tabernacle of the LORD and these persons shall be cut off from Israel. Since the purification water has not been splashed over them, they remain unclean: their uncleanness is still on them.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "14",
+                       "number":  14,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "This is the ritual: When someone dies in a tent, everyone who enters the tent, as well as everyone already in it, will be unclean for seven days;",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "15",
+                       "number":  15,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "and every open vessel with its lid unfastened will be unclean.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "16",
+                       "number":  16,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Moreover, everyone who in the open country touches a person who has been slain by the sword or who has died naturally, or who touches a human bone or a grave, will be unclean for seven days.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "17",
+                       "number":  17,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "For anyone who is thus unclean, ashes shall be taken from the burnt purification offering, and spring water will be poured on them from a vessel.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "18",
+                       "number":  18,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Then someone who is clean will take hyssop, dip it in this water, and sprinkle it on the tent and on all the vessels and persons that were in it, or on the one who touched the bone, the slain person or the other corpse, or the grave.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "19",
+                       "number":  19,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "The clean will sprinkle the unclean on the third and on the seventh day, and thus purify them on the seventh day. Then they will wash their garments and bathe in water, and in the evening be clean.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "20",
+                       "number":  20,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Those who become unclean and fail to purify themselves—those people will be cut off from the assembly, because they defile the sanctuary of the LORD. The purification water has not been splashed over them; they remain unclean.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "21",
+                       "number":  21,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "This will be a permanent statute for you. Those who sprinkle the purification water will wash their garments, and those who come in contact with the purification water will be unclean until evening.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "22",
+                       "number":  22,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Moreover, anything that the unclean person touches becomes unclean itself, and the one who touches such a person becomes unclean until evening.",
+                       "isPoetry":  false
+                   }
+               ],
+    "marks":  [
+
+              ]
+}

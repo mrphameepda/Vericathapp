@@ -1,0 +1,22 @@
+{
+  "book": "tv",
+  "chapter": 123,
+  "verses": [
+    {
+      "verseNumber": 1,
+      "textEn": "Matkalaulu. Sinun puoleesi, joka olet taivaissa, minä kohotan katseeni."
+    },
+    {
+      "verseNumber": 2,
+      "textEn": "Niin kuin orjien silmät tarkkaavat isännän kättä, niin kuin orjattarien silmät tarkkaavat emännän kättä, niin me odottaen katsomme Herraan, Jumalaamme, kunnes hän armahtaa meitä."
+    },
+    {
+      "verseNumber": 3,
+      "textEn": "Armahda, Herra, armahda meitä! Jo kauan meitä on väheksytty,"
+    },
+    {
+      "verseNumber": 4,
+      "textEn": "kylliksi olemme jo kokeneet itsevarmojen ivaa ja ylimielisten pilkkaa."
+    }
+  ]
+}

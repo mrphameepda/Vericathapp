@@ -1,0 +1,268 @@
+{
+  "book": "mt",
+  "chapter": 23,
+  "verses": [
+    {
+      "verseNumber": 1,
+      "viHeadings": [
+        "[1@] Các kinh sư và người Pha-ri-sêu [1] giả hình"
+      ],
+      "enHeadings": [
+        "Chapter 23 - Denunciation of the Scribes and Pharisees."
+      ],
+      "textVi": "Bấy giờ, Đức Giê-su<sup><a href=\"#fn-2-d8e098a1-15e1-40fe-9c4b-fb45d113658c\" id=\"fnref-2-d8e098a1-15e1-40fe-9c4b-fb45d113658c\">2</a></sup> nói với dân chúng và các môn đệ Người rằng :",
+      "textEn": "Then Jesus spoke to the crowds and to his disciples,"
+    },
+    {
+      "verseNumber": 2,
+      "textVi": "“Các kinh sư và các người Pha-ri-sêu<sup><a href=\"#fn-3-d8e098a1-15e1-40fe-9c4b-fb45d113658c\" id=\"fnref-3-d8e098a1-15e1-40fe-9c4b-fb45d113658c\">3</a></sup> ngồi trên toà ông Mô-sê<sup><a href=\"#fn-4-d8e098a1-15e1-40fe-9c4b-fb45d113658c\" id=\"fnref-4-d8e098a1-15e1-40fe-9c4b-fb45d113658c\">4</a></sup> mà giảng dạy<sup><a href=\"#fn-5-d8e098a1-15e1-40fe-9c4b-fb45d113658c\" id=\"fnref-5-d8e098a1-15e1-40fe-9c4b-fb45d113658c\">5</a></sup>.",
+      "textEn": "saying, “The scribes and the Pharisees have taken their seat on the chair of Moses."
+    },
+    {
+      "verseNumber": 3,
+      "textVi": "Vậy, tất cả những gì họ nói, anh em hãy làm, hãy giữ, còn những việc họ làm, thì đừng có làm theo, vì họ nói mà không làm<sup><a href=\"#fn-6-d8e098a1-15e1-40fe-9c4b-fb45d113658c\" id=\"fnref-6-d8e098a1-15e1-40fe-9c4b-fb45d113658c\">6</a></sup>.",
+      "textEn": "Therefore, do and observe all things whatsoever they tell you, but do not follow their example. For they preach but they do not practice."
+    },
+    {
+      "verseNumber": 4,
+      "textVi": "Họ bó những gánh nặng mà <sup><a href=\"#fn-2@-d8e098a1-15e1-40fe-9c4b-fb45d113658c\" id=\"fnref-2@-d8e098a1-15e1-40fe-9c4b-fb45d113658c\">2@</a></sup>chất lên vai người ta, nhưng chính họ thì lại không buồn động ngón tay vào.",
+      "textEn": "They tie up heavy burdens [hard to carry] and lay them on people’s shoulders, but they will not lift a finger to move them."
+    },
+    {
+      "verseNumber": 5,
+      "textVi": "Họ làm mọi việc cốt để cho thiên hạ thấy. Quả vậy, họ đeo những hộp kinh<sup><a href=\"#fn-7-d8e098a1-15e1-40fe-9c4b-fb45d113658c\" id=\"fnref-7-d8e098a1-15e1-40fe-9c4b-fb45d113658c\">7</a></sup> thật lớn, mang những tua áo<sup><a href=\"#fn-8-d8e098a1-15e1-40fe-9c4b-fb45d113658c\" id=\"fnref-8-d8e098a1-15e1-40fe-9c4b-fb45d113658c\">8</a></sup> thật dài.",
+      "textEn": "All their works are performed to be seen. They widen their phylacteries and lengthen their tassels."
+    },
+    {
+      "verseNumber": 6,
+      "textVi": "Họ thích chỗ nhất trong đám tiệc, chiếm hàng ghế đầu trong hội đường,",
+      "textEn": "They love places of honor at banquets, seats of honor in synagogues,"
+    },
+    {
+      "verseNumber": 7,
+      "textVi": "ưa được người ta chào hỏi ở những nơi công cộng và được thiên hạ gọi là ‘ráp-bi’.",
+      "textEn": "greetings in marketplaces, and the salutation ‘Rabbi.’"
+    },
+    {
+      "verseNumber": 8,
+      "textVi": "“Phần anh em, thì đừng để ai gọi mình là ‘ráp-bi’<sup><a href=\"#fn-9-d8e098a1-15e1-40fe-9c4b-fb45d113658c\" id=\"fnref-9-d8e098a1-15e1-40fe-9c4b-fb45d113658c\">9</a></sup>, nghĩa là thầy, vì anh em chỉ có một Thầy ; còn tất cả anh em đều là anh em với nhau.",
+      "textEn": "As for you, do not be called ‘Rabbi.’ You have but one teacher, and you are all brothers."
+    },
+    {
+      "verseNumber": 9,
+      "textVi": "Anh em cũng đừng gọi ai dưới đất này là cha của anh em, vì anh em chỉ có một Cha là Cha trên trời.",
+      "textEn": "Call no one on earth your father; you have but one Father in heaven."
+    },
+    {
+      "verseNumber": 10,
+      "textVi": "Anh em cũng đừng để ai gọi mình là người lãnh đạo, vì anh em chỉ có một vị lãnh đạo, là Đức Ki-tô<sup><a href=\"#fn-10-d8e098a1-15e1-40fe-9c4b-fb45d113658c\" id=\"fnref-10-d8e098a1-15e1-40fe-9c4b-fb45d113658c\">10</a></sup>.",
+      "textEn": "Do not be called ‘Master’; you have but one master, the Messiah."
+    },
+    {
+      "verseNumber": 11,
+      "textVi": "Trong anh em, người làm lớn hơn cả, phải làm người phục vụ anh em.",
+      "textEn": "The greatest among you must be your servant."
+    },
+    {
+      "verseNumber": 12,
+      "textVi": "<sup><a href=\"#fn-3@-d8e098a1-15e1-40fe-9c4b-fb45d113658c\" id=\"fnref-3@-d8e098a1-15e1-40fe-9c4b-fb45d113658c\">3@</a></sup>Ai tôn mình lên, sẽ bị hạ xuống ; còn ai hạ mình xuống, sẽ được tôn lên<sup><a href=\"#fn-11-d8e098a1-15e1-40fe-9c4b-fb45d113658c\" id=\"fnref-11-d8e098a1-15e1-40fe-9c4b-fb45d113658c\">11</a></sup>.",
+      "textEn": "Whoever exalts himself will be humbled; but whoever humbles himself will be exalted."
+    },
+    {
+      "verseNumber": 13,
+      "viHeadings": [
+        "[4@] Đức Giê-su [12] khiển trách các kinh sư và người Pha-ri-sêu [13] [14]"
+      ],
+      "textVi": "“Khốn cho các người, hỡi các kinh sư và người Pha-ri-sêu<sup><a href=\"#fn-15-d8e098a1-15e1-40fe-9c4b-fb45d113658c\" id=\"fnref-15-d8e098a1-15e1-40fe-9c4b-fb45d113658c\">15</a></sup> giả hình ! Các người khoá cửa Nước<sup><a href=\"#fn-16-d8e098a1-15e1-40fe-9c4b-fb45d113658c\" id=\"fnref-16-d8e098a1-15e1-40fe-9c4b-fb45d113658c\">16</a></sup> Trời không cho thiên hạ vào<sup><a href=\"#fn-17-d8e098a1-15e1-40fe-9c4b-fb45d113658c\" id=\"fnref-17-d8e098a1-15e1-40fe-9c4b-fb45d113658c\">17</a></sup> ! Các người đã không vào, mà những kẻ muốn vào, các người cũng không để họ vào. [",
+      "textEn": "“Woe to you, scribes and Pharisees, you hypocrites. You lock the kingdom of heaven before human beings. You do not enter yourselves, nor do you allow entrance to those trying to enter."
+    },
+    {
+      "verseNumber": 14,
+      "textVi": "Khốn cho các người, hỡi các kinh sư và người Pha-ri-sêu<sup><a href=\"#fn-18-d8e098a1-15e1-40fe-9c4b-fb45d113658c\" id=\"fnref-18-d8e098a1-15e1-40fe-9c4b-fb45d113658c\">18</a></sup> giả hình ! Các người nuốt hết tài sản của các bà goá, lại còn làm bộ đọc kinh cầu nguyện lâu giờ, cho nên các người sẽ bị kết án nghiêm khắc hơn].",
+      "textEn": "[ ]"
+    },
+    {
+      "verseNumber": 15,
+      "textVi": "“Khốn cho các người, hỡi các kinh sư và người Pha-ri-sêu<sup><a href=\"#fn-19-d8e098a1-15e1-40fe-9c4b-fb45d113658c\" id=\"fnref-19-d8e098a1-15e1-40fe-9c4b-fb45d113658c\">19</a></sup> giả hình ! Các người rảo khắp biển cả đất liền để rủ cho được một người theo đạo<sup><a href=\"#fn-20-d8e098a1-15e1-40fe-9c4b-fb45d113658c\" id=\"fnref-20-d8e098a1-15e1-40fe-9c4b-fb45d113658c\">20</a></sup> ; nhưng khi họ theo rồi, các người lại làm cho họ đáng xuống hoả ngục gấp đôi các người.",
+      "textEn": "“Woe to you, scribes and Pharisees, you hypocrites. You traverse sea and land to make one convert, and when that happens you make him a child of Gehenna twice as much as yourselves."
+    },
+    {
+      "verseNumber": 16,
+      "textVi": "“Khốn cho các người, những kẻ dẫn đường mù quáng ! Các người bảo : ‘Ai chỉ Đền Thờ mà thề, thì có thề cũng như không ; còn ai chỉ vàng trong Đền Thờ mà thề, thì bị ràng buộc.’",
+      "textEn": "“Woe to you, blind guides, who say, ‘If one swears by the temple, it means nothing, but if one swears by the gold of the temple, one is obligated.’"
+    },
+    {
+      "verseNumber": 17,
+      "textVi": "Đồ ngu si mù quáng ! Thế thì vàng hay Đền Thờ là nơi làm cho vàng nên của thánh, cái nào trọng hơn ?",
+      "textEn": "Blind fools, which is greater, the gold, or the temple that made the gold sacred?"
+    },
+    {
+      "verseNumber": 18,
+      "textVi": "Các người còn nói : ‘Ai chỉ bàn thờ mà thề, thì có thề cũng như không ; nhưng ai chỉ lễ vật trên bàn thờ mà thề, thì bị ràng buộc.’",
+      "textEn": "And you say, ‘If one swears by the altar, it means nothing, but if one swears by the gift on the altar, one is obligated.’"
+    },
+    {
+      "verseNumber": 19,
+      "textVi": "Đồ mù quáng ! Thế thì lễ vật hay bàn thờ là nơi làm cho lễ vật nên của thánh, cái nào trọng hơn ?",
+      "textEn": "You blind ones, which is greater, the gift, or the altar that makes the gift sacred?"
+    },
+    {
+      "verseNumber": 20,
+      "textVi": "Vậy ai chỉ bàn thờ mà thề, là chỉ bàn thờ và mọi sự trên bàn thờ mà thề.",
+      "textEn": "One who swears by the altar swears by it and all that is upon it;"
+    },
+    {
+      "verseNumber": 21,
+      "textVi": "Và ai chỉ Đền Thờ mà thề, là chỉ Đền Thờ và Đấng ngự ở đó mà thề.",
+      "textEn": "one who swears by the temple swears by it and by him who dwells in it;"
+    },
+    {
+      "verseNumber": 22,
+      "textVi": "Và ai chỉ trời mà thề, là chỉ ngai Thiên Chúa và cả Thiên Chúa ngự trên đó mà thề<sup><a href=\"#fn-21-d8e098a1-15e1-40fe-9c4b-fb45d113658c\" id=\"fnref-21-d8e098a1-15e1-40fe-9c4b-fb45d113658c\">21</a></sup>.",
+      "textEn": "one who swears by heaven swears by the throne of God and by him who is seated on it."
+    },
+    {
+      "verseNumber": 23,
+      "textVi": "“Khốn cho các người, hỡi các kinh sư và người Pha-ri-sêu<sup><a href=\"#fn-22-d8e098a1-15e1-40fe-9c4b-fb45d113658c\" id=\"fnref-22-d8e098a1-15e1-40fe-9c4b-fb45d113658c\">22</a></sup> giả hình ! Các người nộp thuế thập phân về bạc hà, thì là, rau húng, mà bỏ những điều quan trọng nhất trong Lề Luật là công lý, lòng nhân và thành tín. Các điều này vẫn cứ phải làm, mà các điều kia thì không được bỏ.",
+      "textEn": "“Woe to you, scribes and Pharisees, you hypocrites. You pay tithes of mint and dill and cummin, and have neglected the weightier things of the law: judgment and mercy and fidelity. [But] these you should have done, without neglecting the others."
+    },
+    {
+      "verseNumber": 24,
+      "textVi": "Quân dẫn đường mù quáng ! Các người lọc con muỗi, nhưng lại nuốt con lạc đà<sup><a href=\"#fn-23-d8e098a1-15e1-40fe-9c4b-fb45d113658c\" id=\"fnref-23-d8e098a1-15e1-40fe-9c4b-fb45d113658c\">23</a></sup>.",
+      "textEn": "Blind guides, who strain out the gnat and swallow the camel!"
+    },
+    {
+      "verseNumber": 25,
+      "textVi": "“Khốn cho các người, hỡi các kinh sư và người Pha-ri-sêu<sup><a href=\"#fn-24-d8e098a1-15e1-40fe-9c4b-fb45d113658c\" id=\"fnref-24-d8e098a1-15e1-40fe-9c4b-fb45d113658c\">24</a></sup> giả hình ! Các người rửa sạch bên ngoài chén đĩa, nhưng bên trong thì đầy những chuyện cướp bóc và ăn chơi vô độ.",
+      "textEn": "“Woe to you, scribes and Pharisees, you hypocrites. You cleanse the outside of cup and dish, but inside they are full of plunder and self-indulgence."
+    },
+    {
+      "verseNumber": 26,
+      "textVi": "Hỡi người Pha-ri-sêu<sup><a href=\"#fn-25-d8e098a1-15e1-40fe-9c4b-fb45d113658c\" id=\"fnref-25-d8e098a1-15e1-40fe-9c4b-fb45d113658c\">25</a></sup> mù quáng kia, hãy rửa bên trong chén đĩa cho sạch trước đã, để bên ngoài cũng được sạch.",
+      "textEn": "Blind Pharisee, cleanse first the inside of the cup, so that the outside also may be clean."
+    },
+    {
+      "verseNumber": 27,
+      "textVi": "“Khốn cho các người, hỡi các kinh sư và người Pha-ri-sêu<sup><a href=\"#fn-26-d8e098a1-15e1-40fe-9c4b-fb45d113658c\" id=\"fnref-26-d8e098a1-15e1-40fe-9c4b-fb45d113658c\">26</a></sup> giả hình ! Các người giống như mồ mả tô vôi, bên ngoài có vẻ đẹp, nhưng bên trong thì đầy xương người chết và đủ mọi thứ ô uế.",
+      "textEn": "“Woe to you, scribes and Pharisees, you hypocrites. You are like whitewashed tombs, which appear beautiful on the outside, but inside are full of dead men’s bones and every kind of filth."
+    },
+    {
+      "verseNumber": 28,
+      "textVi": "Các người cũng vậy, bên ngoài thì <sup><a href=\"#fn-5@-d8e098a1-15e1-40fe-9c4b-fb45d113658c\" id=\"fnref-5@-d8e098a1-15e1-40fe-9c4b-fb45d113658c\">5@</a></sup>có vẻ công chính trước mặt thiên hạ, nhưng bên trong toàn là giả hình và gian ác<sup><a href=\"#fn-27-d8e098a1-15e1-40fe-9c4b-fb45d113658c\" id=\"fnref-27-d8e098a1-15e1-40fe-9c4b-fb45d113658c\">27</a></sup> !",
+      "textEn": "Even so, on the outside you appear righteous, but inside you are filled with hypocrisy and evildoing."
+    },
+    {
+      "verseNumber": 29,
+      "textVi": "“Khốn cho các người, hỡi các kinh sư và người Pha-ri-sêu<sup><a href=\"#fn-28-d8e098a1-15e1-40fe-9c4b-fb45d113658c\" id=\"fnref-28-d8e098a1-15e1-40fe-9c4b-fb45d113658c\">28</a></sup> giả hình ! Các người xây mồ cho các ngôn sứ và tô mả cho những người công chính.",
+      "textEn": "“Woe to you, scribes and Pharisees, you hypocrites. You build the tombs of the prophets and adorn the memorials of the righteous,"
+    },
+    {
+      "verseNumber": 30,
+      "textVi": "Các người nói : ‘Nếu như chúng ta sống vào thời của tổ tiên, hẳn chúng ta đã không thông đồng với các ngài mà đổ máu các ngôn sứ.’",
+      "textEn": "and you say, ‘If we had lived in the days of our ancestors, we would not have joined them in shedding the prophets’ blood.’"
+    },
+    {
+      "verseNumber": 31,
+      "textVi": "Như vậy, các người tự làm chứng rằng các người đúng là con cháu của những kẻ đã giết các ngôn sứ.",
+      "textEn": "Thus you bear witness against yourselves that you are the children of those who murdered the prophets;"
+    },
+    {
+      "verseNumber": 32,
+      "textVi": "Thì các người đổ thêm cho đầy đấu tội của tổ tiên các người đi<sup><a href=\"#fn-29-d8e098a1-15e1-40fe-9c4b-fb45d113658c\" id=\"fnref-29-d8e098a1-15e1-40fe-9c4b-fb45d113658c\">29</a></sup> !",
+      "textEn": "now fill up what your ancestors measured out!"
+    },
+    {
+      "verseNumber": 33,
+      "viHeadings": [
+        "[6@] Tội ác và hình phạt"
+      ],
+      "textVi": "“Đồ mãng xà, <sup><a href=\"#fn-7@-d8e098a1-15e1-40fe-9c4b-fb45d113658c\" id=\"fnref-7@-d8e098a1-15e1-40fe-9c4b-fb45d113658c\">7@</a></sup>nòi rắn độc kia ! Các người trốn đâu cho khỏi hình phạt hoả ngục ?",
+      "textEn": "You serpents, you brood of vipers, how can you flee from the judgment of Gehenna?"
+    },
+    {
+      "verseNumber": 34,
+      "textVi": "Vì thế, này tôi sai ngôn sứ, hiền nhân và kinh sư<sup><a href=\"#fn-30-d8e098a1-15e1-40fe-9c4b-fb45d113658c\" id=\"fnref-30-d8e098a1-15e1-40fe-9c4b-fb45d113658c\">30</a></sup> đến cùng các người : các người sẽ giết và đóng đinh người này vào thập giá, đánh đòn người kia trong hội đường và lùng bắt họ từ thành này đến thành khác.",
+      "textEn": "Therefore, behold, I send to you prophets and wise men and scribes; some of them you will kill and crucify, some of them you will scourge in your synagogues and pursue from town to town,"
+    },
+    {
+      "verseNumber": 35,
+      "textVi": "Như vậy, <sup><a href=\"#fn-8@-d8e098a1-15e1-40fe-9c4b-fb45d113658c\" id=\"fnref-8@-d8e098a1-15e1-40fe-9c4b-fb45d113658c\">8@</a></sup>máu của tất cả những người công chính đã đổ xuống đất, thì cũng đổ xuống đầu các người, từ máu ông A-ben<sup><a href=\"#fn-31-d8e098a1-15e1-40fe-9c4b-fb45d113658c\" id=\"fnref-31-d8e098a1-15e1-40fe-9c4b-fb45d113658c\">31</a></sup>, người công chính, đến máu <sup><a href=\"#fn-9@-d8e098a1-15e1-40fe-9c4b-fb45d113658c\" id=\"fnref-9@-d8e098a1-15e1-40fe-9c4b-fb45d113658c\">9@</a></sup>ông Da-ca-ri-a<sup><a href=\"#fn-32-d8e098a1-15e1-40fe-9c4b-fb45d113658c\" id=\"fnref-32-d8e098a1-15e1-40fe-9c4b-fb45d113658c\">32</a></sup>, con ông Be-réc-gia<sup><a href=\"#fn-33-d8e098a1-15e1-40fe-9c4b-fb45d113658c\" id=\"fnref-33-d8e098a1-15e1-40fe-9c4b-fb45d113658c\">33</a></sup>, mà các người đã giết giữa đền thánh và bàn thờ<sup><a href=\"#fn-34-d8e098a1-15e1-40fe-9c4b-fb45d113658c\" id=\"fnref-34-d8e098a1-15e1-40fe-9c4b-fb45d113658c\">34</a></sup>.",
+      "textEn": "so that there may come upon you all the righteous blood shed upon earth, from the righteous blood of Abel to the blood of Zechariah, the son of Barachiah, whom you murdered between the sanctuary and the altar."
+    },
+    {
+      "verseNumber": 36,
+      "textVi": "Tôi bảo thật các người : tất cả những tội ấy sẽ đổ xuống đầu thế hệ này.",
+      "textEn": "Amen, I say to you, all these things will come upon this generation. The Lament over Jerusalem."
+    },
+    {
+      "verseNumber": 37,
+      "viHeadings": [
+        "[10@] Đức Giê-su [35] thương tiếc thành Giê-ru-sa-lem [36] [37]"
+      ],
+      "textVi": "“Giê-ru-sa-lem<sup><a href=\"#fn-38-d8e098a1-15e1-40fe-9c4b-fb45d113658c\" id=\"fnref-38-d8e098a1-15e1-40fe-9c4b-fb45d113658c\">38</a></sup>, Giê-ru-sa-lem<sup><a href=\"#fn-39-d8e098a1-15e1-40fe-9c4b-fb45d113658c\" id=\"fnref-39-d8e098a1-15e1-40fe-9c4b-fb45d113658c\">39</a></sup> ! Ngươi giết các ngôn sứ và ném đá những kẻ được sai đến cùng ngươi ! Đã bao lần Ta muốn tập hợp con cái ngươi lại, như gà mẹ tập hợp gà con dưới cánh, mà các ngươi không chịu.",
+      "textEn": "“Jerusalem, Jerusalem, you who kill the prophets and stone those sent to you, how many times I yearned to gather your children together, as a hen gathers her young under her wings, but you were unwilling!"
+    },
+    {
+      "verseNumber": 38,
+      "textVi": "Thì này, nhà các ngươi sẽ bị bỏ hoang mặc cho các ngươi.",
+      "textEn": "Behold, your house will be abandoned, desolate."
+    },
+    {
+      "verseNumber": 39,
+      "textVi": "Thật vậy, Ta nói cho các ngươi hay, từ nay các ngươi sẽ không còn thấy Ta nữa, cho đến khi các ngươi nói : &lt;<sup><a href=\"#fn-11@-d8e098a1-15e1-40fe-9c4b-fb45d113658c\" id=\"fnref-11@-d8e098a1-15e1-40fe-9c4b-fb45d113658c\">11@</a></sup>em&gt;Chúc tụng Đấng ngự đến nhân danh Đức Chúa !”",
+      "textEn": "I tell you, you will not see me again until you say, ‘Blessed is he who comes in the name of the Lord.’”"
+    }
+  ],
+  "footnotesVi": {
+    "fn-1-d8e098a1-15e1-40fe-9c4b-fb45d113658c": "<p>English: Pharisees | French: Pharisien | Latin: Pharisaeus | Origin: Φαρισαιος | Vietnamese: Pha-ri-sêu -- Mt 15,1.6 ; Cv 23,6.9 </p>",
+    "fn-2-d8e098a1-15e1-40fe-9c4b-fb45d113658c": "<p>English: Jesus | French: Jésus | Latin: Iesu | Origin: Ιησους | Vietnamese: Giê-su 1 -- con ông Xi-ra, Hc (lt) ; 50,27.51 </p>",
+    "fn-3-d8e098a1-15e1-40fe-9c4b-fb45d113658c": "<p>English: Pharisees | French: Pharisien | Latin: Pharisaeus | Origin: Φαρισαιος | Vietnamese: Pha-ri-sêu -- Mt 15,1.6 ; Cv 23,6.9 </p>",
+    "fn-4-d8e098a1-15e1-40fe-9c4b-fb45d113658c": "<p>English: Moses | French: Moise | Latin: Moysen | Origin: מֹ שֶׁה | Vietnamese: Mô-sê -- Xh 2,10 </p>",
+    "fn-5-d8e098a1-15e1-40fe-9c4b-fb45d113658c": "<p>Các kinh sư được nêu rõ, vì họ là những chuyên viên về Luật ; đa số thuộc về nhóm Pha-ri-sêu, là nhóm quan trọng nhất trong đời sống chính trị và tôn giáo lúc bấy giờ và cũng rất có uy tín đối với dân. Ch. 23 này tập hợp những lời của Chúa Giê-su có ích cho việc tranh luận giữa cộng đoàn Giáo Hội của Mát-thêu với Do-thái giáo thời ấy do nhóm Pha-ri-sêu lãnh đạo. </p>",
+    "fn-6-d8e098a1-15e1-40fe-9c4b-fb45d113658c": "<p>Chúa Giê-su nhìn nhận họ là những người kế thừa ông Mô-sê ; Người khuyên dân nghe theo họ, khi họ giảng dạy đạo lý chân truyền của ông Mô-sê. Nhưng những giải thích cá nhân của họ thì đã hơn một lần Người chỉ trích mạnh mẽ (x. 9,3-9 ; 15,1-20 ; 16,6) và nhất là Người căn dặn phải đề phòng lối sống của họ, bởi vì nó mâu thuẫn với giáo lý họ dạy. </p>",
+    "fn-7-d8e098a1-15e1-40fe-9c4b-fb45d113658c": "<p><em>Hộp kinh</em> : căn cứ trên Xh 13,9.16 ; Đnl 6,8 ; 11,18, người ta đựng các lời trọng yếu của Luật trong những chiếc hộp nhỏ xíu và cột vào tay và trán để nhớ. </p>",
+    "fn-8-d8e098a1-15e1-40fe-9c4b-fb45d113658c": "<p><em>Tua áo</em> : đính thêm vào gấu áo, theo Ds 15,38, để nhắc nhở người Do-thái ý thức mình thuộc về cộng đoàn linh thánh của dân Chúa. Chính Chúa Giê-su cũng mang tua áo như thế (9,20 ; 14,36) ; nhưng nhóm Pha-ri-sêu lại kết cho dài thêm để làm cho người ta chú ý đến mình ... </p>",
+    "fn-9-d8e098a1-15e1-40fe-9c4b-fb45d113658c": "<p><em>Ráp-bi</em> : <em>thưa thầy.</em> ds : <em>thưa thầy của tôi</em>, một tước hiệu quen thuộc xưng hô các bậc thầy trong Do-thái giáo. Các môn đệ của Chúa cũng có lần xưng Người như thế (26,25.49). </p>",
+    "fn-10-d8e098a1-15e1-40fe-9c4b-fb45d113658c": "<p>English: Christ | French: Chist | Latin: Christus | Origin: Χριτος | Vietnamese: Ki-tô -- Mt 1,18 </p>",
+    "fn-11-d8e098a1-15e1-40fe-9c4b-fb45d113658c": "<p>C. 8-12 như là Chúa nói trong ngoặc, dành cho các môn đệ. Những lời này không cấm các môn đệ thi hành thừa tác vụ dạy bảo, huấn luyện tín hữu, nhưng không cho phép giành lấy một quyền hành chỉ thuộc về Đức Ki-tô và Thiên Chúa ; nghĩa là phải thi hành với tinh thần phục vụ (x. 1 Pr 4,10-11). </p>",
+    "fn-12-d8e098a1-15e1-40fe-9c4b-fb45d113658c": "<p>English: Jesus | French: Jésus | Latin: Iesu | Origin: Ιησους | Vietnamese: Giê-su 1 -- con ông Xi-ra, Hc (lt) ; 50,27.51 </p>",
+    "fn-13-d8e098a1-15e1-40fe-9c4b-fb45d113658c": "<p>English: Pharisees | French: Pharisien | Latin: Pharisaeus | Origin: Φαρισαιος | Vietnamese: Pha-ri-sêu -- Mt 15,1.6 ; Cv 23,6.9 </p>",
+    "fn-14-d8e098a1-15e1-40fe-9c4b-fb45d113658c": "<p>Một số thủ bản đưa vào đây c. 14, có nội dung tương tự Mc 12,40 và Lc 20,47, nhưng không đúng chỗ. Các thủ bản có uy tín không ghi câu này. Như thế có 7 lời quen gọi là <em>nguyền rủa</em> chống tội giả hình của nhóm Pha-ri-sêu và kinh sư. <em>Khốn cho...</em> không có ý nguyền rủa, nhưng nói lên nỗi đau đớn sâu xa, như kiểu đe doạ của các ngôn sứ. </p>",
+    "fn-15-d8e098a1-15e1-40fe-9c4b-fb45d113658c": "<p>English: Pharisees | French: Pharisien | Latin: Pharisaeus | Origin: Φαρισαιος | Vietnamese: Pha-ri-sêu -- Mt 15,1.6 ; Cv 23,6.9 </p>",
+    "fn-16-d8e098a1-15e1-40fe-9c4b-fb45d113658c": "<p>English: Water Gate | French: Eaux (Porte des) | Latin: Aquarum (porta) | Origin: הַמָּיׅם ‎(שַׁעַר־) | Vietnamese: Nước (cửa) -- Nkm 8,1.3 </p>",
+    "fn-17-d8e098a1-15e1-40fe-9c4b-fb45d113658c": "<p>Có hai cách hiểu Nước Trời ở đây : 1) Một số nhà chú giải hiểu về Giáo Hội thập niên 80 : nhiều người Do-thái muốn gia nhập nhưng bị người Pha-ri-sêu ngăn cấm. 2) Hiểu về Nước Trời cánh chung : những luật lệ do người Pha-ri-sêu đặt ra làm cho người ta không thể trung thành với Luật Chúa để có thể vào Nước Trời. </p>",
+    "fn-18-d8e098a1-15e1-40fe-9c4b-fb45d113658c": "<p>English: Pharisees | French: Pharisien | Latin: Pharisaeus | Origin: Φαρισαιος | Vietnamese: Pha-ri-sêu -- Mt 15,1.6 ; Cv 23,6.9 </p>",
+    "fn-19-d8e098a1-15e1-40fe-9c4b-fb45d113658c": "<p>English: Pharisees | French: Pharisien | Latin: Pharisaeus | Origin: Φαρισαιος | Vietnamese: Pha-ri-sêu -- Mt 15,1.6 ; Cv 23,6.9 </p>",
+    "fn-20-d8e098a1-15e1-40fe-9c4b-fb45d113658c": "<p>Tinh thần truyền giáo của Do-thái trong thế giới Hy-lạp và Rô-ma thời bấy giờ rất tích cực, đặc biệt là của nhóm Pha-ri-sêu. Nhưng họ không đưa người ta đến với Thiên Chúa, mà đưa vào não trạng hẹp hòi và lối sống hình thức của họ. </p>",
+    "fn-21-d8e098a1-15e1-40fe-9c4b-fb45d113658c": "<p>C. 16-22 như một điển hình, Chúa Giê-su đề cập đến các lời khấn hứa có kèm theo lời thề. Các thầy Do-thái bày ra nhiều cách tinh vi để giải thích ý nghĩa những lời thề theo ý muốn và như thế giải gỡ người ta cũng theo ý thích. Do đó chuyện thực hiện và giữ lời khấn hứa trở thành một thứ đạo đức giả. </p>",
+    "fn-22-d8e098a1-15e1-40fe-9c4b-fb45d113658c": "<p>English: Pharisees | French: Pharisien | Latin: Pharisaeus | Origin: Φαρισαιος | Vietnamese: Pha-ri-sêu -- Mt 15,1.6 ; Cv 23,6.9 </p>",
+    "fn-23-d8e098a1-15e1-40fe-9c4b-fb45d113658c": "<p>Tệ hơn nữa là trong việc nộp thuế thập phân (Lv 24,30-33 ; Đnl 14,22 tt), để tỏ ra mình thông thái và nhiệt tình với luật pháp, các thầy Do-thái buộc người ta những cái tỉ mỉ thật phụ thuộc và vô nghĩa mà Luật không hề nói đến ; trong khi đó lại không quan tâm gì đến những điều căn bản và chính yếu của luật, đó là <em>công bình, lòng nhân và thành tín</em>. </p>",
+    "fn-24-d8e098a1-15e1-40fe-9c4b-fb45d113658c": "<p>English: Pharisees | French: Pharisien | Latin: Pharisaeus | Origin: Φαρισαιος | Vietnamese: Pha-ri-sêu -- Mt 15,1.6 ; Cv 23,6.9 </p>",
+    "fn-25-d8e098a1-15e1-40fe-9c4b-fb45d113658c": "<p>English: Pharisees | French: Pharisien | Latin: Pharisaeus | Origin: Φαρισαιος | Vietnamese: Pha-ri-sêu -- Mt 15,1.6 ; Cv 23,6.9 </p>",
+    "fn-26-d8e098a1-15e1-40fe-9c4b-fb45d113658c": "<p>English: Pharisees | French: Pharisien | Latin: Pharisaeus | Origin: Φαρισαιος | Vietnamese: Pha-ri-sêu -- Mt 15,1.6 ; Cv 23,6.9 </p>",
+    "fn-27-d8e098a1-15e1-40fe-9c4b-fb45d113658c": "<p>Những người giữ đạo hình thức, không khác nào những mồ mả tô vôi, bên ngoài trông trắng đẹp, bên trong đầy hôi thối. Hình ảnh này do thói quen ở Giê-ru-sa-lem, hằng năm đến gần đại lễ Vượt Qua, người ta quét vôi các ngôi mộ cho khách hành hương thấy rõ mà tránh, kẻo đụng vào mà bị ô uế cả tuần lễ (x. Ds 19,16). </p>",
+    "fn-28-d8e098a1-15e1-40fe-9c4b-fb45d113658c": "<p>English: Pharisees | French: Pharisien | Latin: Pharisaeus | Origin: Φαρισαιος | Vietnamese: Pha-ri-sêu -- Mt 15,1.6 ; Cv 23,6.9 </p>",
+    "fn-29-d8e098a1-15e1-40fe-9c4b-fb45d113658c": "<p>Sự giả hình của các thầy còn đi tới mức độ một đàng tỏ ra phàn nàn phản đối chuyện tổ tiên mình đã sát hại các ngôn sứ của Chúa, cho nên các thầy đã xây mộ cho các vị này. Nhưng đàng khác thì cha nào con ấy, các thầy còn có tâm địa tệ hơn tổ tiên các thầy là căm thù chính Đấng các ngôn sứ đã loan báo. – Chúa Giê-su tỏ ra hết sức bực bội với sự giả hình của các kinh sư và nhóm Pha-ri-sêu. Người dùng một câu vừa thách đố vừa nói trước về cái chết của mình : <em>đổ thêm cho đầy đấu tội lỗi của tổ tiên</em>. Người xưa chỉ giết các ngôn sứ, các thầy bây giờ sẽ giết chính Đấng Mê-si-a. </p>",
+    "fn-30-d8e098a1-15e1-40fe-9c4b-fb45d113658c": "<p><em>Ngôn sứ, hiền nhân, kinh sư</em> là những từ ngữ Do-thái, được dùng để chỉ các thừa sai Ki-tô giáo sau này. Chúa Giê-su báo trước số phận các vị này trong Hội Thánh, giống như số phận các người công chính trong lịch sử Cựu Ước trước đây. </p>",
+    "fn-31-d8e098a1-15e1-40fe-9c4b-fb45d113658c": "<p>English: Abel | French: Abel | Latin: Abel | Origin: הֶבֶל | Vietnamese: A-ben -- St 4,2 </p>",
+    "fn-32-d8e098a1-15e1-40fe-9c4b-fb45d113658c": "<p>English: Zachariah | French: Zacharie, Zekarya | Latin: Zacharias | Origin: זְכַרְיָה | Vietnamese: Da-ca-ri-a 1 -- con của tư tế Giơ-hô-gia-đa, 2 Sb 24,20-22.25 </p>",
+    "fn-33-d8e098a1-15e1-40fe-9c4b-fb45d113658c": "<p>English: Barachiah | French: Barachie | Latin: Barachias | Origin: Βαραχιας | Vietnamese: Be-réc-gia 1 -- cha của ông Da-ca-ri-a người bị giết giữa đền thánh và bàn thờ, Mt 23,35 </p>",
+    "fn-34-d8e098a1-15e1-40fe-9c4b-fb45d113658c": "<p><em>Từ máu ông A-ben ... đến máu ông Da-ca-ri-a</em> : Chúa Giê-su dùng kiểu nói Do-thái, gọi là <em>bao hàm</em> (inclusio) kể một sự việc ở đầu (ông A-ben trong St 4,8) và một sự việc ở cuối (ông Da-ca-ri-a trong 2 Sb 24,20-22 là cuốn cuối cùng trong bộ Sách Thánh Do-thái) để ngụ ý rằng suốt theo dòng lịch sử, dân Ít-ra-en luôn xử tàn ác với những người của Thiên Chúa. – Ông Da-ca-ri-a bị giết đây là con ông Giơ-hô-gia-đa ; đừng lẫn với ông ngôn sứ nhỏ cùng tên, con ông Be-réc-gia. Vậy mấy chữ <em>con ông Be-réc-gia</em> đã do một người biên chép nào đó chép lộn. </p>",
+    "fn-35-d8e098a1-15e1-40fe-9c4b-fb45d113658c": "<p>English: Jesus | French: Jésus | Latin: Iesu | Origin: Ιησους | Vietnamese: Giê-su 1 -- con ông Xi-ra, Hc (lt) ; 50,27.51 </p>",
+    "fn-36-d8e098a1-15e1-40fe-9c4b-fb45d113658c": "<p>English: Jerusalem | French: Jérusalem | Latin: Ierusalem | Origin: יְרוּשָׁלֵם | Vietnamese: Giê-ru-sa-lem -- kinh thành Thiên Chúa, thành vua Đa-vít... -- 1 V 8,44.48 </p>",
+    "fn-37-d8e098a1-15e1-40fe-9c4b-fb45d113658c": "<p>Dân Do-thái phủ nhận Chúa Giê-su, thì Thiên Chúa cũng sẽ ruồng bỏ họ. Chúa Giê-su sẽ phải ra đi. Nhưng Giê-ru-sa-lem và Đền thánh cũng sẽ hoang tàn. Tình trạng này sẽ kéo dài cho đến ngày tập thể dân Do-thái nhìn nhận Đấng Cứu Tinh của mình và ăn năn trở lại. Có lẽ dựa vào lời tiên báo này mà thánh Phao-lô trong thư Rô-ma (11,25-33) nói rõ về sự trở lại của Ít-ra-en. </p>",
+    "fn-38-d8e098a1-15e1-40fe-9c4b-fb45d113658c": "<p>English: Jerusalem | French: Jérusalem | Latin: Ierusalem | Origin: יְרוּשָׁלֵם | Vietnamese: Giê-ru-sa-lem -- kinh thành Thiên Chúa, thành vua Đa-vít... -- 1 V 8,44.48 </p>",
+    "fn-39-d8e098a1-15e1-40fe-9c4b-fb45d113658c": "<p>English: Jerusalem | French: Jérusalem | Latin: Ierusalem | Origin: יְרוּשָׁלֵם | Vietnamese: Giê-ru-sa-lem -- kinh thành Thiên Chúa, thành vua Đa-vít... -- 1 V 8,44.48 </p>",
+    "fn-1@-d8e098a1-15e1-40fe-9c4b-fb45d113658c": "<p>Mc 12,38-39; Lc 11,43; 20,46 [<a href=\"#fnref-1@-d8e098a1-15e1-40fe-9c4b-fb45d113658c\">1@</a>]</p>",
+    "fn-2@-d8e098a1-15e1-40fe-9c4b-fb45d113658c": "<p>Lc 11,46 [<a href=\"#fnref-2@-d8e098a1-15e1-40fe-9c4b-fb45d113658c\">2@</a>]</p>",
+    "fn-3@-d8e098a1-15e1-40fe-9c4b-fb45d113658c": "<p>Lc 14,11 [<a href=\"#fnref-3@-d8e098a1-15e1-40fe-9c4b-fb45d113658c\">3@</a>]</p>",
+    "fn-4@-d8e098a1-15e1-40fe-9c4b-fb45d113658c": "<p>Mc 12,40; Lc 11,12; 20,47 [<a href=\"#fnref-4@-d8e098a1-15e1-40fe-9c4b-fb45d113658c\">4@</a>]</p>",
+    "fn-5@-d8e098a1-15e1-40fe-9c4b-fb45d113658c": "<p>Lc 16,15 [<a href=\"#fnref-5@-d8e098a1-15e1-40fe-9c4b-fb45d113658c\">5@</a>]</p>",
+    "fn-6@-d8e098a1-15e1-40fe-9c4b-fb45d113658c": "<p>Lc 11,49-51 [<a href=\"#fnref-6@-d8e098a1-15e1-40fe-9c4b-fb45d113658c\">6@</a>]</p>",
+    "fn-7@-d8e098a1-15e1-40fe-9c4b-fb45d113658c": "<p>Mt 3,7; 12,34 [<a href=\"#fnref-7@-d8e098a1-15e1-40fe-9c4b-fb45d113658c\">7@</a>]</p>",
+    "fn-8@-d8e098a1-15e1-40fe-9c4b-fb45d113658c": "<p>Mt 27,25 [<a href=\"#fnref-8@-d8e098a1-15e1-40fe-9c4b-fb45d113658c\">8@</a>]</p>",
+    "fn-9@-d8e098a1-15e1-40fe-9c4b-fb45d113658c": "<p>2 Sb 24,20-22 [<a href=\"#fnref-9@-d8e098a1-15e1-40fe-9c4b-fb45d113658c\">9@</a>]</p>",
+    "fn-10@-d8e098a1-15e1-40fe-9c4b-fb45d113658c": "<p>Lc 13,34-35 [<a href=\"#fnref-10@-d8e098a1-15e1-40fe-9c4b-fb45d113658c\">10@</a>]</p>",
+    "fn-11@-d8e098a1-15e1-40fe-9c4b-fb45d113658c": "<p>Mc 11,9 [<a href=\"#fnref-11@-d8e098a1-15e1-40fe-9c4b-fb45d113658c\">11@</a>]</p>"
+  }
+}

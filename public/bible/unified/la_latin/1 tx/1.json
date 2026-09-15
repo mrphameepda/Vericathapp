@@ -1,0 +1,46 @@
+{
+  "book": "1 tx",
+  "chapter": 1,
+  "verses": [
+    {
+      "verseNumber": 1,
+      "textEn": "Paulus et Silvanus et Timotheus ecclesiae Thessalonicensium in Deo Patre et Domino Iesu Christo: gratia vobis et pax."
+    },
+    {
+      "verseNumber": 2,
+      "textEn": "Gratias agimus Deo semper pro omnibus vobis, memoriam facientes in orationibus nostris, sine intermissione;"
+    },
+    {
+      "verseNumber": 3,
+      "textEn": "memores operis fidei vestrae et laboris caritatis et sustinentiae spei Domini nostri Iesu Christi ante Deum et Patrem nostrum;"
+    },
+    {
+      "verseNumber": 4,
+      "textEn": "scientes, fratres, dilecti a Deo, electionem vestram,"
+    },
+    {
+      "verseNumber": 5,
+      "textEn": "quia evangelium nostrum non fuit ad vos in sermone tantum sed et in virtute et in Spiritu Sancto et in plenitudine multa, sicut scitis quales fuerimus vobis propter vos."
+    },
+    {
+      "verseNumber": 6,
+      "textEn": "Et vos imitatores nostri facti estis et Domini, excipientes verbum in tribulatione multa cum gaudio Spiritus Sancti,"
+    },
+    {
+      "verseNumber": 7,
+      "textEn": "ita ut facti sitis forma omnibus credentibus in Macedonia et in Achaia."
+    },
+    {
+      "verseNumber": 8,
+      "textEn": "A vobis enim diffamatus est sermo Domini non solum in Macedonia et in Achaia, sed in omni loco fides vestra, quae est ad Deum, profecta est, ita ut non sit nobis necesse quidquam loqui;"
+    },
+    {
+      "verseNumber": 9,
+      "textEn": "ipsi enim de nobis annuntiant qualem introitum habuerimus ad vos, et quomodo conversi estis ad Deum a simulacris, servire Deo vivo et vero"
+    },
+    {
+      "verseNumber": 10,
+      "textEn": "et exspectare Filium eius de caelis, quem suscitavit ex mortuis, Iesum, qui eripit nos ab ira ventura."
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "book": "et",
+  "chapter": 7,
+  "verses": [
+    {
+      "verseNumber": 1,
+      "textEn": "Kuningas ja Haman menivät kuningatar Esterin pitoihin."
+    },
+    {
+      "verseNumber": 2,
+      "textEn": "Kuningas nousi vihoissaan kesken juominkien ja meni sisäpihan puutarhaan, kun taas Haman jäi paikalle rukoillakseen kuningatarta säästämään hänen henkensä, sillä hän käsitti, että kuningas oli jo päättänyt hänen kohtalostaan."
+    },
+    {
+      "verseNumber": 3,
+      "textEn": "Vasta kun Haman oli ripustettu hirsipuuhun, jonka hän oli pystyttänyt Mordokaita varten, lauhtui kuninkaan viha."
+    }
+  ]
+}

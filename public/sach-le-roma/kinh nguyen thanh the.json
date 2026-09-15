@@ -1,0 +1,1731 @@
+{
+  "phan_muc": "KINH NGUYỆN THÁNH THỂ",
+  "cac_mau_tuy_chon": [
+    {
+      "ma_dinh_danh": "kntt-1",
+      "ten_mau": "KINH NGUYỆN THÁNH THỂ I",
+      "chi_dan_do_mau": "Sau khi đọc hoặc hát kinh: Thánh! Thánh! Thánh! xong.",
+      "danh_sach_hanh_dong": [
+        {
+          "chi_dan_do": "Linh mục dang tay đọc:",
+          "vai_tro": "Chủ tế",
+          "loi_doc": "Lạy Cha rất nhân từ, nhờ Đức Giêsu Ki-tô, Con Cha Chúa chúng con,"
+        },
+        {
+          "chi_dan_do": "Chắp tay và đọc:",
+          "vai_tro": "Chủ tế",
+          "loi_doc": "chúng con khẩn khoản nài xin Cha thương nhận"
+        },
+        {
+          "chi_dan_do": "Làm một dấu Thánh giá trên cả bánh và chén thánh khi đọc:",
+          "vai_tro": "Chủ tế",
+          "loi_doc": "Và ban phúc † cho những của lễ hiến dâng, của lễ thượng tiến, của lễ hy sinh tinh tuyền và thánh thiện này."
+        },
+        {
+          "chi_dan_do": "Dang tay đọc tiếp",
+          "vai_tro": "Chủ tế",
+          "loi_doc": "Chúng con dâng lên Cha để cầu cách riêng cho Hội Thánh của Cha, xin Cha thương ban bình an, giữ gìn, hợp nhất và cai quản Hội Thánh Công Giáo khắp hoàn cầu: đồng thời cũng cầu cho tôi tớ của Cha là Đức Giáo Hoàng (...), Đức Giám Mục (...) chúng con, và mọi đấng trung thành gìn giữ đức tin công giáo và tông truyền."
+        },
+        {
+          "chi_dan_do": "Đồng tế 1: Cầu cho người còn sống.",
+          "vai_tro": "Đồng tế 1",
+          "loi_doc": "Lạy Chúa, xin nhớ đến (những) tôi tớ của Chúa là T... (và T...)"
+        },
+        {
+          "chi_dan_do": "Chắp tay cầu nguyện giây lát cho những người linh mục có ý cầu nguyện cho, đoạn giơ tay đọc tiếp:",
+          "vai_tro": "Đồng tế 1",
+          "loi_doc": "Và mọi người đang sum họp nơi đây, mà Chúa biết rõ lòng tin kính và sùng mộ. Chúng con dâng thay hoặc chính họ dâng lên Chúa hy lễ ca tụng này cầu cho mình và cho mọi người thân thuộc: hầu linh hồn được cứu chuộc, thân xác được an lành mạnh khoẻ như lòng mong ước: Như vậy, họ được tôn vinh Chúa là Thiên Chúa thật, hằng hữu và hằng sống."
+        },
+        {
+          "chi_dan_do": "Đồng tế 2: Hiệp thông cùng Hội Thánh.",
+          "vai_tro": "Đồng tế 2",
+          "loi_doc": "Hiệp thông cùng Hội Thánh, chúng con kính nhớ: † Trước hết Đức Ma-ri-a vinh hiển, trọn đời đồng trinh, Mẹ của Đức Giêsu Ki-tô, là Thiên Chúa, và là Chúa chúng con; sau là thánh Giu-se, bạn trăm năm Đức Trinh Nữ, các thánh Tông Đồ và các thánh tử đạo, thánh Phê-rô và Phao-lô, An-rê, (Gia-cô-bê, Gio-an, Tô-ma,...), cùng toàn thể các thánh, vì công nghiệp và lời cầu khẩn của các ngài, xin Chúa phù hộ chúng con trong mọi sự. (Nhờ Đức Kitô, Chúa chúng con. Amen)."
+        },
+        {
+          "chi_dan_do": "CÁC KINH HIỆP THÔNG RIÊNG\nLễ Giáng Sinh và Tuần Bát Nhật",
+          "vai_tro": "Chủ tế",
+          "loi_doc": "Hiệp thông cùng Hội Thánh, chúng con mừng ngày (đêm) cực thánh, là ngày (đêm) Đức Ma-ri-a đã sinh Đấng Cứu Thế cho trần gian mà vẫn trinh khiết vẹn tuyền. Và chúng con kính nhớ: † Trước hết Đức Ma-ri-a vinh hiển, trọn đời đồng trinh, Mẹ của Đức Giêsu Ki-tô, là Thiên Chúa, và là Chúa chúng con; sau là thánh Giu-se, Bạn trăm năm Đức Trinh Nữ, các thánh Tông Đồ và các thánh tử đạo, thánh Phê-rô và Phao-lô, An-rê, (Gia-cô-bê, Gio-an, Tô-ma,...), cùng toàn thể các thánh, vì công nghiệp và lời cầu khẩn của các ngài, xin Chúa phù hộ chúng con trong mọi sự. (Nhờ Đức Kitô, Chúa chúng con. Amen)."
+        },
+        {
+          "chi_dan_do": "Lễ Hiển Linh",
+          "vai_tro": "Chủ tế",
+          "loi_doc": "Hiệp cùng Hội Thánh, chúng con mừng ngày cực thánh là ngày Con Một Chúa, đồng hằng hữu với Chúa trong vinh quang, đã xuất hiện hữu hình, mang xác phàm thật sự như chúng con. Và chúng con kính nhớ: † Trước hết Đức Ma-ri-a vinh hiển, trọn đời đồng trinh, Mẹ của Đức Giêsu Ki-tô, là Thiên Chúa, và là Chúa chúng con; sau là thánh Giu-se, Bạn trăm năm Đức Trinh Nữ, các thánh Tông Đồ và các thánh tử đạo, thánh Phê-rô và Phao-lô, An-rê, (Gia-cô-bê, Gio-an, Tô-ma,...), cùng toàn thể các thánh, vì công nghiệp và lời cầu khẩn của các ngài, xin Chúa phù hộ chúng con trong mọi sự. (Nhờ Đức Kitô, Chúa chúng con. Amen)."
+        },
+        {
+          "chi_dan_do": "Từ lễ Vọng Phục Sinh đến Chúa Nhật 2 Phục Sinh",
+          "vai_tro": "Chủ tế",
+          "loi_doc": "Hiệp thông cùng Hội Thánh, chúng con mừng đêm (ngày) cực thánh, là đêm (ngày) Đức Giêsu Ki-tô, Chúa chúng con, đã sống lại về phần xác. Và chúng con kính nhớ: † Trước hết Đức Ma-ri-a vinh hiển, trọn đời đồng trinh, Mẹ của Đức Giêsu Ki-tô, là Thiên Chúa, và là Chúa chúng con; sau là thánh Giu-se, bạn trăm năm Đức Trinh Nữ, các thánh Tông Đồ và các thánh tử đạo, thánh Phê-rô và Phao-lô, An-rê, (Gia-cô-bê, Gio-an, Tô-ma,...), cùng toàn thể các thánh, vì công nghiệp và lời cầu khẩn của các ngài, xin Chúa phù hộ chúng con trong mọi sự. (Nhờ Đức Kitô, Chúa chúng con. Amen)."
+        },
+        {
+          "chi_dan_do": "Lễ Thăng Thiên",
+          "vai_tro": "Chủ tế",
+          "loi_doc": "Hiệp thông cùng Hội Thánh, chúng con mừng ngày cực thánh, là ngày Con một Chúa, Chúa chúng con, đem thân thể yếu hèn của chúng con đã được kết hợp với Người, về ngự bên hữu Chúa vinh quang, và chúng con kính nhớ: † Trước hết Đức Ma-ri-a vinh hiển, trọn đời đồng trinh, Mẹ của Đức Giêsu Ki-tô, là Thiên Chúa, và là Chúa chúng con; sau là thánh Giu-se, bạn trăm năm Đức Trinh Nữ, các thánh Tông Đồ và các thánh tử đạo, thánh Phê-rô và Phao-lô, An-rê, (Gia-cô-bê, Gio-an, Tô-ma,...), cùng toàn thể các thánh, vì công nghiệp và lời cầu khẩn của các ngài, xin Chúa phù hộ chúng con trong mọi sự. (Nhờ Đức Kitô, Chúa chúng con. Amen)."
+        },
+        {
+          "chi_dan_do": "Lễ Hiện Xuống",
+          "vai_tro": "Chủ tế",
+          "loi_doc": "Hiệp thông cùng Hội Thánh, chúng con mừng ngày cực thánh, là ngày Chúa Thánh Thần lấy hình lưỡi lửa hiện xuống trên các Tông Đồ, và chúng con kính nhớ: † Trước hết Đức Ma-ri-a vinh hiển, trọn đời đồng trinh, Mẹ của Đức Giêsu Ki-tô, là Thiên Chúa, và là Chúa chúng con; sau là thánh Giu-se, bạn trăm năm Đức Trinh Nữ, các thánh Tông Đồ và các thánh tử đạo, thánh Phê-rô và Phao-lô, An-rê, (Gia-cô-bê, Gio-an, Tô-ma,...), cùng toàn thể các thánh, vì công nghiệp và lời cầu khẩn của các ngài, xin Chúa phù hộ chúng con trong mọi sự. (Nhờ Đức Kitô, Chúa chúng con. Amen)."
+        },
+        {
+          "chi_dan_do": "Chủ tế dang tay đọc tiếp:",
+          "vai_tro": "Chủ tế",
+          "loi_doc": "Vì vậy, lạy Chúa, xin vui lòng chấp nhận lễ vật của chúng con là tôi tớ Chúa, và của toàn thể gia đình Chúa. Xin an bài cho đời chúng con được sống trong bình an của Chúa, cứu chúng con thoát khỏi án phạt đời đời và nhận chúng con vào đoàn những người Chúa chọn."
+        },
+        {
+          "chi_dan_do": "(Chắp tay)",
+          "vai_tro": "Chủ tế",
+          "loi_doc": "(Nhờ Đức Kitô, Chúa chúng con. Amen)."
+        },
+        {
+          "chi_dan_do": "Từ vọng Phục Sinh đến Chúa Nhật 2 Phục Sinh thì đọc:",
+          "vai_tro": "Chủ tế",
+          "loi_doc": "Vì vậy, lạy Chúa, xin vui lòng chấp nhận lễ vật của chúng con là tôi tớ Chúa, và của toàn thể gia đình Chúa, chúng con dâng lên Chúa lễ vật này cũng để cầu cho những người Chúa đã thương tái sinh bởi nước và Thánh Thần, tha thứ mọi tội lỗi cho họ, xin an bài cho đời chúng con được sống trong bình an của Chúa, cứu chúng con thoát khỏi án phạt đời đời và nhận chúng con vào đoàn những người Chúa chọn."
+        },
+        {
+          "chi_dan_do": "Chắp tay",
+          "vai_tro": "Chủ tế",
+          "loi_doc": "(Nhờ Đức Kitô, Chúa chúng con. Amen)."
+        },
+        {
+          "chi_dan_do": "Linh mục sáp hai bàn tay lại, đặt trên lễ vật và đọc:",
+          "vai_tro": "Chủ tế",
+          "loi_doc": "Lạy Chúa, xin thương ban phúc, chấp nhận, chuẩn y, làm cho những lễ vật này được hoàn hảo và đẹp lòng Chúa, hầu trở nên cho chúng con Mình và Máu Con chí ái của Chúa là Đức Giêsu Ki-tô, Chúa chúng con."
+        },
+        {
+          "chi_dan_do": "Hôm trước ngày chịu khổ hình, (chủ tế cầm bánh) Người cầm bánh trong tay thánh thiện, khả kính, (ngước mắt lên) ngước mắt lên trời, hướng về Chúa là Cha toàn năng của Người, tạ ơn Chúa, dâng lời chúc tụng, bẻ ra và trao cho các môn đệ mà nói: (hơi cúi mình)",
+          "vai_tro": "Chủ tế",
+          "loi_doc": "TẤT CẢ CÁC CON HÃY NHẬN LẤY MÀ ĂN: VÌ NÀY LÀ MÌNH THẦY SẼ BỊ NỘP VÌ CÁC CON."
+        },
+        {
+          "chi_dan_do": "Linh mục nâng cao bánh đã truyền phép, nâng cao cho cộng đoàn thấy, rồi lại đặt xuống trên đĩa thánh, cúi mình sâu thờ lạy, rồi đọc tiếp:",
+          "vai_tro": "Chủ tế",
+          "loi_doc": "Cùng một thể thức ấy, sau bữa ăn tối,"
+        },
+        {
+          "chi_dan_do": "Linh mục cầm chén thánh, nâng lên khỏi bàn thờ một chút và đọc tiếp:",
+          "vai_tro": "Chủ tế",
+          "loi_doc": "Người cầm chén quý trọng này trong tay thánh thiện, khả kính, cũng tạ ơn Chúa, dâng lời chúc tụng, và trao cho các môn đệ và nói:"
+        },
+        {
+          "chi_dan_do": "Hơi cúi mình",
+          "vai_tro": "Chủ tế",
+          "loi_doc": "TẤT CẢ CÁC CON HÃY NHÂN LẤY MÀ UỐNG: VÌ NÀY LÀ CHÉN MÁU THẦY, MÁU GIAO ƯỚC MỚI VÀ VĨNH CỬU SẼ ĐỔ RA CHO CÁC CON VÀ NHIỀU NGƯỜI ĐƯỢC THA TỘI. CÁC CON HÃY LÀM VIỆC NÀY MÀ NHỚ ĐẾN THẦY."
+        },
+        {
+          "chi_dan_do": "Linh mục nâng chén thánh lên cho cộng đoàn thấy, rồi lại đặt xuống trên khăn thánh và cúi mình sâu thờ lạy, rồi xướng:",
+          "vai_tro": "Chủ tế",
+          "loi_doc": "Đây là mầu nhiệm đức tin."
+        },
+        {
+          "chi_dan_do": "Giáo dân tung hô:",
+          "vai_tro": "Cộng đoàn",
+          "loi_doc": "Lạy Chúa, chúng con loan truyền Chúa chịu chết, và tuyên xưng Chúa sống lại, cho tới khi Chúa đến."
+        },
+        {
+          "chi_dan_do": "Hoặc:",
+          "vai_tro": "Cộng đoàn",
+          "loi_doc": "Lạy Chúa, mỗi lần ăn bánh và uống chén này, chúng con loan truyền Chúa chịu chết, cho tới khi Chúa đến."
+        },
+        {
+          "chi_dan_do": "Hoặc:",
+          "vai_tro": "Cộng đoàn",
+          "loi_doc": "Lạy Chúa Cứu Thế, Chúa đã dùng thánh giá và sự phục sinh của Chúa để giải thoát chúng con, xin cứu độ chúng con."
+        },
+        {
+          "chi_dan_do": "Sau đó, linh mục dang tay đọc:",
+          "vai_tro": "Chủ tế",
+          "loi_doc": "Vì vậy, lạy Chúa, chúng con là tôi tớ Chúa, và toàn thể dân thánh Chúa, kính nhớ cuộc khổ hình hồng phúc, sự sống lại từ cõi chết và lên trời vinh hiển của Đức Ki-tô, Con Chúa, Chúa chúng con. Chúng con lựa chọn trong những của Chúa đã ban mà dâng lên trước tôn nhan uy linh Chúa: lễ vật thanh khiết, lễ vật thánh thiện, lễ vật tinh tuyền, bánh thánh ban sự sống vĩnh cửu và chén cứu độ muôn đời. Xin Chúa ghé mắt nhân từ và khoan hậu nhìn đến những lễ vật này, và thương nhận như đã nhận lễ vật của A-ben tôi trung của Chúa, hy lễ của Áp-ra-ham, tổ phụ chúng con, hy lễ thánh thiện và lễ vật tinh tuyền của Men-ki-xê-đê, Thượng tế của Chúa."
+        },
+        {
+          "chi_dan_do": "Linh mục cúi mình, chắp tay đọc tiếp:",
+          "vai_tro": "Chủ tế",
+          "loi_doc": "Lạy Chúa toàn năng, chúng con nài xin Chúa sai Sứ thần dâng lễ vật này lên bàn thờ cao sang trước tôn nhan uy linh Chúa, để hết thảy khi tham dự bàn tiệc này là rước Mình và Máu cực Thánh Con Chúa,"
+        },
+        {
+          "chi_dan_do": "Đứng thẳng, làm dấu thánh giá trên mình và đọc:",
+          "vai_tro": "Chủ tế",
+          "loi_doc": "chúng con được † tràn đầy ơn phúc bởi trời."
+        },
+        {
+          "chi_dan_do": "Chắp tay",
+          "vai_tro": "Chủ tế",
+          "loi_doc": "(Nhờ Đức Kitô, Chúa chúng con. Amen)."
+        },
+        {
+          "chi_dan_do": "Đồng tế 1: Cầu cho người đã qua đời. Linh mục dang tay đọc:",
+          "vai_tro": "Đồng tế 1",
+          "loi_doc": "Lạy Chúa, xin cũng nhớ đến (các) tôi tớ Chúa là T... (và T...) được ghi dấu đức tin, đã ra đi trước chúng con và đang nghỉ giấc bình an."
+        },
+        {
+          "chi_dan_do": "Chắp tay cầu nguyện một lát, rồi dang tay đọc tiếp:",
+          "vai_tro": "Đồng tế 1",
+          "loi_doc": "Lạy Chúa, chúng con xin Chúa thương ban cho các tín hữu ấy, và tất cả mọi người, đặc biệt các bậc tổ tiên, ông bà, cha mẹ và thân bằng quyến thuộc chúng con đã an nghỉ trong Đức Ki-tô, được vào nơi hạnh phúc sáng láng và bình an."
+        },
+        {
+          "chi_dan_do": "Chắp tay",
+          "vai_tro": "Đồng tế 1",
+          "loi_doc": "(Nhờ Đức Kitô, Chúa chúng con. Amen)."
+        },
+        {
+          "chi_dan_do": "Tay mặt đấm ngực và đọc:",
+          "vai_tro": "Chủ tế",
+          "loi_doc": "Xin cũng cho chúng con là tôi tớ tội lỗi,"
+        },
+        {
+          "chi_dan_do": "Rồi dang tay đọc tiếp:",
+          "vai_tro": "Chủ tế",
+          "loi_doc": "đang hy vọng vào lượng từ bi hải hà của Chúa, được thông phần với cộng đoàn các thánh Tông Đồ và các Thánh Tử Đạo: thánh Gio-an Tẩy Giả, Tê-pha-nô, Mát-thi-a, Ba-na-ba,... và toàn thể các thánh. Xin Chúa đừng xét theo công nghiệp chúng con, nhưng rộng lòng tha thứ mà cho chúng con được đồng phận với các ngài, (chắp tay đọc tiếp) nhờ Đức Ki-tô, Chúa chúng con. Lạy Chúa, nhờ Người, Chúa hằng sáng tạo, thánh hoá, ban sinh lực, giáng phúc và phân phát cho chúng con tất cả những lễ vật này."
+        },
+        {
+          "chi_dan_do": "Linh mục cầm đĩa thánh có bánh thánh và chén thánh, nâng cả hai lên lên và đọc:",
+          "vai_tro": "Chủ tế",
+          "loi_doc": "Chính nhờ Người, với Người và trong Người, mà mọi danh dự và vinh quang đều qui về Chúa là Cha toàn năng, trong sự hợp nhất của Chúa Thánh Thần đến muôn đời."
+        },
+        {
+          "chi_dan_do": "Cộng đoàn tung hô:",
+          "vai_tro": "Cộng đoàn",
+          "loi_doc": "Amen."
+        }
+      ]
+    },
+    {
+      "ma_dinh_danh": "kntt-2",
+      "ten_mau": "KINH NGUYỆN THÁNH THỂ II",
+      "chi_dan_do_mau": "Dù có kinh tiền tụng riêng, Kinh nguyện Thánh Thể này có thể dùng với các kinh tiền tụng khác, đặc biệt là những kinh trình bày tóm lược mầu nhiệm cứu độ, ví dụ các kinh tiền tụng chung.",
+      "danh_sach_hanh_dong": [
+        {
+          "chi_dan_do": "X.",
+          "vai_tro": "X",
+          "loi_doc": "Chúa ở cùng anh chị em."
+        },
+        {
+          "chi_dan_do": "Đ.",
+          "vai_tro": "Đ",
+          "loi_doc": "Và ở cùng cha."
+        },
+        {
+          "chi_dan_do": "X.",
+          "vai_tro": "X",
+          "loi_doc": "Hãy nâng tâm hồn lên."
+        },
+        {
+          "chi_dan_do": "Đ.",
+          "vai_tro": "Đ",
+          "loi_doc": "Chúng con đang hướng về Chúa."
+        },
+        {
+          "chi_dan_do": "X.",
+          "vai_tro": "X",
+          "loi_doc": "Hãy tạ ơn Chúa là Thiên Chúa chúng ta."
+        },
+        {
+          "chi_dan_do": "Đ.",
+          "vai_tro": "Đ",
+          "loi_doc": "Thật là chính đáng."
+        },
+        {
+          "vai_tro": "Chủ tế",
+          "loi_doc": "Lạy Cha chí thánh, nhờ Con yêu quý của Cha là Chúa Giêsu Kitô, chúng con tạ ơn Cha mọi nơi mọi lúc, thật là chính đáng, phải đạo và đem lại ơn cứu độ cho chúng con. Người là Ngôi Lời của Cha, nhờ Người, Cha đã tạo dựng muôn loài, Người được Cha sai đến làm Đấng Cứu Độ và Chuộc Tội chúng con. Người đã nhập thể bởi phép Chúa Thánh Thần, và được Đức Trinh Nữ sinh ra. Để chu toàn thánh ý Cha, và để gầy dựng cho Cha một dân tộc thánh thiện, Người đã dang tay chịu khổ hình, để tiêu diệt sự chết và biểu hiện sự sống lại. Vì thế, cùng với các Thiên thần và toàn thể các Thánh, chúng con ca tụng vinh quang Cha, và đồng thanh tung hô rằng:"
+        },
+        {
+          "vai_tro": "Cộng đoàn",
+          "loi_doc": "Thánh! Thánh! Thánh! Chúa là Thiên Chúa các đạo binh. Trời đất đầy vinh quang Chúa. Hoan hô Chúa trên các tầng trời. Chúc tụng Đấng ngự đến nhân danh Chúa. Hoan hô Chúa trên các tầng trời."
+        },
+        {
+          "chi_dan_do": "Linh mục dang tay đọc:",
+          "vai_tro": "Chủ tế",
+          "loi_doc": "Lạy Chúa, Chúa thật là Đấng Thánh, là nguồn mọi sự thánh thiện."
+        },
+        {
+          "chi_dan_do": "Linh mục sáp hai bàn tay lại, đặt tay trên lễ vật và đọc:",
+          "vai_tro": "Chủ tế",
+          "loi_doc": "Vì thế, chúng con nài xin Chúa dùng ơn Thánh Thần Chúa thánh hoá những của lễ này,"
+        },
+        {
+          "chi_dan_do": "Chắp tay rồi làm một dấu Thánh giá trên cả bánh và chén thánh khi đọc:",
+          "vai_tro": "Chủ tế",
+          "loi_doc": "để trở nên cho chúng con, Mình và † Máu Đức Giê-su Ki-tô, Chúa chúng con."
+        },
+        {
+          "chi_dan_do": "Chắp tay. Khi tự nguyện nộp mình chịu khổ hình, Linh mục cầm lấy bánh, nâng lên khỏi bàn thờ một chút và đọc tiếp:",
+          "vai_tro": "Chủ tế",
+          "loi_doc": "Người cầm lấy bánh, tạ ơn, bẻ ra và trao cho các môn đệ mà nói:"
+        },
+        {
+          "chi_dan_do": "Hơi cúi mình",
+          "vai_tro": "Chủ tế",
+          "loi_doc": "TẤT CẢ CÁC CON HÃY NHẬN LẤY MÀ ĂN: VÌ NÀY LÀ MÌNH THẦY, SẼ BỊ NỘP VÌ CÁC CON."
+        },
+        {
+          "chi_dan_do": "Linh mục cầm bánh đã truyền phép, nâng lên cho cộng đoàn thấy, rồi lại đặt xuống trên đĩa thánh, cúi mình sâu thờ lạy, rồi đọc tiếp:",
+          "vai_tro": "Chủ tế",
+          "loi_doc": "Cùng một thể thức ấy, sau bữa ăn tối, Người cầm lấy chén, cũng tạ ơn, trao cho các môn đệ mà nói:"
+        },
+        {
+          "chi_dan_do": "Hơi cúi mình",
+          "vai_tro": "Chủ tế",
+          "loi_doc": "TẤT CẢ CÁC CON HÃY NHẬN LẤY MÀ UỐNG: VÌ NÀY LÀ CHÉN MÁU THẦY, MÁU GIAO ƯỚC MỚI VÀ VĨNH CỬU, SẼ ĐỔ RA CHO CÁC CON VÀ NHIỀU NGƯỜI ĐƯỢC THA TỘI. CÁC CON HÃY LÀM VIỆC NÀY MÀ NHỚ ĐẾN THẦY."
+        },
+        {
+          "chi_dan_do": "Linh mục nâng chén thánh lên cho cộng đoàn thấy, rồi lại đặt xuống trên khăn thánh và cúi mình sâu thờ lạy, rồi xướng:",
+          "vai_tro": "Chủ tế",
+          "loi_doc": "Đây là mầu nhiệm đức tin."
+        },
+        {
+          "chi_dan_do": "Cộng đoàn tung hô theo:",
+          "vai_tro": "Cộng đoàn",
+          "loi_doc": "Lạy Chúa, chúng con loan truyền Chúa chịu chết, và tuyên xưng Chúa sống lại, cho tới khi Chúa đến."
+        },
+        {
+          "chi_dan_do": "Hoặc:",
+          "vai_tro": "Cộng đoàn",
+          "loi_doc": "Lạy Chúa, mỗi lần ăn bánh và uống chén này, chúng con loan truyền Chúa chịu chết, cho tới khi Chúa đến."
+        },
+        {
+          "chi_dan_do": "Hoặc:",
+          "vai_tro": "Cộng đoàn",
+          "loi_doc": "Lạy Chúa Cứu Thế, Chúa đã dùng thánh giá và sự phục sinh của Chúa để giải thoát chúng con, xin cứu độ chúng con."
+        },
+        {
+          "chi_dan_do": "Linh mục dang tay đọc:",
+          "vai_tro": "Chủ tế",
+          "loi_doc": "Vì vậy, lạy Chúa, khi kính nhớ Con Chúa chịu chết và sống lại, chúng con dâng lên Chúa bánh trường sinh và chén cứu độ để tạ ơn Chúa, vì Chúa đã thương cho chúng con được xứng đáng hầu cận trước Tôn Nhan và phụng sự Chúa. Chúng con tha thiết nài xin Chúa cho chúng con khi thông phần Mình và Máu Đức Ki-tô, được quy tụ nên một nhờ Chúa Thánh Thần."
+        },
+        {
+          "chi_dan_do": "Đồng tế 1:",
+          "vai_tro": "Đồng tế 1",
+          "loi_doc": "Lạy Chúa, xin nhớ đến Hội Thánh Chúa lan rộng khắp hoàn cầu, để kiện toàn Hội Thánh trong đức mến, cùng với Đức Giáo Hoàng (...), Đức Giám Mục (...), chúng con và toàn thể hàng giáo sĩ. Xin nhớ đến tôi tớ Chúa là T... mà (hôm nay) Chúa đã gọi ra khỏi đời này về với Chúa. Xin ban cho kẻ đã chết như Con Chúa, thì cũng được sống lại như Người."
+        },
+        {
+          "chi_dan_do": "Đồng tế 2:",
+          "vai_tro": "Đồng tế 2",
+          "loi_doc": "Xin Chúa cũng nhớ đến anh chị em chúng con đang an nghỉ trong niềm hy vọng sống lại, và mọi người, đặc biệt các bậc tổ tiên, ông bà, cha mẹ và thân bằng quyến thuộc chúng con đã ly trần trong tình thương của Chúa. Xin cho hết thảy được vào hưởng ánh sáng tôn nhan Chúa. Chúng con nài xin Chúa thương xót tất cả chúng con, cho chúng con được đồng hưởng sự sống đời đời, cùng với Đức Trinh Nữ Maria, Mẹ Thiên Chúa, thánh Giuse, Bạn trăm năm Đức Trinh Nữ, các Thánh Tông Đồ, và toàn thể các Thánh đã sống đẹp lòng Chúa qua mọi thời đại, và cùng với các Ngài, chúng con được ca ngợi và tôn vinh Chúa,"
+        },
+        {
+          "chi_dan_do": "Chắp tay",
+          "vai_tro": "Đồng tế 2",
+          "loi_doc": "nhờ Đức Giê-su Ki-tô, Con Chúa."
+        },
+        {
+          "chi_dan_do": "Linh mục cầm đĩa thánh có bánh thánh và chén thánh, nâng cả hai lên và đọc:",
+          "vai_tro": "Chủ tế",
+          "loi_doc": "Chính nhờ Người, với Người và trong Người, mà mọi danh dự và vinh quang đều qui về Chúa là Cha toàn năng, trong sự hợp nhất của Chúa Thánh Thần đến muôn đời."
+        },
+        {
+          "chi_dan_do": "Cộng đoàn tung hô:",
+          "vai_tro": "Cộng đoàn",
+          "loi_doc": "Amen."
+        }
+      ]
+    },
+    {
+      "ma_dinh_danh": "kntt-3",
+      "ten_mau": "KINH NGUYỆN THÁNH THỂ III",
+      "danh_sach_hanh_dong": [
+        {
+          "chi_dan_do": "X.",
+          "vai_tro": "X",
+          "loi_doc": "Chúa ở cùng anh chị em."
+        },
+        {
+          "chi_dan_do": "Đ.",
+          "vai_tro": "Đ",
+          "loi_doc": "Và ở cùng cha."
+        },
+        {
+          "chi_dan_do": "X.",
+          "vai_tro": "X",
+          "loi_doc": "Hãy nâng tâm hồn lên."
+        },
+        {
+          "chi_dan_do": "Đ.",
+          "vai_tro": "Đ",
+          "loi_doc": "Chúng con đang hướng về Chúa."
+        },
+        {
+          "chi_dan_do": "X.",
+          "vai_tro": "X",
+          "loi_doc": "Hãy tạ ơn Chúa là Thiên Chúa chúng ta."
+        },
+        {
+          "chi_dan_do": "Đ.",
+          "vai_tro": "Đ",
+          "loi_doc": "Thật là chính đáng."
+        },
+        {
+          "chi_dan_do": "Tiếp theo linh mục đọc kinh tiền tụng theo luật chữ đỏ, rồi kết thức bằng:",
+          "vai_tro": "Cộng đoàn",
+          "loi_doc": "Thánh! Thánh! Thánh! Chúa là Thiên Chúa các đạo binh. Trời đất đầy vinh quang Chúa. Hoan hô Chúa trên các tầng trời. Chúc tụng Đấng ngự đến nhân danh Chúa. Hoan hô Chúa trên các tầng trời."
+        },
+        {
+          "chi_dan_do": "Linh mục dang tay đọc:",
+          "vai_tro": "Chủ tế",
+          "loi_doc": "Lạy Chúa, Chúa thật là Đấng Thánh, và muôn vật Chúa đã tạo thành đều phải ca ngợi Chúa, vì nhờ Đức Giê-su Ki-tô, Con Chúa, Chúa chúng con, do quyền năng tác động của Chúa Thánh Thần, Chúa ban sự sống và thánh hóa mọi loài, và không ngừng quy tụ một dân riêng, để từ đông sang tây họ dâng lên Chúa một hiến lễ tinh tuyền."
+        },
+        {
+          "chi_dan_do": "Linh mục sáp hai bàn tay lại, đặt tay trên lễ vật và đọc:",
+          "vai_tro": "Chủ tế",
+          "loi_doc": "Vì vậy, lạy Chúa, chúng con tha thiết nài xin Chúa, nhờ cũng một Chúa Thánh Thần, đoái thương thánh hoá của lễ chúng con dâng tiến Chúa đây,"
+        },
+        {
+          "chi_dan_do": "Chắp tay rồi làm một dấu Thánh giá trên cả bánh và chén thánh khi đọc:",
+          "vai_tro": "Chủ tế",
+          "loi_doc": "để trở nên Mình và † Máu Đức Giê-su Ki-tô, Con Chúa, Chúa chúng con, (Chắp tay) thừa lệnh Người chúng con cử hành mầu nhiệm này."
+        },
+        {
+          "chi_dan_do": "Trong đêm bị trao nộp, Linh mục cầm bánh, nâng lên khỏi bàn thờ một chút và đọc tiếp",
+          "vai_tro": "Chủ tế",
+          "loi_doc": "chính Người cầm lấy bánh, tạ ơn Chúa, dâng lời chúc tụng, bẻ ra và trao cho các môn đệ mà nói:"
+        },
+        {
+          "chi_dan_do": "Hơi cúi mình",
+          "vai_tro": "Chủ tế",
+          "loi_doc": "TẤT CẢ CÁC CON HÃY NHẬN LẤY MÀ ĂN: VÌ NÀY LÀ MÌNH THẦY, SẼ BỊ NỘP VÌ CÁC CON."
+        },
+        {
+          "chi_dan_do": "Linh mục nâng cao bánh đã truyền phép, nâng cao cho cộng đoàn thấy, đặt lại trên đĩa thánh, cúi mình sâu thờ lạy, rồi đọc tiếp:",
+          "vai_tro": "Chủ tế",
+          "loi_doc": "Cùng một thể thức ấy, sau bữa ăn tối,"
+        },
+        {
+          "chi_dan_do": "Linh mục cầm chén thánh, nâng lên khỏi bàn thờ một chút và đọc tiếp:",
+          "vai_tro": "Chủ tế",
+          "loi_doc": "Người cầm lấy chén, tạ ơn Chúa, dâng lời chúc tụng, và trao cho các môn đệ mà nói:"
+        },
+        {
+          "chi_dan_do": "Hơi cúi mình",
+          "vai_tro": "Chủ tế",
+          "loi_doc": "TẤT CẢ CÁC CON HÃY NHẬN LẤY MÀ UỐNG: VÌ NÀY LÀ CHÉN MÁU THẦY, MÁU GIAO ƯỚC MỚI VÀ VĨNH CỬU, SẼ ĐỔ RA CHO CÁC CON VÀ NHIỀU NGƯỜI ĐƯỢC THA TỘI. CÁC CON HÃY LÀM VIỆC NÀY MÀ NHỚ ĐẾN THẦY."
+        },
+        {
+          "chi_dan_do": "Linh mục nâng chén thánh lên cho cộng đoàn thấy, đặt lại trên khăn thánh và cúi mình sâu thờ lạy, rồi xướng:",
+          "vai_tro": "Chủ tế",
+          "loi_doc": "Đây là mầu nhiệm đức tin."
+        },
+        {
+          "chi_dan_do": "Cộng đoàn tung hô theo:",
+          "vai_tro": "Cộng đoàn",
+          "loi_doc": "Lạy Chúa, chúng con loan truyền Chúa chịu chết, và tuyên xưng Chúa sống lại cho tới khi Chúa đến."
+        },
+        {
+          "chi_dan_do": "Hoặc:",
+          "vai_tro": "Cộng đoàn",
+          "loi_doc": "Lạy Chúa, mỗi lần ăn bánh và uống chén này, chúng con loan truyền Chúa chịu chết, cho tới khi Chúa đến."
+        },
+        {
+          "chi_dan_do": "Hoặc:",
+          "vai_tro": "Cộng đoàn",
+          "loi_doc": "Lạy Chúa Cứu Thế, Chúa đã dùng thánh giá và sự phục sinh của Chúa để giải thoát chúng con, xin cứu độ chúng con."
+        },
+        {
+          "chi_dan_do": "Linh mục dang tay đọc:",
+          "vai_tro": "Chủ tế",
+          "loi_doc": "Vì vậy, lạy Chúa, khi kính nhớ cuộc khổ hình sinh ơn cứu độ, sự sống lại và lên trời vinh hiển của Con Chúa, đồng thời mong đợi Người lại đến, chúng con dâng lên Chúa hy lễ hằng sống và thánh thiện này để tạ ơn Chúa. Chúng con nài xin Chúa đoái nhìn hiến lễ Hội Thánh dâng lên Chúa, và khi Chúa nhận đây chính là của lễ mà Chúa muốn hiến tế để nguôi lòng Chúa, xin cho chúng con được bổ dưỡng bởi Mình và Máu Con Chúa, và được tràn đầy Thánh Thần của Người, thì trở nên một thân thể và một tinh thần trong Đức Ki-tô."
+        },
+        {
+          "chi_dan_do": "Đồng tế 1:",
+          "vai_tro": "Đồng tế 1",
+          "loi_doc": "Nguyện xin Chúa Thánh Thần làm cho chúng con trở nên của lễ muôn đời dâng tiến Chúa, để chúng con được thừa hưởng gia nghiệp cùng với các người Chúa đã chọn, nhất là với Đức Trinh Nữ Ma-ri-a rất thánh, Mẹ Thiên Chúa, thánh Giuse, Bạn trăm năm Đức Trinh Nữ, các thánh tông đồ, và các thánh tử đạo hiển vinh, cùng với thánh T... (tên Thánh kính trong ngày, hay Thánh bổn mạng). Và toàn thể các thánh, vì chúng con tin tưởng các ngài luôn chuyển cầu cùng Chúa cho chúng con."
+        },
+        {
+          "chi_dan_do": "Đồng tế 2:",
+          "vai_tro": "Đồng tế 2",
+          "loi_doc": "Lạy Chúa, chúng con nguyện xin của lễ hoà giải này đem lại bình an và ơn cứu độ cho tất cả thế giới. Xin thương ban cho Hội Thánh Chúa trên đường lữ thứ trần gian được vững mạnh trong đức tin và đức mến cùng với tôi tớ Chúa là Đức Giáo Hoàng (...) và Đức Giám Mục (...) chúng con, cùng toàn thể hàng Giám mục, giáo sĩ khắp nơi, và tất cả dân riêng Chúa. Xin Cha thương nhận lời cầu của gia đình mà Cha đã muốn tụ họp trước Tôn Nhan Cha đây. Lạy Cha nhân từ, xin thương đoàn tụ mọi con cái Cha đang tản mác khắp nơi về với Cha. † Xin Cha thương đến anh chị em chúng con đã ly trần, và mọi người, đặc biệt các bấc tổ tiên, ông bà, cha mẹ và thân bằng quyến thuộc chúng con đã sống đẹp lòng Cha mà nay đã lìa cõi thế. Xin thương nhận hết thảy vào Nước Cha, nơi chúng con hy vọng sẽ tới, để cùng nhau tận hưởng vinh quang Cha muôn đời,"
+        },
+        {
+          "chi_dan_do": "Chắp tay",
+          "vai_tro": "Đồng tế 2",
+          "loi_doc": "Nhờ Đức Kitô, Chúa chúng con, nhờ Người, Cha rộng ban mọi ơn lành cho thế gian. †"
+        },
+        {
+          "chi_dan_do": "Khi dùng Kinh Nguyện Thánh Thể này trong lễ cầu cho người đã qua đời, có thể thay thế phần † như sau:",
+          "vai_tro": "Đồng tế 2",
+          "loi_doc": "† Lạy Cha xin nhớ đến (các) tôi tớ Cha là T... (và T...) mà (hôm nay) Cha đã gọi ra khỏi đời này về với Cha. Xin ban cho kẻ đã chết như Con Cha, thì cũng được sống lại như Người, khi Người cho xác kẻ chết sống lại từ bụi đất, và cho thân xác mọn hèn chúng con trở nên giống thân xác sáng láng của Người. Xin Cha thương đến anh chị em chúng con đã ly trần, và mọi người sống đẹp lòng Cha mà nay đã lìa cõi thế, đặc biệt các bậc tổ tiên, ông bà, cha mẹ và thân bằng quyến thuộc chúng con. Xin thương nhận hết thảy vào Nước Cha, nơi chúng con hy vọng sẽ tới để cùng nhau tận hưởng vinh quang Cha muôn đời, khi Cha lau sạch nước mắt chúng con, vì khi được thấy tường tận Cha là Thiên Chúa chúng con, thì muôn đời chúng con sẽ trở nên giống Cha, và sẽ ca ngợi Cha khôn cùng,"
+        },
+        {
+          "chi_dan_do": "Chắp tay",
+          "vai_tro": "Đồng tế 2",
+          "loi_doc": "nhờ Đức Ki-tô, Chúa chúng con, nhờ Người, Cha rộng ban mọi ơn lành cho thế gian.†"
+        },
+        {
+          "chi_dan_do": "Linh mục cầm đĩa thánh có bánh thánh và chén thánh, nâng cả hai lên và đọc:",
+          "vai_tro": "Chủ tế",
+          "loi_doc": "Chính nhờ Người, với Người và trong Người, mà mọi danh dự và vinh quang đều qui về Chúa là Cha toàn năng, trong sự hợp nhất của Chúa Thánh Thần đến muôn đời."
+        },
+        {
+          "chi_dan_do": "Cộng đoàn tung hô:",
+          "vai_tro": "Cộng đoàn",
+          "loi_doc": "Amen."
+        }
+      ]
+    },
+    {
+      "ma_dinh_danh": "kntt-4",
+      "ten_mau": "KINH NGUYỆN THÁNH THỂ IV",
+      "chi_dan_do_mau": "Không được thay thế kinh tiền tụng này, vì cấu trúc của kinh này trình bày tóm lược lịch sử cứu độ.",
+      "danh_sach_hanh_dong": [
+        {
+          "chi_dan_do": "X.",
+          "vai_tro": "X",
+          "loi_doc": "Chúa ở cùng anh chị em."
+        },
+        {
+          "chi_dan_do": "Đ.",
+          "vai_tro": "Đ",
+          "loi_doc": "Và ở cùng cha."
+        },
+        {
+          "chi_dan_do": "X.",
+          "vai_tro": "X",
+          "loi_doc": "Hãy nâng tâm hồn lên."
+        },
+        {
+          "chi_dan_do": "Đ.",
+          "vai_tro": "Đ",
+          "loi_doc": "Chúng con đang hướng về Chúa."
+        },
+        {
+          "chi_dan_do": "X.",
+          "vai_tro": "X",
+          "loi_doc": "Hãy tạ ơn Chúa là Thiên Chúa chúng ta."
+        },
+        {
+          "chi_dan_do": "Đ.",
+          "vai_tro": "Đ",
+          "loi_doc": "Thật là chính đáng."
+        },
+        {
+          "vai_tro": "Chủ tế",
+          "loi_doc": "Lạy Cha chí thánh, tạ ơn Cha thật là chính đáng, tôn vinh Cha thật là phải đạo, vì Cha là Thiên Chúa thật, duy nhất và hằng sống, ngự trị trong ánh sáng siêu phàm. Nhưng Cha cũng là Đấng duy nhất tốt lành và là nguồn mạch sự sống, đã tác tạo mọi loài để ban cho chúng đầy tràn ơn phúc, và cho nhiều thụ tạo vui hưởng ánh sáng huy hoàng của Cha. Vì thế, có vô số Thiên thần hầu cận trước nhan Cha, đêm ngày phụng sự Cha, chiêm ngưỡng Thánh Nhan Cha vinh hiển và không ngớt tôn vinh Cha. Hiệp cùng các ngài, chúng con và mọi thụ tạo dưới bầu trời, nhờ tiếng nói của chúng con, hân hoan tuyên xưng danh cha mà ca hát rằng:"
+        },
+        {
+          "vai_tro": "Cộng đoàn",
+          "loi_doc": "Thánh! Thánh! Thánh!..."
+        },
+        {
+          "chi_dan_do": "Linh mục dang tay đọc:",
+          "vai_tro": "Chủ tế",
+          "loi_doc": "Lạy Cha chí thánh, chúng con tuyên xưng Cha là Đấng cao cả, đã tác tạo mọi sự theo thượng trí và tình thương. Cha đã dựng nên con người giống hình ảnh Cha và trao cho việc trông coi vũ trụ, để khi phụng sự một mình Cha là Đấng Tạo Hoá, con người cai quản mọi loài thụ tạo. Và khi con người đã mất tình nghĩa với Cha vì bất phục tùng, Cha đã không bỏ mặc con người dưới quyền lực sự chết. Thật vậy, Cha đã thương cứu giúp mọi người, để những ai tìm Cha đều gặp Cha. Hơn nữa, nhiều lần Cha đã giao ước với loài người, và dùng các tiên tri mà dạy dỗ loài người đợi chờ ơn cứu độ. Lạy Cha chí thánh, Cha yêu thương thế gian, đến nỗi khi tới thời viên mãn, Cha đã sai Con Một đến làm Đấng cứu độ chúng con. Bởi phép Chúa Thánh Thần, Người đã nhập thể, và được Đức Trinh Nữ Maria sinh ra, đã sống trọn thân phận con người của chúng con, ngoại trừ tội lỗi, đã loan báo Tin Mừng cứu độ cho người nghèo khó, sự giải thoát cho kẻ bị giam cầm, niềm hân hoan cho người sầu khổ trong tâm hồn. Để chu toàn ý định của Cha, Người đã nộp mình chịu chết, và từ cõi chết sống lại, Người hủy diệt sự chết và canh tân sự sống. Và để chúng con không còn sống cho chính mình nữa, mà sống cho Đấng đã chết và sống lại vì chúng con, thì lạy Cha, từ nơi Cha, Người đã sai Chúa Thánh Thần như ân huệ khởi đầu đến với các tín hữu, để Chúa Thánh Thần kiện toàn công trình của Người nơi trần gian, và hoàn tất công việc thánh hoá."
+        },
+        {
+          "chi_dan_do": "Linh mục sáp hai bàn tay lại, đặt trên lễ vật và đọc:",
+          "vai_tro": "Chủ tế",
+          "loi_doc": "Vì vậy, lạy Chúa, chúng con nài xin Chúa cho Chúa Thánh Thần thương thánh hoá những của lễ này,"
+        },
+        {
+          "chi_dan_do": "Chắp tay rồi làm một dấu thánh giá trên cả bánh và chén thánh khi đọc:",
+          "vai_tro": "Chủ tế",
+          "loi_doc": "để trở nên Mình và Máu Đức Giêsu Kitô, Chúa chúng con,"
+        },
+        {
+          "chi_dan_do": "Chắp tay",
+          "vai_tro": "Chủ tế",
+          "loi_doc": "hầu chúng con cử hành mầu nhiệm cao cả, mà chính Người đã trối lại cho chúng con làm giao ước muôn đời."
+        },
+        {
+          "chi_dan_do": "Trong những công thức sau đây, các lời của Chúa phải được đọc rõ ràng, dõng dạc theo đặc tính từng lời. Vậy, Lạy Cha chí thánh, khi đến giờ Người được Cha tôn vinh, và vì yêu thương những kẻ thuộc về mình còn ở trần gian, Người đã yêu thương họ đến cùng, nên trong bữa ăn tối, Linh mục cầm lấy bánh, nâng lên khỏi bàn thờ một chút và đọc tiếp:",
+          "vai_tro": "Chủ tế",
+          "loi_doc": "Người cầm lấy bánh, dâng lời chúc tụng, bẻ ra và trao cho các môn đệ mà nói:"
+        },
+        {
+          "chi_dan_do": "Hơi cúi mình",
+          "vai_tro": "Chủ tế",
+          "loi_doc": "TẤT CẢ CÁC CON HÃY NHẬN LẤY MÀ ĂN: VÌ NÀY LÀ MÌNH THẦY, SẼ BỊ NỘP VÌ CÁC CON."
+        },
+        {
+          "chi_dan_do": "Linh mục cầm bánh đã truyền phép, nâng lên cho cộng đoàn thấy, rồi lại đặt xuống trên đĩa thánh và cúi mình sâu thờ lạy. Rồi đọc tiếp",
+          "vai_tro": "Chủ tế",
+          "loi_doc": "Cùng một thể thức ấy,"
+        },
+        {
+          "chi_dan_do": "Linh mục cầm lấy chén thánh, nâng lên khỏi bàn thờ một chút và đọc tiếp:",
+          "vai_tro": "Chủ tế",
+          "loi_doc": "Người cầm lấy chén rượu nho, tạ ơn, và trao cho các môn đệ mà nói:"
+        },
+        {
+          "chi_dan_do": "Hơi cúi mình",
+          "vai_tro": "Chủ tế",
+          "loi_doc": "TẤT CẢ CÁC CON HÃY NHẬN LẤY MÀ UỐNG: VÌ NÀY LÀ CHÉN MÁU THẦY, MÁU GIAO ƯỚC MỚI VÀ VĨNH CỬU, SẼ ĐỔ RA CHO CÁC CON VÀ NHIỀU NGƯỜI ĐƯỢC THA TỘI. CÁC CON HÃY LÀM VIỆC NÀY MÀ NHỚ ĐẾN THẦY."
+        },
+        {
+          "chi_dan_do": "Linh mục nâng chén thánh lên cho cộng đoàn thấy, rồi lại đặt xuống khăn thánh và cúi mình sâu thờ lạy. Rồi xướng",
+          "vai_tro": "Chủ tế",
+          "loi_doc": "Đây là mầu nhiệm đức tin."
+        },
+        {
+          "chi_dan_do": "Cộng đoàn tung hô theo:",
+          "vai_tro": "Cộng đoàn",
+          "loi_doc": "Lạy Chúa, chúng con loan truyền Chúa chịu chết, và tuyên xưng Chúa sống lại, cho tới khi Chúa đến."
+        },
+        {
+          "chi_dan_do": "Hoặc:",
+          "vai_tro": "Cộng đoàn",
+          "loi_doc": "Lạy Chúa, mỗi lần ăn bánh và uống chén này, chúng con loan truyền Chúa chịu chết, cho tới khi Chúa đến."
+        },
+        {
+          "chi_dan_do": "Hoặc:",
+          "vai_tro": "Cộng đoàn",
+          "loi_doc": "Lạy Chúa Cứu Thế, Chúa đã dùng thánh giá và sự phục sinh của Chúa để giải thoát chúng con, xin cứu độ chúng con."
+        },
+        {
+          "chi_dan_do": "Linh mục dang tay đọc:",
+          "vai_tro": "Chủ tế",
+          "loi_doc": "Vì vậy, lạy Chúa, giờ đây cử hành lễ tưởng niệm công trình cứu chuộc, chúng con kính nhớ Đức Kitô chịu chết và xuống ngục tổ tông, chúng con tuyên xưng Người sống lại và lên trời ngự bên hữu Chúa, và đang khi chờ đợi Người đến trong vinh quang, chúng con dâng lên Chúa Mình và Máu Người làm hy lễ đẹp lòng Chúa và sinh ơn cứu độ cho cả trần gian. Lạy Chúa, xin đoái nhìn Hiến Lễ chính Chúa đã dọn sẵn cho Hội Thánh Chúa, xin Chúa nhân từ ban cho tất cả những ai sẽ thông phần cùng một bánh và chén này, được Chúa Thánh Thần quy tụ tất cả thành một thân thể, trở nên hiến lễ sống động trong Đức Kitô để ca tụng vinh quang Chúa."
+        },
+        {
+          "chi_dan_do": "Một đồng tế",
+          "vai_tro": "Một đồng tế",
+          "loi_doc": "Vậy giờ đây, lạy Chúa, xin nhớ đến mọi người mà chúng con dâng của lễ này cầu cho họ: trước hết tôi tớ Chúa là Đức Giáo Hoàng (...), Đức Giám Mục (...), chúng con *, và toàn thể hàng Giám Mục, sau là tất cả các giáo sĩ, những người xin dâng lễ, những người hiện diện chung quanh đây, và toàn thể dân Chúa, cùng mọi người đang thành tâm tìm Chúa. Xin Chúa cũng nhớ đến những người đã qua đời trong bình an của Đức Kitô, đặc biệt các bậc tổ tiên, ông bà, cha mẹ và thân bằng quyến thuộc chúng con, cùng tất cả mọi người quá cố mà chỉ một mình Chúa biết lòng tin của họ. Lạy Cha nhân từ, xin ban cho tất cả chúng con là con cái Cha được hưởng phần gia nghiệp thiên quốc, cùng với Đức Trinh Nữ Maria, Mẹ Thiên Chúa, thánh Giuse, Bạn trăm năm Đức Trinh Nữ, các thánh Tông Đồ và các thánh trong nước Cha, ở đó, cùng với muôn loài thụ tạo đã được giải thoát khỏi cảnh hư nát vì tội lỗi và sự chết, chúng con được tôn vinh Cha,"
+        },
+        {
+          "chi_dan_do": "Chắp tay",
+          "vai_tro": "Một đồng tế",
+          "loi_doc": "Nhờ Đức Kitô, Chúa chúng con, nhờ Người, Cha rộng ban mọi ơn lành cho thế gian."
+        },
+        {
+          "chi_dan_do": "Linh mục cầm đĩa thánh có bánh thánh và chén thánh, nâng cả hai lên và đọc:",
+          "vai_tro": "Chủ tế",
+          "loi_doc": "Chính nhờ Người, với Người và trong Người, mà mọi danh dự và vinh quang đều quy về Chúa là Cha toàn năng, trong sự hiệp nhất của Chúa Thánh Thần đến muôn đời."
+        },
+        {
+          "chi_dan_do": "Cộng đoàn tung hô:",
+          "vai_tro": "Cộng đoàn",
+          "loi_doc": "Amen."
+        }
+      ]
+    },
+    {
+      "ma_dinh_danh": "kntt-giao-hoa-1",
+      "ten_mau": "KINH NGUYỆN THÁNH THỂ GIAO HÒA I",
+      "chi_dan_do_mau": "Được dùng trong các thánh lễ cầu cho việc giao hòa, cầu cho hòa bình và công lý được bền vững, vào thời chiến tranh hay hỗn loạn, cầu ơn tha tội, xin đức ái, về mầu nhiệm thánh giá, về bí tích Thánh Thể, về máu châu báu của Đức Giêsu, và chung cho các lễ Mùa Chay.",
+      "danh_sach_hanh_dong": [
+        {
+          "chi_dan_do": "X:",
+          "vai_tro": "X",
+          "loi_doc": "Chúa ở cùng anh chị em."
+        },
+        {
+          "chi_dan_do": "Ð:",
+          "vai_tro": "Đ",
+          "loi_doc": "Và ở cùng Cha."
+        },
+        {
+          "chi_dan_do": "X:",
+          "vai_tro": "X",
+          "loi_doc": "Hãy nâng tâm hồn lên."
+        },
+        {
+          "chi_dan_do": "Ð:",
+          "vai_tro": "Đ",
+          "loi_doc": "Chúng con đang hướng về Chúa."
+        },
+        {
+          "chi_dan_do": "X:",
+          "vai_tro": "X",
+          "loi_doc": "Hãy tạ ơn Chúa là Thiên Chúa chúng ta."
+        },
+        {
+          "chi_dan_do": "Ð:",
+          "vai_tro": "Đ",
+          "loi_doc": "Thật là chính đáng."
+        },
+        {
+          "vai_tro": "Chủ tế",
+          "loi_doc": "Lạy Chúa là Cha chí thánh, là Thiên Chúa toàn năng hằng hữu, chúng con tạ ơn Chúa mọi lúc, thật là chính đáng: Chúa không ngừng thôi thúc chúng con tới cuộc sống dồi dào hơn, và vì giàu lòng thương xót, Chúa vẫn kiên trì ban ơn tha thứ, và kêu mời tội nhân, chỉ tin tưởng vào lượng khoan hồng của Chúa thôi. Còn chúng con là những người đã nhiều lần vi phạm giao ước của Chúa, Chúa không bao giờ đành lòng bỏ rơi, nhưng nhờ Đức Giêsu Con Chúa, Đấng cứu chuộc chúng con, Chúa còn dùng mối dây liên kết mới của tình thương, mà nối kết gia đình nhân loại với Chúa cách bền chặt không gì cắt đứt được. Quả thế, giờ đây Chúa ban cho dân Chúa thời gian ân sủng và giao hòa, và cho họ đang hướng lòng về Chúa, biết cậy trông vào Chúa Kitô, và phục vụ mọi người khi họ tín thác trọn vẹn hơn vào Chúa Thánh Thần. Vì thế, lòng tràn ngập niềm ngưỡng mộ, chúng con cao rao sức mạnh tình yêu của Chúa, và khi tuyên xưng niềm vui của chúng con vì được cứu độ, cùng với toàn thể đông đảo Thần Thánh trên trời, chúng con hát bài ca và không ngừng tung hô rằng:"
+        },
+        {
+          "vai_tro": "Cộng đoàn",
+          "loi_doc": "Thánh! Thánh! Thánh!..."
+        },
+        {
+          "chi_dan_do": "Linh mục dang tay đọc:",
+          "vai_tro": "Chủ tế",
+          "loi_doc": "Lạy Chúa, Chúa thật là Đấng Thánh, từ thuở khai thiên lập địa, Chúa luôn làm việc để con người nên thánh như chính Chúa là Đấng Thánh."
+        },
+        {
+          "chi_dan_do": "Linh mục sáp hai bàn tay lại, đặt trên lễ vật và đọc:",
+          "vai_tro": "Chủ tế",
+          "loi_doc": "Chúng con nài xin Chúa đoái nhìn những lễ vật của dân Chúa, và tuôn đổ sức mạnh Thánh Thần Chúa,"
+        },
+        {
+          "chi_dan_do": "Chắp tay rồi làm một dấu Thánh giá trên cả bánh và chén thánh khi đọc:",
+          "vai_tro": "Chủ tế",
+          "loi_doc": "Để những lễ vật này trở nên Mình † và Máu Con yêu dấu của Chúa."
+        },
+        {
+          "chi_dan_do": "Chắp tay: Trong những công thức sau đây, các lời của Chúa phải được đọc rõ ràng, dõng dạc theo đặc tính từng lời. Đang khi ăn, Linh mục cầm lấy bánh, nâng lên khỏi bàn thờ một chút và đọc tiếp: Người cầm lấy bánh tạ ơn Chúa, dâng lời chúc tụng, bẻ ra và trao cho các môn đệ mà nói: Hơi cúi mình.",
+          "vai_tro": "Chủ tế",
+          "loi_doc": "Là Đức Giêsu Kitô, trong Người, chúng con cũng được làm con cái của Chúa. Mặc dầu xưa kia chúng con bị hư mất, không thể đến gần Chúa, mà Chúa đã yêu thương chúng con bằng một tình yêu cao cả: Vì Con Chúa, Đấng duy nhất công chính đã phó mình chịu chết, không ngại chịu đóng đinh vào thập giá vì chúng con. Nhưng trước khi dang tay ra giữa trời và đất làm dấu chỉ không phai mờ giao ước của Chúa, chính Người đã muốn cử hành lễ Vượt Qua với các môn đệ. TẤT CẢ CÁC CON HÃY NHẬN LẤY MÀ ĂN: VÌ NÀY LÀ MÌNH THẦY, SẼ BỊ NỘP VÌ CÁC CON."
+        },
+        {
+          "chi_dan_do": "Linh mục cầm bánh đã truyền phép, nâng lên cho cộng đoàn thấy, rồi lại đặt xuống trên đĩa thánh và cúi mình sâu thờ lạy. Sau đó đọc tiếp: Cũng vậy, sau bữa ăn tối, vì biết rằng Người sẽ giao hòa mọi sự trong chính mình Người, nhờ máu Người phải đổ ra trên thập giá, Linh mục cầm chén thánh, nâng lên khỏi bàn thờ một chút và đọc tiếp: Người cầm lấy chén rượu nho, cũng tạ ơn Chúa, trao cho các môn đệ và nói: Hơi cúi mình.",
+          "vai_tro": "Chủ tế",
+          "loi_doc": "TẤT CẢ CÁC CON HÃY NHẬN LẤY MÀ UỐNG: VÌ NÀY LÀ CHÉN MÁU THẦY. MÁU GIAO ƯỚC MỚI VÀ VĨNH CỬU, SẼ ĐỔ RA CHO CÁC CON VÀ NHIỀU NGƯỜI ĐƯỢC THA TỘI. CÁC CON HÃY LÀM VIỆC NÀY MÀ NHỚ ĐẾN THẦY."
+        },
+        {
+          "chi_dan_do": "Linh mục nâng chén thánh lên cho cộng đoàn thấy, rồi lại đặt xuống khăn thánh và cúi mình sâu thờ lạy. Sau đó xướng:",
+          "vai_tro": "Chủ tế",
+          "loi_doc": "Đây là mầu nhiệm đức tin."
+        },
+        {
+          "chi_dan_do": "Cộng đoàn tung hô theo:",
+          "vai_tro": "Cộng đoàn",
+          "loi_doc": "Lạy Chúa, chúng con loan truyền Chúa chịu chết, và tuyên xưng Chúa sống lại, cho tới khi Chúa đến."
+        },
+        {
+          "chi_dan_do": "Hoặc:",
+          "vai_tro": "Cộng đoàn",
+          "loi_doc": "Lạy Chúa, mỗi lần ăn bánh và uống chén này, chúng con loan truyền Chúa chịu chết, cho tới khi Chúa đến."
+        },
+        {
+          "chi_dan_do": "Hoặc:",
+          "vai_tro": "Cộng đoàn",
+          "loi_doc": "Lạy Chúa Cứu Thế, Chúa đã dùng thánh giá và sự phục sinh của Chúa để giải thoát chúng con, xin cứu độ chúng con."
+        },
+        {
+          "chi_dan_do": "Linh mục dang tay đọc:",
+          "vai_tro": "Chủ tế",
+          "loi_doc": "Vì vậy, khi kính nhớ Đức Giêsu Kitô Con Chúa là lễ Vượt Qua và sự bình an bền vững của chúng con, chúng con cử hành việc Người chịu chết và sống lại từ âm phủ, và đang khi chờ đợi cuộc quang lâm hồng phúc của Người, chúng con dâng lên Chúa là Thiên Chúa trung tín và nhân từ lễ vật này, là lễ vật giao hòa loài người với Chúa. Lạy Cha rất nhân từ, xin thương đoái nhìn những người được liên kết với Cha nhờ hy lễ của Con Cha, và xin cho họ khi thông phần cùng một bánh và chén này nhờ quyền năng Chúa Thánh Thần, được quy tụ lại trong Chúa Kitô thành một thân thể, trong đó không còn một chia rẽ nào. Xin Chúa đoái thương luôn gìn giữ chúng con một lòng một trí hiệp thông với Đức Giáo Hoàng T…, và Đức Giám Mục T… chúng con. Xin trợ giúp chúng con biết đợi chờ Nước Chúa đến cho tới khi chúng con được hầu cận bên Chúa, như là những Thánh nhân giữa hàng chư Thánh nơi thiên tòa, cùng với Đức Thánh Trinh Nữ Maria, mẹ Thiên Chúa, Thánh Giuse, Bạn trăm năm Đức Trinh Nữ, các Thánh Tông Đồ và toàn thể các Thánh, cùng với anh chị em chúng con đã qua đời, đặc biệt các bậc tổ tiên, ông bà, cha mẹ và thân bằng quyến thuộc chúng con, mà chúng con khẩn khoản phó thác cho lượng từ bi Chúa. Sau cùng, khi được giải thoát khỏi vết tích của tội lỗi, và được hoàn toàn trở nên tạo vật mới, bấy giờ chúng con dâng lên Chúa bài ca tạ ơn"
+        },
+        {
+          "chi_dan_do": "Chắp tay.",
+          "vai_tro": "Chủ tế",
+          "loi_doc": "Của Đức Kitô, Đấng hằng sống muôn đời."
+        },
+        {
+          "chi_dan_do": "Linh mục cầm đĩa thánh có bánh thánh và chén thánh, nâng cả hai lên và đọc:",
+          "vai_tro": "Chủ tế",
+          "loi_doc": "Chính nhờ Người, với Người và trong Người, mà mọi danh dự và vinh quang đều quy về Chúa là Cha toàn năng, trong sự hợp nhất của Chúa Thánh Thần đến muôn đời."
+        },
+        {
+          "chi_dan_do": "Cộng đoàn tung hô:",
+          "vai_tro": "Cộng đoàn",
+          "loi_doc": "Amen."
+        }
+      ]
+    },
+    {
+      "ma_dinh_danh": "kntt-giao-hoa-2",
+      "ten_mau": "KINH NGUYỆN THÁNH THỂ GIAO HÒA II",
+      "chi_dan_do_mau": "Được dùng trong các thánh lễ cầu cho việc giao hòa, cầu cho hòa bình và công lý được bền vững, vào thời chiến tranh hay hỗn loạn, cầu ơn tha tội, xin đức ái, về mầu nhiệm thánh giá, về bí tích Thánh Thể, về máu châu báu của Đức Giêsu, và chung cho các lễ Mùa Chay.",
+      "danh_sach_hanh_dong": [
+        {
+          "chi_dan_do": "X:",
+          "vai_tro": "X",
+          "loi_doc": "Chúa ở cùng anh chị em."
+        },
+        {
+          "chi_dan_do": "Ð:",
+          "vai_tro": "Đ",
+          "loi_doc": "Và ở cùng Cha."
+        },
+        {
+          "chi_dan_do": "X:",
+          "vai_tro": "X",
+          "loi_doc": "Hãy nâng tâm hồn lên."
+        },
+        {
+          "chi_dan_do": "Ð:",
+          "vai_tro": "Đ",
+          "loi_doc": "Chúng con đang hướng về Chúa."
+        },
+        {
+          "chi_dan_do": "X:",
+          "vai_tro": "X",
+          "loi_doc": "Hãy tạ ơn Chúa là Thiên Chúa chúng ta."
+        },
+        {
+          "chi_dan_do": "Ð:",
+          "vai_tro": "Đ",
+          "loi_doc": "Thật là chính đáng."
+        },
+        {
+          "vai_tro": "Chủ tế",
+          "loi_doc": "Lạy Thiên Chúa là Cha toàn năng, nhờ Đức Giêsu Kitô Chúa chúng con, chúng con tạ ơn và ngợi khen Chúa về tất cả những gì Chúa đã thực hiện ở trần gian này, thật là chính đáng. Vì mặc dầu nhân loại bị phân tán bởi không ý hợp tâm đầu, nhưng qua kinh nghiệm, chúng con biết Chúa uốn nắn các tâm hồn, để họ sẵn sàng giao hòa với nhau. Vì chưng, nhờ Chúa Thánh Thần, Chúa đánh động tâm hồn con người, để những kẻ thù đi tới đối thoại, các cừu địch lại bắt tay nhau, các dân tộc tìm nhau gặp gỡ. Hơn nữa, lạy Chúa, quyền năng Chúa còn làm cho ghen ghét thảm bại trước tình yêu, báo thù nhường bước cho khoan dung, bất hòa trở thành tương thân tương ái. Vì thế, cùng với ca đoàn trên trời, chúng con ở dưới thế luôn tạ ơn Chúa, và không ngừng tung hô uy linh Chúa rằng:"
+        },
+        {
+          "vai_tro": "Cộng đoàn",
+          "loi_doc": "Thánh! Thánh! Thánh!..."
+        },
+        {
+          "chi_dan_do": "Linh mục dang tay đọc:",
+          "vai_tro": "Chủ tế",
+          "loi_doc": "Vì vậy, lạy Cha toàn năng, chúng con chúc tụng Cha là Đức Giêsu Kitô là Con Cha, Đấng nhân danh Cha ngự đến. Chính Người là Lời cứu độ cho nhân loại, là cánh tay Cha rộng mở đón tiếp tội nhân, là con đường mà qua đó Cha ban bình an của Cha cho chúng con. Lạy Chúa, khi chúng con lìa xa Chúa vì phạm tội, Chúa lại dẫn chúng con về giao hòa với Chúa, và sau hết, khi đã trở lại cùng Chúa, chúng con biết yêu thương nhau nhờ Con Chúa, Đấng Chúa đã trao nộp để chịu chết vì chúng con."
+        },
+        {
+          "chi_dan_do": "Linh mục sáp hai bàn tay lại, đặt trên lễ vật và đọc; Và giờ đây, đang khi cử hành lễ giao hòa mà Chúa Kitô đã mang lại cho chúng con, chúng con nài xin Chúa ban Thánh Thần Chúa xuống mà thánh hóa những của lễ này, Chắp tay rồi làm một dấu thánh giá trên cả bánh và chén thánh khi đọc:",
+          "vai_tro": "Chủ tế",
+          "loi_doc": "Để trở nên Mình † và Máu Con Chúa, thừa lệnh Người, chúng con cử hành mầu nhiệm này."
+        },
+        {
+          "chi_dan_do": "Chắp tay. Trong những công thức sau đây, các lời của Chúa phải được đọc rõ ràng, dõng dạc theo đặc tính từng lời. Vì thế, trong bữa ăn, khi sắp ban sự sống để giải thoát chúng con, Linh mục cầm chén thánh, nâng lên khỏi bàn thờ một chút và đọc tiếp: Chính Người cầm lấy bánh trong tay, tạ ơn Chúa, dâng lời chúc tụng, bẻ ra và trao cho các môn đệ mà nói: Hơi cúi mình.",
+          "vai_tro": "Chủ tế",
+          "loi_doc": "TẤT CẢ CÁC CON HÃY NHẬN LẤY MÀ ĂN: VÌ NÀY LÀ MÌNH THẦY, SẼ BỊ NỘP VÌ CÁC CON."
+        },
+        {
+          "chi_dan_do": "Linh mục cầm bánh đã truyền phép, nâng lên cho cộng đoàn thấy, rồi lại đặt xuống trên đĩa thánh và cúi mình sâu thờ lạy. Sau đó đọc tiếp: Cùng một thể thức ấy, trong bữa ăn tối hôm đó, Linh mục cầm chén thánh, nâng lên khỏi bàn thờ một chút và đọc tiếp: Người cầm lấy chén chúc tụng trong tay, tuyên xưng lòng thương xót của Cha, và trao cho các môn đệ mà nói: Hơi cúi mình.",
+          "vai_tro": "Chủ tế",
+          "loi_doc": "TẤT CẢ CÁC CON HÃY NHẬN LẤY MÀ UỐNG: VÌ NÀY LÀ CHÉN MÁU THẦY. MÁU GIAO ƯỚC MỚI VÀ VĨNH CỬU, SẼ ĐỔ RA CHO CÁC CON VÀ NHIỀU NGƯỜI ĐƯỢC THA TỘI. CÁC CON HÃY LÀM VIỆC NÀY MÀ NHỚ ĐẾN THẦY."
+        },
+        {
+          "chi_dan_do": "Linh mục nâng chén thánh lên cho cộng đoàn thấy, rồi lại đặt xuống khăn thánh và cúi mình sâu thờ lạy. Sau đó xướng:",
+          "vai_tro": "Chủ tế",
+          "loi_doc": "Đây là mầu nhiệm đức tin."
+        },
+        {
+          "chi_dan_do": "Cộng đoàn tung hô theo:",
+          "vai_tro": "Cộng đoàn",
+          "loi_doc": "Lạy Chúa, chúng con loan truyền Chúa chịu chết, và tuyên xưng Chúa sống lại, cho tới khi Chúa đến."
+        },
+        {
+          "chi_dan_do": "Hoặc:",
+          "vai_tro": "Cộng đoàn",
+          "loi_doc": "Lạy Chúa, mỗi lần ăn bánh và uống chén này, chúng con loan truyền Chúa chịu chết, cho tới khi Chúa đến."
+        },
+        {
+          "chi_dan_do": "Hoặc:",
+          "vai_tro": "Cộng đoàn",
+          "loi_doc": "Lạy Chúa Cứu Thế, Chúa đã dùng thánh giá và sự phục sinh của Chúa để giải thoát chúng con, xin cứu độ chúng con."
+        },
+        {
+          "chi_dan_do": "Linh mục dang tay đọc:",
+          "vai_tro": "Chủ tế",
+          "loi_doc": "Vì vậy, khi kính nhớ cái chết và sự sống lại của Con Chúa, Đấng đã để lại cho chúng con bảo chứng tình thương này, chúng con dâng lên Chúa hy lễ giao hòa hoàn hảo của Người, mà Chúa đã ban cho chúng con. Lạy Cha chí thánh, chúng con khẩn khoản nài xin Cha thương đón nhận cả chúng con nữa cùng với Con Cha, qua bữa tiệc cứu độ này, xin cũng đoái thương ban cho chúng con Thánh Thần của Người, Đấng xóa bỏ mọi điều làm chúng con xa cách nhau. Xin Thánh Thần làm cho Hội Thánh của Cha nên dấu chỉ hợp nhất và khí cụ bình an của Cha giữa muôn người, và xin gìn giữ chúng con được hiệp thông với Đức Giáo Hoàng T…, và Đức Giám Mục T… chúng con, cùng tất cả các Giám mục và toàn dân của Cha. Cũng như giờ đây, Cha đã quy tụ chúng con vào bàn tiệc của Con Cha, xin Cha liên kết chúng con với Đức Trinh Nữ Maria vinh hiển, Mẹ Thiên Chúa, Thánh Giuse, Bạn trăm năm Đức Trinh Nữ, với các Thánh Tông Đồ và toàn thể các Thánh, cùng với anh chị em chúng con, và những người thuộc mọi chủng tộc và ngôn ngữ, đặc biệt các bậc tổ tiên, ông bà, cha mẹ và thân bằng quyến thuộc chúng con đã chết trong ơn nghĩa của Cha vào bàn tiệc hợp nhất muôn đời, nơi trời mới đất mới, ở đó rạng ngời sự bình an của Cha."
+        },
+        {
+          "chi_dan_do": "Chắp tay.",
+          "vai_tro": "Chủ tế",
+          "loi_doc": "Trong Đức Kitô Chúa chúng con."
+        },
+        {
+          "chi_dan_do": "Linh mục cầm đĩa thánh có bánh thánh và chén thánh, nâng cả hai lên và đọc:",
+          "vai_tro": "Chủ tế",
+          "loi_doc": "Chính nhờ Người, với Người và trong Người, mà mọi danh dự và vinh quang đều quy về Chúa là Cha toàn năng, trong sự hợp nhất của Chúa Thánh Thần đến muôn đời."
+        },
+        {
+          "chi_dan_do": "Cộng đoàn tung hô:",
+          "vai_tro": "Cộng đoàn",
+          "loi_doc": "Amen."
+        }
+      ]
+    },
+    {
+      "ma_dinh_danh": "kntt-nhu-cau-1",
+      "ten_mau": "KINH NGUYỆN THÁNH THỂ CẦU CHO NHỮNG NHU CẦU KHÁC NHAU I",
+      "y_nghia": "Hội Thánh trên đường hiệp nhất",
+      "chi_dan_do_mau": "Được dùng trong các thánh lễ: cầu cho Hội Thánh, cho Đức Giáo Hoàng, cho Đức Giám Mục, cho việc bầu chọn ĐGH hay ĐGM, cho Công Đồng hay Thượng Hội Đồng, cầu cho các Linh mục, Linh mục cầu cho chính mình hoặc cho các Thừa tác viên của Hội Thánh, các cuộc hội họp thiêng liêng hay mục vụ.",
+      "danh_sach_hanh_dong": [
+        {
+          "chi_dan_do": "X:",
+          "vai_tro": "X",
+          "loi_doc": "Chúa ở cùng anh chị em."
+        },
+        {
+          "chi_dan_do": "Ð:",
+          "vai_tro": "Đ",
+          "loi_doc": "Và ở cùng Cha."
+        },
+        {
+          "chi_dan_do": "X:",
+          "vai_tro": "X",
+          "loi_doc": "Hãy nâng tâm hồn lên."
+        },
+        {
+          "chi_dan_do": "Ð:",
+          "vai_tro": "Đ",
+          "loi_doc": "Chúng con đang hướng về Chúa."
+        },
+        {
+          "chi_dan_do": "X:",
+          "vai_tro": "X",
+          "loi_doc": "Hãy tạ ơn Chúa là Thiên Chúa chúng ta."
+        },
+        {
+          "chi_dan_do": "Ð:",
+          "vai_tro": "Đ",
+          "loi_doc": "Thật là chính đáng."
+        },
+        {
+          "vai_tro": "Chủ tế",
+          "loi_doc": "Lạy Chúa là Cha nhân hậu vô biên, tạ ơn Chúa và hát mừng Chúa một bài ca chúc tụng tôn vinh, thật là chính đáng. Vì nhờ Tin Mừng Con Chúa rao giảng, Chúa đã liên kết mọi dân tộc, mọi ngôn ngữ, mọi quốc gia thành một Hội Thánh. Nhờ Hội Thánh được tác sinh bởi quyền năng Thánh Thần Chúa, Chúa không ngừng quy tụ mọi người nên một. Khi biểu lộ giao ước tình yêu của Chúa, Hội Thánh không ngừng rộng ban niềm hy vọng hồng phúc Nước Trời, và tỏa sáng như dấu chỉ lòng thành tín mà Chúa đã hứa đến muôn đời trong Đức Giêsu Kitô, Chúa chúng con. Vì thế, cùng với toàn thể đạo binh thiên quốc, chúng con ở dưới trần gian, hợp với toàn thể Hội Thánh, hằng ca ngợi Cha, và đồng thanh tung hô rằng:"
+        },
+        {
+          "vai_tro": "Cộng đoàn",
+          "loi_doc": "Thánh! Thánh! Thánh!..."
+        },
+        {
+          "chi_dan_do": "Linh mục dang tay đọc:",
+          "vai_tro": "Chủ tế",
+          "loi_doc": "Lạy Thiên Chúa là Đấng yêu thương nhân loại, Chúa thật là Đấng Thánh và phải được tôn vinh, Chúa luôn hiện hữu với họ trên đường đời. Con Chúa thật là Đấng đáng chúc tụng, đang hiện diện giữa chúng con khi chúng con được tình yêu của Người quy tụ, Người giải thích Sách Thánh và bẻ bánh cho chúng con, như xưa Người đã làm cho các môn đệ."
+        },
+        {
+          "chi_dan_do": "Linh mục sáp hai bàn tay lại, đặt trên lễ vật và đọc; Vì vậy, lạy Cha rất nhân từ, chúng con nài xin Cha sai Thánh Thần của cha đến thánh hóa những lễ vật này là bánh và rượu, Chắp tay rồi làm một dấu thánh giá trên cả bánh và chén thánh khi đọc:",
+          "vai_tro": "Chủ tế",
+          "loi_doc": "Để trở nên cho chúng con Mình † và Máu"
+        },
+        {
+          "chi_dan_do": "Chắp tay. Trong những công thức sau đây, các lời của Chúa phải được đọc rõ ràng, dõng dạc theo đặc tính từng lời. Hôm trước ngày chịu khổ hình, trong đêm ăn bữa tiệc sau hết, Linh mục cầm chén thánh, nâng lên khỏi bàn thờ một chút và đọc tiếp: Người cầm lấy bánh, dâng lời chúc tụng, bẻ ra và trao cho các môn đệ mà nói: Hơi cúi mình.",
+          "vai_tro": "Chủ tế",
+          "loi_doc": "Đức Giêsu Kitô, Chúa chúng con. TẤT CẢ CÁC CON HÃY NHẬN LẤY MÀ ĂN: VÌ NÀY LÀ MÌNH THẦY, SẼ BỊ NỘP VÌ CÁC CON."
+        },
+        {
+          "chi_dan_do": "Linh mục cầm bánh đã truyền phép, nâng lên cho cộng đoàn thấy, rồi lại đặt xuống trên đĩa thánh và cúi mình sâu thờ lạy. Sau đó đọc tiếp: Cùng một thể thức ấy, sau bữa ăn tối, Linh mục cầm chén thánh, nâng lên khỏi bàn thờ một chút và đọc tiếp: Người cầm lấy chén, dâng lời tạ ơn Cha, và trao cho các môn đệ mà nói: Hơi cúi mình.",
+          "vai_tro": "Chủ tế",
+          "loi_doc": "TẤT CẢ CÁC CON HÃY NHẬN LẤY MÀ UỐNG: VÌ NÀY LÀ CHÉN MÁU THẦY. MÁU GIAO ƯỚC MỚI VÀ VĨNH CỬU, SẼ ĐỔ RA CHO CÁC CON VÀ NHIỀU NGƯỜI ĐƯỢC THA TỘI. CÁC CON HÃY LÀM VIỆC NÀY MÀ NHỚ ĐẾN THẦY."
+        },
+        {
+          "chi_dan_do": "Linh mục nâng chén thánh lên cho cộng đoàn thấy, rồi lại đặt xuống khăn thánh và cúi mình sâu thờ lạy. Sau đó xướng:",
+          "vai_tro": "Chủ tế",
+          "loi_doc": "Đây là mầu nhiệm đức tin."
+        },
+        {
+          "chi_dan_do": "Cộng đoàn tung hô theo:",
+          "vai_tro": "Cộng đoàn",
+          "loi_doc": "Lạy Chúa, chúng con loan truyền Chúa chịu chết, và tuyên xưng Chúa sống lại, cho tới khi Chúa đến."
+        },
+        {
+          "chi_dan_do": "Hoặc:",
+          "vai_tro": "Cộng đoàn",
+          "loi_doc": "Lạy Chúa, mỗi lần ăn bánh và uống chén này, chúng con loan truyền Chúa chịu chết, cho tới khi Chúa đến."
+        },
+        {
+          "chi_dan_do": "Hoặc:",
+          "vai_tro": "Cộng đoàn",
+          "loi_doc": "Lạy Chúa Cứu Thế, Chúa đã dùng thánh giá và sự phục sinh của Chúa để giải thoát chúng con, xin cứu độ chúng con."
+        },
+        {
+          "chi_dan_do": "Linh mục dang tay đọc:",
+          "vai_tro": "Chủ tế",
+          "loi_doc": "Vì vậy, lạy Cha chí thánh, khi tưởng nhớ Đức Kitô Con Cha là Đấng cứu độ chúng con, mà Cha đã đưa Người qua cuộc khổ nạn và cái chết trên thập giá đến vinh quang phục sinh và đặt Người ngự bên hữu Cha, chúng con loan báo công trình yêu thương của Cha cho tới khi Người đến, và chúng con tiến dâng Cha bánh ban sự sống và chén phúc lành. Xin Cha đoái nhìn hiến lễ của Hội Thánh Cha, trong hiến lễ này, chúng con dâng hy lễ Vượt Qua của Đức Kitô đã được trao lại cho chúng con, nhờ sức mạnh Thánh Thần tình yêu của Cha, bây giờ và cho đến muôn đời, được kể vào số các chi thể của Con Cha, Đấng mà chúng con được thông phần Mình và Máu của Người. Lạy Chúa, nhờ ánh sáng Tin Mừng, xin canh tân Hội Thánh của Chúa (tại …), xin củng cố mối dây hợp nhất của các tín hữu và các mục tử của dân Chúa, cùng với Đức Giáo Hoàng T…, và Đức Giám Mục T… chúng con, và toàn thể hàng Giám mục, để dân Chúa đang bị sâu xé vì những mối bất hòa trong thế giới này, được rạng ngời như dấu chỉ loan báo sự hợp nhất và hòa hợp. Xin Chúa mở mắt chúng con, để chúng con nhận biết những nhu cầu của anh chị em, xin Chúa khơi gọi cho chúng con những lời nói và việc làm, để chúng con giúp sức cho những người làm lụng vất vả và gồng gánh nặng nề, xin cho chúng con biết chân thành phục vụ họ, theo mẫu gương và lệnh truyền của Đức Kitô. Xin cho Hội Thánh Chúa hiện diện như một bằng chứng sống động về chân lý và tự do, về hòa bình và công lý, để mọi người được vươn lên trong niềm hy vọng mới. Xin Chúa nhớ đến anh chị em chúng con là T… đã an nghỉ trong Đức Kitô, đặc biệt các bậc tổ tiên, ông bà, cha mẹ và thân bằng quyến thuộc chúng con, cùng tất cả mọi người quá cố, mà chỉ một mình Chúa biết lòng tin của họ: Xin Chúa tiếp nhận họ vào hưởng ánh sáng tôn nhan Chúa, và ban cho họ khi sống lại được sống viên mãn. Xin Chúa cũng ban cho chúng con, sau cuộc lữ hành trần thế, được vào chỗ ở vĩnh viễn, nơi chúng con sẽ được sống mãi với Chúa, cùng với Đức Thánh Trinh Nữ Maria, Mẹ Thiên Chúa, Thánh Giuse, Bạn trăm năm Đức Trinh Nữ, các Thánh Tông Đồ và các Thánh Tử Đạo, (cùng với Thánh … vị Thánh kính trong ngày hoặc Thánh Bổn mạng). Cùng hiệp thông với toàn thể các Thánh, chúng con sẽ ca ngợi và tán dương Chúa,"
+        },
+        {
+          "chi_dan_do": "Chắp tay.",
+          "vai_tro": "Chủ tế",
+          "loi_doc": "Nhờ Đức Giêsu Kitô Con Chúa."
+        },
+        {
+          "chi_dan_do": "Linh mục cầm đĩa thánh có bánh thánh và chén thánh, nâng cả hai lên và đọc:",
+          "vai_tro": "Chủ tế",
+          "loi_doc": "Chính nhờ Người, với Người và trong Người, mà mọi danh dự và vinh quang đều quy về Chúa là Cha toàn năng, trong sự hợp nhất của Chúa Thánh Thần đến muôn đời."
+        },
+        {
+          "chi_dan_do": "Cộng đoàn tung hô:",
+          "vai_tro": "Cộng đoàn",
+          "loi_doc": "Amen."
+        }
+      ]
+    },
+    {
+      "ma_dinh_danh": "kntt-nhu-cau-2",
+      "ten_mau": "KINH NGUYỆN THÁNH THỂ CẦU CHO NHỮNG NHU CẦU KHÁC NHAU II",
+      "y_nghia": "Thiên Chúa dẫn đưa Hội Thánh trên đường cứu độ",
+      "chi_dan_do_mau": "Được dùng trong các thánh lễ: cầu cho Hội Thánh, cầu cho ơn gọi chức thánh, cầu cho giáo dân, cầu cho gia đình, cầu cho tu sĩ, cầu cho ơn gọi đời sống tu trì, xin ơn đức ái, cầu cho những người thân và bạn hữu và để tạ ơn Chúa.",
+      "danh_sach_hanh_dong": [
+        {
+          "chi_dan_do": "X:",
+          "vai_tro": "X",
+          "loi_doc": "Chúa ở cùng anh chị em."
+        },
+        {
+          "chi_dan_do": "Ð:",
+          "vai_tro": "Đ",
+          "loi_doc": "Và ở cùng Cha."
+        },
+        {
+          "chi_dan_do": "X:",
+          "vai_tro": "X",
+          "loi_doc": "Hãy nâng tâm hồn lên."
+        },
+        {
+          "chi_dan_do": "Ð:",
+          "vai_tro": "Đ",
+          "loi_doc": "Chúng con đang hướng về Chúa."
+        },
+        {
+          "chi_dan_do": "X:",
+          "vai_tro": "X",
+          "loi_doc": "Hãy tạ ơn Chúa là Thiên Chúa chúng ta."
+        },
+        {
+          "chi_dan_do": "Ð:",
+          "vai_tro": "Đ",
+          "loi_doc": "Thật là chính đáng."
+        },
+        {
+          "vai_tro": "Chủ tế",
+          "loi_doc": "Lạy Chúa là Cha chí thánh, Đấng tạo dựng trần gian, và là nguồn mạch mọi sự sống, chúng con tạ ơn Chúa mọi nơi mọi lúc, thật là chính đáng, phải đạo và đem lại ơn cứu độ cho chúng con. Chúa không bao giờ bỏ mặc các công trình thượng trí Chúa đã làm, nhưng vẫn quan phòng, hoạt động giữa chúng con. Xưa Chúa đã dùng bàn tay uy quyền và cánh tay rộng mở dẫn đưa Israel, dân Chúa qua sa mạc; nay bằng sức mạnh của Chúa Thánh Thần, Chúa muốn đồng hành với Hội Thánh Chúa trên đường lữ thứ trần gian, và hướng dẫn Hội Thánh qua các nẻo đường đời, vào hưởng niềm vui vĩnh cửu của Nước Chúa, nhờ Đức Kitô Chúa chúng con. Vì thế, cùng với các Thiên thần và các Thánh, chúng con hát bài ca tôn vinh Chúa, và không ngừng tung hô rằng:"
+        },
+        {
+          "vai_tro": "Cộng đoàn",
+          "loi_doc": "Thánh! Thánh! Thánh!..."
+        },
+        {
+          "chi_dan_do": "Linh mục dang tay đọc:",
+          "vai_tro": "Chủ tế",
+          "loi_doc": "Lạy Thiên Chúa là Đấng yêu thương nhân loại, Chúa thật là Đấng Thánh và phải được tôn vinh, Chúa luôn hiện hữu với họ trên đường đời. Con Chúa thật là Đấng đáng chúc tụng, đang hiện diện giữa chúng con khi chúng con được tình yêu của Người quy tụ, Người giải thích Sách Thánh và bẻ bánh cho chúng con, như xưa Người đã làm cho các môn đệ."
+        },
+        {
+          "chi_dan_do": "Linh mục sáp hai bàn tay lại, đặt trên lễ vật và đọc; Vì vậy, lạy Cha rất nhân từ, chúng con nài xin Cha sai Thánh Thần của cha đến thánh hóa những lễ vật này là bánh và rượu, Chắp tay rồi làm một dấu thánh giá trên cả bánh và chén thánh khi đọc:",
+          "vai_tro": "Chủ tế",
+          "loi_doc": "Để trở nên cho chúng con Mình † và Máu"
+        },
+        {
+          "chi_dan_do": "Chắp tay. Trong những công thức sau đây, các lời của Chúa phải được đọc rõ ràng, dõng dạc theo đặc tính từng lời. Hôm trước ngày chịu khổ hình, trong đêm ăn bữa tiệc sau hết, Linh mục cầm chén thánh, nâng lên khỏi bàn thờ một chút và đọc tiếp: Người cầm lấy bánh, dâng lời chúc tụng, bẻ ra và trao cho các môn đệ mà nói: Hơi cúi mình.",
+          "vai_tro": "Chủ tế",
+          "loi_doc": "Đức Giêsu Kitô, Chúa chúng con. TẤT CẢ CÁC CON HÃY NHẬN LẤY MÀ ĂN: VÌ NÀY LÀ MÌNH THẦY, SẼ BỊ NỘP VÌ CÁC CON."
+        },
+        {
+          "chi_dan_do": "Linh mục cầm bánh đã truyền phép, nâng lên cho cộng đoàn thấy, rồi lại đặt xuống trên đĩa thánh và cúi mình sâu thờ lạy. Sau đó đọc tiếp: Cùng một thể thức ấy, sau bữa ăn tối, Linh mục cầm chén thánh, nâng lên khỏi bàn thờ một chút và đọc tiếp: Người cầm lấy chén, dâng lời tạ ơn Cha, và trao cho các môn đệ mà nói: Hơi cúi mình.",
+          "vai_tro": "Chủ tế",
+          "loi_doc": "TẤT CẢ CÁC CON HÃY NHẬN LẤY MÀ UỐNG: VÌ NÀY LÀ CHÉN MÁU THẦY. MÁU GIAO ƯỚC MỚI VÀ VĨNH CỬU, SẼ ĐỔ RA CHO CÁC CON VÀ NHIỀU NGƯỜI ĐƯỢC THA TỘI. CÁC CON HÃY LÀM VIỆC NÀY MÀ NHỚ ĐẾN THẦY."
+        },
+        {
+          "chi_dan_do": "Linh mục nâng chén thánh lên cho cộng đoàn thấy, rồi lại đặt xuống khăn thánh và cúi mình sâu thờ lạy. Sau đó xướng:",
+          "vai_tro": "Chủ tế",
+          "loi_doc": "Đây là mầu nhiệm đức tin."
+        },
+        {
+          "chi_dan_do": "Cộng đoàn tung hô theo:",
+          "vai_tro": "Cộng đoàn",
+          "loi_doc": "Lạy Chúa, chúng con loan truyền Chúa chịu chết, và tuyên xưng Chúa sống lại, cho tới khi Chúa đến."
+        },
+        {
+          "chi_dan_do": "Hoặc:",
+          "vai_tro": "Cộng đoàn",
+          "loi_doc": "Lạy Chúa, mỗi lần ăn bánh và uống chén này, chúng con loan truyền Chúa chịu chết, cho tới khi Chúa đến."
+        },
+        {
+          "chi_dan_do": "Hoặc:",
+          "vai_tro": "Cộng đoàn",
+          "loi_doc": "Lạy Chúa Cứu Thế, Chúa đã dùng thánh giá và sự phục sinh của Chúa để giải thoát chúng con, xin cứu độ chúng con."
+        },
+        {
+          "chi_dan_do": "Linh mục dang tay đọc:",
+          "vai_tro": "Chủ tế",
+          "loi_doc": "Vì vậy, lạy Cha chí thánh, khi tưởng nhớ Đức Kitô Con Cha là Đấng cứu độ chúng con, mà Cha đã đưa Người qua cuộc khổ nạn và cái chết trên thập giá đến vinh quang phục sinh và đặt Người ngự bên hữu Cha, chúng con loan báo công trình yêu thương của Cha cho tới khi Người đến, và chúng con tiến dâng Cha bánh ban sự sống và chén phúc lành. Xin Cha đoái nhìn hiến lễ của Hội Thánh Cha, trong hiến lễ này, chúng con dâng hy lễ Vượt Qua của Đức Kitô đã được trao lại cho chúng con, nhờ sức mạnh Thánh Thần tình yêu của Cha, bây giờ và cho đến muôn đời, được kể vào số các chi thể của Con Cha, Đấng mà chúng con được thông phần Mình và Máu của Người. Vậy lạy Chúa, chúng con được mời gọi đến bàn tiệc của Chúa, xin củng cố chúng con trong sự hợp nhất, để cùng với Đức Giáo Hoàng T…, và Đức Giám Mục T… chúng con, cùng tất cả các Giám mục, linh mục, phó tế, và toàn thể dân Chúa, khi vững lòng tin cậy bước theo những nẻo đường của Chúa, chúng con có thể gieo rắc vào trần gian này sự tin tưởng và niềm hân hoan. Xin Chúa nhớ đến anh chị em chúng con là T… đã an nghỉ trong Đức Kitô, đặc biệt các bậc tổ tiên, ông bà, cha mẹ và thân bằng quyến thuộc chúng con, cùng tất cả mọi người quá cố, mà chỉ một mình Chúa biết lòng tin của họ: Xin Chúa tiếp nhận họ vào hưởng ánh sáng tôn nhan Chúa, và ban cho họ khi sống lại được sống viên mãn. Xin Chúa cũng ban cho chúng con, sau cuộc lữ hành trần thế, được vào chỗ ở vĩnh viễn, nơi chúng con sẽ được sống mãi với Chúa, cùng với Đức Thánh Trinh Nữ Maria, Mẹ Thiên Chúa, Thánh Giuse, Bạn trăm năm Đức Trinh Nữ, các Thánh Tông Đồ và các Thánh Tử Đạo, (cùng với Thánh … vị Thánh kính trong ngày hoặc Thánh Bổn mạng). Cùng hiệp thông với toàn thể các Thánh, chúng con sẽ ca ngợi và tán dương Chúa,"
+        },
+        {
+          "chi_dan_do": "Chắp tay.",
+          "vai_tro": "Chủ tế",
+          "loi_doc": "Nhờ Đức Giêsu Kitô Con Chúa."
+        },
+        {
+          "chi_dan_do": "Linh mục cầm đĩa thánh có bánh thánh và chén thánh, nâng cả hai lên và đọc:",
+          "vai_tro": "Chủ tế",
+          "loi_doc": "Chính nhờ Người, với Người và trong Người, mà mọi danh dự và vinh quang đều quy về Chúa là Cha toàn năng, trong sự hợp nhất của Chúa Thánh Thần đến muôn đời."
+        },
+        {
+          "chi_dan_do": "Cộng đoàn tung hô:",
+          "vai_tro": "Cộng đoàn",
+          "loi_doc": "Amen."
+        }
+      ]
+    },
+    {
+      "ma_dinh_danh": "kntt-nhu-cau-3",
+      "ten_mau": "KINH NGUYỆN THÁNH THỂ CẦU CHO NHỮNG NHU CẦU KHÁC NHAU III",
+      "y_nghia": "Chúa Giêsu là đường dẫn đến Chúa Cha",
+      "chi_dan_do_mau": "Được dùng trong các thánh lễ: cầu cho việc Phúc Âm hóa các dân tộc, cầu cho các Kitô hữu chịu đau khổ vì bị bách hại, cầu cho quê hương hay thành phố, cầu cho nhà cầm quyền, cầu cho hội nghị các vị lãnh đạo các quốc gia, cầu cho năm mới và cầu cho sự thăng tiến các dân tộc.",
+      "danh_sach_hanh_dong": [
+        {
+          "chi_dan_do": "X:",
+          "vai_tro": "X",
+          "loi_doc": "Chúa ở cùng anh chị em."
+        },
+        {
+          "chi_dan_do": "Ð:",
+          "vai_tro": "Đ",
+          "loi_doc": "Và ở cùng Cha."
+        },
+        {
+          "chi_dan_do": "X:",
+          "vai_tro": "X",
+          "loi_doc": "Hãy nâng tâm hồn lên."
+        },
+        {
+          "chi_dan_do": "Ð:",
+          "vai_tro": "Đ",
+          "loi_doc": "Chúng con đang hướng về Chúa."
+        },
+        {
+          "chi_dan_do": "X:",
+          "vai_tro": "X",
+          "loi_doc": "Hãy tạ ơn Chúa là Thiên Chúa chúng ta."
+        },
+        {
+          "chi_dan_do": "Ð:",
+          "vai_tro": "Đ",
+          "loi_doc": "Thật là chính đáng."
+        },
+        {
+          "vai_tro": "Chủ tế",
+          "loi_doc": "Lạy Cha chí thánh, là Chúa trời đất, chúng con tạ ơn Cha mọi nơi mọi lúc, nhờ Đức Kitô Chúa chúng con, thật là chính đáng, phải đạo và đem lại ơn cứu độ cho chúng con. Nhờ Ngôi Lời của Cha, Cha đã tác tạo thế gian và điều khiển muôn loài cách công minh chính trực. Cha đã ban cho chúng con chính Ngôi Lời nhập thể làm Đấng Trung Gian. Người đã nói với chúng con những lời của Cha, và kêu gọi chúng con đi theo Người. Người là đường dẫn chúng con đến cùng Cha, là sự thật giải thoát chúng con, và là sự sống ban cho chúng con niềm vui tràn đầy. Nhờ Con Cha, Cha tập hợp thành một gia đình duy nhất những con người đã được Cha dựng nên để sáng danh Cha, đã được cứu chuộc nhờ máu Người đổ ra trên thập giá, và đã được ghi dấu ấn Chúa Thánh Thần. Vì thế, giờ đây và cho đến muôn đời, cùng với toàn thể các Thiên thần, chúng con ca ngợi vinh quang Cha, và hân hoan tung hô rằng:"
+        },
+        {
+          "vai_tro": "Cộng đoàn",
+          "loi_doc": "Thánh! Thánh! Thánh!..."
+        },
+        {
+          "chi_dan_do": "Linh mục dang tay đọc:",
+          "vai_tro": "Chủ tế",
+          "loi_doc": "Lạy Thiên Chúa là Đấng yêu thương nhân loại, Chúa thật là Đấng Thánh và phải được tôn vinh, Chúa luôn hiện hữu với họ trên đường đời. Con Chúa thật là Đấng đáng chúc tụng, đang hiện diện giữa chúng con khi chúng con được tình yêu của Người quy tụ, Người giải thích Sách Thánh và bẻ bánh cho chúng con, như xưa Người đã làm cho các môn đệ."
+        },
+        {
+          "chi_dan_do": "Linh mục sáp hai bàn tay lại, đặt trên lễ vật và đọc; Vì vậy, lạy Cha rất nhân từ, chúng con nài xin Cha sai Thánh Thần của cha đến thánh hóa những lễ vật này là bánh và rượu, Chắp tay rồi làm một dấu thánh giá trên cả bánh và chén thánh khi đọc:",
+          "vai_tro": "Chủ tế",
+          "loi_doc": "Để trở nên cho chúng con Mình † và Máu"
+        },
+        {
+          "chi_dan_do": "Chắp tay. Trong những công thức sau đây, các lời của Chúa phải được đọc rõ ràng, dõng dạc theo đặc tính từng lời. Hôm trước ngày chịu khổ hình, trong đêm ăn bữa tiệc sau hết, Linh mục cầm chén thánh, nâng lên khỏi bàn thờ một chút và đọc tiếp: Người cầm lấy bánh, dâng lời chúc tụng, bẻ ra và trao cho các môn đệ mà nói: Hơi cúi mình.",
+          "vai_tro": "Chủ tế",
+          "loi_doc": "Đức Giêsu Kitô, Chúa chúng con. TẤT CẢ CÁC CON HÃY NHẬN LẤY MÀ ĂN: VÌ NÀY LÀ MÌNH THẦY, SẼ BỊ NỘP VÌ CÁC CON."
+        },
+        {
+          "chi_dan_do": "Linh mục cầm bánh đã truyền phép, nâng lên cho cộng đoàn thấy, rồi lại đặt xuống trên đĩa thánh và cúi mình sâu thờ lạy. Sau đó đọc tiếp: Cùng một thể thức ấy, sau bữa ăn tối, Linh mục cầm chén thánh, nâng lên khỏi bàn thờ một chút và đọc tiếp: Người cầm lấy chén, dâng lời tạ ơn Cha, và trao cho các môn đệ mà nói: Hơi cúi mình.",
+          "vai_tro": "Chủ tế",
+          "loi_doc": "TẤT CẢ CÁC CON HÃY NHẬN LẤY MÀ UỐNG: VÌ NÀY LÀ CHÉN MÁU THẦY. MÁU GIAO ƯỚC MỚI VÀ VĨNH CỬU, SẼ ĐỔ RA CHO CÁC CON VÀ NHIỀU NGƯỜI ĐƯỢC THA TỘI. CÁC CON HÃY LÀM VIỆC NÀY MÀ NHỚ ĐẾN THẦY."
+        },
+        {
+          "chi_dan_do": "Linh mục nâng chén thánh lên cho cộng đoàn thấy, rồi lại đặt xuống khăn thánh và cúi mình sâu thờ lạy. Sau đó xướng:",
+          "vai_tro": "Chủ tế",
+          "loi_doc": "Đây là mầu nhiệm đức tin."
+        },
+        {
+          "chi_dan_do": "Cộng đoàn tung hô theo:",
+          "vai_tro": "Cộng đoàn",
+          "loi_doc": "Lạy Chúa, chúng con loan truyền Chúa chịu chết, và tuyên xưng Chúa sống lại, cho tới khi Chúa đến."
+        },
+        {
+          "chi_dan_do": "Hoặc:",
+          "vai_tro": "Cộng đoàn",
+          "loi_doc": "Lạy Chúa, mỗi lần ăn bánh và uống chén này, chúng con loan truyền Chúa chịu chết, cho tới khi Chúa đến."
+        },
+        {
+          "chi_dan_do": "Hoặc:",
+          "vai_tro": "Cộng đoàn",
+          "loi_doc": "Lạy Chúa Cứu Thế, Chúa đã dùng thánh giá và sự phục sinh của Chúa để giải thoát chúng con, xin cứu độ chúng con."
+        },
+        {
+          "chi_dan_do": "Linh mục dang tay đọc:",
+          "vai_tro": "Chủ tế",
+          "loi_doc": "Vì vậy, lạy Cha chí thánh, khi tưởng nhớ Đức Kitô Con Cha là Đấng cứu độ chúng con, mà Cha đã đưa Người qua cuộc khổ nạn và cái chết trên thập giá đến vinh quang phục sinh và đặt Người ngự bên hữu Cha, chúng con loan báo công trình yêu thương của Cha cho tới khi Người đến, và chúng con tiến dâng Cha bánh ban sự sống và chén phúc lành. Xin Cha đoái nhìn hiến lễ của Hội Thánh Cha, trong hiến lễ này, chúng con dâng hy lễ Vượt Qua của Đức Kitô đã được trao lại cho chúng con, nhờ sức mạnh Thánh Thần tình yêu của Cha, bây giờ và cho đến muôn đời, được kể vào số các chi thể của Con Cha, Đấng mà chúng con được thông phần Mình và Máu của Người. Lạy Chúa, xin đoái thương kiện toàn Hội Thánh Chúa trong đức tin và đức mến, cùng với Đức Giáo Hoàng T…, Đức Giám Mục T… chúng con, và tất cả các Giám mục, linh mục, phó tế, cùng toàn thể dân riêng của Chúa. Xin Chúa mở mắt chúng con, để chúng con nhận biết những nhu cầu của anh em, xin Chúa khơi gọi cho chúng con những lời nói và những việc làm, để chúng con giúp sức cho những người làm lụng vất vả và gồng gánh nặng nề, xin cho chúng con biết chân thành phục vụ họ theo mẫu gương và lệnh truyền của Đức Kitô. Xin cho Hội Thánh Chúa hiện diện như một bằng chứng sống động về chân lý và tự do, về hòa bình và công lý, để mọi người được vươn lên trong niềm hy vọng mới. Xin Chúa nhớ đến anh chị em chúng con là T… đã an nghỉ trong Đức Kitô, đặc biệt các bậc tổ tiên, ông bà, cha mẹ và thân bằng quyến thuộc chúng con, cùng tất cả mọi người quá cố, mà chỉ một mình Chúa biết lòng tin của họ: Xin Chúa tiếp nhận họ vào hưởng ánh sáng tôn nhan Chúa, và ban cho họ khi sống lại được sống viên mãn. Xin Chúa cũng ban cho chúng con, sau cuộc lữ hành trần thế, được vào chỗ ở vĩnh viễn, nơi chúng con sẽ được sống mãi với Chúa, cùng với Đức Thánh Trinh Nữ Maria, Mẹ Thiên Chúa, Thánh Giuse, Bạn trăm năm Đức Trinh Nữ, các Thánh Tông Đồ và các Thánh Tử Đạo, (cùng với Thánh … vị Thánh kính trong ngày hoặc Thánh Bổn mạng). Cùng hiệp thông với toàn thể các Thánh, chúng con sẽ ca ngợi và tán dương Chúa,"
+        },
+        {
+          "chi_dan_do": "Chắp tay.",
+          "vai_tro": "Chủ tế",
+          "loi_doc": "Nhờ Đức Giêsu Kitô Con Chúa."
+        },
+        {
+          "chi_dan_do": "Linh mục cầm đĩa thánh có bánh thánh và chén thánh, nâng cả hai lên và đọc:",
+          "vai_tro": "Chủ tế",
+          "loi_doc": "Chính nhờ Người, với Người và trong Người, mà mọi danh dự và vinh quang đều quy về Chúa là Cha toàn năng, trong sự hợp nhất của Chúa Thánh Thần đến muôn đời."
+        },
+        {
+          "chi_dan_do": "Cộng đoàn tung hô:",
+          "vai_tro": "Cộng đoàn",
+          "loi_doc": "Amen."
+        }
+      ]
+    },
+    {
+      "ma_dinh_danh": "kntt-nhu-cau-4",
+      "ten_mau": "KINH NGUYỆN THÁNH THỂ CẦU CHO NHỮNG NHU CẦU KHÁC NHAU IV",
+      "y_nghia": "Chúa Giêsu đi khắp nơi ban phát ơn lành",
+      "chi_dan_do_mau": "Được dùng trong các thánh lễ: cầu cho những người di dân và bị lưu đày, cầu cho những người lao nhọc trong thời đói khổ hay bị đói kém, cầu cho những người gây đau khổ cho chúng ta, cầu cho những người bị giam giữ, cầu cho các tù nhân, cầu cho những người đau yếu, cầu cho những người hấp hối, xin ơn chết lành, và cầu cho bất cứ nhu cầu nào.",
+      "danh_sach_hanh_dong": [
+        {
+          "chi_dan_do": "X:",
+          "vai_tro": "X",
+          "loi_doc": "Chúa ở cùng anh chị em."
+        },
+        {
+          "chi_dan_do": "Ð:",
+          "vai_tro": "Đ",
+          "loi_doc": "Và ở cùng Cha."
+        },
+        {
+          "chi_dan_do": "X:",
+          "vai_tro": "X",
+          "loi_doc": "Hãy nâng tâm hồn lên."
+        },
+        {
+          "chi_dan_do": "Ð:",
+          "vai_tro": "Đ",
+          "loi_doc": "Chúng con đang hướng về Chúa."
+        },
+        {
+          "chi_dan_do": "X:",
+          "vai_tro": "X",
+          "loi_doc": "Hãy tạ ơn Chúa là Thiên Chúa chúng ta."
+        },
+        {
+          "chi_dan_do": "Ð:",
+          "vai_tro": "Đ",
+          "loi_doc": "Thật là chính đáng."
+        },
+        {
+          "vai_tro": "Chủ tế",
+          "loi_doc": "Lạy Cha nhân từ và là Thiên Chúa thành tín, chúng con tạ ơn Cha mọi nơi mọi lúc, thật là chính đáng, phải đạo và đem lại ơn cứu độ cho chúng con. Cha đã ban Đức Giêsu Kitô Con Cha, làm Chúa và làm Đấng Cứu Chuộc chúng con. Người đã luôn tỏ mình là Đấng nhân từ, đến với những ai bé nhỏ và nghèo khó, những ai yếu đuối và tội lỗi, và Người gần gũi những kẻ bị áp bức và khổ sầu. Bằng lời nói và việc làm, Người đã loan báo cho thế gian biết Cha là Cha, và Cha chăm sóc mọi con cái Cha. Vì thế, cùng với toàn thể Thiên thần và các Thánh, chúng con hợp tiếng ca ngợi và chúc tụng Cha, và chúng con hát bài ca tôn vinh Cha, mà không ngừng tung hô rằng:"
+        },
+        {
+          "vai_tro": "Cộng đoàn",
+          "loi_doc": "Thánh! Thánh! Thánh!..."
+        },
+        {
+          "chi_dan_do": "Linh mục dang tay đọc:",
+          "vai_tro": "Chủ tế",
+          "loi_doc": "Lạy Thiên Chúa là Đấng yêu thương nhân loại, Chúa thật là Đấng Thánh và phải được tôn vinh, Chúa luôn hiện hữu với họ trên đường đời. Con Chúa thật là Đấng đáng chúc tụng, đang hiện diện giữa chúng con khi chúng con được tình yêu của Người quy tụ, Người giải thích Sách Thánh và bẻ bánh cho chúng con, như xưa Người đã làm cho các môn đệ."
+        },
+        {
+          "chi_dan_do": "Linh mục sáp hai bàn tay lại, đặt trên lễ vật và đọc; Vì vậy, lạy Cha rất nhân từ, chúng con nài xin Cha sai Thánh Thần của cha đến thánh hóa những lễ vật này là bánh và rượu, Chắp tay rồi làm một dấu thánh giá trên cả bánh và chén thánh khi đọc:",
+          "vai_tro": "Chủ tế",
+          "loi_doc": "Để trở nên cho chúng con Mình † và Máu"
+        },
+        {
+          "chi_dan_do": "Chắp tay. Trong những công thức sau đây, các lời của Chúa phải được đọc rõ ràng, dõng dạc theo đặc tính từng lời. Hôm trước ngày chịu khổ hình, trong đêm ăn bữa tiệc sau hết, Linh mục cầm chén thánh, nâng lên khỏi bàn thờ một chút và đọc tiếp: Người cầm lấy bánh, dâng lời chúc tụng, bẻ ra và trao cho các môn đệ mà nói: Hơi cúi mình.",
+          "vai_tro": "Chủ tế",
+          "loi_doc": "Đức Giêsu Kitô, Chúa chúng con. TẤT CẢ CÁC CON HÃY NHẬN LẤY MÀ ĂN: VÌ NÀY LÀ MÌNH THẦY, SẼ BỊ NỘP VÌ CÁC CON."
+        },
+        {
+          "chi_dan_do": "Linh mục cầm bánh đã truyền phép, nâng lên cho cộng đoàn thấy, rồi lại đặt xuống trên đĩa thánh và cúi mình sâu thờ lạy. Sau đó đọc tiếp: Cùng một thể thức ấy, sau bữa ăn tối, Linh mục cầm chén thánh, nâng lên khỏi bàn thờ một chút và đọc tiếp: Người cầm lấy chén, dâng lời tạ ơn Cha, và trao cho các môn đệ mà nói: Hơi cúi mình.",
+          "vai_tro": "Chủ tế",
+          "loi_doc": "TẤT CẢ CÁC CON HÃY NHẬN LẤY MÀ UỐNG: VÌ NÀY LÀ CHÉN MÁU THẦY. MÁU GIAO ƯỚC MỚI VÀ VĨNH CỬU, SẼ ĐỔ RA CHO CÁC CON VÀ NHIỀU NGƯỜI ĐƯỢC THA TỘI. CÁC CON HÃY LÀM VIỆC NÀY MÀ NHỚ ĐẾN THẦY."
+        },
+        {
+          "chi_dan_do": "Linh mục nâng chén thánh lên cho cộng đoàn thấy, rồi lại đặt xuống khăn thánh và cúi mình sâu thờ lạy. Sau đó xướng:",
+          "vai_tro": "Chủ tế",
+          "loi_doc": "Đây là mầu nhiệm đức tin."
+        },
+        {
+          "chi_dan_do": "Cộng đoàn tung hô theo:",
+          "vai_tro": "Cộng đoàn",
+          "loi_doc": "Lạy Chúa, chúng con loan truyền Chúa chịu chết, và tuyên xưng Chúa sống lại, cho tới khi Chúa đến."
+        },
+        {
+          "chi_dan_do": "Hoặc:",
+          "vai_tro": "Cộng đoàn",
+          "loi_doc": "Lạy Chúa, mỗi lần ăn bánh và uống chén này, chúng con loan truyền Chúa chịu chết, cho tới khi Chúa đến."
+        },
+        {
+          "chi_dan_do": "Hoặc:",
+          "vai_tro": "Cộng đoàn",
+          "loi_doc": "Lạy Chúa Cứu Thế, Chúa đã dùng thánh giá và sự phục sinh của Chúa để giải thoát chúng con, xin cứu độ chúng con."
+        },
+        {
+          "chi_dan_do": "Linh mục dang tay đọc:",
+          "vai_tro": "Chủ tế",
+          "loi_doc": "Vì vậy, lạy Cha chí thánh, khi tưởng nhớ Đức Kitô Con Cha là Đấng cứu độ chúng con, mà Cha đã đưa Người qua cuộc khổ nạn và cái chết trên thập giá đến vinh quang phục sinh và đặt Người ngự bên hữu Cha, chúng con loan báo công trình yêu thương của Cha cho tới khi Người đến, và chúng con tiến dâng Cha bánh ban sự sống và chén phúc lành. Xin Cha đoái nhìn hiến lễ của Hội Thánh Cha, trong hiến lễ này, chúng con dâng hy lễ Vượt Qua của Đức Kitô đã được trao lại cho chúng con, nhờ sức mạnh Thánh Thần tình yêu của Cha, bây giờ và cho đến muôn đời, được kể vào số các chi thể của Con Cha, Đấng mà chúng con được thông phần Mình và Máu của Người. Lạy Chúa, xin đoái thương kiện toàn Hội Thánh Chúa trong đức tin và đức mến, cùng với Đức Giáo Hoàng T…, Đức Giám Mục T… chúng con, và tất cả các Giám mục, linh mục, phó tế, cùng toàn thể dân riêng của Chúa. Xin Chúa mở mắt chúng con, để chúng con nhận biết những nhu cầu của anh em, xin Chúa khơi gọi cho chúng con những lời nói và những việc làm, để chúng con giúp sức cho những người làm lụng vất vả và gồng gánh nặng nề, xin cho chúng con biết chân thành phục vụ họ theo mẫu gương và lệnh truyền của Đức Kitô. Xin cho Hội Thánh Chúa hiện diện như một bằng chứng sống động về chân lý và tự do, về hòa bình và công lý, để mọi người được vươn lên trong niềm hy vọng mới. Xin Chúa nhớ đến anh chị em chúng con là T… đã an nghỉ trong Đức Kitô, đặc biệt các bậc tổ tiên, ông bà, cha mẹ và thân bằng quyến thuộc chúng con, cùng tất cả mọi người quá cố, mà chỉ một mình Chúa biết lòng tin của họ: Xin Chúa tiếp nhận họ vào hưởng ánh sáng tôn nhan Chúa, và ban cho họ khi sống lại được sống viên mãn. Xin Chúa cũng ban cho chúng con, sau cuộc lữ hành trần thế, được vào chỗ ở vĩnh viễn, nơi chúng con sẽ được sống mãi với Chúa, cùng với Đức Thánh Trinh Nữ Maria, Mẹ Thiên Chúa, Thánh Giuse, Bạn trăm năm Đức Trinh Nữ, các Thánh Tông Đồ và các Thánh Tử Đạo, (cùng với Thánh … vị Thánh kính trong ngày hoặc Thánh Bổn mạng). Cùng hiệp thông với toàn thể các Thánh, chúng con sẽ ca ngợi và tán dương Chúa,"
+        },
+        {
+          "chi_dan_do": "Chắp tay.",
+          "vai_tro": "Chủ tế",
+          "loi_doc": "Nhờ Đức Giêsu Kitô Con Chúa."
+        },
+        {
+          "chi_dan_do": "Linh mục cầm đĩa thánh có bánh thánh và chén thánh, nâng cả hai lên và đọc:",
+          "vai_tro": "Chủ tế",
+          "loi_doc": "Chính nhờ Người, với Người và trong Người, mà mọi danh dự và vinh quang đều quy về Chúa là Cha toàn năng, trong sự hợp nhất của Chúa Thánh Thần đến muôn đời."
+        },
+        {
+          "chi_dan_do": "Cộng đoàn tung hô:",
+          "vai_tro": "Cộng đoàn",
+          "loi_doc": "Amen."
+        }
+      ]
+    },
+    {
+      "ma_dinh_danh": "kntt-tre-em-1",
+      "ten_mau": "KINH NGUYỆN THÁNH THỂ I THÁNH LỄ DÀNH CHO TRẺ EM",
+      "chi_dan_do_mau": "Chỉ được sử dụng các Kinh Nguyện Thánh Thể này trong các Thánh lễ dành riêng cho trẻ em mà thôi, nghĩa là cho các em chưa bắt đầu bước vào tuổi thiếu niên, hoặc những Thánh lễ mà trong đó đa số là thiếu nhi tham dự. Mỗi Kinh Nguyện Thánh Thể đều có kinh tiền tụng riêng, và vì cấu trúc cũng như đặc tính riêng của nó, nên không thể thay thế bằng kinh tiền tụng nào khác. Tự bản chất, bản văn Latinh không chỉ dành để sử dụng trong Phụng vụ mà thôi, nhưng đúng hơn, phải được coi là bản văn chính thức và là bản văn mẫu.",
+      "danh_sach_hanh_dong": [
+        {
+          "chi_dan_do": "X.",
+          "vai_tro": "X",
+          "loi_doc": "Chúa ở cùng anh chị em."
+        },
+        {
+          "chi_dan_do": "Ð.",
+          "vai_tro": "Đ",
+          "loi_doc": "Và ở cùng Cha."
+        },
+        {
+          "chi_dan_do": "X.",
+          "vai_tro": "X",
+          "loi_doc": "Hãy nâng tâm hồn lên."
+        },
+        {
+          "chi_dan_do": "Ð.",
+          "vai_tro": "Đ",
+          "loi_doc": "Chúng con đang hướng về Chúa."
+        },
+        {
+          "chi_dan_do": "X.",
+          "vai_tro": "X",
+          "loi_doc": "Hãy tạ ơn Chúa là Thiên Chúa chúng ta."
+        },
+        {
+          "chi_dan_do": "Ð.",
+          "vai_tro": "Đ",
+          "loi_doc": "Thật là chính đáng."
+        },
+        {
+          "vai_tro": "Chủ tế",
+          "loi_doc": "Lạy Chúa là Cha tốt lành, Đấng đã quy tụ chúng con nên một, chúng con đang ở trước mặt Chúa, để ca tụng và tuyên xưng rằng: Chúng con hết lòng thán phục Chúa. Chúng con ca ngợi Chúa vì vẻ đẹp trên khắp cõi địa cầu, và vì niềm vui Chúa tuôn đổ tràn đầy tâm hồn chúng con. Chúng con ca ngợi Chúa vì ánh sáng ban ngày, và vì Lời Chúa dùng để soi sáng tâm trí chúng con. Chúng con ca ngợi Chúa vì trái đất và con người cư ngụ trên đó, và vì sự sống mà chúng con biết là Chúa đã ban cho chúng con. Chúa là Đấng thật tốt lành, là Đấng yêu thương chúng con, và làm cho chúng con những điều kỳ diệu. Vì thế, tất cả chúng con đều hát mừng Chúa rằng:"
+        },
+        {
+          "chi_dan_do": "Mọi người tung hô:",
+          "vai_tro": "Cộng đoàn",
+          "loi_doc": "Thánh! Thánh! Thánh! Chúa là Thiên Chúa các đạo binh."
+        },
+        {
+          "chi_dan_do": "Linh mục dang tay đọc:",
+          "vai_tro": "Chủ tế",
+          "loi_doc": "Lạy Cha, Cha hằng quan tâm đến loài người, và không ngừng trợ giúp họ khắp nơi, nên Cha đã sai Con yêu dấu của Cha đến với chúng con. Người đã đến cứu độ chúng con, đã chữa lành người đau yếu, ban ơn tha thứ cho kẻ tội lỗi. Người đã cho thấy Cha yêu thương mọi người, đã đón nhận và chúc phúc cho trẻ em. Vì thế với lòng biết ơn, chúng con tung hô rằng:"
+        },
+        {
+          "chi_dan_do": "Mọi người tung hô:",
+          "vai_tro": "Cộng đoàn",
+          "loi_doc": "Trời đất đầy vinh quang Chúa. Hoan hô Chúa trên các tầng trời."
+        },
+        {
+          "chi_dan_do": "Linh mục dang tay đọc:",
+          "vai_tro": "Chủ tế",
+          "loi_doc": "Lạy Cha rất nhân từ, không phải chỉ có chúng con ca tụng Cha, nhưng dân Cha trên khắp địa cầu đều tôn vinh Cha. Vì vậy, chúng con tha thiết nguyện cầu Cha cùng với toàn thể Hội Thánh, với Đức Giáo Hoàng T…, và Đức Giám Mục T… chúng con. Trên thiên quốc, Đức Thánh Trinh Nữ Maria, Thánh Giuse, và các Thánh Tông Đồ cùng toàn thể các Thánh, cũng không ngừng ca tụng Cha. Cùng với các ngài và các Thiên thần, chúng con thờ lạy Cha, mà đồng thanh tung hô rằng:"
+        },
+        {
+          "chi_dan_do": "Mọi người tung hô:",
+          "vai_tro": "Cộng đoàn",
+          "loi_doc": "Chúc tụng Đấng ngự đến nhân danh Chúa. Hoan hô Chúa trên các tầng trời."
+        },
+        {
+          "chi_dan_do": "Linh mục dang tay đọc:",
+          "vai_tro": "Chủ tế",
+          "loi_doc": "Lạy Cha chí thánh, để tỏ lòng biết ơn Cha, chúng con mang bánh và rượu đến."
+        },
+        {
+          "chi_dan_do": "Linh mục sáp hai bàn tay lại, đặt trên lễ vật và đọc: Xin Cha làm cho bánh rượu này, nhờ quyền năng Chúa Thánh Thần, Chắp tay rồi làm một dấu thánh giá trên cả bánh và chén thánh khi đọc:",
+          "vai_tro": "Chủ tế",
+          "loi_doc": "Để trở nên Mình † và Máu Đức Giêsu Kitô, Con yêu dấu của Cha."
+        },
+        {
+          "chi_dan_do": "Chắp tay. Như thế, chúng con có thể dâng tiến Cha lễ vật Cha đã thương ban cho chúng con. Trong những công thức sau đây, các lời của Chúa phải được đọc rõ ràng, dõng dạc theo đặc tính từng lời. Vì thế, vào buổi tối, trước khi chịu khổ hình, đang lúc dùng bữa với các Tông Đồ, Linh mục cầm lấy bánh, nâng lên khỏi bàn thờ một chút và đọc tiếp: Chính Người cầm lấy bánh trên bàn tiệc, dâng lời chúc tụng tạ ơn Cha, bẻ ra và trao cho các môn đệ mà nói: Hơi cúi mình.",
+          "vai_tro": "Chủ tế",
+          "loi_doc": "TẤT CẢ CÁC CON HÃY NHẬN LẤY MÀ ĂN: VÌ NÀY LÀ MÌNH THẦY, SẼ BỊ NỘP VÌ CÁC CON."
+        },
+        {
+          "chi_dan_do": "Linh mục cầm bánh đã truyền phép, nâng lên cho cộng đoàn thấy, rồi lại đặt xuống trên đĩa thánh và cúi mình sâu thờ lạy. Sau đó đọc tiếp: Cũng thế, vào cuối bữa ăn, Linh mục cầm chén thánh, nâng lên khỏi bàn thờ một chút và đọc tiếp: Người cầm lấy chén rượu, dâng lời chúc tụng tạ ơn Cha, và trao cho các môn đệ mà nói: Hơi cúi mình.",
+          "vai_tro": "Chủ tế",
+          "loi_doc": "TẤT CẢ CÁC CON HÃY NHẬN LẤY MÀ UỐNG: VÌ NÀY LÀ CHÉN MÁU THẦY. MÁU GIAO ƯỚC MỚI VÀ VĨNH CỬU, SẼ ĐỔ RA CHO CÁC CON VÀ NHIỀU NGƯỜI ĐƯỢC THA TỘI. Rồi Người nói với họ: CÁC CON HÃY LÀM VIỆC NÀY MÀ NHỚ ĐẾN THẦY."
+        },
+        {
+          "chi_dan_do": "Linh mục nâng chén thánh lên cho cộng đoàn thấy, rồi lại đặt xuống khăn thánh và cúi mình sâu thờ lạy. Sau đó dang tay đọc:",
+          "vai_tro": "Chủ tế",
+          "loi_doc": "Vì thế, giờ đây chúng con cung kính cử hành những gì Chúa Giêsu Kitô đã truyền dạy chúng con. Chúng con dâng lên Cha bánh trường sinh và chén cứu độ, mà loan báo cái chết và sự sống lại của chính Người. Người ưu ái dẫn đưa chúng con đến cùng Cha, nên chúng con nài xin Cha đón nhận chúng con cùng với Người."
+        },
+        {
+          "chi_dan_do": "Mọi người tung hô:",
+          "vai_tro": "Cộng đoàn",
+          "loi_doc": "Đức Kitô đã chết vì chúng con, và đã sống lại, chúng con đợi chờ Người đến trong vinh quang."
+        },
+        {
+          "chi_dan_do": "Hoặc:",
+          "vai_tro": "Cộng đoàn",
+          "loi_doc": "Lạy Chúa, chúng con loan truyền Chúa chịu chết, và tuyên xưng Chúa sống lại, cho tới khi Chúa đến."
+        },
+        {
+          "chi_dan_do": "Hoặc:",
+          "vai_tro": "Cộng đoàn",
+          "loi_doc": "Lạy Chúa, mỗi lần ăn bánh và uống chén này, chúng con loan truyền Chúa chịu chết, cho tới khi Chúa đến."
+        },
+        {
+          "chi_dan_do": "Hoặc:",
+          "vai_tro": "Cộng đoàn",
+          "loi_doc": "Lạy Chúa cứu thế, Chúa đã dùng thánh giá và sự phục sinh của Chúa, để giải thoát chúng con, xin cứu độ chúng con."
+        },
+        {
+          "chi_dan_do": "Sau đó linh mục dang tay đọc:",
+          "vai_tro": "Chủ tế",
+          "loi_doc": "Lạy Cha, Cha yêu thương chúng con dường nào, xin cho chúng con được đến bàn tiệc này của Cha, và xin Cha sai Chúa Thánh Thần đến với chúng con, để chúng con rước mình và máu Con Cha, và chúng con được cùng nhau tâm đầu ý hợp. Lạy Chúa, Chúa chẳng quên ai bao giờ, nên chúng con cầu xin Chúa cho những người chúng con thương mến, cho Đức Giáo Hoàng T…, và Đức Giám Mục T… chúng con, cho cha mẹ, anh chị em và bạn hữu, cũng như cho những ai đã qua khỏi đời này trong bình an. Xin Cha nhớ đến những người đang bị giày vò vì đau khổ và đang ưu phiền, và gia đình các Kitô hữu của Cha lan rộng nơi nơi, cùng tất cả mọi người sống trên khắp mặt đất này. Vậy, khi chúng con nhìn thấy những việc Chúa làm cho chúng con, nhờ Đức Giêsu Kitô Con Chúa, chúng con thán phục, và lại cùng nhau dâng lên Chúa lời ca ngợi."
+        },
+        {
+          "chi_dan_do": "Linh mục cầm đĩa thánh có bánh thánh và chén thánh, nâng cả hai lên và đọc một mình:",
+          "vai_tro": "Chủ tế",
+          "loi_doc": "Chính nhờ Người, với Người và trong Người, mà mọi danh dự và vinh quang đều quy về Chúa là Cha toàn năng, trong sự hợp nhất của Chúa Thánh Thần đến muôn đời."
+        },
+        {
+          "chi_dan_do": "Cộng đoàn tung hô:",
+          "vai_tro": "Cộng đoàn",
+          "loi_doc": "Amen."
+        },
+        {
+          "chi_dan_do": "Đoạn đọc Nghi Thức Hiệp lễ.",
+          "vai_tro": "Chủ tế",
+          "loi_doc": ""
+        }
+      ]
+    },
+    {
+      "ma_dinh_danh": "kntt-tre-em-2",
+      "ten_mau": "KINH NGUYỆN THÁNH THỂ II THÁNH LỄ DÀNH CHO TRẺ EM",
+      "danh_sach_hanh_dong": [
+        {
+          "chi_dan_do": "X.",
+          "vai_tro": "X",
+          "loi_doc": "Chúa ở cùng anh chị em."
+        },
+        {
+          "chi_dan_do": "Đ.",
+          "vai_tro": "Đ",
+          "loi_doc": "Và ở cùng Cha."
+        },
+        {
+          "chi_dan_do": "X.",
+          "vai_tro": "X",
+          "loi_doc": "Hãy nâng tâm hồn lên."
+        },
+        {
+          "chi_dan_do": "Đ.",
+          "vai_tro": "Đ",
+          "loi_doc": "Chúng con đang hướng về Chúa."
+        },
+        {
+          "chi_dan_do": "X.",
+          "vai_tro": "X",
+          "loi_doc": "Hãy tạ ơn Chúa là Thiên Chúa chúng ta."
+        },
+        {
+          "chi_dan_do": "Đ.",
+          "vai_tro": "Đ",
+          "loi_doc": "Thật là chính đáng."
+        },
+        {
+          "vai_tro": "Chủ tế",
+          "loi_doc": "Lạy Cha rất mực yêu thương, chúng con hân hoan tạ ơn Cha và cùng với Đức Giêsu Kitô, chúng con hớn hở vui mừng trong Hội Thánh của Cha. Cha yêu thương chúng con đến nỗi đã dựng nên thế giới bao la và xinh đẹp này cho chúng con."
+        },
+        {
+          "chi_dan_do": "Mọi người tung hô:",
+          "vai_tro": "Cộng đoàn",
+          "loi_doc": "Lạy Chúa, vinh danh Chúa là Đấng yêu thương loài người chúng con."
+        },
+        {
+          "chi_dan_do": "Linh mục dang tay đọc tiếp:",
+          "vai_tro": "Chủ tế",
+          "loi_doc": "Cha yêu thương chúng con đến nỗi ban Chúa Giêsu, Con Cha cho chúng con, để Người dẫn đưa chúng con đến cùng Cha."
+        },
+        {
+          "chi_dan_do": "Mọi người tung hô:",
+          "vai_tro": "Cộng đoàn",
+          "loi_doc": "Lạy Chúa, vinh danh Chúa là Đấng yêu thương loài người chúng con."
+        },
+        {
+          "chi_dan_do": "Linh mục dang tay đọc tiếp:",
+          "vai_tro": "Chủ tế",
+          "loi_doc": "Cha yêu thương chúng con đến nỗi quy tụ chúng con trong Đức Kitô, và nhờ Chúa Thánh Thần, Cha làm cho chúng con trở nên nghĩa tử của một gia đình duy nhất."
+        },
+        {
+          "chi_dan_do": "Mọi người tung hô:",
+          "vai_tro": "Cộng đoàn",
+          "loi_doc": "Lạy Chúa, vinh danh Chúa là Đấng yêu thương loài người chúng con."
+        },
+        {
+          "chi_dan_do": "Linh mục dang tay đọc tiếp:",
+          "vai_tro": "Chủ tế",
+          "loi_doc": "Vì Cha đã ban tặng một tình yêu lớn lao dường ấy, nên cùng với các Thiên thần và các Thánh đang thờ lạy Cha, chúng con tạ ơn Cha và ca hát rằng:"
+        },
+        {
+          "chi_dan_do": "Mọi người tung hô:",
+          "vai_tro": "Cộng đoàn",
+          "loi_doc": "Thánh! Thánh! Thánh! Chúa là Thiên Chúa các đạo binh. Trời đất đầy vinh quang Chúa. Hoan hô Chúa trên các tầng trời. Chúc tụng Đấng ngự đến nhân danh Chúa. Hoan hô Chúa trên các tầng trời."
+        },
+        {
+          "chi_dan_do": "Linh mục dang tay đọc tiếp:",
+          "vai_tro": "Chủ tế",
+          "loi_doc": "Chúa Giêsu đã được sai đến, Người là Đấng đáng chúc tụng, Người là bạn của các trẻ em và những người nghèo khó. Chính Người đã đến dạy chúng con yêu mến Cha và yêu thương lẫn nhau. Chính Người đã đến cất khỏi lòng con Người tội lỗi và sự dữ là rào cản tình bạn hữu, lòng ghen ghét làm mất đi cuộc sống hạnh phúc. Chính Người hứa ban Chúa Thánh Thần đến ở cùng chúng con mọi ngày, để nhờ sự sống của Cha, chúng con được sống như con cái."
+        },
+        {
+          "chi_dan_do": "Mọi người tung hô:",
+          "vai_tro": "Cộng đoàn",
+          "loi_doc": "Chúc tụng Đấng ngự đến nhân danh Chúa. Hoan hô Chúa trên các tấng trời."
+        },
+        {
+          "chi_dan_do": "Linh mục sáp hai bàn tay lại, đặt trên lễ vật và đọc: Chúng con nài xin Cha là Thiên Chúa, Cha chúng con, sai Thánh Thần Cha đến, làm cho những của lễ là bánh và rượu này Chắp tay rồi làm một dấu thánh giá trên cả bánh và chén thánh khi đọc:",
+          "vai_tro": "Chủ tế",
+          "loi_doc": "Trở nên Mình † và Máu Đức Giêsu Kitô, Chúa chúng con."
+        },
+        {
+          "chi_dan_do": "Trong những công thức sau đây, các lời của Chúa phải được đọc rõ ràng, dõng dạc theo đặc tính từng lời. Hôm trước ngày chịu khổ hình, Người đã biểu lộ tình yêu vô tận của Cha. Quả vậy, đang khi dùng bữa tối với các môn đệ, Linh mục cầm lấy bánh, nâng lên khỏi bàn thờ một chút và đọc tiếp: Người cầm bánh, tạ ơn, bẻ ra và trao cho họ mà nói: Hơi cúi mình.",
+          "vai_tro": "Chủ tế",
+          "loi_doc": "TẤT CẢ CÁC CON HÃY NHẬN LẤY MÀ ĂN: VÌ NÀY LÀ MÌNH THẦY, SẼ BỊ NỘP VÌ CÁC CON."
+        },
+        {
+          "chi_dan_do": "Linh mục cầm bánh đã truyền phép, nâng lên cho cộng đoàn thấy, trong khi mọi người tung hô:",
+          "vai_tro": "Cộng đoàn",
+          "loi_doc": "Chúa Giêsu Kitô bị trao nộp vì chúng con."
+        },
+        {
+          "chi_dan_do": "Sau đó đọc tiếp: Cũng vậy, Người cầm lấy chén rượu, Linh mục cầm chén thánh, nâng lên khỏi bàn thờ một chút và đọc tiếp: Cầu nguyện tạ ơn Cha và trao chén cho họ mà nói: Hơi cúi mình.",
+          "vai_tro": "Chủ tế",
+          "loi_doc": "TẤT CẢ CÁC CON HÃY NHẬN LẤY MÀ UỐNG: VÌ NÀY LÀ CHÉN MÁU THẦY, MÁU GIAO ƯỚC MỚI VÀ VĨNH CỬU, SẼ ĐỔ RA CHO CÁC CON VÀ NHIỀU NGƯỜI ĐƯỢC THA TỘI."
+        },
+        {
+          "chi_dan_do": "Linh mục nâng chén thánh lên cho cộng đoàn thấy, trong khi mọi người tung hô:",
+          "vai_tro": "Cộng đoàn",
+          "loi_doc": "Chúa Giêsu Kitô bị trao nộp vì chúng con."
+        },
+        {
+          "chi_dan_do": "Linh mục đọc tiếp: Rồi Người nói với họ:",
+          "vai_tro": "Chủ tế",
+          "loi_doc": "CÁC CON HÃY LÀM VIỆC NÀY MÀ NHỚ ĐẾN THẦY."
+        },
+        {
+          "chi_dan_do": "Đặt chén thánh lại trên khăn thánh và cúi mình sâu thờ lạy. Sau đó linh mục dang tay xướng:",
+          "vai_tro": "Chủ tế",
+          "loi_doc": "Đây là mầu nhiệm đức tin."
+        },
+        {
+          "chi_dan_do": "Mọi người tung hô:",
+          "vai_tro": "Cộng đoàn",
+          "loi_doc": "Đức Kitô đã chết vì chúng con, và đã sống lại, chúng con đợi chờ Người đến trong vinh quang."
+        },
+        {
+          "chi_dan_do": "Hoặc:",
+          "vai_tro": "Cộng đoàn",
+          "loi_doc": "Lạy Chúa, chúng con loan truyền Chúa chịu chết, và tuyên xưng Chúa sống lại, cho tới khi Chúa đến."
+        },
+        {
+          "chi_dan_do": "Hoặc:",
+          "vai_tro": "Cộng đoàn",
+          "loi_doc": "Lạy Chúa, mỗi lần ăn bánh và uống chén này, chúng con loan truyền Chúa chịu chết, cho tới khi Chúa đến."
+        },
+        {
+          "chi_dan_do": "Hoặc:",
+          "vai_tro": "Cộng đoàn",
+          "loi_doc": "Lạy Chúa cứu thế, Chúa đã dùng thánh giá và sự phục sinh của Chúa, để giải thoát chúng con, xin cứu độ chúng con."
+        },
+        {
+          "chi_dan_do": "Sau đó linh mục dang tay đọc:",
+          "vai_tro": "Chủ tế",
+          "loi_doc": "Vì thế, lạy Cha rất mực yêu thương, chúng con kính nhớ cái chết và sự sống lại của Chúa Giêsu, Đấng cứu độ trần gian. Người đã tự phó mình trong tay chúng con , để nên lễ vật giao hòa và bình an, nên hy lễ của chúng con, nhờ đó chúng con được lôi cuốn đến cùng Cha."
+        },
+        {
+          "chi_dan_do": "Mọi người tung hô:",
+          "vai_tro": "Cộng đoàn",
+          "loi_doc": "Vinh danh và ngợi khen Thiên Chúa chúng con."
+        },
+        {
+          "chi_dan_do": "Hoặc:",
+          "vai_tro": "Cộng đoàn",
+          "loi_doc": "Chúng con ca ngợi Cha, chúng con chúc tụng Cha, chúng con tạ ơn Cha."
+        },
+        {
+          "chi_dan_do": "Linh mục dang tay đọc:",
+          "vai_tro": "Chủ tế",
+          "loi_doc": "Lạy Cha là Thiên Chúa, xin nhậm lời chúng con và ban Thánh Thần của tình yêu Chúa cho hết mọi người tham dự bàn tiệc này, để họ được ngày càng hợp nhất trong Hội Thánh, cùng với Đức Giáo Hoàng T…, và Đức Giám Mục T… chúng con, cùng tất cả các Giám mục, và mọi người phục vụ dân Chúa."
+        },
+        {
+          "chi_dan_do": "Mọi người tung hô:",
+          "vai_tro": "Cộng đoàn",
+          "loi_doc": "Lạy Chúa, ước gì mọi người nên một thân thể và một tinh thần để tôn vinh Chúa."
+        },
+        {
+          "chi_dan_do": "Linh mục dang tay đọc tiếp:",
+          "vai_tro": "Chủ tế",
+          "loi_doc": "Xin Chúa đừng quên những người chúng con yêu mến: cha mẹ, anh chị em và bạn hữu chúng con, và những người chúng con chưa trọn tình thương mến. Xin Chúa cũng nhớ đến những người đã lìa khỏi đời này trong bình an, là T…, và xin Chúa nhân từ đón nhận họ vào hưởng niềm vui trong nhà Chúa."
+        },
+        {
+          "chi_dan_do": "Mọi người tung hô:",
+          "vai_tro": "Cộng đoàn",
+          "loi_doc": "Lạy Chúa, ước gì mọi người nên một thân thể và một tinh thần để tôn vinh Chúa."
+        },
+        {
+          "chi_dan_do": "Linh mục dang tay đọc tiếp:",
+          "vai_tro": "Chủ tế",
+          "loi_doc": "Lạy Cha, một ngày kia, xin Cha quy tụ chúng con về với Cha, cùng với Đức Thánh Trinh nữ Maria, mẹ Thiên Chúa, mẹ chúng con, để mừng ngày vĩnh cửu trong Nước Cha, nơi tất cả bạn hữu của Đức Giêsu Kitô Chúa chúng con, sẽ không ngừng hát bài ca chúc tụng Cha."
+        },
+        {
+          "chi_dan_do": "Mọi người tung hô:",
+          "vai_tro": "Cộng đoàn",
+          "loi_doc": "Lạy Chúa, ước gì mọi người nên một thân thể và một tinh thần để tôn vinh Chúa."
+        },
+        {
+          "chi_dan_do": "Linh mục cầm đĩa thánh có bánh thánh và chén thánh, nâng cả hai lên và đọc một mình:",
+          "vai_tro": "Chủ tế",
+          "loi_doc": "Chính nhờ Người, với Người và trong Người, mà mọi danh dự và vinh quang đều quy về Chúa là Cha toàn năng, trong sự hợp nhất của Chúa Thánh Thần đến muôn đời."
+        },
+        {
+          "chi_dan_do": "Cộng đoàn tung hô:",
+          "vai_tro": "Cộng đoàn",
+          "loi_doc": "Amen."
+        },
+        {
+          "chi_dan_do": "Đoạn đọc Nghi Thức Hiệp lễ.",
+          "vai_tro": "Chủ tế",
+          "loi_doc": ""
+        }
+      ]
+    },
+    {
+      "ma_dinh_danh": "kntt-tre-em-3",
+      "ten_mau": "KINH NGUYỆN THÁNH THỂ III THÁNH LỄ DÀNH CHO TRẺ EM",
+      "danh_sach_hanh_dong": [
+        {
+          "chi_dan_do": "X.",
+          "vai_tro": "X",
+          "loi_doc": "Chúa ở cùng anh chị em."
+        },
+        {
+          "chi_dan_do": "Đ.",
+          "vai_tro": "Đ",
+          "loi_doc": "Và ở cùng Cha."
+        },
+        {
+          "chi_dan_do": "X.",
+          "vai_tro": "X",
+          "loi_doc": "Hãy nâng tâm hồn lên."
+        },
+        {
+          "chi_dan_do": "Đ.",
+          "vai_tro": "Đ",
+          "loi_doc": "Chúng con đang hướng về Chúa."
+        },
+        {
+          "chi_dan_do": "X.",
+          "vai_tro": "X",
+          "loi_doc": "Hãy tạ ơn Chúa là Thiên Chúa chúng ta."
+        },
+        {
+          "chi_dan_do": "Đ.",
+          "vai_tro": "Đ",
+          "loi_doc": "Thật là chính đáng."
+        },
+        {
+          "vai_tro": "Chủ tế",
+          "loi_doc": "† Lạy Thiên Chúa, chúng con tạ ơn Chúa đã dựng nên chúng con, để chúng con sống cho Chúa và thương mến nhau như anh em. Thật là hồng ân Chúa ban, khi chúng con được gặp gỡ trò chuyện với nhau, và biết chia sẻ với nhau tất cả những gì là tốt lành, những gì là khó nhọc. †"
+        },
+        {
+          "chi_dan_do": "Trong Mùa Phục sinh, linh mục đọc:",
+          "vai_tro": "Chủ tế",
+          "loi_doc": "† Lạy Chúa, vì Chúa là Thiên Chúa của kẻ sống, Chúa đã gọi chúng con vào cuộc sống này, và muốn chúng con được hưởng hạnh phúc muôn đời. Thật vậy, Chúa đã cho Đức Giêsu Kitô, người đầu tiên trong chúng con được sống lại từ cõi chết, và ban cho Người sự sống mới. Chính Chúa lại hứa ban cho chúng con một cuộc sống vô tận, không còn đau khổ lầm than. †"
+        },
+        {
+          "vai_tro": "Chủ tế",
+          "loi_doc": "Lạy Cha, trong khi vui mừng và tạ ơn Cha vì những hồng ân ấy, chúng con hiệp với tất cả những ai tin kính Cha, với các Thiên thần và các Thánh mà hoan hỉ tuyên xưng rằng:"
+        },
+        {
+          "chi_dan_do": "Mọi người tung hô:",
+          "vai_tro": "Cộng đoàn",
+          "loi_doc": "Thánh! Thánh! Thánh! Chúa là Thiên Chúa các đạo binh. Trời đất đầy vinh quang Chúa. Hoan hô Chúa trên các tầng trời. Chúc tụng Đấng ngự đến nhân danh Chúa. Hoan hô Chúa trên các tầng trời."
+        },
+        {
+          "chi_dan_do": "Linh mục dang tay đọc tiếp:",
+          "vai_tro": "Chủ tế",
+          "loi_doc": "Lạy Chúa, Chúa thật là Đấng Thánh, và hảo tâm đối với mọi người chúng con. Chúa cũng tỏ lòng nhân hậu của Chúa cho mọi người. Chúng con tạ ơn Chúa, trước hết vì Con Chúa là Đức Giêsu Kitô. † Người đã rủ thương mà đến trong thế gian, bởi loài người đã bỏ Chúa vì phạm tội, và tâm hồn họ không còn hợp nhất với nhau nữa. Chính Người đã mở tai, mở mắt chúng con, để chúng con nhận biết Chúa là Cha của tất cả chúng con, và để chúng con thương yêu lẫn nhau. †"
+        },
+        {
+          "chi_dan_do": "Trong Mùa Phục Sinh, linh mục đọc:",
+          "vai_tro": "Chủ tế",
+          "loi_doc": "† Chính Người đã loan báo cho chúng con tin vui về một cuộc đời được sống bất tận bên Chúa trong ánh huy hoàng của Chúa, và đã chỉ cho chúng con đường dẫn tới sự sống ấy, là tiến bước trong yêu thương, mà chính Người đã đi trước chúng con. †"
+        },
+        {
+          "chi_dan_do": "Linh mục sáp hai bàn tay lại, đặt trên lễ vật và đọc: Lạy Cha rất tốt lành, xin dùng quyền năng Chúa Thánh Thần, đoái thương thánh hóa những của lễ là bánh và rượu này Chắp tay rồi làm một dấu thánh giá trên cả bánh và chén thánh khi đọc:",
+          "vai_tro": "Chủ tế",
+          "loi_doc": "Giờ đây, Đức Kitô quy tụ chúng con vào cùng một bàn tiệc, Người muốn chúng con làm những gì mà trước kia chính Người đã làm. Để trở nên cho chúng con Mình † và Máu Con Cha là Đức Giêsu Kitô."
+        },
+        {
+          "chi_dan_do": "Chắp tay. Trong những công thức sau đây, các lời của Chúa phải được đọc rõ ràng, dõng dạc theo đặc tính từng lời. Quả thật, chiều hôm ấy, trước khi Người chịu chết vì chúng con, đang khi dùng bữa lần sau hết với các môn đệ của Người. Linh mục cầm lấy bánh, nâng lên khỏi bàn thờ một chút và đọc tiếp: Người cầm bánh, tạ ơn, bẻ ra và trao cho họ mà nói: Hơi cúi mình.",
+          "vai_tro": "Chủ tế",
+          "loi_doc": "TẤT CẢ CÁC CON HÃY NHẬN LẤY MÀ ĂN: VÌ NÀY LÀ MÌNH THẦY, SẼ BỊ NỘP VÌ CÁC CON."
+        },
+        {
+          "chi_dan_do": "Linh mục cầm bánh đã truyền phép, nâng lên cho cộng đoàn thấy, rồi lại đặt xuống trên đĩa thánh, và cúi mình sâu thờ lạy. Sau đó đọc tiếp: Cũng vậy, Linh mục cầm chén thánh, nâng lên khỏi bàn thờ một chút và đọc tiếp: Người cầm lấy chén rượu nho, tạ ơn, và trao cho các môn đệ mà nói: Hơi cúi mình.",
+          "vai_tro": "Chủ tế",
+          "loi_doc": "TẤT CẢ CÁC CON HÃY NHẬN LẤY MÀ UỐNG: VÌ NÀY LÀ CHÉN MÁU THẦY, MÁU GIAO ƯỚC MỚI VÀ VĨNH CỬU, VÀ NHIỀU NGƯỜI ĐƯỢC THA TỘI. Rồi Người nói với họ: CÁC CON HÃY LÀM VIỆC NÀY MÀ NHỚ ĐẾN THẦY."
+        },
+        {
+          "chi_dan_do": "Linh mục nâng chén thánh lên cho những người tham dự thấy, rồi lại đặt xuống khăn thánh, và cúi mình sâu thờ lạy. Sau đó linh mục dang tay xướng:",
+          "vai_tro": "Chủ tế",
+          "loi_doc": "Đây là mầu nhiệm đức tin."
+        },
+        {
+          "chi_dan_do": "Mọi người tung hô:",
+          "vai_tro": "Cộng đoàn",
+          "loi_doc": "Đức Kitô đã chết vì chúng con, và đã sống lại, chúng con đợi chờ Người đến trong vinh quang."
+        },
+        {
+          "chi_dan_do": "Hoặc:",
+          "vai_tro": "Cộng đoàn",
+          "loi_doc": "Lạy Chúa, chúng con loan truyền Chúa chịu chết, và tuyên xưng Chúa sống lại, cho tới khi Chúa đến."
+        },
+        {
+          "chi_dan_do": "Hoặc:",
+          "vai_tro": "Cộng đoàn",
+          "loi_doc": "Lạy Chúa, mỗi lần ăn bánh và uống chén này, chúng con loan truyền Chúa chịu chết, cho tới khi Chúa đến."
+        },
+        {
+          "chi_dan_do": "Hoặc:",
+          "vai_tro": "Cộng đoàn",
+          "loi_doc": "Lạy Chúa cứu thế, Chúa đã dùng thánh giá và sự phục sinh của Chúa, để giải thoát chúng con, xin cứu dộ chúng con."
+        },
+        {
+          "chi_dan_do": "Sau đó linh mục dang tay đọc:",
+          "vai_tro": "Chủ tế",
+          "loi_doc": "Vì thế, lạy Cha chí thánh, chúng con đang ở trước mặt Cha đây, vui mừng nhớ lại những gì Đức Giêsu Kitô đã làm để cứu độ chúng con. Trong hy lễ thánh này, mà chính Người đã trao cho Hội Thánh của Người, chúng con kính nhớ cái chết và sự sống lại của Người. Lạy Cha chí thánh, Đấng ngự trên trời, chúng con nài xin Cha thương nhận chúng con cùng với Con yêu dấu của Cha. Chính Người đã tự nguyện chịu chết vì chúng con, nhưng Cha đã cho Người sống lại; bởi đó, chúng con tung hô rằng:"
+        },
+        {
+          "chi_dan_do": "Mọi người tung hô:",
+          "vai_tro": "Cộng đoàn",
+          "loi_doc": "Chúng con ngợi khen Cha là Thiên Chúa tốt lành, chúng con tạ ơn Cha."
+        },
+        {
+          "chi_dan_do": "Linh mục dang tay đọc tiếp:",
+          "vai_tro": "Chủ tế",
+          "loi_doc": "Người hằng sống bên Cha, nhưng vẫn ở cùng chúng con."
+        },
+        {
+          "chi_dan_do": "Mọi người tung hô:",
+          "vai_tro": "Cộng đoàn",
+          "loi_doc": "Chúng con ngợi khen Cha là Thiên Chúa tốt lành, chúng con tạ ơn Cha."
+        },
+        {
+          "chi_dan_do": "Linh mục dang tay đọc tiếp:",
+          "vai_tro": "Chủ tế",
+          "loi_doc": "Sau cùng, Người sẽ đến trong vinh quang, và trong Nước Người sẽ không còn ai phải khổ đau, phải khóc lóc, phải ưu sầu, và tội lỗi cũng như sự chết, sẽ không còn thống trị nữa."
+        },
+        {
+          "chi_dan_do": "Mọi người tung hô:",
+          "vai_tro": "Cộng đoàn",
+          "loi_doc": "Chúng con ngợi khen Cha là Thiên Chúa tốt lành, chúng con tạ ơn Cha."
+        },
+        {
+          "chi_dan_do": "Linh mục dang tay đọc tiếp:",
+          "vai_tro": "Chủ tế",
+          "loi_doc": "Lạy Cha chí thánh, Cha kêu gọi chúng con hân hoan rước Mình Thánh Đức Kitô nơi bàn tiệc này, chúng con nài xin Cha cho chúng con, khi được bổ dưỡng nhờ sức mạnh của lương thực này, biết mỗi ngày làm đẹp lòng Cha hơn, và nhờ ơn thông hiệp của Chúa Thánh Thần, chúng con trở nên một thân thể trong đức ái. Lạy Chúa, xin nhớ đến Đức Giáo Hoàng T…, Đức Giám Mục T… chúng con, và tất cả các Đức Giám Mục. † Xin giúp cho tất cả các môn đệ của Đức Kitô biết đem lại bình an, và biết chia sẻ niềm vui cho người khác. †"
+        },
+        {
+          "chi_dan_do": "Trong Mùa Phục Sinh, linh mục đọc:",
+          "vai_tro": "Chủ tế",
+          "loi_doc": "† Xin Chúa ban cho tâm hồn các tín hữu, được tràn đầy niềm vui Phục Sinh, và cho họ biết đem niềm vui này, tới tất cả những ai đang ưu sầu. †"
+        },
+        {
+          "vai_tro": "Chủ tế",
+          "loi_doc": "Xin Cha ban cho tất cả chúng con, được cùng với Đức Thánh Trinh Nữ Maria, Mẹ Thiên Chúa, Thánh Giuse, Bạn trăm năm Đức Trinh Nữ, cùng với Thánh T… và toàn thể các Thánh, một ngày kia, được ở bên Đức Kitô trên thiên quốc, và cùng với Người, chúng con sẽ ở trong Nhà Cha đến muôn đời."
+        },
+        {
+          "chi_dan_do": "Linh mục cầm đĩa thánh có bánh thánh và chén thánh, nâng cả hai lên và đọc một mình:",
+          "vai_tro": "Chủ tế",
+          "loi_doc": "Chính nhờ Người, với Người và trong Người, mà mọi danh dự và vinh quang đều quy về Chúa là Cha toàn năng, trong sự hợp nhất của Chúa Thánh Thần đến muôn đời."
+        },
+        {
+          "chi_dan_do": "Cộng đoàn tung hô:",
+          "vai_tro": "Cộng đoàn",
+          "loi_doc": "Amen."
+        },
+        {
+          "chi_dan_do": "Đoạn đọc Nghi Thức Hiệp lễ.",
+          "vai_tro": "Chủ tế",
+          "loi_doc": ""
+        }
+      ]
+    }
+  ]
+}

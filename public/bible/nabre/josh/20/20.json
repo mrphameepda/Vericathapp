@@ -1,0 +1,91 @@
+{
+    "headings":  [
+
+                 ],
+    "verses":  [
+                   {
+                       "label":  "1",
+                       "number":  1,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Chapter 20 - Cities of Refuge. The LORD said to Joshua:",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "2",
+                       "number":  2,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Tell the Israelites: Designate for yourselves the cities of refuge of which I spoke to you through Moses,",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "3",
+                       "number":  3,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "to which anyone guilty of inadvertent and unintentional homicide may flee for asylum from the avenger of blood.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "4",
+                       "number":  4,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "To one of these cities the killer shall flee, and standing at the entrance of the city gate, shall plead his case in the hearing of the elders of the city, who must receive him and assign him a place in which to live among them.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "5",
+                       "number":  5,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Though the avenger of blood pursues him, they shall not deliver up to him the one who killed a neighbor unintentionally, when there had been no hatred previously.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "6",
+                       "number":  6,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Once he has stood judgment before the community, he shall live on in that city until the death of the high priest who is in office at the time. Then the killer may return home to the city from where he originally fled.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "7",
+                       "number":  7,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "List of Cities. So they set apart Kedesh in Galilee in the mountain region of Naphtali, Shechem in the mountain region of Ephraim, and Kiriath-arba (that is, Hebron) in the mountain region of Judah.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "8",
+                       "number":  8,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "And beyond the Jordan east of Jericho they designated Bezer in the wilderness on the tableland in the tribe of Reuben, Ramoth in Gilead in the tribe of Gad, and Golan in Bashan in the tribe of Manasseh.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "9",
+                       "number":  9,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "These are the designated cities to which any Israelite or alien residing among them who had killed a person unintentionally might flee to escape death at the hand of the avenger of blood, until the killer could appear before the community.",
+                       "isPoetry":  false
+                   }
+               ],
+    "marks":  [
+
+              ]
+}

@@ -1,0 +1,289 @@
+{
+    "headings":  [
+
+                 ],
+    "verses":  [
+                   {
+                       "label":  "1",
+                       "number":  1,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Chapter 14 - Then the LORD spoke to Moses:",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "2",
+                       "number":  2,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Speak to the Israelites: Let them turn about and camp before Pi-hahiroth, between Migdol and the sea. Camp in front of Baal-zephon, just opposite, by the sea.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "3",
+                       "number":  3,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Pharaoh will then say, “The Israelites are wandering about aimlessly in the land. The wilderness has closed in on them.”",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "4",
+                       "number":  4,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "I will so harden Pharaoh’s heart that he will pursue them. Thus I will receive glory through Pharaoh and all his army, and the Egyptians will know that I am the LORD. This the Israelites did.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "5",
+                       "number":  5,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "When it was reported to the king of Egypt that the people had fled, Pharaoh and his servants had a change of heart about the people. “What in the world have we done!” they said. “We have released Israel from our service!”",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "6",
+                       "number":  6,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "So Pharaoh harnessed his chariots and took his army with him.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "7",
+                       "number":  7,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "He took six hundred select chariots and all the chariots of Egypt, with officers on all of them.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "8",
+                       "number":  8,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "The LORD hardened the heart of Pharaoh, king of Egypt, so that he pursued the Israelites while they were going out in triumph.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "9",
+                       "number":  9,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "The Egyptians pursued them—all Pharaoh’s horses, his chariots, his horsemen, and his army—and caught up with them as they lay encamped by the sea, at Pi-hahiroth, in front of Baal-zephon.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "10",
+                       "number":  10,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Crossing the Red Sea. Now Pharaoh was near when the Israelites looked up and saw that the Egyptians had set out after them. Greatly frightened, the Israelites cried out to the LORD.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "11",
+                       "number":  11,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "To Moses they said, “Were there no burial places in Egypt that you brought us to die in the wilderness? What have you done to us, bringing us out of Egypt?",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "12",
+                       "number":  12,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Did we not tell you this in Egypt, when we said, ‘Leave us alone that we may serve the Egyptians’? Far better for us to serve the Egyptians than to die in the wilderness.”",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "13",
+                       "number":  13,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "But Moses answered the people, “Do not fear! Stand your ground and see the victory the LORD will win for you today. For these Egyptians whom you see today you will never see again.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "14",
+                       "number":  14,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "The LORD will fight for you; you have only to keep still.”",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "15",
+                       "number":  15,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Then the LORD said to Moses: Why are you crying out to me? Tell the Israelites to set out.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "16",
+                       "number":  16,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "And you, lift up your staff and stretch out your hand over the sea, and split it in two, that the Israelites may pass through the sea on dry land.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "17",
+                       "number":  17,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "But I will harden the hearts of the Egyptians so that they will go in after them, and I will receive glory through Pharaoh and all his army, his chariots and his horsemen.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "18",
+                       "number":  18,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "The Egyptians will know that I am the LORD, when I receive glory through Pharaoh, his chariots, and his horsemen.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "19",
+                       "number":  19,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "The angel of God, who had been leading Israel’s army, now moved and went around behind them. And the column of cloud, moving from in front of them, took up its place behind them,",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "20",
+                       "number":  20,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "so that it came between the Egyptian army and that of Israel. And when it became dark, the cloud illumined the night; and so the rival camps did not come any closer together all night long.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "21",
+                       "number":  21,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Then Moses stretched out his hand over the sea; and the LORD drove back the sea with a strong east wind all night long and turned the sea into dry ground. The waters were split,",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "22",
+                       "number":  22,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "so that the Israelites entered into the midst of the sea on dry land, with the water as a wall to their right and to their left.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "23",
+                       "number":  23,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Rout of the Egyptians. The Egyptians followed in pursuit after them—all Pharaoh’s horses and chariots and horsemen—into the midst of the sea.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "24",
+                       "number":  24,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "But during the watch just before dawn, the LORD looked down from a column of fiery cloud upon the Egyptian army and threw it into a panic;",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "25",
+                       "number":  25,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "and he so clogged their chariot wheels that they could drive only with difficulty. With that the Egyptians said, “Let us flee from Israel, because the LORD is fighting for them against Egypt.”",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "26",
+                       "number":  26,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Then the LORD spoke to Moses: Stretch out your hand over the sea, that the water may flow back upon the Egyptians, upon their chariots and their horsemen.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "27",
+                       "number":  27,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "So Moses stretched out his hand over the sea, and at daybreak the sea returned to its normal flow. The Egyptians were fleeing head on toward it when the LORD cast the Egyptians into the midst of the sea.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "28",
+                       "number":  28,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "As the water flowed back, it covered the chariots and the horsemen. Of all Pharaoh’s army which had followed the Israelites into the sea, not even one escaped.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "29",
+                       "number":  29,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "But the Israelites had walked on dry land through the midst of the sea, with the water as a wall to their right and to their left.",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "30",
+                       "number":  30,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "Thus the LORD saved Israel on that day from the power of Egypt. When Israel saw the Egyptians lying dead on the seashore",
+                       "isPoetry":  false
+                   },
+                   {
+                       "label":  "31",
+                       "number":  31,
+                       "subVerseIndex":  0,
+                       "paragraphNumber":  0,
+                       "paragraphIndex":  0,
+                       "text":  "and saw the great power that the LORD had shown against Egypt, the people feared the LORD. They believed in the LORD and in Moses his servant.",
+                       "isPoetry":  false
+                   }
+               ],
+    "marks":  [
+
+              ]
+}

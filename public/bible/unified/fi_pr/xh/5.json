@@ -1,0 +1,30 @@
+{
+  "book": "xh",
+  "chapter": 5,
+  "verses": [
+    {
+      "verseNumber": 1,
+      "textEn": "Samana päivänä farao käski sanoa israelilaisten voudeille ja päällysmiehille:"
+    },
+    {
+      "verseNumber": 2,
+      "textEn": "Vaatikaa kuitenkin, että he tekevät saman tiilimäärän kuin tähänkin saakka, siitä yhtään tinkimättä. He ovat laiskoja, siksi he huutavat: 'Tahdomme mennä uhraamaan Jumalallemme.'"
+    },
+    {
+      "verseNumber": 3,
+      "textEn": "Kansa hajaantui pitkin Egyptiä keräämään viljankorsia tiilentekoa varten."
+    },
+    {
+      "verseNumber": 4,
+      "textEn": "Mutta voudit hoputtivat heitä jatkuvasti ja vaativat heitä suorittamaan saman päiväurakan kuin silloin, kun he vielä saivat olkia."
+    },
+    {
+      "verseNumber": 5,
+      "textEn": "Israelilaisten päällysmiehet käsittivät olevansa pahassa pulassa, kun kuulivat, ettei heiltä vaadittavaa päivittäistä tiilimäärää vähennetty."
+    },
+    {
+      "verseNumber": 6,
+      "textEn": "Faraon luota lähtiessään he kohtasivat Mooseksen ja Aaronin, jotka seisoivat heitä odottamassa,"
+    }
+  ]
+}

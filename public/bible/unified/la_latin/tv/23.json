@@ -1,0 +1,30 @@
+{
+  "book": "tv",
+  "chapter": 23,
+  "verses": [
+    {
+      "verseNumber": 1,
+      "textEn": "PSALMUS. David . Dominus pascit me, et nihil mihi deerit:"
+    },
+    {
+      "verseNumber": 2,
+      "textEn": "in pascuis virentibus me collocavit, super aquas quietis eduxit me,"
+    },
+    {
+      "verseNumber": 3,
+      "textEn": "animam meam refecit. Deduxit me super semitas iustitiae propter nomen suum."
+    },
+    {
+      "verseNumber": 4,
+      "textEn": "Nam et si ambulavero in valle umbrae mortis, non timebo mala, quoniam tu mecum es. Virga tua et baculus tuus, ipsa me consolata sunt."
+    },
+    {
+      "verseNumber": 5,
+      "textEn": "Parasti in conspectu meo mensam adversus eos, qui tribulant me; impinguasti in oleo caput meum, et calix meus redundat."
+    },
+    {
+      "verseNumber": 6,
+      "textEn": "Etenim benignitas et misericordia subsequentur me omnibus diebus vitae meae, et inhabitabo in domo Domini in longitudinem dierum."
+    }
+  ]
+}

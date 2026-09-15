@@ -1,0 +1,206 @@
+{
+  "book": "ds",
+  "chapter": 1,
+  "verses": [
+    {
+      "verseNumber": 1,
+      "textEn": "Vuoden ja kuukauden kuluttua siitä kun israelilaiset olivat lähteneet Egyptistä, toisen vuoden toisen kuun ensimmäisenä päivänä, Herra sanoi Siinain autiomaassa pyhäkköteltassa Moosekselle:"
+    },
+    {
+      "verseNumber": 2,
+      "textEn": "Sinun ja Aaronin tulee tarkastaa kaikki kaksikymmenvuotiaat ja sitä vanhemmat sotakelpoiset miehet ja laskea joukko joukolta heidän lukumääränsä."
+    },
+    {
+      "verseNumber": 3,
+      "textEn": "Teidän apunanne olkoon jokaisesta heimosta yksi mies, sukunsa päämies."
+    },
+    {
+      "verseNumber": 4,
+      "textEn": "Nämä ovat ne miehet, joiden tulee avustaa teitä: Ruubenin heimosta Elisur, Sedeurin poika,"
+    },
+    {
+      "verseNumber": 5,
+      "textEn": "Simeonin heimosta Selumiel, Surisaddain poika,"
+    },
+    {
+      "verseNumber": 6,
+      "textEn": "Juudan heimosta Nahson, Amminadabin poika,"
+    },
+    {
+      "verseNumber": 7,
+      "textEn": "Isaskarin heimosta Netanel, Suarin poika,"
+    },
+    {
+      "verseNumber": 8,
+      "textEn": "Sebulonin heimosta Eliab, Helonin poika,"
+    },
+    {
+      "verseNumber": 9,
+      "textEn": "Joosefin jälkeläisistä Efraimin heimoon kuuluva Elisama, Ammihudin poika, ja Manassen heimoon kuuluva Gamliel, Pedasurin poika,"
+    },
+    {
+      "verseNumber": 10,
+      "textEn": "Benjaminin heimosta Abidan, Gideonin poika,"
+    },
+    {
+      "verseNumber": 11,
+      "textEn": "Danin heimosta Ahieser, Ammisaddain poika,"
+    },
+    {
+      "verseNumber": 12,
+      "textEn": "Asserin heimosta Pagiel, Okranin poika,"
+    },
+    {
+      "verseNumber": 13,
+      "textEn": "Gadin heimosta Eljasaf, Deuelin poika,"
+    },
+    {
+      "verseNumber": 14,
+      "textEn": "Nämä olivat kansan edusmiehet, heimojen ja sukujen päälliköt, jotka johtivat Israelin sotajoukkoja."
+    },
+    {
+      "verseNumber": 15,
+      "textEn": "Mooses ja Aaron ottivat mukaansa nämä nimeltä mainitut miehet"
+    },
+    {
+      "verseNumber": 16,
+      "textEn": "ja kutsuivat koko kansan koolle toisen kuukauden ensimmäisenä päivänä. Kaikki kaksikymmenvuotiaat ja sitä vanhemmat miehet laskettiin ja merkittiin luetteloon perhekunnittain ja suvuittain."
+    },
+    {
+      "verseNumber": 17,
+      "textEn": "Näin Mooses tarkasti ja laski israelilaiset Siinain autiomaassa, kuten Herra oli käskenyt."
+    },
+    {
+      "verseNumber": 18,
+      "textEn": "Ruubenin, Israelin esikoisen, jälkeläiset, kaikki kaksikymmenvuotiaat ja sitä vanhemmat sotakelpoiset miehet, laskettiin ja merkittiin luetteloon perhekunnittain ja suvuittain."
+    },
+    {
+      "verseNumber": 19,
+      "textEn": "Näitä Ruubenin heimon jäseniä oli 46 500."
+    },
+    {
+      "verseNumber": 20,
+      "textEn": "Simeonin jälkeläiset, kaikki kaksikymmenvuotiaat ja sitä vanhemmat sotakelpoiset miehet, laskettiin ja merkittiin luetteloon perhekunnittain ja suvuittain."
+    },
+    {
+      "verseNumber": 21,
+      "textEn": "Näitä Simeonin heimon jäseniä oli 59 300."
+    },
+    {
+      "verseNumber": 22,
+      "textEn": "Gadin jälkeläiset, kaikki kaksikymmenvuotiaat ja sitä vanhemmat sotakelpoiset miehet, laskettiin ja merkittiin luetteloon perhekunnittain ja suvuittain."
+    },
+    {
+      "verseNumber": 23,
+      "textEn": "Näitä Gadin heimon jäseniä oli 45 650."
+    },
+    {
+      "verseNumber": 24,
+      "textEn": "Juudan jälkeläiset, kaikki kaksikymmenvuotiaat ja sitä vanhemmat sotakelpoiset miehet, laskettiin ja merkittiin luetteloon perhekunnittain ja suvuittain."
+    },
+    {
+      "verseNumber": 25,
+      "textEn": "Näitä Juudan heimon jäseniä oli 74 600."
+    },
+    {
+      "verseNumber": 26,
+      "textEn": "Isaskarin jälkeläiset, kaikki kaksikymmenvuotiaat ja sitä vanhemmat sotakelpoiset miehet, laskettiin ja merkittiin luetteloon perhekunnittain ja suvuittain."
+    },
+    {
+      "verseNumber": 27,
+      "textEn": "Näitä Isaskarin heimon jäseniä oli 54 400."
+    },
+    {
+      "verseNumber": 28,
+      "textEn": "Sebulonin jälkeläiset, kaikki kaksikymmenvuotiaat ja sitä vanhemmat sotakelpoiset miehet, laskettiin ja merkittiin luetteloon perhekunnittain ja suvuittain."
+    },
+    {
+      "verseNumber": 29,
+      "textEn": "Näitä Sebulonin heimon jäseniä oli 57 400."
+    },
+    {
+      "verseNumber": 30,
+      "textEn": "Joosefin pojan Efraimin jälkeläiset, kaikki kaksikymmenvuotiaat ja sitä vanhemmat sotakelpoiset miehet, laskettiin ja merkittiin luetteloon perhekunnittain ja suvuittain."
+    },
+    {
+      "verseNumber": 31,
+      "textEn": "Näitä Efraimin heimon jäseniä oli 40 500."
+    },
+    {
+      "verseNumber": 32,
+      "textEn": "Joosefin toisen pojan Manassen jälkeläiset, kaikki kaksikymmenvuotiaat ja sitä vanhemmat sotakelpoiset miehet, laskettiin ja merkittiin luetteloon perhekunnittain ja suvuittain."
+    },
+    {
+      "verseNumber": 33,
+      "textEn": "Näitä Manassen heimon jäseniä oli 32 200."
+    },
+    {
+      "verseNumber": 34,
+      "textEn": "Benjaminin jälkeläiset, kaikki kaksikymmenvuotiaat ja sitä vanhemmat sotakelpoiset miehet, laskettiin ja merkittiin luetteloon perhekunnittain ja suvuittain."
+    },
+    {
+      "verseNumber": 35,
+      "textEn": "Näitä Benjaminin heimon jäseniä oli 35 400."
+    },
+    {
+      "verseNumber": 36,
+      "textEn": "Danin jälkeläiset, kaikki kaksikymmenvuotiaat ja sitä vanhemmat sotakelpoiset miehet, laskettiin ja merkittiin luetteloon perhekunnittain ja suvuittain."
+    },
+    {
+      "verseNumber": 37,
+      "textEn": "Näitä Danin heimon jäseniä oli 62 700."
+    },
+    {
+      "verseNumber": 38,
+      "textEn": "Asserin jälkeläiset, kaikki kaksikymmenvuotiaat ja sitä vanhemmat sotakelpoiset miehet, laskettiin ja merkittiin luetteloon perhekunnittain ja suvuittain."
+    },
+    {
+      "verseNumber": 39,
+      "textEn": "Näitä Asserin heimon jäseniä oli 41 500."
+    },
+    {
+      "verseNumber": 40,
+      "textEn": "Naftalin jälkeläiset, kaikki kaksikymmenvuotiaat ja sitä vanhemmat sotakelpoiset miehet, laskettiin ja merkittiin luetteloon perhekunnittain ja suvuittain."
+    },
+    {
+      "verseNumber": 41,
+      "textEn": "Näitä Naftalin heimon jäseniä oli 53 400."
+    },
+    {
+      "verseNumber": 42,
+      "textEn": "Tässä olivat katselmuksessa lasketut miehet. Katselmuksen toimittivat Mooses, Aaron ja Israelin päämiehet, joita oli kaksitoista eli yksi mies kustakin heimosta."
+    },
+    {
+      "verseNumber": 43,
+      "textEn": "Katselmuksessa suvuittain laskettuja israelilaisia, kaksikymmenvuotiaita tai sitä vanhempia sotakelpoisia Israelin miehiä,"
+    },
+    {
+      "verseNumber": 44,
+      "textEn": "oli kaikkiaan 603 550."
+    },
+    {
+      "verseNumber": 45,
+      "textEn": "Leeviläisiä ja heidän sukujaan ei otettu lukuun väenlaskussa."
+    },
+    {
+      "verseNumber": 46,
+      "textEn": "Herra sanoi Moosekselle:"
+    },
+    {
+      "verseNumber": 47,
+      "textEn": "Pane leeviläiset huolehtimaan liitonarkun asumuksesta, sen kalustosta ja kaikesta muusta siihen kuuluvasta. Heidän tehtävänään on telttamajan ja kaikkien sen varusteiden kuljetus. Heidän tulee palvella pyhäkössä ja asua leirissä sen ympärillä."
+    },
+    {
+      "verseNumber": 48,
+      "textEn": "Kun telttamaja siirretään uuteen leiripaikkaan, leeviläisten on purettava maja, ja kun pyhäkkö on saapunut perille, heidän tulee pystyttää se. Jos joku ulkopuolinen puuttuu näihin tehtäviin, hänet on surmattava."
+    },
+    {
+      "verseNumber": 49,
+      "textEn": "Israelilaisten tulee asettua leiriin heimoittain, kunkin heimon joukkoineen oman tunnuksensa ympärille."
+    },
+    {
+      "verseNumber": 50,
+      "textEn": "Israelilaiset tekivät kaiken sen käskyn mukaisesti, jonka Herra oli Moosekselle antanut."
+    }
+  ]
+}

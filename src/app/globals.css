@@ -1,4 +1,5 @@
 @import "tailwindcss";
+@custom-variant dark (&:is(.dark *));
 
 :root {
   --background: #ffffff;
@@ -8,8 +9,8 @@
 @theme inline {
   --color-background: var(--background);
   --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+  --font-sans: var(--font-source-serif);
+  --font-serif: var(--font-playfair);
 }
 
 @media (prefers-color-scheme: dark) {
@@ -22,5 +23,98 @@
 body {
   background: var(--background);
   color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-serif);
+}
+
+.vi-verse sup {
+  display: none;
+}
+
+.vi-verse a {
+  text-decoration: none;
+  color: inherit;
+}
+
+/* Article Reader Content Typography */
+.article-reader-content p {
+  margin-bottom: 1.25rem;
+  line-height: 1.8;
+}
+
+.article-reader-content h1,
+.article-reader-content h2,
+.article-reader-content h3,
+.article-reader-content h4 {
+  font-family: var(--font-serif);
+  font-weight: 700;
+  margin-top: 1.75rem;
+  margin-bottom: 0.75rem;
+  color: inherit;
+}
+
+.article-reader-content h2 {
+  font-size: 1.5rem;
+  border-bottom: 1px solid rgba(156, 163, 175, 0.2);
+  padding-bottom: 0.5rem;
+}
+
+.article-reader-content h3 {
+  font-size: 1.25rem;
+}
+
+.article-reader-content ul,
+.article-reader-content ol {
+  margin-top: 0.75rem;
+  margin-bottom: 1.25rem;
+  padding-left: 1.5rem;
+}
+
+.article-reader-content ul {
+  list-style-type: disc;
+}
+
+.article-reader-content ol {
+  list-style-type: decimal;
+}
+
+.article-reader-content li {
+  margin-bottom: 0.5rem;
+  line-height: 1.7;
+}
+
+.article-reader-content blockquote {
+  border-left: 4px solid #eab308;
+  padding-left: 1rem;
+  font-style: italic;
+  margin: 1.5rem 0;
+  color: #4b5563;
+}
+
+.dark .article-reader-content blockquote {
+  color: #d1d5db;
+}
+
+.article-reader-content img {
+  border-radius: 0.75rem;
+  margin: 1.5rem auto;
+  max-width: 100%;
+  height: auto;
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+}
+
+.article-reader-content hr {
+  margin: 2rem 0;
+  border-color: rgba(156, 163, 175, 0.3);
+}
+
+.article-reader-content a {
+  color: #ca8a04;
+  text-decoration: underline;
+}
+
+.dark .article-reader-content a {
+  color: #eab308;
 }

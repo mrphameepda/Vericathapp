@@ -1,0 +1,266 @@
+{
+  "book": "ds",
+  "chapter": 26,
+  "verses": [
+    {
+      "verseNumber": 1,
+      "textEn": "Post hanc plagam dixit Dominus ad Moysen et Eleazarum filium Aaron sacerdotem:"
+    },
+    {
+      "verseNumber": 2,
+      "textEn": "“ Numerate summam totius congregationis filiorum Israel a viginti annis et supra per domos et cognationes suas, cunctos, qui possunt ad bella procedere ”."
+    },
+    {
+      "verseNumber": 3,
+      "textEn": "Locuti sunt itaque Moyses et Eleazar sacerdos in campestribus Moab super Iordanem contra Iericho ad eos, qui erant"
+    },
+    {
+      "verseNumber": 4,
+      "textEn": "a viginti annis et supra, sicut Dominus imperaverat Moysi. Filiorum Israel, qui egressi sunt de terra Aegypti, iste est numerus."
+    },
+    {
+      "verseNumber": 5,
+      "textEn": "Ruben primogenitus Israel. Huius filius Henoch, a quo familia Henochitarum, et Phallu, a quo familia Phalluitarum,"
+    },
+    {
+      "verseNumber": 6,
+      "textEn": "et Hesron, a quo familia Hesronitarum, et Charmi, a quo familia Charmitarum."
+    },
+    {
+      "verseNumber": 7,
+      "textEn": "Hae sunt familiae de stirpe Ruben, quarum numerus inventus est quadraginta tria milia et septingenti triginta."
+    },
+    {
+      "verseNumber": 8,
+      "textEn": "Filius Phallu: Eliab."
+    },
+    {
+      "verseNumber": 9,
+      "textEn": "Huius filii: Namuel et Dathan et Abiram. Isti sunt Dathan et Abiram principes populi, qui surrexerunt contra Moysen et Aaron in seditione Core, quando adversus Dominum rebellaverunt,"
+    },
+    {
+      "verseNumber": 10,
+      "textEn": "et aperiens terra os suum devoravit eos et Core, morientibus plurimis, quando combussit ignis ducentos quinquaginta viros; et facti sunt in signum."
+    },
+    {
+      "verseNumber": 11,
+      "textEn": "Core pereunte, filii illius non perierunt."
+    },
+    {
+      "verseNumber": 12,
+      "textEn": "Filii Simeon per cognationes suas: Namuel, ab hoc familia Namuelitarum; Iamin, ab hoc familia Iaminitarum; Iachin, ab hoc familia Iachinitarum;"
+    },
+    {
+      "verseNumber": 13,
+      "textEn": "Zara, ab hoc familia Zaraitarum; Saul, ab hoc familia Saulitarum."
+    },
+    {
+      "verseNumber": 14,
+      "textEn": "Hae sunt familiae de stirpe Simeon, quarum omnis numerus fuit viginti duo milia ducenti."
+    },
+    {
+      "verseNumber": 15,
+      "textEn": "Filii Gad per cognationes suas: Sephon, ab hoc familia Sephonitarum; Haggi, ab hoc familia Haggitarum; Suni, ab hoc familia Sunitarum;"
+    },
+    {
+      "verseNumber": 16,
+      "textEn": "Ozni, ab hoc familia Oznitarum; Heri, ab hoc familia Heritarum;"
+    },
+    {
+      "verseNumber": 17,
+      "textEn": "Arodi, ab hoc familia Aroditarum; Areli, ab hoc familia Arelitarum."
+    },
+    {
+      "verseNumber": 18,
+      "textEn": "Istae sunt familiae Gad, quarum omnis numerus fuit quadraginta milia quingenti."
+    },
+    {
+      "verseNumber": 19,
+      "textEn": "Filii Iudae Her et Onan, qui ambo mortui sunt in terra Chanaan."
+    },
+    {
+      "verseNumber": 20,
+      "textEn": "Fueruntque filii Iudae per cognationes suas: Sela, a quo familia Selanitarum; Phares, a quo familia Pharesitarum; Zara, a quo familia Zaraitarum."
+    },
+    {
+      "verseNumber": 21,
+      "textEn": "Porro filii Phares: Esrom, a quo familia Esromitarum; et Hamul, a quo familia Hamulitarum."
+    },
+    {
+      "verseNumber": 22,
+      "textEn": "Istae sunt familiae Iudae, quarum omnis numerus fuit septuaginta sex milia quingenti."
+    },
+    {
+      "verseNumber": 23,
+      "textEn": "Filii Issachar per cognationes suas: Thola, a quo familia Tholaitarum; Phua, a quo familia Phuaitarum;"
+    },
+    {
+      "verseNumber": 24,
+      "textEn": "Iasub, a quo familia Iasubitarum; Semron, a quo familia Semronitarum."
+    },
+    {
+      "verseNumber": 25,
+      "textEn": "Hae sunt cognationes Issachar, quarum numerus fuit sexaginta quattuor milia trecenti."
+    },
+    {
+      "verseNumber": 26,
+      "textEn": "Filii Zabulon per cognationes suas: Sared, a quo familia Sareditarum; Elon, a quo familia Elonitarum; Iahelel, a quo familia Iahelelitarum."
+    },
+    {
+      "verseNumber": 27,
+      "textEn": "Hae sunt cognationes Zabulon, quarum numerus fuit sexaginta milia quingenti."
+    },
+    {
+      "verseNumber": 28,
+      "textEn": "Filii Ioseph per cognationes suas: Manasse et Ephraim."
+    },
+    {
+      "verseNumber": 29,
+      "textEn": "De Manasse ortus est Machir, a quo familia Machiritarum; Machir genuit Galaad, a quo familia Galaaditarum."
+    },
+    {
+      "verseNumber": 30,
+      "textEn": "Galaad habuit filios: Iezer, a quo familia Iezeritarum; et Helec, a quo familia Helecitarum;"
+    },
+    {
+      "verseNumber": 31,
+      "textEn": "et Asriel, a quo familia Asrielitarum; et Sechem, a quo familia Sechemitarum;"
+    },
+    {
+      "verseNumber": 32,
+      "textEn": "et Semida, a quo familia Semidaitarum; et Hepher, a quo familia Hepheritarum."
+    },
+    {
+      "verseNumber": 33,
+      "textEn": "Fuit autem Hepher pater Salphaad, qui filios non habebat sed tantum filias, quarum ista sunt nomina: Maala et Noa et Hegla et Melcha et Thersa."
+    },
+    {
+      "verseNumber": 34,
+      "textEn": "Hae sunt familiae Manasse, et numerus earum quinquaginta duo milia septingenti."
+    },
+    {
+      "verseNumber": 35,
+      "textEn": "Filii autem Ephraim per cognationes suas fuerunt hi: Suthala, a quo familia Suthalaitarum; Becher, a quo familia Becheritarum; Thehen, a quo familia Thehenitarum."
+    },
+    {
+      "verseNumber": 36,
+      "textEn": "Porro filius Suthala fuit Heran, a quo familia Heranitarum."
+    },
+    {
+      "verseNumber": 37,
+      "textEn": "Hae sunt cognationes filiorum Ephraim, quarum numerus fuit triginta duo milia quingenti. Isti sunt filii Ioseph per familias suas."
+    },
+    {
+      "verseNumber": 38,
+      "textEn": "Filii Beniamin in cognationibus suis: Bela, a quo familia Belaitarum; Asbel, a quo familia Asbelitarum; Ahiram, a quo familia Ahiramitarum;"
+    },
+    {
+      "verseNumber": 39,
+      "textEn": "Supham, a quo familia Suphamitarum; Hupham, a quo familia Huphamitarum."
+    },
+    {
+      "verseNumber": 40,
+      "textEn": "Filii Bela: Ared et Naaman; de Ared familia Areditarum, de Naaman familia Naamanitarum."
+    },
+    {
+      "verseNumber": 41,
+      "textEn": "Hi sunt filii Beniamin per cognationes suas, quorum numerus fuit quadraginta quinque milia sescenti."
+    },
+    {
+      "verseNumber": 42,
+      "textEn": "Filii Dan per cognationes suas: Suham, a quo familia Suhamitarum. Hae sunt cognationes Dan per familias suas:"
+    },
+    {
+      "verseNumber": 43,
+      "textEn": "omnes fuere Suhamitae, quorum numerus erat sexaginta quattuor milia quadringenti."
+    },
+    {
+      "verseNumber": 44,
+      "textEn": "Filii Aser per cognationes suas: Iemna, a quo familia Iemnaitarum; Isui, a quo familia Isuitarum; Beria, a quo familia Beriaitarum."
+    },
+    {
+      "verseNumber": 45,
+      "textEn": "Filii Beria: Heber, a quo familia Heberitarum, et Melchiel a quo familia Melchielitarum."
+    },
+    {
+      "verseNumber": 46,
+      "textEn": "Nomen autem filiae Aser fuit Sara."
+    },
+    {
+      "verseNumber": 47,
+      "textEn": "Hae cognationes filiorum Aser, et numerus eorum quinquaginta tria milia quadringenti."
+    },
+    {
+      "verseNumber": 48,
+      "textEn": "Filii Nephthali per cognationes suas: Iasiel, a quo familia Iasielitarum; Guni, a quo familia Gunitarum;"
+    },
+    {
+      "verseNumber": 49,
+      "textEn": "Ieser, a quo familia Ieseritarum; Sellem, a quo familia Sellemitarum."
+    },
+    {
+      "verseNumber": 50,
+      "textEn": "Hae sunt cognationes filiorum Nephthali per familias suas, quorum numerus quadraginta quinque milia quadringenti."
+    },
+    {
+      "verseNumber": 51,
+      "textEn": "Ista est summa filiorum Israel qui recensiti sunt: sescenta milia et mille septingenti triginta."
+    },
+    {
+      "verseNumber": 52,
+      "textEn": "Locutusque est Dominus ad Moysen dicens:"
+    },
+    {
+      "verseNumber": 53,
+      "textEn": "“ Istis dividetur terra iuxta numerum vocabulorum in possessiones suas."
+    },
+    {
+      "verseNumber": 54,
+      "textEn": "Pluribus maiorem partem dabis et paucioribus minorem: singulis, sicut nunc recensiti sunt, tradetur possessio;"
+    },
+    {
+      "verseNumber": 55,
+      "textEn": "ita dumtaxat, ut sors terram dividat. Secundum numerum tribuum patrum suorum hereditabunt."
+    },
+    {
+      "verseNumber": 56,
+      "textEn": "Quidquid sorte contigerit, hoc vel plures accipiant vel pauciores."
+    },
+    {
+      "verseNumber": 57,
+      "textEn": "Hic quoque est numerus filiorum Levi per familias suas: Gerson, a quo familia Gersonitarum; Caath, a quo familia Caathitarum; Merari, a quo familia Meraritarum."
+    },
+    {
+      "verseNumber": 58,
+      "textEn": "Hae sunt familiae Levi: familia Lobni, familia Hebroni, familia Moholi, familia Musi, familia Core. At vero Caath genuit Amram,"
+    },
+    {
+      "verseNumber": 59,
+      "textEn": "qui habuit uxorem Iochabed filiam Levi, quae nata est ei in Aegypto. Haec genuit Amram viro suo filios, Aaron et Moysen et Mariam sororem eorum."
+    },
+    {
+      "verseNumber": 60,
+      "textEn": "De Aaron orti sunt Nadab et Abiu et Eleazar et Ithamar,"
+    },
+    {
+      "verseNumber": 61,
+      "textEn": "quorum Nadab et Abiu mortui sunt, cum obtulissent ignem alienum coram Domino."
+    },
+    {
+      "verseNumber": 62,
+      "textEn": "Fueruntque omnes, qui numerati sunt, viginti tria milia generis masculini ab uno mense et supra; quia non sunt recensiti inter filios Israel, nec eis cum ceteris data possessio est."
+    },
+    {
+      "verseNumber": 63,
+      "textEn": "Hic est numerus filiorum Israel, qui descripti sunt a Moyse et Eleazaro sacerdote in campestribus Moab supra Iordanem contra Iericho;"
+    },
+    {
+      "verseNumber": 64,
+      "textEn": "inter quos nullus fuit eorum, qui ante numerati sunt a Moyse et Aaron in deserto Sinai:"
+    },
+    {
+      "verseNumber": 65,
+      "textEn": "praedixerat enim Dominus quod omnes morerentur in solitudine; nullusque remansit ex eis, nisi Chaleb filius Iephonne et Iosue filius Nun."
+    }
+  ]
+}

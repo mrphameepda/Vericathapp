@@ -1,0 +1,34 @@
+{
+  "book": "tv",
+  "chapter": 120,
+  "verses": [
+    {
+      "verseNumber": 1,
+      "textEn": "Canticum ascensionum . Ad Dominum, cum tribularer, clamavi, et exaudivit me."
+    },
+    {
+      "verseNumber": 2,
+      "textEn": "Domine, libera animam meam a labiis mendacii, a lingua dolosa."
+    },
+    {
+      "verseNumber": 3,
+      "textEn": "Quid detur tibi aut quid apponatur tibi, lingua dolosa?"
+    },
+    {
+      "verseNumber": 4,
+      "textEn": "Sagittae potentis acutae cum carbonibus iuniperorum."
+    },
+    {
+      "verseNumber": 5,
+      "textEn": "Heu mihi, quia peregrinatus sum in Mosoch, habitavi ad tabernacula Cedar!"
+    },
+    {
+      "verseNumber": 6,
+      "textEn": "Multum incola fuit anima mea cum his, qui oderunt pacem."
+    },
+    {
+      "verseNumber": 7,
+      "textEn": "Ego eram pacificus; cum loquebar, illi impugnabant me."
+    }
+  ]
+}

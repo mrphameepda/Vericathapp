@@ -1,0 +1,38 @@
+{
+  "book": "tv",
+  "chapter": 12,
+  "verses": [
+    {
+      "verseNumber": 1,
+      "textEn": "Magistro chori. Super octavam. PSALMUS. David ."
+    },
+    {
+      "verseNumber": 2,
+      "textEn": "Salvum me fac, Domine, quoniam defecit sanctus, quoniam deminuti sunt fideles a filiis hominum."
+    },
+    {
+      "verseNumber": 3,
+      "textEn": "Vana locuti sunt unusquisque ad proximum suum; in labiis dolosis, in duplici corde locuti sunt."
+    },
+    {
+      "verseNumber": 4,
+      "textEn": "Disperdat Dominus universa labia dolosa et linguam magniloquam."
+    },
+    {
+      "verseNumber": 5,
+      "textEn": "Qui dixerunt: “ Lingua nostra magnificabimur, labia nostra a nobis sunt; quis noster dominus est? ”."
+    },
+    {
+      "verseNumber": 6,
+      "textEn": "“ Propter miseriam inopum et gemitum pauperum, nunc exsurgam, dicit Dominus; ponam in salutari illum, quem despiciunt ”."
+    },
+    {
+      "verseNumber": 7,
+      "textEn": "Eloquia Domini eloquia casta, argentum igne examinatum, separatum a terra, purgatum septuplum."
+    },
+    {
+      "verseNumber": 8,
+      "textEn": "Tu, Domine, servabis nos et custodies nos a generatione hac in aeternum. In circuitu impii ambulant, cum exaltantur sordes inter filios hominum."
+    }
+  ]
+}

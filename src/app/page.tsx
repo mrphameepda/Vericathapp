@@ -13,10 +13,8 @@ import {
   ChevronRight,
 } from 'lucide-react';
 import { getDayLiturgy, getWeekLiturgy } from '@/lib/liturgy';
-import VericathArticles from '@/components/VericathArticles';
 import KinhPhungVuSection from '@/components/KinhPhungVuSection';
 import PhungVuTuanNayWidget from '@/components/PhungVuTuanNayWidget';
-import { getVericathPosts } from '@/lib/vericath';
 
 export const metadata = {
   title: 'Vericath - Kho tàng tra cứu & học thuật Công Giáo',
@@ -38,18 +36,12 @@ export default async function Home() {
   const todayLiturgy = getDayLiturgy(dateStringStr);
   const weekLiturgy = getWeekLiturgy(dateStringStr);
 
-  // Fetch posts on the server side
-  const [block1Posts, block2Posts] = await Promise.all([
-    getVericathPosts('281,27,55,48,56'),
-    getVericathPosts('51,53,42', 10, '51'),
-  ]);
-
   return (
     <div className="min-h-screen bg-[#f8f9fa] dark:bg-gray-900 text-gray-900 dark:text-gray-100 font-sans flex flex-col transition-colors duration-200">
       
-      {/* 1. HERO SECTION: ARTICLES & LITURGY WEEK */}
+      {/* 1. HERO SECTION: LITURGY WEEK */}
       <section className="bg-stone-50 dark:bg-stone-900 text-gray-900 dark:text-gray-100 pt-8 pb-12 px-4 sm:px-8 border-b border-gray-200 dark:border-gray-800 relative overflow-hidden transition-colors duration-500">
-        <div className="max-w-7xl mx-auto space-y-10">
+        <div className="max-w-7xl mx-auto space-y-8">
           
           {/* Daily liturgical info banner */}
           <div className="flex items-center justify-between text-xs sm:text-sm text-gray-500 dark:text-gray-400 border-b border-gray-200 dark:border-gray-800 pb-4">
@@ -82,11 +74,6 @@ export default async function Home() {
                 {dateString}
               </span>
             </div>
-          </div>
-
-          {/* VERICATH ARTICLES (FULL WIDTH) */}
-          <div className="w-full">
-            <VericathArticles initialBlock1Posts={block1Posts} initialBlock2Posts={block2Posts} />
           </div>
 
           {/* PHỤNG VỤ TUẦN NÀY (HÌNH 2 MOBILE CALENDAR WIDGET DESIGN) */}

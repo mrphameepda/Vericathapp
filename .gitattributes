@@ -1,0 +1,23 @@
+# ==============================================================================
+# GITHUB LINGUIST OVERRIDES - VERICATH WEBAPP
+# Cấu hình GitHub Linguist bỏ qua các file dữ liệu JSON/HTML nặng
+# để hiển thị chính xác các ngôn ngữ lập trình chính (TypeScript, TSX, CSS).
+# ==============================================================================
+
+# 1. Đánh dấu các thư mục dữ liệu tĩnh Công Giáo là vendored/tài liệu
+public/data/** linguist-vendored=true linguist-detectable=false
+public/bible/** linguist-vendored=true linguist-detectable=false
+src/data/** linguist-vendored=true linguist-detectable=false
+data/** linguist-vendored=true linguist-detectable=false
+
+# 2. Đánh dấu tất cả các file JSON là tài liệu / không đưa vào thống kê code
+*.json linguist-documentation=true linguist-detectable=false
+
+# 3. Ẩn các nội dung HTML tĩnh/rich text khỏi thống kê ngôn ngữ
+*.html linguist-detectable=false
+*.htm linguist-detectable=false
+
+# 4. Đảm bảo ngôn ngữ lập trình chính được GitHub ghi nhận
+*.ts linguist-detectable=true
+*.tsx linguist-detectable=true
+*.css linguist-detectable=true

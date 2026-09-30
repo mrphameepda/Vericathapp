@@ -15,6 +15,13 @@ export default function PhungVuTuanNayWidget({ weekLiturgy, todayStr }: Props) {
   const initialSelected = weekLiturgy.find((d) => d.ngay === todayStr) || weekLiturgy[0] || null;
   const [selectedDay, setSelectedDay] = useState<LiturgyDay | null>(initialSelected);
 
+  React.useEffect(() => {
+    const todayMatch = weekLiturgy.find((d) => d.ngay === todayStr);
+    if (todayMatch) {
+      setSelectedDay(todayMatch);
+    }
+  }, [todayStr, weekLiturgy]);
+
   if (!weekLiturgy || weekLiturgy.length === 0) {
     return (
       <div className="bg-white dark:bg-gray-800 p-6 rounded-2xl border border-gray-200 text-center text-sm text-gray-500">

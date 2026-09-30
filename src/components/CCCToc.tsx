@@ -32,7 +32,7 @@ export default function CCCToc({ onNavigate }: { onNavigate?: () => void }) {
           heading.id = `toc-${idx}`;
         }
 
-        let level = parseInt(heading.tagName.replace('H', ''), 10);
+        const level = parseInt(heading.tagName.replace('H', ''), 10);
         
         items.push({
           id: heading.id,

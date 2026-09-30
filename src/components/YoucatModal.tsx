@@ -2,7 +2,7 @@
 
 import React, { useEffect, useState } from 'react';
 import { YoucatItem, getPartByQuestionId, ALL_YOUCAT_ITEMS } from '@/lib/youcat';
-import { X, ChevronLeft, ChevronRight, BookOpen, Quote, Share2, Copy, Check, Hash, Sparkles } from 'lucide-react';
+import { X, ChevronLeft, ChevronRight, BookOpen, Quote, Copy, Check, Hash, Sparkles } from 'lucide-react';
 
 interface YoucatModalProps {
   item: YoucatItem | null;
@@ -12,13 +12,19 @@ interface YoucatModalProps {
 
 export default function YoucatModal({ item, onClose, onSelectId }: YoucatModalProps) {
   const [copied, setCopied] = useState(false);
-  const [jumpInput, setJumpInput] = useState('');
+  const [jumpInput, setJumpInput] = useState(() => (item ? item.id.toString() : ''));
+
+  // Sync jump input when item changes
+  useEffect(() => {
+    if (item) {
+      setJumpInput(item.id.toString());
+    }
+  }, [item?.id]);
 
   // Lock body scroll when modal is active
   useEffect(() => {
     if (item) {
       document.body.style.overflow = 'hidden';
-      setJumpInput(item.id.toString());
     } else {
       document.body.style.overflow = '';
     }
@@ -27,7 +33,7 @@ export default function YoucatModal({ item, onClose, onSelectId }: YoucatModalPr
     };
   }, [item]);
 
-  // Handle ESC key listener
+  // Handle ESC & Arrow keys listener
   useEffect(() => {
     const handleKeyDown = (e: KeyboardEvent) => {
       if (!item) return;

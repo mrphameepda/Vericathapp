@@ -8,6 +8,7 @@ export default function ThemeToggle() {
   const [mounted, setMounted] = useState(false);
 
   useEffect(() => {
+    // eslint-disable-next-line react-hooks/set-state-in-effect
     setMounted(true);
     const theme = localStorage.getItem('theme');
     if (theme === 'dark' || (!theme && document.documentElement.classList.contains('dark'))) {

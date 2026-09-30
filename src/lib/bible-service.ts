@@ -1,6 +1,9 @@
 import fs from 'fs/promises';
 import path from 'path';
 
+/**
+ * Cấu trúc đại diện cho một câu Kinh Thánh đối chiếu song ngữ.
+ */
 export type UnifiedVerse = {
   verseNumber: number;
   textVi?: string;
@@ -9,6 +12,9 @@ export type UnifiedVerse = {
   enHeadings?: string[];
 };
 
+/**
+ * Cấu trúc dữ liệu của một chương Kinh Thánh.
+ */
 export type ChapterData = {
   book: string;
   chapter: number;
@@ -17,7 +23,14 @@ export type ChapterData = {
   missingSecondaryBook?: boolean;
 };
 
-export async function getBilingualChapter(bookVi: string, chapter: number, lang: string = 'nabre'): Promise<ChapterData> {
+/**
+ * Lấy dữ liệu chương Kinh Thánh song ngữ (Việt - Anh/Latinh/Hy Lạp).
+ */
+export async function getBilingualChapter(
+  bookVi: string,
+  chapter: number,
+  lang: string = 'nabre'
+): Promise<ChapterData> {
   const baseUnifiedPath = path.join(process.cwd(), 'public', 'bible', 'unified', bookVi, `${chapter}.json`);
   try {
     const rawData = await fs.readFile(baseUnifiedPath, 'utf-8');
@@ -27,18 +40,20 @@ export async function getBilingualChapter(bookVi: string, chapter: number, lang:
       const secondaryPath = path.join(process.cwd(), 'public', 'bible', 'unified', lang, bookVi, `${chapter}.json`);
       try {
         const secondaryRaw = await fs.readFile(secondaryPath, 'utf-8');
-        const secondaryData = JSON.parse(secondaryRaw);
-        
-        // Merge secondary verses into textEn
-        const secondaryVerseMap = new Map(secondaryData.verses.map((v: any) => [v.verseNumber, v.textEn]));
-        data.verses.forEach(v => {
+        const secondaryData: ChapterData = JSON.parse(secondaryRaw);
+
+        // Ghép nội dung ngôn ngữ phụ vào cột textEn
+        const secondaryVerseMap = new Map(
+          secondaryData.verses.map((v: UnifiedVerse) => [v.verseNumber, v.textEn])
+        );
+        data.verses.forEach((v) => {
           v.textEn = (secondaryVerseMap.get(v.verseNumber) || '') as string;
-          v.enHeadings = []; // clear English headings since they don't apply to the other language
+          v.enHeadings = [];
         });
-      } catch (secError) {
-        // Book not found in secondary language (e.g. deuterocanonical books in protestant bibles)
+      } catch {
+        // Nếu sách không tồn tại ở bản văn phụ (ví dụ: các sách Thứ Kinh)
         data.missingSecondaryBook = true;
-        data.verses.forEach(v => {
+        data.verses.forEach((v) => {
           v.textEn = '';
           v.enHeadings = [];
         });
@@ -46,24 +61,24 @@ export async function getBilingualChapter(bookVi: string, chapter: number, lang:
     }
 
     return data;
-  } catch (e) {
-    console.error(`Failed to read unified data for ${bookVi} chapter ${chapter}`, e);
+  } catch {
     return { book: bookVi, chapter, verses: [] };
   }
 }
 
+/**
+ * Lấy danh sách các số chương hiện có của một sách Kinh Thánh.
+ */
 export async function getChaptersForBook(bookVi: string): Promise<number[]> {
   const unifiedDir = path.join(process.cwd(), 'public', 'bible', 'unified', bookVi);
   try {
     const files = await fs.readdir(unifiedDir);
-    const chapters = files
-      .filter(f => f.endsWith('.json'))
-      .map(f => parseInt(f.replace('.json', ''), 10))
-      .filter(n => !isNaN(n))
+    return files
+      .filter((f) => f.endsWith('.json'))
+      .map((f) => parseInt(f.replace('.json', ''), 10))
+      .filter((n) => !isNaN(n))
       .sort((a, b) => a - b);
-    return chapters;
-  } catch (e) {
-    console.error(`Failed to read available chapters for ${bookVi}`, e);
+  } catch {
     return [];
   }
 }

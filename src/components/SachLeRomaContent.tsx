@@ -549,7 +549,7 @@ function ActionItem({ action }: { action: any }) {
 
   let role = action.vai_tro;
   let instruction = action.chi_dan_do;
-  let text = action.loi_doc;
+  const text = action.loi_doc;
 
   // Cleanup instruction
   if (instruction) {

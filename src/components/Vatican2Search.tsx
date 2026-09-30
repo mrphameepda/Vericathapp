@@ -1,8 +1,8 @@
 'use client';
 
-import React, { useState, useEffect, useRef } from 'react';
+import React, { useState, useEffect, useRef, useMemo } from 'react';
 import { Search, X } from 'lucide-react';
-import { Vatican2Document, Vatican2Block } from '@/lib/vatican2-server';
+import { Vatican2Document } from '@/lib/vatican2-server';
 
 interface Vatican2SearchProps {
   document: Vatican2Document;
@@ -11,38 +11,33 @@ interface Vatican2SearchProps {
 export default function Vatican2Search({ document }: Vatican2SearchProps) {
   const [isOpen, setIsOpen] = useState(false);
   const [query, setQuery] = useState('');
-  const [results, setResults] = useState<Vatican2Block[]>([]);
   const inputRef = useRef<HTMLInputElement>(null);
 
-  const toggleSearch = () => setIsOpen(!isOpen);
+  const toggleSearch = () => {
+    if (isOpen) {
+      setQuery('');
+    }
+    setIsOpen(!isOpen);
+  };
 
   useEffect(() => {
     if (isOpen) {
       setTimeout(() => inputRef.current?.focus(), 100);
-    } else {
-      setQuery('');
-      setResults([]);
     }
   }, [isOpen]);
 
-  useEffect(() => {
-    // Lọc ra tất cả các "Số" (Article)
-    const allArticles = document.blocks.filter(b => b.type === 'article');
+  const allArticles = useMemo(() => {
+    return document.blocks.filter((b) => b.type === 'article');
+  }, [document.blocks]);
 
-    if (!query.trim()) {
-      // Nếu không nhập gì, hiển thị tất cả các "Số"
-      setResults(allArticles);
-      return;
-    }
-
+  const results = useMemo(() => {
+    if (!query.trim()) return allArticles;
     const q = query.toLowerCase();
-    const found = allArticles.filter(node => {
+    return allArticles.filter((node) => {
       const textToSearch = `${node.n} ${node.text || ''}`.toLowerCase();
       return textToSearch.includes(q) || node.n === q;
     });
-
-    setResults(found);
-  }, [query, document.blocks]);
+  }, [query, allArticles]);
 
   const handleResultClick = (id: string | undefined) => {
     if (!id) return;
@@ -54,7 +49,7 @@ export default function Vatican2Search({ document }: Vatican2SearchProps) {
 
       window.scrollTo({
         top: offsetPosition,
-        behavior: 'smooth'
+        behavior: 'smooth',
       });
     }
     setIsOpen(false);
@@ -62,7 +57,6 @@ export default function Vatican2Search({ document }: Vatican2SearchProps) {
 
   return (
     <>
-      {/* Search FAB (Right side) */}
       <div className="fixed right-4 top-[65%] -translate-y-1/2 flex flex-col gap-3 z-30">
         <button
           onClick={toggleSearch}
@@ -74,11 +68,10 @@ export default function Vatican2Search({ document }: Vatican2SearchProps) {
         </button>
       </div>
 
-      {/* Search Modal */}
       {isOpen && (
         <div className="fixed inset-0 z-50 flex items-start justify-center pt-20 px-4 sm:px-6">
           <div className="fixed inset-0 bg-gray-900/50 backdrop-blur-sm transition-opacity" onClick={() => setIsOpen(false)} />
-          
+
           <div className="relative bg-white dark:bg-[#111c3a] rounded-xl shadow-2xl w-full max-w-2xl overflow-hidden flex flex-col max-h-[80vh]">
             <div className="flex items-center border-b border-gray-200 dark:border-gray-700 px-4 py-3">
               <Search className="w-6 h-6 text-gray-400" />
@@ -98,7 +91,7 @@ export default function Vatican2Search({ document }: Vatican2SearchProps) {
             <div className="flex-1 overflow-y-auto p-4">
               {results.length === 0 ? (
                 <div className="p-6 text-center text-gray-500 dark:text-gray-400">
-                  Không tìm thấy kết quả nào cho "{query}"
+                  Không tìm thấy kết quả nào cho &quot;{query}&quot;
                 </div>
               ) : (
                 <div className="grid grid-cols-4 sm:grid-cols-6 md:grid-cols-8 gap-2">

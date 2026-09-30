@@ -1,5 +1,8 @@
-import { Book, Scroll, FileText, HandHeart, Activity, Star, BookOpen, Cross } from 'lucide-react';
+import { Book, Scroll, FileText, HandHeart, Activity, Star, BookOpen } from 'lucide-react';
 
+/**
+ * Danh sách các Tab chính trong Sách Lễ Rôma.
+ */
 export const SACH_LE_ROMA_TABS = [
   { id: 'nghi-thuc-thanh-le', name: 'Nghi Thức Thánh Lễ', icon: Activity },
   { id: 'loi-nguyen', name: 'Lời Nguyện', icon: HandHeart },

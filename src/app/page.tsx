@@ -13,8 +13,12 @@ import {
   ChevronRight,
 } from 'lucide-react';
 import { getDayLiturgy, getWeekLiturgy } from '@/lib/liturgy';
+import { getTodayDateStr } from '@/lib/loi-chua';
 import KinhPhungVuSection from '@/components/KinhPhungVuSection';
 import PhungVuTuanNayWidget from '@/components/PhungVuTuanNayWidget';
+
+export const dynamic = 'force-dynamic';
+export const revalidate = 0;
 
 export const metadata = {
   title: 'Vericath - Kho tàng tra cứu & học thuật Công Giáo',
@@ -22,16 +26,9 @@ export const metadata = {
 };
 
 export default async function Home() {
-  const currentDate = new Date();
-  const dateString = currentDate.toLocaleDateString('vi-VN', {
-    day: '2-digit',
-    month: 'long',
-    year: 'numeric',
-  });
-  const y = currentDate.getFullYear();
-  const m = String(currentDate.getMonth() + 1).padStart(2, '0');
-  const d = String(currentDate.getDate()).padStart(2, '0');
-  const dateStringStr = `${y}-${m}-${d}`;
+  const dateStringStr = getTodayDateStr('Asia/Ho_Chi_Minh');
+  const [y, m, d] = dateStringStr.split('-');
+  const dateString = `${parseInt(d, 10)} tháng ${parseInt(m, 10)}, ${y}`;
 
   const todayLiturgy = getDayLiturgy(dateStringStr);
   const weekLiturgy = getWeekLiturgy(dateStringStr);
